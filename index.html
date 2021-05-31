@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TechPass Public Documentation</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <!-- Configurable when publishing; useful for search engine optimization -->
+  <meta name="description" content="TechPass Public Documentation" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- Import for developer documentation portal styles -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@docs-gov-sg/doc-theme-default/public/dist/doc.css" />
+</head>
+<body>
+<div id="app"></div>
+<!-- 1. Import mermaid.js, BEFORE the window.$docsify initialisation -->
+<script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+  // 2. Add the two lines below before declaring the window.$docsify object:
+  var num = 0;
+  mermaid.initialize({ startOnLoad: false });
+
+  window.$docsify = {
+    auto2top: true,
+    basePath: '/docs/',
+    // coverpage: true,   // ../ here because its relativepath from /docs/
+    el: '#app',
+    hideSidebar: false,
+    homepage: 'support.md',
+    loadSidebar: '_sidebar.md',
+    maxLevel: 4,
+    name: 'TechPass Public Documentation',
+    subMaxLevel: 2,
+    markdown: {
+      renderer: {
+        code: function (code, lang) {
+          if (lang === "mermaid") {
+            return (
+                    '<div class="mermaid">' +
+                    mermaid.render("mermaid-svg-" + num++, code) +
+                    "</div>"
+            );
+          }
+          return this.origin.code.apply(this, arguments);
+        },
+      },
+    },
+  }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
+</body>
+</html>

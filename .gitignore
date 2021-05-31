@@ -1,0 +1,10 @@
+# code output
+package-lock.json
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+.DS_Store

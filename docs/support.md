@@ -29,11 +29,11 @@ Step 2 to 4 will help you set up the authenticator app for WOG account.
 
 Follow these instructions if you got problems with steps 2 to 4.
 1. Access [myaccount.microsoft.com] via your GSIB machine.  
-   ![myaccount.microsoft](assets/support/myaccounts.microsoft.jpg)
+   ![myaccount_microsoft](assets/support/myaccountsMicrosoft.jpg)
 2. Access **Security info**, you may be prompted to Approve/enter MFA code for another sign in request  
-   ![mfa.microsoft](assets/support/mfa.microsoft.jpg)
+   ![mfa_microsoft](assets/support/mfaMicrosoft.jpg)
 3. You can now add your new phone and delete your old authenticator app  
-   ![security.info](assets/support/security.info.jpg)
+   ![security_info](assets/support/securityInfo.jpg)
 
 Next, please continue with steps 5 & 6 to set up the authenticator for TechPass Multi Factor Authentication (MFA).
 

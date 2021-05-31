@@ -15,6 +15,7 @@ Install the Microsoft Authenticator app on your new mobile device by following t
 
 ### Step 2
 Visit [Microsoft's Additional Security Verification](https://account.activedirectory.windowsazure.com/proofup.aspx?proofup=1) page and sign in.
+![security_verification](assets/support/additionalSecurityFeature.png)
 
 ### Step 3
 Delete your current authenticator app

@@ -1,11 +1,11 @@
 # Support
 
 ## Reset your password (For Vendor only)
-If your account is locked or forget your password, you can follow prompts to unblock yourself and get back to to your account. 
+If your account is locked or forget your password, you can follow prompts to unblock yourself and get back to your account. 
 Go to https://aka.ms/sspr.
 
 ## Reset your password (For Public Officer only)
-If your account is locked or forget your password, you may attempt accessing https://aka.ms/sspr to reset. Please contact WOG AAD tech support if there are problems.
+If your account is locked or forget your password, you may attempt accessing https://aka.ms/sspr to reset. Please contact your organisation's AFM tech support if there are problems.
 
 ## Reset Authenticator (MFA) for new mobile devices
 If you have a new mobile device, you'll need to set it up to work with multi-factor verification. This is a multi-step solution.
@@ -48,7 +48,7 @@ Sign in to TechPass Portal and follow the series of prompt to set up MFA in your
 
 ### Public Officer Only
 #### Step 1
-Please contact WOG AAD tech support to help reset your mfa.
+Please contact your organisation's AFM tech support to help reset your mfa.
 
 #### Step 2
 Please send in a service request to revoke your current MFA using this [form](https://go.gov.sg/techpass-sr).

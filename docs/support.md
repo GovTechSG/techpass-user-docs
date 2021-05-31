@@ -5,7 +5,7 @@ If your account is locked or forget your password, you can follow prompts to unb
 Go to https://aka.ms/sspr.
 
 ## Reset your password (For Public Officer only)
-If your account is locked or forget your password, you may attempt accessing https://aka.ms/sspr to reset. Please contact WOG tech support if there are problems.
+If your account is locked or forget your password, you may attempt accessing https://aka.ms/sspr to reset. Please contact WOG AAD tech support if there are problems.
 
 ## Reset Authenticator (MFA) for new mobile devices
 If you have a new mobile device, you'll need to set it up to work with multi-factor verification. This is a multi-step solution.
@@ -14,17 +14,27 @@ If you have a new mobile device, you'll need to set it up to work with multi-fac
 Install the Microsoft Authenticator app on your new mobile device by following the steps in the [Download and install the Microsoft Authenticator app](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-download-install) article.
 
 ### Step 2
-Visit Microsoft's Additional Security Verification page and sign in.
+Visit [Microsoft's Additional Security Verification](https://account.activedirectory.windowsazure.com/proofup.aspx?proofup=1) page and sign in.
 
 ### Step 3
 Delete your current authenticator app
 
 ### Step 4
-Click **[Set up Authenticator app]** and follow the prompts using the authenticator app you've downloaded on your new mobile device
-![additional_security_verification](assets/support/additionalSecurityFeature.png)
+Click **[Set up Authenticator app]** and follow the prompts using the authenticator app you've downloaded on your new mobile device.
+You are done if you are a vendor account user.
 
 ### Public Officer Only
-Step 2 to 4 will help you set up the authenticator app for WOG account. Please follow the step 5 & 6 to set up the authenticator for TechPass Multi Factor Authentication (MFA).
+Step 2 to 4 will help you set up the authenticator app for WOG account. 
+
+Follow these instructions if you got problems with steps 2 to 4.
+1. Access [myaccount.microsoft.com] via your GSIB machine.  
+   ![myaccount.microsoft](assets/support/myaccounts.microsoft.jpg)
+2. Access **Security info**, you may be prompted to Approve/enter MFA code for another sign in request  
+   ![mfa.microsoft](assets/support/mfa.microsoft.jpg)
+3. You can now add your new phone and delete your old authenticator app  
+   ![security.info](assets/support/security.info.jpg)
+
+Next, please continue with steps 5 & 6 to set up the authenticator for TechPass Multi Factor Authentication (MFA).
 
 ### Step 5
 Please send in a service request to revoke your current MFA using this [form](https://go.gov.sg/techpass-sr).
@@ -38,7 +48,7 @@ Sign in to TechPass Portal and follow the series of prompt to set up MFA in your
 
 ### Public Officer Only
 #### Step 1
-Please contact WOG administrator to reset your MFA (to confirm this step!!!!)
+Please contact WOG AAD tech support to help reset your mfa.
 
 #### Step 2
 Please send in a service request to revoke your current MFA using this [form](https://go.gov.sg/techpass-sr).

@@ -28,7 +28,7 @@ You are done if you are a vendor account user.
 Step 2 to 4 will help you set up the authenticator app for WOG account. 
 
 Follow these instructions if you got problems with steps 2 to 4.
-1. Access [myaccount.microsoft.com] via your GSIB machine.  
+1. Access [https://myaccount.microsoft.com](https://myaccount.microsoft.com) via your GSIB machine.  
    ![myaccount_microsoft](assets/support/myaccountsMicrosoft.jpg)
 2. Access **Security info**, you may be prompted to Approve/enter MFA code for another sign in request  
    ![mfa_microsoft](assets/support/mfaMicrosoft.jpg)

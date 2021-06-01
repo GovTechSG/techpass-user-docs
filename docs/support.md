@@ -1,13 +1,13 @@
 # Support
 
-## Reset your password (For Vendor only)
+## Reset password - Vendor
 If your account is locked or forget your password, you can follow prompts to unblock yourself and get back to your account. 
 Go to https://aka.ms/sspr.
 
-## Reset your password (For Public Officer only)
+## Reset password - Public Officer
 If your account is locked or forget your password, you may attempt accessing https://aka.ms/sspr to reset. Please contact your organisation's AFM tech support if there are problems.
 
-## Reset Authenticator (MFA) for new mobile devices
+## Reset MFA - new device
 If you have a new mobile device, you'll need to set it up to work with multi-factor verification. This is a multi-step solution.
 
 ### Step 1
@@ -45,7 +45,7 @@ Select **[Request to reset Multi Factor Authentication]** for issue option and f
 ### Step 6
 Sign in to TechPass Portal and follow the series of prompt to set up MFA in your authenticator app using your new mobile device
 
-## Reset Authenticator (MFA) if you lose your mobile device
+## Reset MFA - lost device
 
 ### Public Officer Only
 #### Step 1

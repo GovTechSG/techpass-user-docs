@@ -70,6 +70,8 @@ Sign in to TechPass Portal and follow the series of prompt to set up MFA in your
 
 ## Trouble Signing In - Check Device Status in DEEP Portal
 
+<span style="color:red">(This is only enabled in the PROD environment and only users participating in the MDM End-to-End testing will encounter this issue.)</span>
+
 DEEP is a system that helps developers establish a robust security baseline for their devices, while ensuring only compliant devices can access Government engineering resources.
 
 ### Protecting developer devices

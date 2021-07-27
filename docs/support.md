@@ -68,6 +68,10 @@ Select **[Request to reset Multi Factor Authentication]** for issue option and f
 #### Step 2
 Sign in to TechPass Portal and follow the series of prompt to set up MFA in your authenticator app using your new mobile device
 
+## More problems with MFA?
+You may visit [Microsoft's Common problems with two-factor verification](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-troubleshoot) for more information 
+or you may send us a service request for your problem using this [form](https://go.gov.sg/techpass-sr).
+
 ## Trouble Signing In - Check Device Status in DEEP Portal
 
 <span style="color:red">(This is only enabled in the PROD environment and only users participating in the MDM End-to-End testing will encounter this issue.)</span>
@@ -80,18 +84,20 @@ DEEP applies a security configuration baseline for each developer device based o
 ### Protecting Government engineering resources
 DEEP makes use of device-specific configuration and malware information to block developers with at-risk devices from accessing Government engineering resources.
 
-### When a user is blocked by DEEP at the Cloudflare level, the user will be presented this error:
-![mdm_cloudflare_error](assets/support/mdmCloudflareError.png)
+### Login Errors
+When a user is blocked by DEEP at the Cloudflare level, the user will be presented this error:
 
-### When the user has established a connection with Cloudflare and the user's device has been blocked by DEEP, the user will be get this error:
-![mdm_techpass_error](assets/support/mdmTechPassError.png)
+<span style="display:block;text-align:center">![mdm_cloudflare_error](assets/support/mdmCloudflareError.png)</span>
 
-### DEEP Portal Links
+When the user has established a connection with Cloudflare and the user's device has been blocked by DEEP, the user will be get this error:
+
+<span style="display:block;text-align:center">![mdm_techpass_error](assets/support/mdmTechPassError.png)</span>
+
+### Resolution
+
+If you've encountered any of the above errors, try to resolve them by going to the DEEP Portal link listed below based on environment. The DEEP Portal will show you all the issues and instructions on how to fix them.
 
 | Environment | Links                              |
 | ----------- | ---------------------------------- |
 | PROD        | https://prod.dashboard.dso360.tech |
 
-## More problems with MFA?
-You may visit [Microsoft's Common problems with two-factor verification](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-troubleshoot) for more information 
-or you may send us a service request for your problem using this [form](https://go.gov.sg/techpass-sr).

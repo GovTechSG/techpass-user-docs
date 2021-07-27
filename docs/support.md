@@ -72,7 +72,7 @@ Sign in to TechPass Portal and follow the series of prompt to set up MFA in your
 You may visit [Microsoft's Common problems with two-factor verification](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-troubleshoot) for more information 
 or you may send us a service request for your problem using this [form](https://go.gov.sg/techpass-sr).
 
-## Trouble Signing In - Check Device Status in DEEP Portal
+## Problem Signing In?
 
 <span style="color:red">(This is only enabled in the PROD environment and only users participating in the MDM End-to-End testing will encounter this issue.)</span>
 

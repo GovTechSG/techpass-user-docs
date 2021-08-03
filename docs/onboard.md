@@ -3,7 +3,7 @@
 ## Vendor
 
 ### Step 1
-Send in your request for a TechPass account to TechPass Team
+Send in your request for a TechPass account to Product Team
 
 Once your request has been approved, you will receive an username via email and initial passcode via SMS
 ![Vendor_Email_Invitation](assets/support/Vendor_Email_Invitation.jpeg)

@@ -6,7 +6,7 @@ Your account might be disabled if you encounter an issue where you've signed in 
 !> Your account can be disabled due to inactivity of 90 days.  
 You should receive email alerts to sign in at least once after 60 days of inactivity.
 
-If you are certain that you still need TechPass to access the SG-TechStack integrated services and that you should still have valid access. Please contact the respective TechStack Product team or us [here](support/overview?id=need-more-help) for help.
+If you are certain that you still need TechPass to access the SG-TechStack integrated services and that you should still have valid access. Please contact the respective SG-TechStack Product team or us [here](support/overview?id=need-more-help) for help.
 
 ## Authentication attempt failed
 

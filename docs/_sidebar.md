@@ -1,2 +1,4 @@
-- [Support](support)
-- [Onboard](onboard)
+- [Overview](home)
+- [Getting Started](quickstart)
+- [Sign Up](onboard)
+- [Support](/support/overview.md)

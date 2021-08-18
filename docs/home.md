@@ -21,7 +21,7 @@ Please reach to us [here](support/overview?id=need-more-help) if you need SAML s
 ## TechPass Portal
 We provide a [self-service portal](https://portal.techpass.gov.sg) to facilitate any setting up of SSO for SG TechStack products and IAM management of your users.
 
-?> This self-service portal is accessible only via non SE-GSIB devices.
+?> This self-service portal is accessible only via non-SE GSIB devices.
 
 You may access this [user guide](https://docs.developer.gov.sg/docs/techpass-user-guide/#/) to learn more about setting up SSO or manage your users.
 

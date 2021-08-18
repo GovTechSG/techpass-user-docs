@@ -19,7 +19,7 @@ OAuth 2.0 SSO setup is available on TechPass Portal while SAML service is availa
 Please reach to us [here](support/overview?id=need-more-help) if you need SAML support for your product and services.
 
 ## TechPass Portal
-We provide a [self-service portal](https://portal.techpass.gov.sg) to facilitate any setting up of SSO for SG-TechStack products and IAM management of your users.
+We provide a [self-service portal](https://portal.techpass.gov.sg) to facilitate any setting up of SSO for SG TechStack products and IAM management of your users.
 
 ?> This self-service portal is accessible only via non SE-GSIB devices.
 

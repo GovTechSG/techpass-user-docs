@@ -2,26 +2,26 @@
 
 ## Public Officer
 ### Step 1
-Send in your request for a TechPass account to TechPass Team
-
-Once your request has been approved, you will receive an email invitation.
-Click on accept invitation link
-![PO_Invite](assets/support/PO_Invite.jpeg)
-![PO_Invite1](assets/support/PO_Invite1.jpeg)
-
+On techpass homepage, click Sign Up & sign up with your official work email
+![homepage](assets/support/homepage.png)
+![PO_Signup](assets/support/PO_Signup.png)
 ### Step 2
+An invitation will be sent to your email. Click on Accept invitation link
+![PO_Invite](assets/support/PO_Invite.png)
+
+### Step 3
 Review Permissions and click on Accept to proceed to TechPass Portal
 ![PO_ReviewPermission](assets/support/PO_ReviewPermission.png)
 ![PO_Portal](assets/support/PO_Portal.png)
 
-### Step 3
+### Step 4
 Pls click on Next button to provide more information required for keeping your account secure
 ![PO_MoreInfo](assets/support/PO_MoreInfo.jpeg)
 
-### Step 4
+### Step 5
 Install the Microsoft Authenticator app on your new mobile device by following the steps in the [Download and install the Microsoft Authenticator app](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-download-install) article.
 
-### Step 5
+### Step 6
 Follow the series of prompt to set up MFA in your Microsoft Authenticator app using your mobile device
 ![PO_MFA_1](assets/support/PO_MFA_1.jpeg)
 ![PO_MFA_2](assets/support/PO_MFA_2.jpeg)
@@ -30,12 +30,12 @@ Follow the series of prompt to set up MFA in your Microsoft Authenticator app us
 ![PO_MFA_5](assets/support/PO_MFA_5.jpeg)
 ![PO_MFA_6](assets/support/PO_MFA_6.jpeg)
 
-### Step 6
+### Step 7
 Pls read, understand and accept terms of use to proceed with the TechPass portal set up
 ![PO_TermsOfUse](assets/support/PO_TermsOfUse.png)
 ![PO_TermsOfPolicy](assets/support/PO_TermsOfPolicy.jpeg)
 
-### Step 7
+### Step 8
 TechPass portal will be opened and you will see My Profile section
 ![PO_MyProfile.jpeg](assets/support/PO_MyProfile.jpeg)
 

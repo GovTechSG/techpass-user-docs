@@ -2,7 +2,10 @@
 
 ## Public Officer
 ### Step 1
-On techpass homepage, click Sign Up & sign up with your official work email
+Click Sign Up on TechPass home and sign up with your official WoG email
+
+?>If you are a SE-GSIB user, please raise a request to TechPass to create an account [here](https://go.gov.sg/techpass-sr)  
+
 ![homepage](assets/support/homepage.png)
 ![PO_Signup](assets/support/PO_Signup.png)
 ### Step 2

@@ -63,7 +63,7 @@ When the user has established a connection with Cloudflare and the user's device
 
 If you've encountered any of the above errors, try to resolve them by going to the DEEP Portal link listed below based on environment. The DEEP Portal will show you all the issues and instructions on how to fix them.
 
-| Environment | Links                              |
-| ----------- | ---------------------------------- |
-| PROD        | https://prod.dashboard.dso360.tech |
+| Environment | Links                     |
+| ----------- | ------------------------- |
+| PROD        | https://deep.tech.gov.sg/ |
 

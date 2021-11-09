@@ -17,13 +17,13 @@ Following are the steps involved in your TechPass onboarding journey.
 
   1. Go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and click **Sign Up**.
 
-  ![sign-up](assets/images/onboarding/po-non-se/sign-up.png)
+  <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up.png)</kbd>
 
   2. Enter your organisational email address and select **I'm not a robot**.
 
   ?> Format of your organisational email address shall be _your_name<span>@</span>agency.gov.sg_ or _your_name<span>@</span>tech.gov.sg_
 
-  ![sign-up-submit](assets/images/onboarding/po-non-se/sign-up-submit.png)
+  <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/sign-up-submit.png)</kbd>
 
   3. Click **Submit**. An invitation will be sent to this email address.
 
@@ -41,29 +41,29 @@ Following are the steps involved in your TechPass onboarding journey.
 
   ?> If you do not see the email in your inbox, check if it is the same email address you provided during sign up. If a spam filter or email rule moved the email, it might be in your other folders, Junk Email, Deleted Items or Archive folder.
 
-  2. Click **Accept invitation** and proceed with [Onboarding  to TechPass](#onboard-to-techpass).
+  2. Click **Accept invitation** and proceed with **Onboarding  to TechPass**.
 
-  ![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)
+  <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
 
 </details>
 
 <details>
   <summary>c. Onboard to TechPass</summary><br>
-  Now that you have [Signed up for TechPass](#sign-up-for-techpass) and [accepted the invitation](#accept-invitation), you may proceed with the onboarding.
+  Now that you have accepted the invitation, you may proceed with the onboarding.
 
   _To onboard in to your TechPass account:_
 
   1. Once you accept the invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
-  ![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png)
+  <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png)</kbd>
 
   2. Click **Log in with TechPass**.
 
-  ![log-in-with-techpass](assets/images/onboarding/po-non-se/log-in-with-techpass.png)
+  <kbd>![log-in-with-techpass](assets/images/onboarding/po-non-se/log-in-with-techpass.png)</kbd>
 
   3. Click **Next**.
 
-  ![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png)
+  <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png)</kbd>
 
   By default, your organisational email address will be displayed as username.
 
@@ -77,7 +77,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  ![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)
+  <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 
   5. Click **Next**.
   6. In your mobile device, open Microsoft **Authenticator**.
@@ -85,43 +85,43 @@ Following are the steps involved in your TechPass onboarding journey.
   8. Choose **Work or School account**.
   9. Click **Next.**
 
-  ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
+  <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
 
   10. Scan the QR code displayed on your computer screen. Your TechPass account is now activated and added to the authenticator app.
   11. Click **Next**.
 
-  ![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)
+  <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
 
-  ![approve](assets/images/onboarding/po-non-se/after-scanning-qr-code-new.png)
+  <kbd>![approve](assets/images/onboarding/po-non-se/after-scanning-qr-code-new.png)</kbd>
 
   On your Authenticator app, there will be a prompt to approve the sign-in.
 
   12. Tap **APPROVE** on your mobile device.
   13. On your computer, you will see that you have approved your sign-in. Now, click **Next**.
 
-  ![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)
+  <kbd>![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)</kbd>
 
   14. Click **Done**.
 
-  ![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)
+  <kbd>![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)</kbd>
 
   You will now be directed to the Terms of Use page.
 
   15. Click the arrow to view the **TechPass Terms of Use**.
 
-  ![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)
+  <kbd>![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)</kbd>
 
   16. Read the TechPass **Terms of Use** and click **Accept**.
 
-  ![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)
+  <kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
 
   17. Click the arrow to view the **TechPass Privacy Policy**.
 
-  ![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)
+  <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
 
   18. Read the TechPass **Privacy Policy** and click **Accept** before you proceed to set up the TechPass multi-factor authenticating (MFA) method.
 
-  ![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)
+  <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
 
 
   You have now successfully onboarded to TechPass.

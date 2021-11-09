@@ -1,4 +1,7 @@
 - [Overview](home)
 - [Getting Started](quickstart)
-- [Sign Up](onboard)
+- [Onboarding Public Officers using non-SE Device](onboard-public-officers-using-non-se-machines)
+  - [Log in to TechPass Portal](log-into-techpass-portal-po-non-se)
+  - [Edit Profile](edit-profile-po-non-se)
+- [Onboarding Vendors](onboard)
 - [Support](/support/overview.md)

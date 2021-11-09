@@ -1,4 +1,4 @@
-## Log in to TechPass portal
+# Log in to TechPass Portal
 
 Public officers can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) from their GSIB machines. you log in to  your TechPass account from GSIB machine TechPass portal to [view and edit](edit-profile-po-non-se) their profile details.
 
@@ -7,15 +7,15 @@ _To log in to your TechPass account:_
 
 1. Go to [TechPass portal](https://portal.techpass.gov.sg/public/home) and click **Login with TechPass**.
 
-![log in](assets/images/onboarding/po-non-se//log-in-with-techpass.png)
+<kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png)</kbd>
 
 2. If prompted, choose your WOG account. As you are using GSIB machine, you are automatically signed in to your WOG account.
 
-![choose-account](assets/images/onboarding/po-non-se//choose-account.png)
+<kbd>![choose-account](assets/images/onboarding/po-non-se/choose-account.png)</kbd>
 
 3. You will be prompted to approve your TechPass login. Approve it on your Authenticator app.
 
-![approve-signin](assets/images/onboarding/po-non-se//approve-sign-in.png)
+<kbd>![approve-signin](assets/images/onboarding/po-non-se/approve-sign-in.png)</kbd>
 
 Note:
 

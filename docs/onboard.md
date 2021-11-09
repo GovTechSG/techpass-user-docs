@@ -1,6 +1,6 @@
-# Onboarding Guide
+# Onboarding Guide for Vendors
 
-## Public Officer
+<!--## Public Officer
 ### Step 1
 Click Sign Up on TechPass home and sign up with your official WoG email
 
@@ -40,7 +40,7 @@ Pls read, understand and accept terms of use to proceed with the TechPass portal
 
 ### Step 8
 TechPass portal will be opened and you will see My Profile section
-![PO_MyProfile.jpeg](assets/support/PO_MyProfile.jpeg)
+![PO_MyProfile.jpeg](assets/support/PO_MyProfile.jpeg)-->
 
 ## Vendor
 

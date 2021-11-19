@@ -1,12 +1,19 @@
-# Problems with Signing In?
+# Problems with Onboarding and Signing In
 
-## Infinite Sign In Loop
-Your account might be disabled if you encounter an issue where you've signed in but the system keeps routing you back to the page.
+## I received an email that my TechPass account in pending status has been deleted. What should I do?
+When you sign up for TechPass, a TechPass is created for you but will be in pending status until you accept the invitation link we send to you. If you do not accept the invitation link within 30 days, your TechPass account in pending status will be deleted. If you still want to use a TechPass account, sign up again to receive a new invitation link.
+
+## Why is my TechPass account disabled? How to re-enable it?
+Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, when you have not used it for 60 consecutive days, on day 61 you will receive an email alert on your inactive status and also state that your account will be disabled after 30 days. You continue to receive this email until you log in or until your account is disabled.
+
+If you continue to be inactive, your TechPass will be disabled on the 90th day and you will be notified about it. To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
+
+<!--Your account might be disabled if you encounter an issue where you've signed in but the system keeps routing you back to the page.
 
 !> Your account can be disabled due to inactivity of 90 days.  
 You should receive email alerts to sign in at least once after 60 days of inactivity.
 
-If you are certain that you still need TechPass to access the SG TechStack integrated services and that you should still have valid access. Please contact the respective SG TechStack Product team or us [here](support/overview?id=need-more-help) for help.
+If you are certain that you still need TechPass to access the SG TechStack integrated services and that you should still have valid access. Please contact the respective SG TechStack Product team or us [here](support/overview?id=need-more-help) for help.-->
 
 ## Authentication attempt failed
 
@@ -66,4 +73,3 @@ If you've encountered any of the above errors, try to resolve them by going to t
 | Environment | Links                     |
 | ----------- | ------------------------- |
 | PROD        | https://deep.tech.gov.sg/ |
-

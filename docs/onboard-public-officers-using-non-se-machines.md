@@ -45,7 +45,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
 
-  !> Your TechPass account is already created by this time but will in pending status until you accept this invitation. If you do not accept this invitation, this pending account will be deleted.
+  !> Your TechPass account is already created by this time but will in pending status until you accept this invitation. If you do not accept this invitation, this pending account will be deleted after 30 days.
 
   <!-- ?> Before proceeding to onboard, make sure that you have set up MFA for your WOG account as your TechPass account shall reside in the WOG Azure Active Directory. This is mandatory if you have to access the SGTS services, products and their documentation resources using your TechPass account from your non-GSIB machines.
   -->
@@ -63,7 +63,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png)</kbd>
 
-  ?> If you are not signed in to your WOG account while accepting the invitation, you will be prompted to sign in to it first before proceeding further.
+  ?> If you are not signed in to your WOG account while accepting the invitation, you will be prompted to sign in before proceeding further.
 
   2. Click **Log in with TechPass**.
 

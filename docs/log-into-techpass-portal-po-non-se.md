@@ -1,6 +1,6 @@
 # Log in to TechPass Portal
 
-Public officers can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) from their GSIB machines. you log in to  your TechPass account from GSIB machine TechPass portal to [view and edit](edit-profile-po-non-se) their profile details.
+Public officers can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) only from their GSIB machines. you log in to  your TechPass account from GSIB machine TechPass portal to [view and edit](edit-profile-po-non-se) their profile details.
 
 
 _To log in to your TechPass account:_

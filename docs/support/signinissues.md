@@ -1,12 +1,12 @@
 # Problems with Onboarding and Signing In
 
 ## I received an email that my TechPass account in pending status has been deleted. What should I do?
-When you sign up for TechPass, a TechPass is created for you but will be in pending status until you accept the invitation link we send to you. If you do not accept the invitation link within 30 days, your TechPass account in pending status will be deleted. If you still want to use a TechPass account, sign up again to receive a new invitation link.
+When you sign up for TechPass, a TechPass account is created for you but will be in pending status until you accept the invitation link. If you do not accept the invitation link within 30 days, your TechPass account in pending status will be deleted. If you still want to use a TechPass account, sign up again to receive a new invitation link.
 
 ## Why is my TechPass account disabled? How to re-enable it?
-Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, when you have not used it for 60 consecutive days, on day 61 you will receive an email alert on your inactive status and also state that your account will be disabled after 30 days. You continue to receive this email until you log in or until your account is disabled.
+Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled at day 90 and you will be notified.
 
-If you continue to be inactive, your TechPass will be disabled on the 90th day and you will be notified about it. To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
+To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
 
 <!--Your account might be disabled if you encounter an issue where you've signed in but the system keeps routing you back to the page.
 

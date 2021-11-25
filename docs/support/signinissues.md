@@ -1,10 +1,10 @@
 # Problems with Onboarding and Signing In
 
-## I received an email that my TechPass account in pending status has been deleted. What should I do?
-When you sign up for TechPass, a TechPass account is created for you but will be in pending status until you accept the invitation link. If you do not accept the invitation link within 30 days, your TechPass account in pending status will be deleted. If you still want to use a TechPass account, sign up again to receive a new invitation link.
+##I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?
+When a public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, the TechPass account in pending status will be deleted. Note this is different from disabling TechPass account. If you want to use TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and sign up again to receive a new invitation link.
 
 ## Why is my TechPass account disabled? How to re-enable it?
-Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled at day 90 and you will be notified.
+Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
 To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
 

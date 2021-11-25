@@ -7,7 +7,7 @@ _To log in to your TechPass account:_
 
 1. Go to [TechPass portal](https://portal.techpass.gov.sg/public/home) and click **Login with TechPass**.
 
-<kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png)</kbd>
+<kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 
 2. If prompted, choose your WOG account. As you are using GSIB machine, you are automatically signed in to your WOG account.
 

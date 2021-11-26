@@ -1,7 +1,6 @@
 # Log in to TechPass Portal
 
-Public officers can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) only from their GSIB machines. you log in to  your TechPass account from GSIB machine TechPass portal to [view and edit](edit-profile-po-non-se) their profile details.
-
+TechPass users can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) from their non-SE GSIB machines to [view and edit](edit-profile-using-non-se-gsib) their profile details.
 
 _To log in to your TechPass account:_
 
@@ -9,19 +8,20 @@ _To log in to your TechPass account:_
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 
-2. If prompted, choose your WOG account. As you are using GSIB machine, you are automatically signed in to your WOG account.
+2. Choose you TechPass account.
 
 <kbd>![choose-account](assets/images/onboarding/po-non-se/choose-account.png)</kbd>
+
+?> If you are a public officer and not logged into your WOG account, you will be prompted to log in to it first before proceeding to TechPass account.
 
 3. You will be prompted to approve your TechPass login. Approve it on your Authenticator app.
 
 <kbd>![approve-signin](assets/images/onboarding/po-non-se/approve-sign-in.png)</kbd>
 
-Note:
+?>**Note:**<br>
+&bull; If there is a delay in approving the sign in, click **Send another request to my Microsoft Authenticator app** to receive another prompt on this app on your mobile phone.<br>
+&bull; If you are using other authenticating app, authenticate your TechPass sign-in as configured on this app.
 
-- If there is a delay in approving the sign in, click **Send another request to my Microsoft Authenticator app** to receive another prompt on this app on your mobile phone **.**
-
-- If you are using other authenticating apps, you may need to enter the OTP displayed on your app to approve the sign in.
 
 <!--Once you successfully approve your login, you will view your TechPass **Dashboard**.
 

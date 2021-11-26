@@ -1,15 +1,15 @@
-# Re set up security verification for Whole of Government (WOG) account
+# Re set security verification for Whole of Government (WOG) account
 
-Public officers may have to re set up security verification for their WOG account in the following cases:
+Public officers may have to re set security verification for their WOG account in the following cases:
 
 - Changed the mobile device which was used to set security verification for their WOG account
 - Accidentally deleted the Authenticator app from their mobile device.
 
  ?> In case of lost the mobile device, public officers need to get in touch with their respective Agency Facility Management(AFM) team. If public officers are transferred to a different agency, they can sign up for a new TechPass account while the old account will be terminated by the previous agency.
 
-The following instructions guide you to re set up your WOG account security verification.
+The following instructions guide you to re set your WOG account security verification.
 
-_To re set up security verification for WOG account:_
+_To re set security verification for WOG account:_
 
 1. From your GSIB device, go to [Microsoft Additional security verification](https://account.activedirectory.windowsazure.com/proofup.aspx). If prompted, sign in to your WOG account.
 <kbd>![delete-old-device](assets/images/security-verification-for-wog/re-setup-wog-mfa/delete-old-device.png)</kbd>

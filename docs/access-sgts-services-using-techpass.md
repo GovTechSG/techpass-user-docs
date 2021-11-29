@@ -35,6 +35,7 @@ This article guides you on how to use TechPass to access SGTS resources. For doc
 3. If you are public officer accessing this SGTS service from your GMD, you will be prompted to authenticate your WOG account. Enter the verification code displayed for your SG Govt M365 on your Authenticator app.
 
 <kbd>![verify-wog-for-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)
+
 4. You will now be prompted to approve your TechPass sign-in. On the Authenticator app, tap **APPROVE** to authenticate this sign-in. You are now successfully logged in with TechPass.
 
 <kbd>![after-po-login](assets/images/access-sgts-services-using-techpass/final.png)</kbd>

@@ -2,6 +2,8 @@
 
 TechPass users can log in to [TechPass portal](http://portal.techpass.gov.sg/public/home) from their non-SE GSIB machines to [view and edit](edit-profile-using-non-se-gsib) their profile details.
 
+?> This is different from Log in with TechPass, which is using your TechPass account to [access SGTS services](access-sgts-services-using-techpass)
+
 _To log in to your TechPass account:_
 
 1. Go to [TechPass portal](https://portal.techpass.gov.sg/public/home) and click **Login with TechPass**.

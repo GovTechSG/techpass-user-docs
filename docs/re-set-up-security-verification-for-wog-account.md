@@ -18,7 +18,7 @@ _To re set security verification for WOG account:_
 
 3. After it is removed, go to your Authenticator app on your old mobile phone or device and remove the existing MFA of your WOG account(SG GovtM365).
 
-?> This only removes the authentication method for the WOG account in that device.
+?> This only removes the MFA profile for the WOG account in that device.
 
 4. Select **Authenticator app or Token** and click **Set up Authenticator app**.
 <kbd>![after-verification](assets/images/security-verification-for-wog/re-setup-wog-mfa/after-verification.png)</kbd>

@@ -1,8 +1,8 @@
 # Set up security verification for Whole of Government (WOG) account
 
-We know that public officers can use their TechPass account to access Singapore Tech Stack (SGTS) services and tools. However, if public officers want to access SGTS services and tools from their Government Managed Device (GMD) using TechPass, they must first set up security verification for their WOG account. This adds an additional level of security layer when they access these resources from their GMD.
+Public officers can use their TechPass account to access Singapore Tech Stack (SGTS) services and tools from their GMD and non-SE GSIB device. However, if public officers want to access SGTS services and tools from their Government Managed Device (GMD) using TechPass, they must first set up security verification for their WOG account. This additional security layer is required to access SGTS resources from their GMD.
 
-To achieve this, public officers set up a multi-factor authentication (MFA) for their WOG account using their Government Standard Imaging Build (GSIB) device.
+To achieve this, public officers need to set up a multi-factor authentication (MFA) for their WOG account using their GSIB device.
 
 This article guides public officers to set up security verification for their WOG account.
 

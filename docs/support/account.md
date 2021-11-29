@@ -13,7 +13,7 @@
 
 3. How often should I verify my security info?
 
- As security information is vital, you need to make sure it is always up-to-date. To make it easy for you, you will receive a reminder for every 180 days to review your security info and update it as needed. To manage your security info any time, go to https://myaccount.microsoft.com/.
+ As security information is vital, you need to make sure it is always up-to-date. You will receive a reminder every 180 days to review your security info and update it as needed. To manage your security info any time, go to https://myaccount.microsoft.com/.
 
 
 <!--

@@ -6,7 +6,7 @@ This section guides how vendors or contractors working on Gov ICT Projects can g
 If you are a vendor or contractor who does not have an active TechPass account, request one from your project manager or reporting officer. Make sure you provide your official email address, handphone number and your project name in your request. Your project manager or reporting officer in turn will work with the engaging government agency to set up a TechPass account for you.
 
 ?>
-  You can use this TechPass account for projects hosted by all government agencies.<br><br>
+  You can use this TechPass account to access SGTS products and services.<br><br>
   If you are a public officer or a user with a <i>user_name<span>@</span>gov.sg</i> email address, please refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).
 
 
@@ -17,7 +17,7 @@ Complete the following steps:
 
 <details> <summary> Sign in using TechPass username and initial password</summary>
 
-  1. Go to the web address(url) provided by your project manager or reporting officer to sign in to TechPass.
+  1. Go to the web address(url) provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
 
   ?> SGTS product team will provide the sign in web address to your project manager or reporting officer.
 
@@ -65,12 +65,12 @@ Complete the following steps:
   14. When you see a success message, click **Done**.
       <kbd>![vendor-mfa-9](assets/support/vendor-mfa-9.png)</kbd>
 
-      Now you will be prompted to re set your initial password.
+      Now you will be prompted to reset your initial password.
 </details>
 
-<details> <summary> Re set your initial password of TechPass</summary>
+<details> <summary> Reset your initial password of TechPass</summary>
 
-  15. Enter your **initial password**, **new password** and re type new password to confirm.  
+  15. Enter your **initial password**, **new password** and retype the new password to confirm.  
 
   16. Click **Sign in** to proceed with Terms of Use.
 

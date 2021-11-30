@@ -4,10 +4,10 @@ TechPass users can use their TechPass to securely and seamlessly access SGTS ser
 
 This article guides you on how to use TechPass to access SGTS resources.
 
-- [Log in with TechPass for vendors](#to-log-in-with-techpass-for-vendor)
-- [Log in with TechPass for public officers](#to-log-in-with-techpass-for-public-officer)
+- [Log in with TechPass as vendor](#to-log-in-with-techpass-as-vendor)
+- [Log in with TechPass as public officer](#to-log-in-with-techpass-as-public-officer)
 
-*To log in with TechPass for vendor* :
+## To log in with TechPass as vendor
 
 1. Go to the [Developer portal](https://docs.developer.tech.gov.sg/).
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
@@ -26,7 +26,7 @@ This article guides you on how to use TechPass to access SGTS resources.
 
 ?> To log out of TechPass, click **Log Out** and confirm which account you would like to log out.
 
-*To log in with TechPass for public officer* :
+## To log in with TechPass as public officer
 
 1. Go to the [Developer portal](https://docs.developer.tech.gov.sg/).
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>

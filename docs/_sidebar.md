@@ -4,11 +4,11 @@
     - [Onboarding Public Officers using non-SE Device](onboard-public-officers-using-non-se-machines)
     - WOG security verification
       - [Set up security verification for WOG account](manage-security-verification-for-wog-account)
-      - [Re set security verification for WOG account](re-set-security-verification-for-wog-account)
+      - [Reset security verification for WOG account](reset-security-verification-for-wog-account)
     - **Vendor**
       - [Onboarding Vendors](onboard-vendors-to-techpass)
 - [Log in to TechPass Portal](log-into-techpass-portal)
 - [Edit Profile](edit-profile-using-non-se-gsib)
 - [Access SGTS services using TechPass](access-sgts-services-using-techpass)
-- [Re set TechPass MFA](re-set-techpass-mfa-for-new-device)
+- [Reset TechPass MFA](reset-techpass-mfa-for-new-device)
 - [Support](/support/overview.md)

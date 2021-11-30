@@ -2,10 +2,10 @@
 
 TechPass users can use their TechPass to securely and seamlessly access SGTS services such as SEED, GCC2.0, Cloud File Transfer (CFT), SHIP-HATS and Developer portal using their GMD and GSIB devices.
 
-This article guides you on how to use TechPass to access SGTS resources. For documentation purpose, we show you how to access Developer portal documents that can only be accessed using TechPass.
+This article guides you on how to use TechPass to access SGTS resources.
 
 - [Log in with TechPass for vendors](#to-log-in-with-techpass-for-vendor)
-- [Log in with TechPass for public officers](#to-log-in-with-techpass-for-public-officers)
+- [Log in with TechPass for public officers](#to-log-in-with-techpass-for-public-officer)
 
 *To log in with TechPass for vendor* :
 

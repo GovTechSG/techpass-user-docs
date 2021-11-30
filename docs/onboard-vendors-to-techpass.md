@@ -10,7 +10,7 @@ If you are a vendor or contractor who does not have an active TechPass account, 
   If you are a public officer or a user with a <i>user_name<span>@</span>gov.sg</i> email address, please refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).
 
 
-## Onboarding vendors
+## Onboarding vendor
 When a TechPass account is created, you will be notified about it in an email. This notification will have a unique TechPass username for you and an initial password will be texted to your handphone.
 
 Complete the following steps:

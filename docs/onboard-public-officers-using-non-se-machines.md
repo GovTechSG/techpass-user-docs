@@ -1,4 +1,4 @@
-# Onboarding public officers using non-SE GSIB device
+# Onboarding public officer using non-SE GSIB device
 
 This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine.
 

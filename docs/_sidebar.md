@@ -5,7 +5,7 @@
     - WOG Security verification
       - [Set up security verification](manage-security-verification-for-wog-account)
       - [Reset security verification](reset-security-verification-for-wog-account)
-  - [Onboarding vendor](onboard-vendors-to-techpass)
+    - [Onboarding vendor](onboard-vendors-to-techpass)
 - [Log in to TechPass Portal](log-into-techpass-portal)
 - [Edit Profile](edit-profile)
 - [Access SGTS services using TechPass](access-sgts-services-using-techpass)

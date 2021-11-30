@@ -1,4 +1,4 @@
-# Reset security verification for Whole of Government (WOG) account
+# Reset security verification for Whole-of-Government (WOG) account
 
 Public officers may have to reset security verification for their WOG account in the following cases:
 

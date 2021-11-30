@@ -1,4 +1,4 @@
-# Reset TechPass MFA (New mobile device)
+# Reset TechPass MFA (new mobile device)
 If TechPass users have changed, they need to reset their TechPass MFA on the new device.
 
 <!--- new device

@@ -90,7 +90,7 @@ Following are the steps involved in your TechPass onboarding journey.
   <!--When you use other authenticators, you may have to enter an OTP to approve your sign in whereas in Microsoft authenticator, you just need to tap **Approve** on your mobile phone.-->
 
   6. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
-  7. Go back to your computer and click **Next.**
+  7. Go back to your computer and click **Next**.
 
   <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
 
@@ -124,7 +124,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
 
-  15. Read the TechPass **Privacy Policy** and click **Accept** before you proceed to set up the TechPass multi-factor authenticating (MFA) method.
+  15. Read the TechPass **Privacy Policy** and click **Accept**.
 
   <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
 

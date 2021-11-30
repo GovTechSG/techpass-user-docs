@@ -1,15 +1,17 @@
 # Onboarding Public Officers
 
-This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE, GSIB machine.
+This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine.
 
-While public officers create their TechPass using non-SE GSIB machine, they can use their TechPass account to access Singapore Tech Stack(SGTS) products and services from GSIB and non-GSIB machines.
+While public officers create their TechPass using non-SE GSIB machine, they can use their TechPass account to access Singapore Tech Stack(SGTS) products and services from GSIB and GMD machines.
 
 **Overview**
 
 Following are the steps involved in your TechPass onboarding journey.
 
+?> Complete the below steps using your non-SE GSIB machine.
+
 <details>
-  <summary>a. Sign Up for TechPass</summary><br>
+  <summary>a. Sign up for TechPass</summary><br>
 
   Public officers sign up for their TechPass account using their organisational email address. An invitation link will be sent to this email address for them to accept.
 
@@ -27,13 +29,15 @@ Following are the steps involved in your TechPass onboarding journey.
 
   3. Click **Submit**. An invitation will be sent to this email address.
 
+  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey.
+
 
 </details>
 
 <details>
   <summary>b. Accept invitation</summary><br>
 
-  Once the invitation link is received, the public officer  accepts it to onboard in to TechPass.
+  Public officer has to accept this invitation within 30 days to onboard in to TechPass. Only then the TechPass account gets activated. If not, the pending account will be automatically deleted.
 
   _To accept TechPass invitation:_
 
@@ -45,92 +49,84 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
 
-  !> Your TechPass account is already created by this time but will in pending status until you accept this invitation. If you do not accept this invitation, this pending account will be deleted after 30 days.
 
-  <!-- ?> Before proceeding to onboard, make sure that you have set up MFA for your WOG account as your TechPass account shall reside in the WOG Azure Active Directory. This is mandatory if you have to access the SGTS services, products and their documentation resources using your TechPass account from your non-GSIB machines.
-  -->
+  3. Proceed to [**set up security verification for your WOG account**](manage-security-verification-for-wog-account). This step is required if you intend to use TechPass account from your GMD.
 
 </details>
 
-
 <details>
   <summary>c. Onboard to TechPass</summary><br>
-  Now that you have accepted the invitation, you may proceed with the onboarding.
+
+  In this onboarding journey, you will be setting up verification method for your TechPass account.
 
   _To onboard in to your TechPass account:_
 
-  1. If you are already signed into your WOG account and when you accept TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
+  1. If you are already signed in to your WOG account, when you accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
-  <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png)</kbd>
+  <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
 
   ?> If you are not signed in to your WOG account while accepting the invitation, you will be prompted to sign in before proceeding further.
 
   2. Click **Log in with TechPass**.
 
-  <kbd>![log-in-with-techpass](assets/images/onboarding/po-non-se/log-in-with-techpass.png)</kbd>
+  <kbd>![log-in-with-techpass](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=400')</kbd>
 
   3. Click **Next**.
 
-  <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png)</kbd>
+  <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')</kbd>
 
-  By default, your organisational email address will be displayed as username.
+  4. Ensure that the email address which you used to sign up for TechPass account is displayed as username.
 
-  4. Set up an authentication method by choosing one of the following:
+  5. Choose one of the following options and click **Next**.
 
-  - If you do not have Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
-  - If you want to use other authenticators, click **I want to use a different authenticator app.**
-  - Click **I want to setup a different method.**
+    - If you do not have Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and complete the wizard.
+    - To use other authenticators, click **I want to use a different authenticator app.**
+    - Click **I want to setup a different method.**
 
-  Note: while we recommend Microsoft Authenticator, you can choose any other authenticator app. When you use other authenticators, you may have to enter an OTP to approve your sign in whereas in Microsoft authenticator, you just need to tap **Approve** on your mobile phone.
+    <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 
-  As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
+  ?> while we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
+  <!--When you use other authenticators, you may have to enter an OTP to approve your sign in whereas in Microsoft authenticator, you just need to tap **Approve** on your mobile phone.-->
 
-  5. Click **Next**.
-  6. In your mobile device, open Microsoft **Authenticator**.
-  7. Tap on **+ Add account**.
-  8. Choose **Work or School account**.
-  9. Click **Next.**
+  6. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
+  7. Go back to your computer and click **Next.**
 
   <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
 
-  10. Scan the QR code displayed on your computer screen. Your TechPass account is now activated and added to the authenticator app.
-  11. Click **Next**.
+  8. Scan the QR code displayed on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
 
   <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
 
-  <kbd>![approve](assets/images/onboarding/po-non-se/after-scanning-qr-code-new.png)</kbd>
+  Authenticator will send a notification for you to approve and confirm if this verification was set up correctly.
 
-  On your Authenticator app, there will be a prompt to approve the sign-in.
+  9. Tap **APPROVE** on your mobile device and on your computer, you will see that you have approved your sign-in.
 
-  12. Tap **APPROVE** on your mobile device.
-  13. On your computer, you will see that you have approved your sign-in. Now, click **Next**.
+  10. Click **Next**.
 
   <kbd>![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)</kbd>
 
-  14. Click **Done**.
+  11. When you see the success message, click **Done**.
 
   <kbd>![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)</kbd>
 
   You will now be directed to the Terms of Use page.
 
-  15. Click the arrow to view the **TechPass Terms of Use**.
+  12. Click the arrow to view the **TechPass Terms of Use**.
 
   <kbd>![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)</kbd>
 
-  16. Read the TechPass **Terms of Use** and click **Accept**.
+  13. Read the TechPass **Terms of Use** and click **Accept**.
 
   <kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
 
-  17. Click the arrow to view the **TechPass Privacy Policy**.
+  14. Click the arrow to view the **TechPass Privacy Policy**.
 
   <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
 
-  18. Read the TechPass **Privacy Policy** and click **Accept** before you proceed to set up the TechPass multi-factor authenticating (MFA) method.
+  15. Read the TechPass **Privacy Policy** and click **Accept** before you proceed to set up the TechPass multi-factor authenticating (MFA) method.
 
   <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
-
 
   You have now successfully onboarded to TechPass.
 

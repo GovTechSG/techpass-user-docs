@@ -1,7 +1,13 @@
 - [Overview](home)
 - [Getting Started](quickstart)
-- [Onboarding Public Officers using non-SE Device](onboard-public-officers-using-non-se-machines)
-  - [Log in to TechPass Portal](log-into-techpass-portal-po-non-se)
-  - [Edit Profile](edit-profile-po-non-se)
-- [Onboarding Vendors](onboard)
-- [Support](/support/overview.md)
+- **Public Officer**
+  - [Onboarding Public Officers using non-SE Device](onboard-public-officers-using-non-se-machines)
+  - WOG security verification
+    - [Set up security verification for WOG account](manage-security-verification-for-wog-account)
+    - [Re set security verification for WOG account](re-set-up-security-verification-for-wog-account)
+- [Log in to TechPass Portal](log-into-techpass-portal)
+  - [Edit Profile](edit-profile-using-non-se-gsib)
+- [Access SGTS services using TechPass](access-sgts-services-using-techpass)  
+- **Vendor**
+  - [Onboarding Vendors](onboard)
+  - [Support](/support/overview.md)

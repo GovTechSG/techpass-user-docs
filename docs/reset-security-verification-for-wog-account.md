@@ -30,7 +30,7 @@ _To reset security verification for WOG account:_
 Now your WOG account gets listed in the **Authenticator** app on your new mobile device. When you click **Next**, your activation status will be confirmed, and a notification will be sent to your new mobile device to verify your authentication process.
 6. Approve sign-in on your mobile device and you will be directed back to **Additional security verification** page. The newly added device will be listed in this page.
 7. Click **Save**.
-<kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/delete-old-device.png)</kbd>
+<kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/delete-old-device.png)</kbd> 
 8. If you have changed your preferred option, you will be prompted to verify it. Click **Verify preferred option**.
 <kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/verification-required.png)</kbd>
 9. Once you approve the verification sent, you will see a success message. Click **Close**.

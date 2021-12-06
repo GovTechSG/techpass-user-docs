@@ -22,7 +22,7 @@ If you have a new mobile device, you'll need to set it up to work with multi-fac
 
 6. On the **Security info** page, click **+ Add method**, select **Authenticator app** and click **Add**.
 
-<kbd>![add-auth-method](/assets/images/reset-techpass-mfa-vendor/add-method.png)
+<kbd>![add-auth-method](assets/images/reset-techpass-mfa-vendor/add-method.png)
 
 7. Download and install Microsoft Authenticator on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and click **Next**.
 

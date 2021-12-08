@@ -23,8 +23,3 @@ _To log in to your TechPass account:_
 ?>**Note:**<br>
 &bull; If there is a delay in approving the sign in, click **Send another request to my Microsoft Authenticator app** to receive another prompt on this app on your mobile phone.<br>
 &bull; If you are using other authenticating app, authenticate your TechPass sign-in as configured on this app.
-
-
-<!--Once you successfully approve your login, you will view your TechPass **Dashboard**.
-
-![](RackMultipart20211102-4-ga6654_html_7b9db28443b5ee32.png)-->

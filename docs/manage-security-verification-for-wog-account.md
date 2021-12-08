@@ -1,4 +1,4 @@
-# Set up security verification for Whole-of-Government (WOG) account
+<!--# Set up security verification for Whole-of-Government (WOG) account
 
 Public officers can use their TechPass account to access Singapore Tech Stack (SGTS) services and tools from their GMD and non-SE GSIB device. However, if public officers want to access SGTS services and tools from their Government Managed Device (GMD) using TechPass, they must first set up security verification for their WOG account. This additional security layer is required to access SGTS resources from their GMD.
 
@@ -30,4 +30,4 @@ Once you scan the QR code displayed on your computer screen, your WOG account wi
 8. Your **Profile** page is displayed.
 <kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup.png)</kbd>
 
-Now you can access STGS services and tools from your GMD.
+Now you can access STGS services and tools from your GMD.-->

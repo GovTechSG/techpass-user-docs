@@ -7,7 +7,7 @@ If you are a vendor or contractor who does not have an active TechPass account, 
 
 ?>
   You can use this TechPass account to access SGTS products and services.<br><br>
-  If you are a public officer or a user with a <i>user_name<span>@</span>gov.sg</i> email address, please refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).
+  If you are a public officer with a <i>user_name<span>@</span>gov.sg</i> email address, please refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).
 
 
 ## Onboarding vendor

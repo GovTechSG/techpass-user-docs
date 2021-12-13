@@ -1,7 +1,7 @@
 - [Overview](home)
 - Getting started
-  - [Public officer onboarding](onboard-public-officers-using-non-se-machines)
-  - [Vendor onboarding](onboard-vendors-to-techpass)
+  - [Onboard public officer](onboard-public-officers-using-non-se-machines)
+  - [Onboard vendor](onboard-vendors-to-techpass)
   - [Log in with TechPass](access-sgts-services-using-techpass)
 - Manage account
   - [Edit Profile](edit-profile)

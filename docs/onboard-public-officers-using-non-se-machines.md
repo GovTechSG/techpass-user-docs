@@ -1,6 +1,6 @@
 # Onboard public officers
 
-This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine. They can use their TechPass account to access Singapore Tech Stack(SGTS) products and services from GSIB and GMD machines.
+This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
 
 **Overview**
 
@@ -58,7 +58,7 @@ Following are the steps involved in your TechPass onboarding journey.
 <details>
   <summary>How to set up security verification for WOG account?</summary>
 
-  Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Tech Stack (SGTS) services and tools from their GMD device.
+  Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their GMD device.
 
   If you do not have a GMD or do not intend to access SGTS services using GMD, skip this step and proceed to **Onboard to TechPass**.
 

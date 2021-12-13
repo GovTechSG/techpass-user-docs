@@ -34,7 +34,7 @@ This article guides you on how to use TechPass to access SGTS resources.
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
 2. Sign in to your TechPass account or choose your TechPass account.
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
-3. If you are accessing this SGTS service from your GMD, you will be prompted to authenticate your WOG account. Enter the verification code displayed for your SG Govt M365 on your Authenticator app.
+3. If you are accessing this SGTS service from your GMD, you will be prompted to authenticate your WOG account. Enter the verification code displayed for your SG Govt M365 profile on your Authenticator app.
 
 <kbd>![verify-wog-for-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)
 

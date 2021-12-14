@@ -1,8 +1,6 @@
-# Onboarding public officer using non-SE GSIB device
+# Onboard public officers
 
-This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine.
-
-While public officers create their TechPass using non-SE GSIB machine, they can use their TechPass account to access Singapore Tech Stack(SGTS) products and services from GSIB and GMD machines.
+This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
 
 **Overview**
 
@@ -10,8 +8,9 @@ Following are the steps involved in your TechPass onboarding journey.
 
 ?> Complete the below steps using your non-SE GSIB machine.
 
+## Step 1. Sign up for TechPass
 <details>
-  <summary>a. Sign up for TechPass</summary><br>
+  <summary>How to sign up for TechPass?</summary>
 
   Public officers sign up for their TechPass account using their organisational email address. An invitation link will be sent to this email address for them to accept.
 
@@ -23,21 +22,23 @@ Following are the steps involved in your TechPass onboarding journey.
 
   2. Enter your organisational email address and select **I'm not a robot**.
 
-  ?> Format of your organisational email address shall be _your_name<span>@</span>agency.gov.sg_ or _your_name<span>@</span>tech.gov.sg_
+  ?> Format of your organisational email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/sign-up-submit.png)</kbd>
 
   3. Click **Submit**. An invitation will be sent to this email address.
 
-  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey.
+  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey which is explained in **Accept invitation** and **Onboard to TechPass**.
 
 
 </details>
 
-<details>
-  <summary>b. Accept invitation</summary><br>
+## Step 2. Accept invitation
 
-  Public officer has to accept this invitation within 30 days to onboard in to TechPass. Only then the TechPass account gets activated. If not, the pending account will be automatically deleted.
+<details>
+  <summary>Steps to accept invitation</summary>
+
+  Public officer has to accept this invitation within 30 days to onboard to TechPass. Invitation is not valid after 30 days and you need to sign up again for a TechPass account.
 
   _To accept TechPass invitation:_
 
@@ -50,16 +51,46 @@ Following are the steps involved in your TechPass onboarding journey.
   <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
 
 
-  3. Proceed to [**set up security verification for your WOG account**](manage-security-verification-for-wog-account). This step is required if you intend to use TechPass account from your GMD.
-
 </details>
 
+## Step 3. Set up security verification for your WOG account
+
 <details>
-  <summary>c. Onboard to TechPass</summary><br>
+  <summary>How to set up security verification for WOG account?</summary>
 
-  In this onboarding journey, you will be setting up verification method for your TechPass account.
+  Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their GMD device.
 
-  _To onboard in to your TechPass account:_
+  If you do not have a GMD or do not intend to access SGTS services using GMD, skip this step and proceed to **Onboard to TechPass**.
+
+  _To set up security verification for WOG account:_
+
+  1. In the non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+
+  ?> If you are prompted to sign in, use your organisation email address and GSIB device password.
+
+  2. Select **Mobile app** as the preferred authenticating method, and we strongly recommend you to choose **Receive notifications for verification**.
+
+  3. Click **Set up**.
+  <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
+  4. Follow the on-screen instructions displayed on the **Configure mobile app** page.
+  <kbd>![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code-updated.png)</kbd>
+  Once you scan the QR code displayed on your computer screen, your WOG account will be listed on the authenticator app and when you click **Next** your activation status is confirmed.
+
+  5. In the **Additional security verification** page, click **Next**.
+  <kbd>![after-scan](assets/images/security-verification-for-wog/additional-security-verification-next.png)</kbd>
+  6. To verify that you are reachable on your mobile device, a notification is sent to your mobile app. Approve sign-in on the **Authenticator** app.
+  7. Click **Done**.
+  <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
+  8. Your **Profile** page is displayed.
+  <kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup.png)</kbd>
+
+  </details>
+
+## Step 4. Onboard to TechPass
+<details>
+  <summary>How does a public officer onboard to TechPass?</summary>
+
+  _To onboard to your TechPass account:_
 
   1. If you are already signed in to your WOG account, when you accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
@@ -85,7 +116,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 
-  ?> while we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
+  ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
   <!--When you use other authenticators, you may have to enter an OTP to approve your sign in whereas in Microsoft authenticator, you just need to tap **Approve** on your mobile phone.-->
 

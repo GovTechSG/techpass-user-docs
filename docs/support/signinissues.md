@@ -1,50 +1,18 @@
 # Problems with Onboarding and Signing In
 
-##I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?
-When a public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, the TechPass account in pending status will be deleted. Note this is different from disabling TechPass account. If you want to use TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and sign up again to receive a new invitation link.
+## I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?
+When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and sign up again to receive a new invitation link.
 
 ## Why is my TechPass account disabled? How to re-enable it?
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
 To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
 
-<!--Your account might be disabled if you encounter an issue where you've signed in but the system keeps routing you back to the page.
+## I am a public officer and unable to sign in to my WOG account from my GMD.
 
-!> Your account can be disabled due to inactivity of 90 days.  
-You should receive email alerts to sign in at least once after 60 days of inactivity.
+You may encounter the following error when signing in to a WOG account from a GMD if you have set up the security verification for your WOG account. Refer to step 3 in [Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines)
 
-If you are certain that you still need TechPass to access the SG TechStack integrated services and that you should still have valid access. Please contact the respective SG TechStack Product team or us [here](support/overview?id=need-more-help) for help.-->
-
-## Authentication attempt failed
-
-A possible error faced when signing into a WOG account from an **internet device** can be seen below.
 ![mfa_error](../assets/support/mfa_error.jpg)
-
-One reason this could happen is because the user have not completed the MFA setup for additional security verification on the WOG account. Signing in from an internet device to your WOG account requires a verification from the authenticator before the sign in will be successful.
-
-Please follow the steps below to complete the MFA setup. Note that the steps are to be performed on the GSIB laptop.
-
-1. On GSIB, navigate to the additional security verification page by accessing this URL: https://account.activedirectory.windowsazure.com/Proofup.aspx
-
-2. On GSIB, enter your WOG Email and click "Next".
-   ![mfa_signin](../assets/support/mfa_setup_1.jpg)
-
-3. On GSIB, select either "Receive notifications for verification" or "Use verification code". Then click "Set up". <small>*This setting can be changed later on after the setup if you would like to switch to either of the option.*</small><br/><small>*Choosing "Receive notifications for verification" requires you to use the Microsoft Authenticator app as Microsoft will attempt to send push notifications to your mobile device for you to approve/deny the signin, instead of entering a verification code.*</small>
-   ![mfa_setup](../assets/support/mfa_setup_2.jpg)
-
-4. On GSIB, the following modal will appear together with a QR code. On your mobile phone, scan the QR code using your authenticator app. The recommended authenticator app is Microsoft Authenticator. <br/> Once you have scanned the QR code, a MFA record named "SG Govt M365" should be added for your WOG account in your Microsoft Authenticator app.
-   ![mfa_qrcode](../assets/support/mfa_setup_3.jpg)
-
-5. Once you have clicked "Next" from step 4, the following should appear. The text "Mobile app has been configured for notifications and verification codes." should be displayed, and a record in your Microsoft Authenticator with the name "SG Govt M365" should be present. Click "Next".
-   ![mfa_added](../assets/support/mfa_setup_4.jpg)
-
-6. Microsoft will attempt to verify that your MFA device is set up correctly at this step. If you have selected "Receive notifications for verification" from step 3, a push notification will be sent to your Microsoft Authenticator to approve the sign in. If you have selected "Use verification code" instead, please locate the verification code from your authenticator and type in the code.
-   ![mfa_verification](../assets/support/mfa_setup_5.jpg)
-
-7. If the verification succeeds, the text "Verification successful. Taking you to the next step..." will appear. Click on "Done" and you will be done setting up the MFA for your WOG account.
-   ![mfa_done](../assets/support/mfa_setup_6.jpg)
-
-This should resolve the authentication error when signing in from an internet device. Do take note that this is the MFA (SG Govt M365) security verification for **WOG accounts**. There is another layer of security verification for **TechPass accounts** using a different MFA (TECHPASS).
 
 ## DEEP (device compliance)
 <span style="color:red">(This is only enabled in the PROD environment and only users participating in the MDM End-to-End testing will encounter this issue.)</span>

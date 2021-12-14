@@ -10,7 +10,7 @@ This article guides you on how to use TechPass to access SGTS resources.
 ?> For documentation purpose, we have explained how you can log in with your TechPass to access resources to which you have the required permissions.
 
 ## Log in as vendor
-?> For documentation purpose,
+
 1. Go to the [Developer portal](https://docs.developer.tech.gov.sg/).
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
 

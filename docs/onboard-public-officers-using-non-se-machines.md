@@ -55,7 +55,17 @@ Following are the steps involved in your TechPass onboarding journey.
 </details>
 
 <details>
+<<<<<<< Updated upstream
   <summary>c. Onboard to TechPass</summary><br>
+=======
+  <summary>How to set up security verification for WOG account?</summary>
+
+  Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their internet Government Managed Devices(GMD).
+
+  If you do not have a GMD or do not intend to access SGTS services using GMD, skip this step and proceed to **Onboard to TechPass**.
+
+  _To set up security verification for WOG account:_
+>>>>>>> Stashed changes
 
   In this onboarding journey, you will be setting up verification method for your TechPass account.
 

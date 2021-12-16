@@ -112,7 +112,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
     - If you do not have Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and complete the wizard.
     - To use other authenticators, click **I want to use a different authenticator app.**
-    - Click **I want to setup a different method.**
+    - To use other methods, click **I want to setup a different method.**
 
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 

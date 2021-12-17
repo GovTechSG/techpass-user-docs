@@ -8,7 +8,7 @@ If you have a new mobile device, you'll need to set it up to work with multi-fac
 
 2. If prompted, sign in to your TechPass account and go to **Security info**. When prompted to approve the sign-in, use your old mobile device to approve.
 
-?> If you are a public officer and trying to access your TechPass account from a GMD, you will be prompted to authenticate your SG GovtM365 account before authenticating TechPass sign-in.
+?> If you are a public officer and trying to access your TechPass account from an internet Government Managed Device(GMD), you will be prompted to authenticate your SG GovtM365 account before authenticating TechPass sign-in.
 
 <kbd>![](assets/images/reset-techpass-mfa-vendor/security-info-menu.png)</kbd>
 

@@ -1,11 +1,11 @@
 - [Overview](home)
-- Getting started
-  - [Onboard public officer](onboard-public-officers-using-non-se-machines)
-  - [Onboard vendor](onboard-vendors-to-techpass)
-  - [Log in with TechPass](access-sgts-services-using-techpass)
-- Manage account
-  - [Edit Profile](edit-profile)
-  - Reset MFA
-    - [WOG account](reset-security-verification-for-wog-account)
-    - [TechPass account](reset-techpass-mfa-for-new-device)
+- Onboarding
+  - [Public officer](onboard-public-officers-using-non-se-machines)
+    - [WOG Security verification](manage-security-verification-for-wog-account)
+      - [Reset security verification](reset-security-verification-for-wog-account)
+  - [Vendor](onboard-vendors-to-techpass)
+- [Log in to TechPass Portal](log-into-techpass-portal)
+- [Edit Profile](edit-profile)
+- [Access SGTS services](access-sgts-services-using-techpass)
+- [Reset TechPass MFA](reset-techpass-mfa-for-new-device)
 - [Support](/support/overview.md)

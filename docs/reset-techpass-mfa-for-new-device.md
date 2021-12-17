@@ -1,5 +1,5 @@
-# Reset TechPass MFA (new mobile device)
-If TechPass users have changed, they need to reset their TechPass MFA on the new device.
+# Reset TechPass MFA
+If TechPass users have changed their mobile device, they need to reset their TechPass MFA on the new device.
 
 <!--- new device
 If you have a new mobile device, you'll need to set it up to work with multi-factor verification. This is a multi-step solution.-->
@@ -12,13 +12,13 @@ If you have a new mobile device, you'll need to set it up to work with multi-fac
 
 <kbd>![](assets/images/reset-techpass-mfa-vendor/security-info-menu.png)</kbd>
 
-3.  On the **Security info** page, click **Delete** next to the Authenticator method linked to your old mobile device.
+3.  On the **Security info** page, click **Delete** next to the Authenticator method linked to your mobile device.
 
 <kbd>![delete-auth-method](assets/images/reset-techpass-mfa-vendor/delete-auth-app-for-old-device.png)
 
 4. Click **OK** to confirm the deletion.
 
-5. Open the authenticator app on your old mobile device, delete your TechPass account from the authenticator app.
+5. Open the authenticator app on your mobile device, delete your TechPass account from the authenticator app.
 
 6. On the **Security info** page, click **+ Add method**, select **Authenticator app** and click **Add**.
 

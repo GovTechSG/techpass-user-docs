@@ -4,7 +4,7 @@ This section guides how vendors or contractors working on Gov ICT Projects can g
 ## Step 1. Get a TechPass account for vendors or contractors
 
 <details> <summary> How to get a TechPass account?</summary>
-Suppose you are a vendor or contractor, who does not have an active TechPass account, request for one from your project manager or reporting officer. Provide your official email address, handphone number and project name in this request. In turn, your project manager or reporting officer will work with the engaging government agency to set up a TechPass account for you.
+If you are a vendor or contractor, who does not have an active TechPass account, request for one from your project manager or reporting officer. Provide your official email address, handphone number and project name in this request. In turn, your project manager or reporting officer will work with the engaging government agency to set up a TechPass account for you.
 
 ?>
   You can use this TechPass account to access SGTS products and services.<br><br>

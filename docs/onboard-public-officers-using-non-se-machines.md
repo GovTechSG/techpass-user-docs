@@ -18,7 +18,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   1. Go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and click **Sign Up**.
 
-  <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up.png)</kbd>
+  <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
   2. Enter your organisational email address and select **I'm not a robot**.
 
@@ -86,11 +86,11 @@ Following are the steps involved in your TechPass onboarding journey.
 
   </details>
 
-## Step 4. Onboard to TechPass
+## Step 4. Onboard TechPass
 <details>
   <summary>How does a public officer onboard to TechPass?</summary>
 
-  _To onboard to your TechPass account:_
+  _To onboard in to your TechPass account:_
 
   1. If you are already signed in to your WOG account, when you accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
@@ -117,8 +117,6 @@ Following are the steps involved in your TechPass onboarding journey.
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 
   ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
-
-  <!--When you use other authenticators, you may have to enter an OTP to approve your sign in whereas in Microsoft authenticator, you just need to tap **Approve** on your mobile phone.-->
 
   6. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   7. Go back to your computer and click **Next**.

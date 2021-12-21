@@ -16,7 +16,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   _To get a TechPass invitation link:_
 
-  1. Go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and click **Sign Up**.
+  1. Go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 

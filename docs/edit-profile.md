@@ -6,7 +6,7 @@ Currently TechPass users can edit their TechPass profile anytime by logging into
 
 _To edit your profile:_
 
-1. Go to [TechPass portal](https://portal.techpass.gov.sg/public/home) and click **Login with TechPass**.
+1. Go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 

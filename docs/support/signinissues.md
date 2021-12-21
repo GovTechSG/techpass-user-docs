@@ -1,7 +1,7 @@
 # Problems with Onboarding and Signing In
 
 ## I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?
-When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg/public/home) and sign up again to receive a new invitation link.
+When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
 
 ## Why is my TechPass account disabled? How to re-enable it?
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
@@ -10,7 +10,7 @@ To re-enable or if you think your account was incorrectly disabled, raise a [ser
 
 ## I am a public officer and unable to sign in to my WOG account from my GMD.
 
-You may encounter the following error when signing in to a WOG account from a GMD if you have set up the security verification for your WOG account. Refer to step 3 in [Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines)
+You may encounter the following error when signing in to a WOG account from a GMD if you have set up the security verification for your WOG account. Refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 

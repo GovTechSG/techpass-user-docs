@@ -15,8 +15,6 @@ You may encounter the following error when signing in to a WOG account from a GM
 ![mfa_error](../assets/support/mfa_error.jpg)
 
 ## DEEP (device compliance)
-<span style="color:red">(This is only enabled in the PROD environment and only users participating in the MDM End-to-End testing will encounter this issue.)</span>
-
 DEEP is a system that helps developers establish a robust security baseline for their devices, while ensuring only compliant devices can access Government engineering resources.
 
 ### Protecting developer devices

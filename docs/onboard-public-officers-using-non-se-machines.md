@@ -20,13 +20,14 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
-  2. Enter your organisational email address and select **I'm not a robot**.
+  2. Enter your organisational email address.
+  3. Indicate if you would like to onboard to SEED and select **I'm not a robot**.
 
   ?> Format of your organisational email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
 
-  <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/sign-up-submit.png)</kbd>
+  <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
-  3. Click **Submit**. An invitation will be sent to this email address.
+  4. Click **Submit**. An invitation will be sent to this email address.
 
   ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey which is explained in **Accept invitation** and **Onboard to TechPass**.
 

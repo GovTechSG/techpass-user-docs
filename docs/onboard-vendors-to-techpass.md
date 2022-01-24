@@ -1,6 +1,8 @@
 # Onboard vendors
 This section guides how vendors or contractors working on Gov ICT Projects can get a TechPass account and to onboard TechPass.
 
+!> Once you've started the TechPass onboarding process, it is important to complete it within the same session.
+
 ## Step 1. Get a TechPass account for vendors or contractors
 
 <details> <summary> How to get a TechPass account?</summary>

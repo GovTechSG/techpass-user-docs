@@ -4,7 +4,7 @@
 
 ## What is TechPass?
 TechPass is an Identity & Access Management (IAM) and Single Sign On (SSO) Solution for services within the Singapore Government Technology Stack (SGTS).
-It provides a seamless login experience across SG TechStack services and allows to easily manage access control for users from a centralised location.
+It provides a seamless login experience across SGTS services and allows to easily manage access control for users from a centralised location.
 
 ## Key concepts
 TechPass is powered by [Microsoft Azure AD service](https://azure.microsoft.com/en-us/services/active-directory/). It is built on top of Azure AD to meet specific requirements of public service's development environment.

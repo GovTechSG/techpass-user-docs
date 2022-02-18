@@ -9,3 +9,4 @@
     - [WOG account](reset-security-verification-for-wog-account)
     - [TechPass account](reset-techpass-mfa-for-new-device)
 - [Support](/support/overview.md)
+- [Terms and Policies](terms-and-policies)

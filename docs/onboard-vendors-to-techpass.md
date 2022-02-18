@@ -84,9 +84,9 @@ When a TechPass account is created, vendor will be notified about it in an email
   <kbd>![vendor-mfa-9](assets/support/vendor-update-initial-password.png)</kbd>
 </details>
 
-## Step 5. Accept the Terms of Use and privacy policy
+## Step 5. Accept Terms of Use, Privacy Policy and Mobile Device Management-Acceptable Use Policy
 
-<details><summary> Steps to accept the Terms of Use and privacy policy</summary>
+<details><summary> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy</summary>
 
   1. Click the arrow to view the **TechPass Terms of Use**.
 
@@ -104,6 +104,18 @@ When a TechPass account is created, vendor will be notified about it in an email
 
   <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
 
-  You have now successfully onboarded TechPass.
+  If SEED licence is assigned, you will be prompted to accept the TechPass Mobile Device Management(MDM) - Acceptable Use Policy(AUP).
+
+  5. Click the arrow to view the **TechPass MDM AUP Policy**.
+
+  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
+
+  6. Read the policy details and click **Accept**.
+
+  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
+
+  You have now successfully onboarded TechPass. You may now proceed to onboard your non-GSIB device to SEED.
+
+  ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
 
 </details>

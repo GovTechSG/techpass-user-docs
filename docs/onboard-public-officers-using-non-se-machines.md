@@ -31,7 +31,7 @@ Following are the steps involved in your TechPass onboarding journey.
 
   4. Click **Submit**. An invitation will be sent to this email address.
 
-  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey which is explained in **Accept invitation** and **Onboard to TechPass**.
+  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey which is explained in the below steps.
 
 
 </details>
@@ -47,7 +47,8 @@ Following are the steps involved in your TechPass onboarding journey.
 
   1. Search for the email with the invitation link in your inbox.
 
-  ?> If you do not see the email in your inbox, check if it is the same email address you provided during sign up. If a spam filter or email rule moved the email, it might be in your other folders, Junk Email, Deleted Items or Archive folder.
+
+  ?> If you do not see this email in your inbox, check if it is the same email address you provided during sign up, and if a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
   2. Click **Accept invitation** and proceed with **Onboarding  to TechPass**.
 
@@ -58,12 +59,12 @@ Following are the steps involved in your TechPass onboarding journey.
 
 ## Step 3. Set up security verification for your WOG account
 
+!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others may skip this and proceed to  [Step 4. Onboard TechPass](#step-4-onboard-techpass)
+
 <details>
   <summary>How to set up security verification for WOG account?</summary>
 
   Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their GMD device.
-
-  If you do not have a GMD or do not intend to access SGTS services using GMD, skip this step and proceed to **Onboard to TechPass**.
 
   _To set up security verification for WOG account:_
 
@@ -160,7 +161,16 @@ Following are the steps involved in your TechPass onboarding journey.
 
   <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
 
-  You have now successfully onboarded to TechPass.
+  16. Click the arrow to view the **TechPass MDM AUP Policy**.
 
+  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
+
+  17. Read the policy details and click **Accept**.
+
+  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
+
+  You have now successfully onboarded to TechPass. You may now proceed to onboard your non-GSIB device to SEED.
+
+?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
 
 </details>

@@ -31,8 +31,13 @@ Following are the steps involved in your TechPass onboarding journey.
 
   4. Click **Submit**. An invitation will be sent to this email address.
 
-  ?> A TechPass account is created for you but this will be in pending state. This becomes activated once you complete the onboarding journey which is explained in the below steps.
-
+  <div class="warn">
+    <ul>
+        <li>A TechPass account is created for you now but this will be in pending state. This becomes activated once you complete the TechPass onboarding journey as explained in the following steps.</li>
+        <li>Public officers who have opted to enrol their device with SEED will receive an email with SEED onboarding instruction.</li>
+        <li>Complete onboarding to TechPass before enrolling your non-GSIB device with SEED.</li>
+    </ul>
+    </div>
 
 </details>
 
@@ -46,7 +51,6 @@ Following are the steps involved in your TechPass onboarding journey.
   _To accept TechPass invitation:_
 
   1. Search for the email with the invitation link in your inbox.
-
 
   ?> If you do not see this email in your inbox, check if it is the same email address you provided during sign up, and if a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 

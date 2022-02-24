@@ -1,10 +1,13 @@
 # Support
 This section serves as a support and troubleshooting guide for any usage problems you may encounter.
 
-## Account Management
+## TechPass account for SE-GSIB device users
+SE-GSIB device users can raise a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
+
+## Account management
 For account-related issues such as password or MFA issues, refer to [Account Management FAQ](support/account) before raising a [service request](https://go.gov.sg/techpass-sr).
 
-## Signing In Issues
+## Signing in issues
 For issues related to signing into SG TechStack applications using your TechPass account, refer to [Problems with Onboarding and Signing In](support/signinissues).
 
 !>

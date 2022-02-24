@@ -10,9 +10,5 @@ For account-related issues such as password or MFA issues, refer to [Account Man
 ## Signing in issues
 For issues related to signing into SG TechStack applications using your TechPass account, refer to [Problems with Onboarding and Signing In](support/signinissues).
 
-!>
-You cannot access TechPass and the integrated services from SE GSIB devices.  
-Please request for a non-SE GSIB or a GMD device if you need to use TechPass and the integrated services.
-
 ## Need more help?
 Submit a [service request](https://go.gov.sg/techpass-sr). We will get back to you within three business days.  

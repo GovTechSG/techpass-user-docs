@@ -1,19 +1,25 @@
 # Onboard vendors
-This section guides how vendors or contractors working on Gov ICT Projects can get a TechPass account and to onboard TechPass.
+This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence.
 
 !> Once you've started the TechPass onboarding process, it is important to complete it within the same session.
 
-## Step 1. Get a TechPass account for vendors or contractors
+## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 
-<details> <summary> How to get a TechPass account?</summary>
-If you are a vendor or contractor, who does not have an active TechPass account, request for one from your project manager or reporting officer. Provide your official email address, handphone number and project name in this request. In turn, your project manager or reporting officer will work with the engaging government agency to set up a TechPass account for you.
+<details> <summary> How to get a TechPass account and SEED licence?</summary>
 
-?>
-  You can use this TechPass account to access SGTS products and services.<br><br>
-  If you are a public officer, refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).
-
-
-When a TechPass account is created, vendor will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to their handphone.
+ <div class="warn">
+ <ul>
+ <li>SEED licence is applicable only for **non-GSIB devices**.</li>
+ <li> If you already have an active TechPass account and need a SEED licence, contact your project manager or reporting officer.</li>
+ <li>If you are a public officer, refer to [Onboarding Public Officers](onboard-public-officers-using-non-se-machines).</li>
+ </ul>
+ </div>
+ <ul>
+  <li>If you are a vendor or contractor who has to access SGTS services and does not have an active TechPass account and a SEED licence, request for them from your project manager or reporting officer.</li>
+  <li>Provide the required details such as your official email address, handphone number, project name and device details for SEED licence in this request. In turn, your project manager or reporting officer will work with the engaging government agency to assign a TechPass account and SEED licence.</li>
+  <li> When a TechPass account is created, you will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone.</li>
+  <li>Similarly, you will receive an email when a SEED licence is assigned for you.</li>
+ </ul>
 
 </details>
 
@@ -86,7 +92,7 @@ When a TechPass account is created, vendor will be notified about it in an email
 
 ## Step 5. Accept Terms of Use, Privacy Policy and Mobile Device Management-Acceptable Use Policy
 
-<details><summary> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy</summary>
+<details><summary> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy for SEED</summary>
 
   1. Click the arrow to view the **TechPass Terms of Use**.
 

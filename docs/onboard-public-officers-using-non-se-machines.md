@@ -1,6 +1,9 @@
 # Onboard public officers
 
-This article guides public officers to sign up for TechPass account and to onboard to it using their non-SE GSIB machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
+This article guides public officers to sign up for TechPass account and to onboard to it using their *non-SE GSIB* machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
+
+**Secure Email GSIB device**  
+SE-GSIB device users can access [here](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get their TechPass account.
 
 !> Once you've started the TechPass onboarding process, it is important to complete it within the same session.
 

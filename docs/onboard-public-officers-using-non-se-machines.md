@@ -1,5 +1,13 @@
 # Onboard public officers
 
+<div class="tip">
+<p>If you are a public officer who is a GCC 1.0 user and needs a TechPass to onboard your internet device(non-GSIB) to SEED(GCC MDM solution):</p>
+<ol>
+<li>Depending on the allotted schedule, your agency representative will receive a link to register their public officers for TechPass account and SEED onboarding.</li>
+<li>Following this, you will receive an email with instructions to activate your TechPass account.</li>
+</ol>
+</div>
+
 This article guides public officers to sign up for TechPass account and to onboard to it using their *non-SE GSIB* machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
 
 **Secure Email GSIB device**  
@@ -11,7 +19,12 @@ SE-GSIB device users can access [here](support/overview?id=techpass-account-for-
 
 Following are the steps involved in your TechPass onboarding journey.
 
-?> Complete the below steps using your non-SE GSIB machine.
+<div class="warn">
+<ul>
+<li>If you are a GCC 1.0 user and activating your TechPass account to onboard your internet device(non-GSIB) device to SEED, skip step 1.</li>
+<li>Other users, complete the below steps using your non-SE GSIB machine.</li>
+</ul>
+</div>
 
 ## Step 1. Sign up for TechPass
 <details>

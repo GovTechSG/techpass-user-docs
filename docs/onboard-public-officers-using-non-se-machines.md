@@ -2,7 +2,10 @@
 
 **Overview**
 
-This article guides public officers to sign up for TechPass account and to activate it using their non-SE GSIB device. They can use their TechPass account as a SSO to seamlessly access Singapore Government Technology Stack (SGTS) products and services.
+This article guides public officers to sign up for TechPass account and and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
+
+They can use their TechPass account and SEED to seamlessly access Singapore Government Technology Stack (SGTS) products and services in a secured fashion.
+
 
 <div class="tip">
 <p>Note for GCC 1.0 users:</p>
@@ -13,12 +16,7 @@ This article guides public officers to sign up for TechPass account and to activ
 </ol>
 </div>
 
-<div class="tip">
-<p>Note for SE-GSIB users:</p>
-<ul>
-<li>If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get your TechPass account.</li>
-</ol>
-</div>
+?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get your TechPass account.
 
 
 *To get a TechPass account*:

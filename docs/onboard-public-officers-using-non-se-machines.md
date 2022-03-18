@@ -1,29 +1,33 @@
 # Onboard public officers
 
+**Overview**
+
+This article guides public officers to sign up for TechPass account and to activate it using their non-SE GSIB device. They can use their TechPass account as a SSO to seamlessly access Singapore Government Technology Stack (SGTS) products and services.
+
 <div class="tip">
-<p>If you are a public officer who is a GCC 1.0 user and needs a TechPass to onboard your internet device(non-GSIB) to SEED(GCC MDM solution):</p>
+<p>Note for GCC 1.0 users:</p>
 <ol>
 <li>Depending on the allotted schedule, your agency representative will receive an email with the registration link and steps to register for TechPass account and SEED onboarding.</li>
 <li>Agency representative will share this registration link with the required GCC 1.0 users.</li>
-<li>Following this, the GCC 1.0 users can register for TechPass account.</li>
+<li>GCC 1.0 user registers for a TechPass account.</li>
 </ol>
 </div>
 
-This article guides public officers to sign up for TechPass account and to onboard to it using their *non-SE GSIB* machine. They can use their TechPass account to access Singapore Government Technology Stack (SGTS) products and services from GSIB and GMD machines.
+<div class="tip">
+<p>Note for SE-GSIB users:</p>
+<ul>
+<li>If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get your TechPass account.</li>
+</ol>
+</div>
 
-**Secure Email GSIB device**  
-SE-GSIB device users can access [here](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get their TechPass account.
 
-!> Once you've started the TechPass onboarding process, it is important to complete it within the same session.
-
-**Overview**
-
-Following are the steps involved in your TechPass onboarding journey.
+*To get a TechPass account*:
 
 <div class="warn">
 <ul>
-<li>If you are a GCC 1.0 user and activating your TechPass account to onboard your internet device(non-GSIB) device to SEED, skip step 1.</li>
-<li>Other users, complete the below steps using your non-SE GSIB machine.</li>
+<li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
+<li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
+<li>Once you've started the TechPass onboarding process, it is important to complete it within the same session.</li>
 </ul>
 </div>
 

@@ -1,15 +1,24 @@
 # Onboard vendors
-This section guides how vendors or contractors working on Government ICT Projects that are not supported by GCC 1.0 can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence.
-
-If you are a vendor or contractor for an agency and working on projects supported by GCC 1.0 user, your engaging agency's representative will send you an email with TechPass account registration link and the required instructions. You can then activate your TechPass account and may proceed with onboarding your non-GSIB/internet device to SEED.
+This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
 <div class="tip">
+<p>Note for GCC 1.0 users:</p>
+<ol>
+<li>Depending on the allotted schedule, your engaging agency's representative will receive an email with the registration link and steps to register for TechPass account and SEED onboarding.</li>
+<li>Agency representative shares this registration link with the required GCC 1.0 users.</li>
+<li>GCC 1.0 user registers for a TechPass account.</li>
+</ol>
+</div>
+
+<div class="warn">
 <ul>
 <li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
-<li>Other users, complete the below steps using your non-SE GSIB machine.</li>
+<li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
 <li>Once you've started the TechPass onboarding process, it is important to complete it within the same session.</li>
 </ul>
 </div>
+
+*To get a TechPass account*:
 
 ## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 

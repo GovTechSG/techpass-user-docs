@@ -18,10 +18,9 @@ If you are a vendor who is a GCC 1.0 user and needs a TechPass to onboard your i
 <ul>
 <li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
 <li>Other users, complete the below steps using your non-SE GSIB machine.</li>
+<li>Once you've started the TechPass onboarding process, it is important to complete it within the same session.</li>
 </ul>
 </div>
-
-!> Once you've started the TechPass onboarding process, it is important to complete it within the same session.
 
 ## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 

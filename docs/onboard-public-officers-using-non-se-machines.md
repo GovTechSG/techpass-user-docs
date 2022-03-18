@@ -5,7 +5,7 @@
 <ol>
 <li>Depending on the allotted schedule, your agency representative will receive an email with the registration link and steps to register for TechPass account and SEED onboarding.</li>
 <li>Agency representative will share this registration link with the required GCC 1.0 users.</li>
-<li>Following this, the GCC 1.0 users register for TechPass account.</li>
+<li>Following this, the GCC 1.0 users can register for TechPass account.</li>
 </ol>
 </div>
 

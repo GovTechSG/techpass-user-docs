@@ -2,7 +2,7 @@
 
 **Overview**
 
-This article guides public officers to sign up for TechPass account and and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
+This article guides public officers to sign up for TechPass account and request for a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
 <div class="tip">
 <p>Note for GCC 1.0 users:</p>

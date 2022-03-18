@@ -20,7 +20,7 @@ While TechPass account is used as a SSO to seamlessly access Singapore Governmen
 </ul>
 </div>
 
-*To get a TechPass account*:
+*To get a TechPass account* :
 
 ## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 

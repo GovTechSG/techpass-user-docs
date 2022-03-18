@@ -16,10 +16,10 @@ While TechPass account is used as a SSO to seamlessly access Singapore Governmen
 </ol>
 </div>
 
-?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for instructions to get your TechPass account.
+?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for getting a TechPass account.
 
 
-*To get a TechPass account*:
+*To get a TechPass account* :
 
 <div class="warn">
 <ul>

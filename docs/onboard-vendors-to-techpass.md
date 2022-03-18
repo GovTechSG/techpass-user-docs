@@ -1,19 +1,22 @@
 # Onboard vendors
-
+<!--
 <div class="tip">
 <p>If you are a vendor who is a GCC 1.0 user and needs a TechPass to onboard your internet device(non-GSIB) to SEED(GCC MDM solution):</p>
 <ol>
 <li>Depending on the allotted schedule, the engaging agency's representative will receive an email with the registration link and steps to register for TechPass account and SEED onboarding.</li>
-<li>Agency representative will share this registration link with the required GCC 1.0 users.</li>
-<li>Following this, the GCC 1.0 users register for TechPass account.</li>
+<li>Agency representative shares this registration link with the required GCC 1.0 users.</li>
+<li>Following this, the GCC 1.0 users can register for TechPass account.</li>
 </ol>
-</div>
+</div>-->
 
-This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence.
+
+This section guides how vendors or contractors working on Government ICT Projects that are not supported by GCC 1.0 can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence.
+
+If you are a vendor who is a GCC 1.0 user and needs a TechPass to onboard your internet device(non-GSIB) to SEED(GCC MDM solution), your engaging agency will send you a TechPass account registration link with the required instructions. You can then activate your TechPass account and may proceed with onboarding your device to SEED.
 
 <div class="warn">
 <ul>
-<li>If you are a GCC 1.0 user and activating your TechPass account to onboard your internet device(non-GSIB) device to SEED, skip step 1.</li>
+<li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
 <li>Other users, complete the below steps using your non-SE GSIB machine.</li>
 </ul>
 </div>

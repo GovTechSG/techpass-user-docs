@@ -1,6 +1,8 @@
 # Onboard vendors
 This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
+While TechPass account is used as a SSO to seamlessly access Singapore Government Technology Stack (SGTS) products and services SEED is used to access them from your device in a secured fashion.
+
 <div class="tip">
 <p>Note for GCC 1.0 users:</p>
 <ol>

@@ -1,4 +1,4 @@
-# FAQ for GCC 1.0 and SHIP-HATS users
+# Common issues for GCC 1.0 and SHIP-HATS users
 
 1. I received an email stating, "Your account was used for a new registration request". What does it mean?
 

@@ -10,7 +10,7 @@ To re-enable or if you think your account was incorrectly disabled, raise a [ser
 
 ## I am a public officer and unable to sign in to my WOG account from my GMD.
 
-You may encounter the following error when signing in to a WOG account from a GMD if you have set up the security verification for your WOG account. Refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
+You may encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 

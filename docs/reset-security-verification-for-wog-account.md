@@ -1,4 +1,4 @@
-# Reset security verification for WOG account
+# Reset MFA for WOG account
 
 This article is applicable only for public officers. Public officers may have to reset security verification for their WOG account in the following cases:
 

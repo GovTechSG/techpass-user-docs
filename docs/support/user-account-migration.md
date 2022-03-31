@@ -1,4 +1,4 @@
-# Common issues for GCC 1.0 and SHIP-HATS users
+# Common issues for GCC 1.0 MDM onboarding and SHIP-HATS account migration users
 
 1. I received an email stating, "Your account was used for a new registration request". What does it mean?
 
@@ -33,7 +33,7 @@ If you are a public officer, generally, your organisational email address is you
 
 While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your organisational email address.
 
-If you are using TechPass as an SSO to access any SGTS services from your non-GSIB device, first you need to authenticate your WOG account by entering the OTP displayed for your SG Govt M365 profile on the Authenticator app. Once this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
+If you are using TechPass as an SSO to access any SGTS services from your GMD device; First, you need to authenticate your WOG account by entering your email and the OTP as verification code displayed in your SG Govt M365 profile on the Authenticator app. Once this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
 
 If you are accessing SGTS services from your GSIB, there is no need for WOG account authentication as it is done when you sign in to your GSIB device.
 

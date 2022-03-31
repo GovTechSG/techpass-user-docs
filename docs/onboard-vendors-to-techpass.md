@@ -66,7 +66,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
   ?> You may install any authenticator. However, as we recommend Microsoft authenticator, this document will guide you to configure TechPass MFA using that.
 
-  2. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
+  2. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   3. Tap **Scan a QR code**.
   4. Go back to your computer and click **Next**.
   <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2.png)</kbd>

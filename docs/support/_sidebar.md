@@ -2,4 +2,4 @@
 - [Overview](/support/overview)
 - [Account management](/support/account)
 - [Problems with signing in?](/support/signinissues)
-- [FAQ for GCC 1.0 and SHIP-HATS users](/support/user-account-migration)
+- [Common issues for GCC 1.0 and SHIP-HATS users](/support/user-account-migration)

@@ -79,7 +79,7 @@ This article guides public officers to sign up for TechPass account and request 
 
 ## Step 3. Set up security verification for your WOG account
 
-!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others may skip this and proceed to  [Step 4. Onboard TechPass](#step-4-onboard-techpass)
+!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others may skip this and proceed to  [step 4. Onboard TechPass](#step-4-onboard-techpass)
 
 <details>
   <summary>How to set up security verification for WOG account?</summary>
@@ -142,7 +142,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  6. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
+  6. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   7. Go back to your computer and click **Next**.
 
   <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>

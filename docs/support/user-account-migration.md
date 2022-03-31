@@ -2,9 +2,9 @@
 
 1. I received an email stating, "Your account was used for a new registration request". What does it mean?
 
-You may receive this email if you are a GCC 1.0 user or part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
+You may receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
-If you did not re-attempt to sign up for TechPass account, this could be a potential hack and hence [report this incident][service-request] to us and monitor your TechPass account for suspicious activities.
+If you neither re-attempted to sign up for TechPass account nor part of the SHIP-HATS account migration , this could be a potential hack and hence [report this incident][service-request] to us and monitor your TechPass account for suspicious activities.
 
 2. I received an email stating, "Your disabled account was used for a new registration request". What does it mean?
 
@@ -18,14 +18,16 @@ To get a new invitation link, raise a [service request][service-request] with us
 
 4. I am a public officer. How do I reset my TechPass account password?
 
-If you are a public officer, generally, your organisational email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*. Hence, your GSIB device password is also your TechPass account password. If you are currently logged in to your GSIB device, proceed to [reset your password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
+If you are a public officer; your agency email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
+
+Hence, your GSIB device password is also your TechPass account password. If you are currently logged in to your GSIB device, proceed to [reset your password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
 
 5. I am a vendor. How do I reset password for my TechPass account?
 
 Generally, if you are a vendor, your TechPass ID will look like *your_name<span>@</span>techpass.gov.sg*.
 [Reset your password][reset-password-vendor] by following the onscreen instructions on this page.
 
-6. why do public officers have 2 MFA profiles, SG Govt M365 and TECHPASS, on their authenticator app?
+6. Why do public officers have 2 MFA profiles, SG Govt M365 and TECHPASS, on their authenticator app?
 
 If you are a public officer, generally, your organisational email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
 

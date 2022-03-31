@@ -1,8 +1,10 @@
 # Account Management FAQs
 <details>
-<summary>1. I am a vendor and my TechPass account has got locked. How to unlock my TechPass account?</summary>
+<summary>1. My TechPass account has got locked. How to unlock my TechPass account?</summary>
 
-Vendor's TechPass account will be locked after five consecutive unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
+If you are a vendor, your TechPass account will be locked after five consecutive unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
+
+If you are a public officer, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
 </details>
 
@@ -11,7 +13,7 @@ Vendor's TechPass account will be locked after five consecutive unsuccessful log
 
 For vendors, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory] and will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
-Public officers will be notified to [reset their GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
+Based on WOG's password policies, public officers will be notified to [reset GSIB password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
 
 </details>
 

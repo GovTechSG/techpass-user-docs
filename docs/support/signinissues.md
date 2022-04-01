@@ -1,7 +1,7 @@
 # Common questions on onboarding and sigining in
 
 ## Can I use my *your_name<span>@</span>litemail.gov.sg* to sign up for a TechPass account?
-No. As LiteMail accounts are not supported, upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
+No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
 
 
 ## I am a public officer and unable to sign in to my WOG account from my GMD.

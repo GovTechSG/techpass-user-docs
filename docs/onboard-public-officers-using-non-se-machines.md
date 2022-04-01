@@ -30,7 +30,7 @@ This article guides public officers to sign up for TechPass account and request 
 <details>
   <summary>How to sign up for TechPass?</summary>
 
-  Public officers sign up for their TechPass account using their organisational email address. An invitation link will be sent to this email address for them to accept.
+  Public officers sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
 
   _To get a TechPass invitation link:_
 
@@ -38,10 +38,10 @@ This article guides public officers to sign up for TechPass account and request 
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
-  2. Enter your organisational email address.
+  2. Enter your official email address.
   3. Indicate if you would like to onboard to SEED and select **I'm not a robot**.
 
-  ?> Format of your organisational email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
+  ?> Format of your official email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 

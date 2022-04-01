@@ -4,7 +4,7 @@
 
 You may receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
-If you neither re-attempted to sign up for TechPass account nor part of the SHIP-HATS account migration , this could be a potential hack and hence [report this incident][service-request] to us and monitor your TechPass account for suspicious activities.
+If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration,  [report this][service-request] to us and monitor your TechPass account for suspicious activities.
 
 2. I received an email stating, "Your disabled account was used for a new registration request". What does it mean?
 
@@ -18,7 +18,7 @@ To get a new invitation link, raise a [service request][service-request] with us
 
 4. I am a public officer. How do I reset my TechPass account password?
 
-If you are a public officer; your agency email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
+If you are a public officer; your official email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
 
 Hence, your GSIB device password is also your TechPass account password. If you are currently logged in to your GSIB device, proceed to [reset your password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
 
@@ -29,9 +29,9 @@ Generally, if you are a vendor, your TechPass ID will look like *your_name<span>
 
 6. Why do public officers have 2 MFA profiles, SG Govt M365 and TECHPASS, on their authenticator app?
 
-If you are a public officer, generally, your organisational email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
+If you are a public officer, generally, your official email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
 
-While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your organisational email address.
+While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your official email address.
 
 If you are using TechPass as an SSO to access any SGTS services from your GMD device; First, you need to authenticate your WOG account by entering your email and the OTP as verification code displayed in your SG Govt M365 profile on the Authenticator app. Once this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
 

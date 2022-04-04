@@ -1,18 +1,34 @@
-# Problems with Onboarding and Signing In
+# Common questions on onboarding and signing in
 
-## I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?
-When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
+## Can I use my *your_name<span>@</span>litemail.gov.sg* to sign up for a TechPass account?
+No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
 
-## Why is my TechPass account disabled? How to re-enable it?
-Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
+## I am using a SE GSIB device. How do I sign up for a TechPass account?
+If you are using a SE GSIB device:
 
-To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
+1. Raise a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
 
-## I am a public officer and unable to sign in to my WOG account from my GMD.
+![SE-GSIB service request options](../assets/support/SE-GSIB_SROptions.png)
 
-You may encounter the following error when signing in to a WOG account from a GMD if you have set up the security verification for your WOG account. Refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
+2. In **Ticket Request Type**, select **Service Request** and choose **Create TechPass account for Secured Email GSIB users**.
+3. When prompted to confirm if you are a Secured Email (SE) GSIB user, select **Yes**.
 
-![mfa_error](../assets/support/mfa_error.jpg)
+?> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. Refer to [Glossary](../glossary.md) for more information on SE GSIB device.
+
+## How do I confirm if my device is SE GSIB or non-SE GSIB device?
+
+If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN. 
+
+
+
+
+<!--## TechPass account for SE-GSIB device users
+SE-GSIB device users can raise a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
+
+Please select **Service Request** for ticket request type and **Create TechPass account for Secure Email GSIB users** when submitting the ticket.
+
+<kbd>![SE-GSIB service request options](../assets/support/SE-GSIB_SROptions.png)</kbd>-->
+
 
 ## DEEP (device compliance)
 DEEP is a system that helps developers establish a robust security baseline for their devices, while ensuring only compliant devices can access Government engineering resources.

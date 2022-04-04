@@ -30,7 +30,10 @@ This article guides public officers to sign up for TechPass account and request 
 <details>
   <summary>How to sign up for TechPass?</summary>
 
-  Public officers sign up for their TechPass account using their organisational email address. An invitation link will be sent to this email address for them to accept.
+  Public officers sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
+
+  ?> Note: As LiteMail accounts are not supported, upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*
+
 
   _To get a TechPass invitation link:_
 
@@ -38,10 +41,10 @@ This article guides public officers to sign up for TechPass account and request 
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
-  2. Enter your organisational email address.
+  2. Enter your official email address.
   3. Indicate if you would like to onboard to SEED and select **I'm not a robot**.
 
-  ?> Format of your organisational email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
+  ?> Format of your official email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
@@ -79,7 +82,7 @@ This article guides public officers to sign up for TechPass account and request 
 
 ## Step 3. Set up security verification for your WOG account
 
-!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others may skip this and proceed to  [Step 4. Onboard TechPass](#step-4-onboard-techpass)
+!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others may skip this and proceed to  [step 4. Onboard TechPass](#step-4-onboard-techpass)
 
 <details>
   <summary>How to set up security verification for WOG account?</summary>
@@ -142,7 +145,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you to set up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  6. In your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
+  6. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   7. Go back to your computer and click **Next**.
 
   <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>

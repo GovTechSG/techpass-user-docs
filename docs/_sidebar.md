@@ -5,8 +5,6 @@
   - [Log in with TechPass](access-sgts-services-using-techpass)
 - Manage account
   - [Edit Profile](edit-profile)
-  - Reset MFA
-    - [WOG account](reset-security-verification-for-wog-account)
-    - [TechPass account](reset-techpass-mfa-for-new-device)
-- [Support](/support/overview.md)
+  - [Reset MFA](reset-mfa)
+  - [Support](/support/overview.md)
 - [Terms and Policies](terms-and-policies)

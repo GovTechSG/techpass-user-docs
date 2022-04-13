@@ -32,7 +32,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   Public officers sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
 
-  ?> Note: As LiteMail accounts are not supported, upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*
+?> Note: As LiteMail accounts are not supported, upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*
 
 
   _To get a TechPass invitation link:_
@@ -44,7 +44,7 @@ This article guides public officers to sign up for TechPass account and request 
   2. Enter your official email address.
   3. Indicate if you would like to onboard to SEED and select **I'm not a robot**.
 
-  ?> Format of your official email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
+  ?> Tip: Format of your official email address shall be *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
@@ -53,7 +53,7 @@ This article guides public officers to sign up for TechPass account and request 
   <div class="warn">
     <ul>
         <li>A TechPass account is created for you now but this will be in pending state. This becomes activated once you complete the TechPass onboarding journey as explained in the following steps.</li>
-        <li>Public officers who have opted to enrol their device with SEED will receive an email with SEED onboarding instruction.</li>
+        <li>Public officers who have opted to enrol their device with SEED will receive the SEED onboarding instructions email around the next 3 business days.</li>
         <li>Complete onboarding to TechPass before enrolling your non-GSIB device with SEED.</li>
     </ul>
     </div>

@@ -4,8 +4,8 @@ Currently Public Officers can onboard their device to SEED by logging into the T
 
 <div class="warn">
  <ul>
- <li>SEED is applicable only for <b>non-GSIB device</b>.</li>
- <li>If you are a vendor or contractor who needs to be onboarded to SEED, contact your project manager or reporting officer.</li>
+ <li>SEED is not applicable only for GSIB and DWP devices.</li>
+ <li>If you are a vendor or contractor, contact your project manager or reporting officer to get your SEED licence before proceeding to onboard to SEED.</li>
  <li>Click <a href="https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices">here</a> for more information about SEED.</li>
  </ul>
 </div>
@@ -38,8 +38,6 @@ or **Add SEED Device** _(this will show up if you have already been assigned SEE
 6. A **SEED - Add Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
 
 <kbd>![add-device](assets/images/seed/add-device.png)</kbd>
-
-!> You are not allowed to onboard a Digital Workplace (DWP) Device to SEED
 
 7. Upon successful registration, a success notification should pop up. It will take up to 30 minutes for the onboarding to complete in the background, after which you should receive an email confirming your successful onboarding to SEED.
 

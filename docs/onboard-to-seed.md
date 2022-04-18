@@ -32,16 +32,16 @@ _To onboard your device to SEED:_
 
 5. Under **SEED Status**, either click **Request for SEED** _(this will show up if you have not been assigned SEED license)_
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>  
-or **Add SEED Device** _(this will show up if you have already been assigned SEED license)_ 
-<kbd>![license-assigned-add-device](assets/images/seed/license-assigned-add-device.png)</kbd>
+or **Onboard device to SEED** _(this will show up if you have already been assigned SEED license)_ 
+<kbd>![licence-assigned-onboard-device](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
 
-6. A **SEED - Add Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
+6. A **SEED - Onboard Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
 
-<kbd>![add-device](assets/images/seed/add-device.png)</kbd>
+<kbd>![onboard-device](assets/images/seed/onboard-device.png)</kbd>
 
 7. Upon successful registration, a success notification should pop up. It will take up to 30 minutes for the onboarding to complete in the background, after which you should receive an email confirming your successful onboarding to SEED.
 
-<kbd>![add-device-success](assets/images/seed/add-device-success.png)</kbd>  
+<kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
 
 8. Under **SEED Devices** _(visible only if you have successfully added your device)_, a device that is pending onboarding to be completed in the background would have the status of 'pending' whereas a device that has completed onboarding would have the status of 'onboarded'.
 

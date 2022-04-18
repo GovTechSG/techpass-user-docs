@@ -1,6 +1,6 @@
 # Onboard to SEED
 
-Currently Public Officers can onboard their device to SEED by logging into the TechPass portal using non-SE GSIB machine.
+Currently, Public Officers can onboard their device to SEED by logging into the TechPass portal using non-SE GSIB machine.
 
 <div class="warn">
  <ul>
@@ -32,7 +32,7 @@ _To onboard your device to SEED:_
 
 5. Under **SEED Status**, either click **Request for SEED** _(this will show up if you have not been assigned SEED license)_
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>  
-or **Add SEED Device** _(this will show up if you have already been assigned SEED license)_ 
+or **Add SEED Device** _(this will show up if you have already been assigned SEED license)_
 <kbd>![license-assigned-add-device](assets/images/seed/license-assigned-add-device.png)</kbd>
 
 6. A **SEED - Add Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.

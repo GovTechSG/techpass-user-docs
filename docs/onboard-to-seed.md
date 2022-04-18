@@ -1,6 +1,6 @@
 # Onboard to SEED
 
-Currently Public Officers can onboard their device to SEED by logging into the TechPass portal using non-SE GSIB machine.
+Currently, Public Officers can onboard their device to SEED by logging into the TechPass portal using non-SE GSIB machine.
 
 <div class="warn">
  <ul>

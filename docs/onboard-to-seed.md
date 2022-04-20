@@ -33,15 +33,30 @@ _To onboard your device to SEED:_
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
 
+<<<<<<< HEAD
 5. To request for SEED, click **Request for SEED** under **SEED Status**.
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
 ?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED** , **Onboard device to SEED** option is displayed.
+=======
+5. Under **SEED Status**, either click **Request for SEED** _(this will show up if you have not been assigned SEED license)_
+<kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>  
+or **Onboard device to SEED** _(this will show up if you have already been assigned SEED license)_ 
+<kbd>![licence-assigned-onboard-device](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
+
+6. A **SEED - Onboard Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
+
+<kbd>![onboard-device](assets/images/seed/onboard-device.png)</kbd>
+>>>>>>> 5dcabd67488ebb1ab682f0617ef238e3cf513e93
 
 6. To onboard the device to SEED, click **Onboard device to SEED**.
 
+<<<<<<< HEAD
 <kbd>![request-for-seed](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
+=======
+<kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
+>>>>>>> 5dcabd67488ebb1ab682f0617ef238e3cf513e93
 
 7. The **SEED - Onboard Device** dialog is displayed. Follow the instructions on this dialog.
 

@@ -1,11 +1,14 @@
-# Onboard to SEED
+# Request for SEED and submit Intune device ID for SEED onboarding
 
-Currently, Public Officers can onboard their device to SEED by logging into the TechPass portal using non-SE GSIB machine.
+This article is applicable only for public officers who have an existing active TechPass ID and need to onboard their device to SEED. Public officers can request for SEED from the [TechPass portal](https://portal.techpass.gov.sg/public/home) using their non-SE GSIB machine.
 
+>**Notes**:
+>- You can't onboard a GSIB or DWP device to SEED.
+>- If you are a vendor or contractor, contact your project manager or reporting officer to request for SEED provisioning before proceeding with your SEED onboarding.
 <div class="warn">
  <ul>
- <li>SEED is not applicable only for GSIB and DWP devices.</li>
- <li>If you are a vendor or contractor, contact your project manager or reporting officer to get your SEED licence before proceeding to onboard to SEED.</li>
+ <li>You can't onboard a GSIB or DWP device to SEED.</li>
+ <li>If you are a vendor or contractor, contact your project manager or reporting officer to request for SEED provisioning before proceeding with your SEED onboarding.</li>
  <li>Click <a href="https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices">here</a> for more information about SEED.</li>
  </ul>
 </div>
@@ -30,19 +33,30 @@ _To onboard your device to SEED:_
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
 
-5. Under **SEED Status**, either click **Request for SEED** _(this will show up if you have not been assigned SEED license)_
-<kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>  
-or **Add SEED Device** _(this will show up if you have already been assigned SEED license)_
-<kbd>![license-assigned-add-device](assets/images/seed/license-assigned-add-device.png)</kbd>
+5. To request for SEED, click **Request for SEED** under **SEED Status**.
 
-6. A **SEED - Add Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
+<kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
-<kbd>![add-device](assets/images/seed/add-device.png)</kbd>
+?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED** , **Onboard device to SEED** option is displayed.
 
-7. Upon successful registration, a success notification should pop up. It will take up to 30 minutes for the onboarding to complete in the background, after which you should receive an email confirming your successful onboarding to SEED.
+6. To onboard the device to SEED, click **Onboard device to SEED**.
 
-<kbd>![add-device-success](assets/images/seed/add-device-success.png)</kbd>  
+<kbd>![request-for-seed](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
 
-8. Under **SEED Devices** _(visible only if you have successfully added your device)_, a device that is pending onboarding to be completed in the background would have the status of 'pending' whereas a device that has completed onboarding would have the status of 'onboarded'.
+7. The **SEED - Onboard Device** dialog is displayed. Follow the instructions on this dialog.
 
-9. More details on SEED onboarding (including FAQ, troubleshooting common issues, raising support ticket) can be found [here](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices)
+8. Enter the Intune device ID in this dialog and click **Submit**.
+
+<kbd>![add-device](assets/images/seed/onboard-device.png)</kbd>
+
+?> Note: Ensure there are no spaces at the beginning and end of the Intune device ID.
+
+After you submit the Intune device ID, a success message is displayed.
+
+<kbd>![add-device-success](assets/images/seed/onboard-device-success.png)</kbd>
+
+ It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the seed onboarding status for that device is Pending. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to Onboarded and you will receive a successfully onboarded email.
+
+<kbd>![add-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
+
+Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onbaord a device to SEED.

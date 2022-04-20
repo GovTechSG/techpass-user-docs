@@ -31,7 +31,7 @@ _To onboard your device to SEED:_
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
-?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED** , **Onboard device to SEED** option is displayed.
+?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.
 
 6. To onboard the device to SEED, click **Onboard device to SEED**.
 
@@ -43,13 +43,12 @@ _To onboard your device to SEED:_
 
 <kbd>![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)</kbd>
 
-?> Note: Ensure there are no spaces at the beginning and end of the Intune device ID.
+> **Notes**:
+>- Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onboard a device to SEED.
+>- Ensure there are no spaces at the beginning and at the end of the Intune device ID.
 
-After you submit the Intune device ID, a success message is displayed.
+After you submit the Intune device ID, the following success message is displayed.
 
 <kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>
 
- It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the device onboarding status is **Pending**. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
-
-
-Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onboard a device to SEED.
+ It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. During this time, the device onboarding status is **Pending**. Once the device is updated with all the required softwares and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.

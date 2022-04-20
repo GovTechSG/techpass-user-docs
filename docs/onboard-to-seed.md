@@ -27,7 +27,6 @@ _To onboard your device to SEED:_
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
 
-
 5. To request for SEED, click **Request for SEED** under **SEED Status**.
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
@@ -36,21 +35,21 @@ _To onboard your device to SEED:_
 
 6. To onboard the device to SEED, click **Onboard device to SEED**.
 
-<kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
+<kbd>![onboard-device-to-seed](assets/images/seed/licence-assigned-onboard-device.png)</kbd>  
 
 7. The **SEED - Onboard Device** dialog is displayed. Follow the instructions on this dialog.
 
 8. Enter the Intune device ID in this dialog and click **Submit**.
 
-<kbd>![add-device](assets/images/seed/onboard-device.png)</kbd>
+<kbd>![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)</kbd>
 
 ?> Note: Ensure there are no spaces at the beginning and end of the Intune device ID.
 
 After you submit the Intune device ID, a success message is displayed.
 
-<kbd>![add-device-success](assets/images/seed/onboard-device-success.png)</kbd>
+<kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>
 
- It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the seed onboarding status for the device is **Pending**. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
+ It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the device onboarding status is **Pending**. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
 
 
 Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onboard a device to SEED.

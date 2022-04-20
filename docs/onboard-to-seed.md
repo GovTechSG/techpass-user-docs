@@ -5,13 +5,7 @@ This article is applicable only for public officers who have an existing active 
 >**Notes**:
 >- You can't onboard a GSIB or DWP device to SEED.
 >- If you are a vendor or contractor, contact your project manager or reporting officer to request for SEED provisioning before proceeding with your SEED onboarding.
-<div class="warn">
- <ul>
- <li>You can't onboard a GSIB or DWP device to SEED.</li>
- <li>If you are a vendor or contractor, contact your project manager or reporting officer to request for SEED provisioning before proceeding with your SEED onboarding.</li>
- <li>Click <a href="https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices">here</a> for more information about SEED.</li>
- </ul>
-</div>
+
 
 _To onboard your device to SEED:_
 
@@ -33,30 +27,16 @@ _To onboard your device to SEED:_
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
 
-<<<<<<< HEAD
+
 5. To request for SEED, click **Request for SEED** under **SEED Status**.
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
 ?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED** , **Onboard device to SEED** option is displayed.
-=======
-5. Under **SEED Status**, either click **Request for SEED** _(this will show up if you have not been assigned SEED license)_
-<kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>  
-or **Onboard device to SEED** _(this will show up if you have already been assigned SEED license)_ 
-<kbd>![licence-assigned-onboard-device](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
-
-6. A **SEED - Onboard Device** dialog should pop up. Follow the instructions within to enroll your device to SEED and extract your Intune Device ID. Enter the Intune Device ID _(ensure there are no spaces to the beginning and end of it)_ and click **Submit**.
-
-<kbd>![onboard-device](assets/images/seed/onboard-device.png)</kbd>
->>>>>>> 5dcabd67488ebb1ab682f0617ef238e3cf513e93
 
 6. To onboard the device to SEED, click **Onboard device to SEED**.
 
-<<<<<<< HEAD
-<kbd>![request-for-seed](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
-=======
 <kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
->>>>>>> 5dcabd67488ebb1ab682f0617ef238e3cf513e93
 
 7. The **SEED - Onboard Device** dialog is displayed. Follow the instructions on this dialog.
 
@@ -70,8 +50,7 @@ After you submit the Intune device ID, a success message is displayed.
 
 <kbd>![add-device-success](assets/images/seed/onboard-device-success.png)</kbd>
 
- It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the seed onboarding status for that device is Pending. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to Onboarded and you will receive a successfully onboarded email.
+ It may take up to 30 minutes for Intune to update your device with the required softwares and configurations. Until this is completed, the seed onboarding status for the device is **Pending**. Once the device is updated with all the required softwares and configurations, the SEED onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
 
-<kbd>![add-device-success](assets/images/seed/onboard-device-success.png)</kbd>  
 
-Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onbaord a device to SEED.
+Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onboard a device to SEED.

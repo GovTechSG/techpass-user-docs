@@ -1,11 +1,9 @@
 - [Overview](home)
-- Getting started
-  - [Onboard public officer](onboard-public-officers-using-non-se-machines)
-  - [Onboard vendor](onboard-vendors-to-techpass)
-  - [Log in with TechPass](access-sgts-services-using-techpass)
-- Manage account
-  - [Edit Profile](edit-profile)
-  - [Onboard to SEED](onboard-to-seed)
-  - [Reset MFA](reset-mfa)
-  - [Support](/support/overview.md)
+- [Onboard public officer](onboard-public-officers-using-non-se-machines)
+- [Onboard vendor](onboard-vendors-to-techpass)
+- [Log in with TechPass](access-sgts-services-using-techpass)
+- [Edit TechPass profile](edit-profile)
+- [Onboard to SEED](onboard-to-seed)
+- [Reset MFA](reset-mfa)
+- [Support](/support/overview.md)
 - [Terms and Policies](terms-and-policies)

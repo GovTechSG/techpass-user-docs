@@ -13,13 +13,13 @@ _To onboard your device to SEED:_
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 
-2. Choose your TechPass account.
+2. Sign in to your TechPass account.
+
+?> Note If you are not logged into your WOG account, you will be prompted to log in to that before signing in to your TechPass account.
 
 <kbd>![choose-account](assets/images/onboarding/po-non-se/choose-account.png)</kbd>
 
-?> If you are a public officer and not logged into your WOG account, you will be prompted to log in to it first before proceeding to TechPass account.
-
-3. You will be prompted to approve your TechPass login. Approve it on your Authenticator app.
+3. Approve your TechPass login from your Authenticator app.
 
 <kbd>![approve-signin](assets/images/onboarding/po-non-se/approve-sign-in.png)</kbd>
 

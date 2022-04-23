@@ -15,7 +15,7 @@ _To onboard your device to SEED:_
 
 2. Sign in to your TechPass account.
 
-?> Note If you are not logged into your WOG account, you will be prompted to log in to that before signing in to your TechPass account.
+?> Note: If you are not logged into your WOG account, you will be prompted to log in to that before signing in to your TechPass account.
 
 <kbd>![choose-account](assets/images/onboarding/po-non-se/choose-account.png)</kbd>
 

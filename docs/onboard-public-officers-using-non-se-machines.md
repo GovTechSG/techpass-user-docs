@@ -4,27 +4,20 @@
 
 This article guides public officers to sign up for TechPass account and request for a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
-<div class="tip">
-<p>Note for GCC 1.0 users:</p>
-<ol>
-<li>Depending on the allotted schedule, your agency admin or cloud admin will receive an email with a link and steps to register for TechPass and onboard non-GSIB device to SEED.</li>
-<li>Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.</li>
-<li>GCC 1.0 user registers for a TechPass account.</li>
-</ol>
-</div>
+> **Notes for GCC 1.0 users**:
+>1. Depending on the allotted schedule, your agency admin or cloud admin will receive an email with a link and instructions to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
+>1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
+>1. GCC 1.0 user registers for a TechPass account.
 
 ?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for getting a TechPass account.
 
 
 *To get a TechPass account* :
 
-<div class="warn">
-<ul>
-<li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
-<li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
-<li>Once you've started the TechPass onboarding process, it is important to complete it within the same session.</li>
-</ul>
-</div>
+> **Notes**:
+>- If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.
+>- Other users need to complete the below steps using a non-SE GSIB machine.
+>- Once you've started the TechPass onboarding process, it is important to complete it within the same session.
 
 ## Step 1. Sign up for TechPass
 <details>

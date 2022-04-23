@@ -1,5 +1,5 @@
 - [Back to main](/)
 - [Overview](/support/overview)
-- [Account management](/support/account)
+- [Account management FAQ](/support/account)
 - [Problems with signing in?](/support/signinissues)
 - [Common issues for GCC 1.0 and SHIP-HATS users](/support/user-account-migration)

@@ -112,7 +112,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To onboard in to your TechPass account:_
 
-  1. If you are already signed in to your WOG account on the GSIB device and accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
+  1. If you are already signed in to your WOG account on the GSIB device and when you accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
   <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
 

@@ -30,7 +30,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To get a TechPass invitation link:_
 
-  1. Use your GSIB device to go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+  1. From your GSIB device, go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
@@ -62,7 +62,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To accept TechPass invitation:_
 
-  1. Search for the email with the invitation link in your inbox.
+  1. On your GSIB device, search for the email with the invitation link in your inbox.
 
   ?> If you do not see this email in your inbox, check if it is the same email address you provided during sign up, and if a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
@@ -84,7 +84,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To set up security verification for WOG account:_
 
-  1. Use your GSIB device to go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+  1. From your GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
   ?> If you are prompted to sign in, use your organisation email address and GSIB device password.
 
@@ -112,7 +112,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To onboard in to your TechPass account:_
 
-  1. If you are already signed in to your WOG account, when you accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
+  1. If you are already signed in to your WOG account on the GSIB device and accept the TechPass invitation, you will be directed to **Review Permissions**. Click **Accept**.
 
   <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
 

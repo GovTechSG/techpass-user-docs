@@ -30,7 +30,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To get a TechPass invitation link:_
 
-  1. Go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+  1. Use your GSIB device to go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
@@ -84,7 +84,7 @@ This article guides public officers to sign up for TechPass account and request 
 
   _To set up security verification for WOG account:_
 
-  1. In the non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+  1. Use your GSIB device to go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
   ?> If you are prompted to sign in, use your organisation email address and GSIB device password.
 

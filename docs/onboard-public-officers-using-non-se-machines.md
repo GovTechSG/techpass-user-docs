@@ -12,12 +12,12 @@ This article guides public officers to do the following:
 > **Notes for GCC 1.0 users**:
 >1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
 >1. Agency admin or cloud admin will then share this registration link with the required GCC 1.0 users.
->1. Following this, the GCC 1.0 user proceeds with TechPass registration.
+>1. Following this, the GCC 1.0 user proceeds with TechPass registration. While registering, ensure you provide the correct VPN ID.
+>1. It may take up to two weeks for us to send the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
 
 ?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for getting a TechPass account.
 
-
-*To get a TechPass account* :
+**To get a TechPass account**:
 
 ## Step 1. Set up security verification for your WOG account
 

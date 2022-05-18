@@ -6,7 +6,8 @@ This section guides how vendors or contractors working on Government ICT Project
 <ol>
 <li>Depending on the allotted schedule, your engaging agency admin or cloud admin will receive an email with a link and steps to register for TechPass and onboard non-GSIB device to SEED.</li>
 <li>Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.</li>
-<li>GCC 1.0 user registers for a TechPass account.</li>
+<li>GCC 1.0 user registers for a TechPass account. While registering, ensure you provide the correct VPN ID. </li>
+<li>It may take up to two weeks for us to send the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.</li>
 </ol>
 </div>
 
@@ -31,10 +32,19 @@ This section guides how vendors or contractors working on Government ICT Project
  <li>If you are a public officer, refer to <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines">Onboarding Public Officers to TechPass</a>.</li>
  </ul>
  </div>
- <ul>
-  <li>If you are a vendor or contractor who has to access SGTS services and does not have an active TechPass account and a SEED licence, request for them from your project manager or reporting officer.</li>
-  <li>Provide the required details such as your official email address, handphone number, project name and device details for SEED licence in this request. In turn, your project manager or reporting officer will work with the engaging government agency to assign a TechPass account and SEED licence.</li>
-  <li> When a TechPass account is created, you will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone.</li>
+
+
+ 1. If you are a vendor or contractor who has to access SGTS services and does not have an active TechPass account and a SEED licence, request for them from your project manager or reporting officer.
+ 1. Provide the required details such as your official email address, handphone number, project name and device details for SEED licence in this request. In turn, your project manager or reporting officer will work with the engaging government agency to assign a TechPass account and SEED licence.
+
+ once the request is approved, vendors or contractors receive the TechPass invitation email on the provided official email address.
+
+ > **Notes**:
+ >- When a TechPass account is created for vendors or contractors, they will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone..
+ >- Other users need to complete the below steps using a non-SE GSIB machine.
+ >- Once you've started the TechPass onboarding process, it is important to complete it within the same session.
+
+  <li> </li>
   <li>Similarly, you will receive an email when a SEED licence is assigned for you.</li>
  </ul>
 

@@ -3,7 +3,7 @@ Below are the links to the latest Terms of Use (TOU) and Privacy Policy for Tech
 
 Effective date: These terms and policies apply as of January 21, 2021.
 
-Last updated : January 21, 2022
+Last updated : April 01, 2022
 
-- [View Terms of Use v 3.6.2](terms-of-use.pdf ':target=_blank')
-- [View Privacy Policy v 2.7.2](/privacy-policy-v-2.7.2.pdf ':target=_blank')
+- [View Terms of Use v 3.7.5](terms-of-use.pdf ':target=_blank')
+- [View Privacy Policy v 3.0.0](/privacy-policy-v-2.7.2.pdf ':target=_blank')

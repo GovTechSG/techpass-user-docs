@@ -5,7 +5,7 @@ This section guides how vendors or contractors working on Government ICT Project
 >1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
 >1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
 >1. While registering, ensure to provide the correct VPN ID.
->1. It may take up to two weeks for us to send the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
+>1. It may take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
 
 <div class="warn">
 <ul>

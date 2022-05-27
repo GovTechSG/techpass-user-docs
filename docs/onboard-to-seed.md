@@ -44,7 +44,7 @@ _To onboard your device to SEED:_
 <kbd>![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)</kbd>
 
 > **Notes**:
->- Refer to [SEED onboarding and related FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices) for step-by-step instructions to onboard a device to SEED.
+>- Refer to [SEED onboarding](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/onboard-device/onboard-device-to-seed) and [FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/faqs/seed-faqs) for step-by-step instructions to onboard a device to SEED.
 >- Ensure there are no spaces at the beginning and at the end of the Intune device ID.
 
 After you submit the Intune device ID, the following success message is displayed.
@@ -55,4 +55,4 @@ After you submit the Intune device ID, the following success message is displaye
 
 9. Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) and complete the post onboarding instructions for SEED.
 
-?> If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/).
+?> If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/post-onboarding-steps-and-verification).

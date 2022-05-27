@@ -36,13 +36,9 @@ This section guides how vendors or contractors working on Government ICT Project
  once the request is approved, vendors or contractors receive the TechPass invitation email on the provided official email address.
 
  > **Notes**:
- >- When a TechPass account is created for vendors or contractors, they will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone..
- >- Other users need to complete the below steps using a non-SE GSIB machine.
+ >- When a TechPass account is created for vendors or contractors, they will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone.
  >- Once you've started the TechPass onboarding process, it is important to complete it within the same session.
-
-  <li> </li>
-  <li>Similarly, you will receive an email when a SEED licence is assigned for you.</li>
- </ul>
+ >- Similarly, vendors or contractors will receive an email when a SEED licence is assigned.
 
 </details>
 

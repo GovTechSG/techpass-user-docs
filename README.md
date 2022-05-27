@@ -1,5 +1,5 @@
 # TechPass User Doc Repository
-This is a documentation repository for TechPass, written for Documentation Portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
+This is a documentation repository for TechPass, written for Documentation portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
 
 > The repository is currently in active development and  contents will change rapidly.
 
@@ -23,7 +23,7 @@ x.x.x
 
 
 ### Syntax Highlighting
-The repository has been pre-configured to pull in the default Developer Portal's styling for Documentations. (See [index.html](./index.html))
+The repository has been pre-configured to pull in the default Developer portal's styling for Documentations. (See [index.html](./index.html))
 
 ## Web Hosting
 By default, once you commit and push any changes into github, the contents will be updated automatically.

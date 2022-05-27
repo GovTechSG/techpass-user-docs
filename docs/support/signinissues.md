@@ -50,7 +50,7 @@ When the user has established a connection with Cloudflare and the user's device
 
 ### Resolution
 
-If you've encountered any of the above errors, try to resolve them by going to the DEEP Portal link listed below based on environment. The DEEP Portal will show you all the issues and instructions on how to fix them.
+If you've encountered any of the above errors, try to resolve them by going to the DEEP portal link listed below based on environment. The DEEP portal will show you all the issues and instructions on how to fix them.
 
 | Environment | Links                     |
 | ----------- | ------------------------- |

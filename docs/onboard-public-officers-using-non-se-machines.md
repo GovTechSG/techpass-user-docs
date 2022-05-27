@@ -40,7 +40,7 @@ This article guides public officers to do the following:
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
   4. Follow the on-screen instructions displayed on the **Configure mobile app** page.
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code-updated.png)</kbd>
-  Once you scan the QR code displayed on your computer screen, your WOG account will be listed on the authenticator app and when you click **Next** your activation status is confirmed.
+  When you scan the QR code displayed on your computer screen, your WOG account will be listed on the authenticator app and when you click **Next** your activation status is confirmed.
 
   5. In the **Additional security verification** page, click **Next**.
   <kbd>![after-scan](assets/images/security-verification-for-wog/additional-security-verification-next.png)</kbd>

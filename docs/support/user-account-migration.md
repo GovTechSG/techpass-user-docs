@@ -14,7 +14,7 @@ It indicates that your active TechPass account was disabled as it was inactive f
 
 When you request for a TechPass account, it is created and an email with an onboarding link is sent to you to complete the TechPass onboarding process. If you had not completed this within 30days using this link, you get this email.
 
-To get a new invitation link, raise a [service request][service-request] with us. Once you receive a new invitation link, make sure to onboard in to TechPass within 30 days.
+To get a new invitation link, raise a [service request][service-request] with us. After you receive a new invitation link, make sure to onboard in to TechPass within 30 days.
 
 4. I am a public officer. How do I reset my TechPass account password?
 
@@ -33,7 +33,7 @@ If you are a public officer, generally, your official email address is your Tech
 
 While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your official email address.
 
-If you are using TechPass as an SSO to access any SGTS services from your GMD device; First, you need to authenticate your WOG account by entering your email and the OTP as verification code displayed in your SG Govt M365 profile on the Authenticator app. Once this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
+If you are using TechPass as an SSO to access any SGTS services from your GMD device; First, you need to authenticate your WOG account by entering your email and the OTP as verification code displayed in your SG Govt M365 profile on the Authenticator app. If this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
 
 If you are accessing SGTS services from your GSIB, there is no need for WOG account authentication as it is done when you sign in to your GSIB device.
 

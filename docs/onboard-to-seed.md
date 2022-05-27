@@ -51,7 +51,7 @@ After you submit the Intune device ID, the following success message is displaye
 
 <kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>
 
- It may take up to 60 minutes for Intune to update your device with the required softwares and configurations. During this time, the device onboarding status is **Pending**. Once the device is updated with all the required softwares and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
+ It may take up to 60 minutes for Intune to update your device with the required softwares and configurations. During this time, the device onboarding status is **Pending**. After the device is updated with all the required softwares and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.
 
 9. Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) and complete the post onboarding instructions for SEED.
 

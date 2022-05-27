@@ -29,5 +29,5 @@ Now your WOG account gets listed in the **Authenticator** app on your new mobile
 <kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/save-new-device.png)</kbd>
 8. If you have changed your preferred option, you will be prompted to verify it. Click **Verify preferred option**.
 <kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/verification-required.png)</kbd>
-9. Once you approve the verification sent, you will see a success message. Click **Close**.
+9. After you approve the verification sent, you will see a success message. Click **Close**.
 <kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/reset-successful.png)</kbd>

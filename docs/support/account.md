@@ -32,13 +32,13 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 
 i. Raise a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
 
-ii. Once this is done, you will be notified. Proceed to [Reset TechPass MFA](reset-techpass-mfa-for-new-device) using your new mobile device.
+ii. When this is done, you will be notified. Proceed to [Reset TechPass MFA](reset-techpass-mfa-for-new-device) using your new mobile device.
 
  **If you are a public officer**:
 
 i. Contact your Agency Facility Management (AFM) to  remove the MFA configured for your WOG account and raise a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
 
-ii. Once these are completed, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
+ii. After completing this, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
 
 ?> In the service request form, select **Service Request** and **Request to reset Multi Factor Authentication (MFA)** as **Ticket Type** and **Service Requests**, respectively.
 

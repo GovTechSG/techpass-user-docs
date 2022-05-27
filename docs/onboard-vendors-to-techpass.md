@@ -11,7 +11,7 @@ This section guides how vendors or contractors working on Government ICT Project
 <ul>
 <li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
 <li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
-<li>Once you've started the TechPass onboarding process, it is important to complete it within the same session.</li>
+<li>If you've started the TechPass onboarding process, make sure to complete it within the same session.</li>
 </ul>
 </div>
 
@@ -37,7 +37,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
  > **Notes**:
  >- When a TechPass account is created for vendors or contractors, they will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone.
- >- Once you've started the TechPass onboarding process, it is important to complete it within the same session.
+ >- If you've started the TechPass onboarding process, it is important to complete it within the same session.
  >- Similarly, vendors or contractors will receive an email when a SEED licence is assigned.
 
 </details>
@@ -46,9 +46,9 @@ This section guides how vendors or contractors working on Government ICT Project
 
 <details> <summary>Steps to sign in using TechPass username and initial password</summary>
 
-  1. Go to the web address(url) provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
+  1. Go to the web page provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
 
-  ?> SGTS product team will provide the sign in web address to your project manager or reporting officer.
+  ?> SGTS product team will provide the address of this web page to your project manager or reporting officer.
 
   2. Enter your TechPass username and click **Next**.
     <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>
@@ -62,7 +62,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 <details> <summary> How to configure and verify MFA for vendor's TechPass account?</summary>
 
-  1. Install an authenticator on your mobile device. If you do not have Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and complete the wizard.
+  1. Install Microsoft Authenticator on your mobile device.
 
     <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1.png)</kbd>
 

@@ -57,7 +57,7 @@ The following release notes cover the changes for TechPass platform
     <td>
     The X-XSS-Protection header has been deprecated by modern browsers and its use can introduce additional security issues on the client side. The security header X-XSS-Protection: 0 should be configured into the HTTP header response or to be removed: 
     <br><br>
-    <img src="/docs/assets/whats-new/20220617_xheader.png" alt="security headers" width="50%" height="50%">
+    <img src="/assets/whats-new/20220617_xheader.png" alt="security headers" width="50%" height="50%">
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ The following release notes cover the changes for TechPass platform
     <td>
     Suppressed the error banner if the <strong>TechPass Users</strong> and <strong>Applications Integrated with TechPass</strong> metrics could not be displayed.
     <br><br>
-    <img src="/docs/assets/whats-new/20220617_suppresserror.png" alt="suppress error screenshot" width="100%" height="100%">
+    <img src="/assets/whats-new/20220617_suppresserror.png" alt="suppress error screenshot" width="100%" height="100%">
     </td>
   </tr>
 </table>

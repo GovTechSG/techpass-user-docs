@@ -32,7 +32,11 @@ The following release notes cover the changes for TechPass platform
     <td>Backend</td>
     <td>
     When an webhook event is sent to the tenant's webhook endpoint and it is unreachable or doesn't return one of the success status codes (i.e. 2XX status codes), the request will auto-retried every 5 minutes for a maximum of 14 days.
-    <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
     SEED related activity logs have been added to capture the metrics:
     <br>
     - iam.user.seed.onboard.device: user completed onboarding a device to SEED
@@ -54,7 +58,11 @@ The following release notes cover the changes for TechPass platform
     The X-XSS-Protection header has been deprecated by modern browsers and its use can introduce additional security issues on the client side. The security header X-XSS-Protection: 0 should be configured into the HTTP header response or to be removed: 
     <br><br>
     <img src="/docs/assets/whats-new/20220617_xheader.png" alt="security headers" width="50%" height="50%">
-    <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
     Suppressed the error banner if the <strong>TechPass Users</strong> and <strong>Applications Integrated with TechPass</strong> metrics could not be displayed.
     <br><br>
     <img src="/docs/assets/whats-new/20220617_suppresserror.png" alt="suppress error screenshot" width="100%" height="100%">

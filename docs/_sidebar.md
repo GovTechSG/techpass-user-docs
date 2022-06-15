@@ -1,4 +1,5 @@
 - [Overview](home)
+- [What's New](whats-new)
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in with TechPass](access-sgts-services-using-techpass)

@@ -14,7 +14,8 @@ The following release notes cover the changes for TechPass platform
   <tr>
     <td>Automation API</td>
     <td>
-    Prior to the changes, any requests to update or delete whitelist entries will require the whitelist ID (UUID) and in order to get this value the Get Whitelists API need to be invoked repeatedly until the entry is found. This process can be tedious and slow.
+    Prior to the changes, any requests to update or delete whitelist entries will require the whitelist ID (UUID) and in order to get this value the 
+    <a target="_blank" href="https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/OTP/paths/~1otp~1namespace~1{namespace}~1apps~1{appid}~1whitelists/get">Get OTP Whitelist API</a> need to be invoked repeatedly until the entry is found. This process can be tedious and slow.
     <br><br>
     With this release creating a new whitelist entry will set the whitelist ID as the whitelist value. As a result there is no need to find the whitelist ID if the whitelist value is already known and the OTP Update/Delete Whitelist APIs will accept email domains and email addresses.  
     <br><br>

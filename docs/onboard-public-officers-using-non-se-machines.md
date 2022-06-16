@@ -68,7 +68,7 @@ This article guides public officers to do the following:
 
   _To get a TechPass invitation link:_
 
-  1. From your non-SE GSIB device, go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+  1. From your non-SE GSIB device, go to [TechPass portal](http://portal.techpass.suite.gov.sg) and click **Sign Up**.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 

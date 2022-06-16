@@ -1,6 +1,6 @@
 # Request for SEED and submit Intune device ID for SEED onboarding
 
-This article is applicable only for public officers who have an existing active TechPass ID and need to onboard their device to SEED. Public officers can request for SEED provisioning from the [TechPass portal](https://portal.techpass.gov.sg/public/home) using their non-SE GSIB machine.
+This article is applicable only for public officers who have an existing active TechPass ID and need to onboard their device to SEED. Public officers can request for SEED provisioning from the [TechPass portal](https://portal.techpass.suite.gov.sg/public/home) using their non-SE GSIB machine.
 
 >**Notes**:
 >- You can't onboard a GSIB or DWP device to SEED.
@@ -9,7 +9,7 @@ This article is applicable only for public officers who have an existing active 
 
 _To onboard your device to SEED:_
 
-1. Go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+1. Go to [TechPass portal](https://portal.techpass.suite.gov.sg) and click **Login with TechPass**.
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 

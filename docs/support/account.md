@@ -53,7 +53,7 @@ You may visit Microsoft's [Common problems with two-factor verification](https:/
 
 <details><summary>6. I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?</summary>
 
-When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
+When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.suite.gov.sg) and sign up again to receive a new invitation link.
 
 </details>
 

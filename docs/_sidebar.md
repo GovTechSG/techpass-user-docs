@@ -8,3 +8,4 @@
 - [Reset MFA](reset-mfa)
 - [Support](/support/overview.md)
 - [Terms and Policies](terms-and-policies)
+- [Glossary](glossary)

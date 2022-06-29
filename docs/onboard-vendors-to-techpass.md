@@ -5,7 +5,7 @@ This section guides how vendors or contractors working on Government ICT Project
 >1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
 >1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
 >1. While registering, ensure to provide the correct VPN ID.
->1. It may take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
+>1. It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
 
 <div class="warn">
 <ul>
@@ -66,7 +66,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
     <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1.png)</kbd>
 
-  ?> You may install any authenticator. However, as we recommend Microsoft authenticator, this document will guide you to configure TechPass MFA using that.
+  ?> You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
 
   2. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   3. Tap **Scan a QR code**.
@@ -139,7 +139,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
 
-  You have now successfully onboarded TechPass. You may now proceed to onboard your non-GSIB device to SEED.
+  You have now successfully onboarded TechPass. You can now proceed to onboard your non-GSIB device to SEED.
 
   ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
 

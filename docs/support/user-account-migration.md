@@ -2,7 +2,7 @@
 
 1. I received an email stating, "Your account was used for a new registration request". What does it mean?
 
-You may receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
+You will receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
 If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration,  [report this][service-request] to us and monitor your TechPass account for suspicious activities.
 

@@ -1,6 +1,6 @@
 # Reset MFA for WOG account
 
-This article is applicable only for public officers. Public officers may have to reset security verification for their WOG account in the following cases:
+This article is applicable only for public officers. Public officers might have to reset security verification for their WOG account in the following cases:
 
 - Changed the mobile device that was used for security verification.
   - If you have lost your mobile device, contact your Agency Facility Management(AFM) team to remove the MFA configured for your WOG account before proceeding with the instructions on this page. Also raise a [service request](https://go.gov.sg/techpass-sr) to remove MFA configured for your TechPass account and then [reset your verification for TechPass](reset-techpass-mfa-for-new-device) in the new device.

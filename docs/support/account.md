@@ -47,7 +47,7 @@ ii. After completing this, reset MFA for [WOG account](reset-security-verificati
 <details>
 <summary>5. I have other problems with MFA?</summary>
 
-You may visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) for more information or you may raise us a [service request](https://go.gov.sg/techpass-sr).
+Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) for more information or you can raise us a [service request](https://go.gov.sg/techpass-sr).
 
 </details>
 
@@ -67,7 +67,7 @@ To re-enable or if you think your account was incorrectly disabled, raise a [ser
 
 <details><summary>8. I am a public officer and unable to sign in to my WOG account from my GMD.</summary>
 
-You may encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
 
 </details>
 

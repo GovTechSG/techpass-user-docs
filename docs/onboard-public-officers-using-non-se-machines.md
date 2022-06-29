@@ -13,7 +13,7 @@ This article guides public officers to do the following:
 >1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
 >1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
 >1. While registering, ensure to provide the correct VPN ID.
->1. It may take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
+>1. It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
 
 ?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for getting a TechPass account.
 
@@ -21,7 +21,7 @@ This article guides public officers to do the following:
 
 ## Step 1. Set up security verification for your WOG account
 
-!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others, may skip this and proceed to [step 2. Sign up for TechPass](#step-2-sign-up-for-techpass)
+!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others, can skip this and proceed to [step 2. Sign up for TechPass](#step-2-sign-up-for-techpass)
 
 <details>
   <summary>How to set up security verification for WOG account?</summary>
@@ -193,7 +193,7 @@ This article guides public officers to do the following:
 
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
 
-  You have now successfully onboarded to TechPass. You may now proceed to onboard your non-GSIB device to SEED.
+  You have now successfully onboarded to TechPass. You can now proceed to onboard your non-GSIB device to SEED.
 
 ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
 

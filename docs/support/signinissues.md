@@ -67,8 +67,8 @@ If you've encountered any of the above errors, try to resolve them by going to t
 You may resolve this issue easily by verifying your identity with your authenticator.
 <kbd>![verify-your-identity](../assets/support/identity-protection/verify-your-identity.png)</kbd>
 
-Then, reset your password on the spot.
+Next, reset your password.
 <kbd>![update-your-password](../assets/support/identity-protection/update-your-password.png)</kbd>
 
-Once everything is done, you may proceed to use TechPass services as usual.
+You can proceed to use TechPass services as usual once password change is completed.
 

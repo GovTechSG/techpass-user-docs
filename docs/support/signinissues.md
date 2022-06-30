@@ -64,7 +64,7 @@ If you've encountered any of the above errors, try to resolve them by going to t
 <kbd>![your-account-is-at-risk](../assets/support/identity-protection/your-account-is-at-risk.png)</kbd>
 
 
-You may resolve this issue easily by verifying your identity with your authenticator.
+You can resolve this issue easily by verifying your identity with your authenticator.
 <kbd>![verify-your-identity](../assets/support/identity-protection/verify-your-identity.png)</kbd>
 
 Next, reset your password.

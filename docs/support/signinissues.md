@@ -55,3 +55,20 @@ If you've encountered any of the above errors, try to resolve them by going to t
 | Environment | Links                     |
 | ----------- | ------------------------- |
 | PROD        | https://deep.tech.gov.sg/ |
+
+
+## If your account is at risk
+
+[Azure AD Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection) is enabled in TechPass, you might get a warning that your account is at risk during log in.
+
+<kbd>![your-account-is-at-risk](../assets/support/identity-protection/your-account-is-at-risk.png)</kbd>
+
+
+You can resolve this issue easily by verifying your identity with your authenticator.
+<kbd>![verify-your-identity](../assets/support/identity-protection/verify-your-identity.png)</kbd>
+
+Next, reset your password.
+<kbd>![update-your-password](../assets/support/identity-protection/update-your-password.png)</kbd>
+
+You can proceed to use TechPass services as usual once password change is completed.
+

@@ -87,7 +87,7 @@ The following release notes cover the recent changes for TechPass platform
     <td>
     A new widget from Developer Portal has been integrated into TechPass portal. You are now able to access and learn more about various featured government products via the widget.
     <br><br>
-    <img src="/docs/techpass-user-guide/docs/assets/whats-new/20220706_masthead-devportalwidget-02.png" alt="developer portal widget" width="50%" height="50%">
+    <img src="/docs/techpass-user-guide/docs/assets/whats-new/20220706_masthead-devportalwidget-02.png" alt="developer portal widget" width="100%" height="100%">
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ The following release notes cover the recent changes for TechPass platform
     <td>
     Search user modal will be able to support searching by mobile numbers.
     <br><br>
-    <img src="/docs/techpass-user-guide/docs/assets/whats-new/20220706_searchuserbymobile.png" alt="search user by mobile" width="50%" height="50%">
+    <img src="/docs/techpass-user-guide/docs/assets/whats-new/20220706_searchuserbymobile.png" alt="search user by mobile" width="100%" height="100%">
     </td>
   </tr>
   <tr>

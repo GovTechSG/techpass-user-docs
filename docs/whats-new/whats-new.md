@@ -109,7 +109,7 @@ The following release notes cover the recent changes for TechPass platform
     <br><br>
     Refer to the documentation for more information:
     <br>
-    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks">Publishing an application</a>
+    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/applications?id=mark-as-published">Publishing an application</a>
     </td>
   </tr>
 </table>

@@ -1,5 +1,5 @@
 - [Overview](home)
-- [What's New](whats-new)
+- [What's New](/whats-new/whats-new.md)
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in with TechPass](access-sgts-services-using-techpass)

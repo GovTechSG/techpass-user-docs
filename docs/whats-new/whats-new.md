@@ -76,6 +76,7 @@ The following release notes cover the recent changes for TechPass platform
 - [Release S2022-07-06](#Release-S2022-07-06)
 ---
 ### Release S2022-07-06
+#### FE: 1.0.0-20220705.0420 | BE: 1.24.6-220701.0600
 #### New Features
 <table>
   <tr>

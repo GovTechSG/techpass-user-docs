@@ -6,6 +6,7 @@
 - [Edit TechPass profile](edit-profile)
 - [Onboard to SEED](onboard-to-seed)
 - [Reset MFA](reset-mfa)
+- [System Status](status)
 - [Support](/support/overview.md)
 - [Terms and Policies](terms-and-policies)
 - [Glossary](glossary)

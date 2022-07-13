@@ -99,15 +99,15 @@ FE: 1.0.0-20220705.0420 | BE: 1.24.6-220701.0601
     <br><br>
     Refer to the documentation for more information:
     <br>
-    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users/get">List Users By Namespace</a>
+    <a target="_blank" href="https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users/get">List Users By Namespace</a>
     <br>
-    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get">List Users</a>
+    <a target="_blank" href="https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get">List Users</a>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get">Get User Info API</a> will now list 3 different last sign in date time:
+    <a target="_blank" href="https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get">Get User Info API</a> will now list 3 different last sign in date time:
     <br>
     - <b>lastInteractiveSignInAt</b>: Timestamp of sign ins performed on behalf of users with an authenticating factor (Eg. requires user to enter username and password and MFA)<br>
     - <b>lastNonInteractiveSignInAt</b>: Timestamp of sign ins performed on behalf of users without an authenticating factor<br>

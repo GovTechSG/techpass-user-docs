@@ -202,8 +202,60 @@ FE: 1.0.0-20220531.0334 | BE: 1.23.5-220601.0954
 </table>
 
 ## Stage
+- [Release S2022-07-20](#Release-S2022-07-20)
 - [Release S2022-07-06](#Release-S2022-07-06)
 ---
+### Release S2022-07-20
+FE:  | BE: 
+
+#### Improvements
+<table>
+  <tr>
+    <th>Change/Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Automation API</td>
+    <td>
+    There's a new change to the <b>scope</b> parameter in the request for access token via client credentials grant. 
+    The <b>aud</b> claim in a token indicates the resource the token is intended for (its audience). <a target="_blank" href="https://docs.microsoft.com/en-us/azure/active-directory/develop/access-tokens">[More Info]</a> 
+    <br><br>
+    For the longest time, <b>aud</b> in the access token was wrongly pointing to <i>https://graph.microsoft.com</i> instead of TechPass Automation API endpoints. 
+    <br>
+    While this doesn't impact the ability to request for an access token; Your API could not validate this value and reject the token if the value doesn't match.
+    <br><br>
+    You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i> 
+    <br>
+    This change will return TechPass Automation API endpoints in the <b>aud</b> claim of the access token.
+    Your API must validate this <b>aud</b> value and reject the token if the value doesn't match.
+    <br><br>
+    Refer to the documentation for more information:
+    <br>
+    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope">Change In Access Token Scope</a>
+    </td>
+  </tr>
+</table>
+
+#### Fixes
+<table>
+  <tr>
+    <th>Change/Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+    A fix in email templates has been applied to correct the invitation emails triggered from TechBiz.
+    </td>
+  </tr>
+  <tr>
+    <td>Portal</td>
+    <td>
+    An UI fix has been applied to Email ID displayed in Managed User interface
+    </td>
+  </tr>
+</table>
+
 ### Release S2022-07-06
 FE: 1.0.0-20220705.0420 | BE: 1.24.6-220701.0601
 #### New Features

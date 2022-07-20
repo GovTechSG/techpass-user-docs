@@ -217,21 +217,9 @@ FE: 1.0.0-20220719.0855 | BE: 1.24.10-220715.1024
   <tr>
     <td>Automation API</td>
     <td>
-    There's a new change to the <b>scope</b> parameter in the request for access token via client credentials grant. 
-    The <b>aud</b> claim in a token indicates the resource the token is intended for (its audience). <a target="_blank" href="https://docs.microsoft.com/en-us/azure/active-directory/develop/access-tokens">[More Info]</a> 
+    There's a new change to the <b>scope</b> parameter in the request for access token via client credentials grant. You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i>
     <br><br>
-    For the longest time, <b>aud</b> in the access token was wrongly pointing to <i>https://graph.microsoft.com</i> instead of TechPass Automation API endpoints. 
-    <br>
-    While this doesn't impact the ability to request for an access token; Your API could not validate this value and reject the token if the value doesn't match.
-    <br><br>
-    You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i> 
-    <br>
-    This change will return TechPass Automation API endpoints in the <b>aud</b> claim of the access token.
-    Your API must validate this <b>aud</b> value and reject the token if the value doesn't match.
-    <br><br>
-    Refer to the documentation for more information:
-    <br>
-    <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope">Change In Access Token Scope</a>
+    Refer <a href="https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/#/whats-new/whats-new?id=change-in-automation-api-access-token-scope">Change in Automation API Access Token Scope</a> 
     </td>
   </tr>
 </table>
@@ -255,6 +243,32 @@ FE: 1.0.0-20220719.0855 | BE: 1.24.10-220715.1024
     </td>
   </tr>
 </table>
+
+### Change in Automation API Access Token Scope
+### What has changed?
+There's a new change to the <b>scope</b> parameter in the request for access token via client credentials grant. You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i>
+
+### Why was this changed?
+The <b>aud</b> claim in an access token indicates the resource the token is intended for (its audience). This value is defined by the <b>scope</b> parameter in the request for access token.<a target="_blank" href="https://docs.microsoft.com/en-us/azure/active-directory/develop/access-tokens">[More Info]</a> 
+
+In the context of Techpass Automation API, the token that we receive from our callers (our tenant applications) should have the <b>aud</b> claim pointing to us since we are the intended audience of the token. However, for the longest time, we have been accepting access token with <b>aud</b> claim pointing to Microsoft Graph (<i>https://graph.microsoft.com</i>) instead.
+
+With the <b>aud</b> claim pointing to Microsoft Graph, the responsibility to validate the access token lies with Microsoft and we have no way to validate the signature of the token as Microsoft uses a special signing mechanism which only they themselves know how to validate. <a target="_blank" href="https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/issues/609#issuecomment-524434987">[More Info]</a> 
+
+Having the <b>aud</b> claim point to Techpass Automation API endpoint instead of Microsoft Graph would not only allow us to validate the <b>signature</b> of the token using public validators, we can also make sure that the token is indeed for Techpass Automation API by matching the <b>aud</b> claim against the Techpass Automation API endpoint.
+### Action required
+You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i> in the request for access token via client credentials grant.
+
+This change will return <i>https://api.stg.techpass.suite.gov.sg</i> in the <b>aud</b> claim of the access token. Your API must validate this <b>aud</b> value and also the <b>signature</b> of the access token. Refer <a target="_blank" href="https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=validating-access-token">Validating Access Token</a> 
+
+To ease the transition, this change will be backward compatible (i.e. we will continue to accept access token with <b>scope</b> value of <i>https://graph.microsoft.com/.default</i>) for **2 months** from the Change Effective Date. This will become a breaking change after that period, where only  <i>https://api.stg.techpass.suite.gov.sg/.default</i> will be accepted.
+
+| Change Effective Date | Backward Compatible Until |
+| ----------------------|---------------------------|
+| 20 Jul 2022           | 20 Sep 2022               |
+
+### How does this impact tenant applications?
+Once this is no longer backward compatible, tenant applications making calls to Techpass Automation API will receive error if the access token 'aud' claim is not pointing to <i>https://api.stg.techpass.suite.gov.sg</i>
 
 ### Release S2022-07-06
 FE: 1.0.0-20220705.0420 | BE: 1.24.6-220701.0601

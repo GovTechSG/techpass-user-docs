@@ -219,7 +219,7 @@ FE: 1.0.0-20220719.0855 | BE: 1.24.10-220715.1024
     <td>
     There's a new change to the <b>scope</b> parameter in the request for access token via client credentials grant. You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i>
     <br><br>
-    Refer <a href="https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/#/whats-new/whats-new?id=change-in-automation-api-access-token-scope">Change in Automation API Access Token Scope</a> 
+    Refer to <b>Change in Automation API Access Token Scope</b> below
     </td>
   </tr>
 </table>
@@ -251,11 +251,12 @@ There's a new change to the <b>scope</b> parameter in the request for access tok
 ### Why was this changed?
 The <b>aud</b> claim in an access token indicates the resource the token is intended for (its audience). This value is defined by the <b>scope</b> parameter in the request for access token.<a target="_blank" href="https://docs.microsoft.com/en-us/azure/active-directory/develop/access-tokens">[More Info]</a> 
 
-In the context of Techpass Automation API, the token that we receive from our callers (our tenant applications) should have the <b>aud</b> claim pointing to us since we are the intended audience of the token. However, for the longest time, we have been accepting access token with <b>aud</b> claim pointing to Microsoft Graph (<i>https://graph.microsoft.com</i>) instead.
+In the context of Techpass Automation API, the token that we receive from our callers (tenant applications) should have the <b>aud</b> claim pointing to us since we are the intended audience of the token. However, for the longest time, we have been accepting access token with <b>aud</b> claim pointing to Microsoft Graph (<i>https://graph.microsoft.com</i>) instead.
 
 With the <b>aud</b> claim pointing to Microsoft Graph, the responsibility to validate the access token lies with Microsoft and we have no way to validate the signature of the token as Microsoft uses a special signing mechanism which only they themselves know how to validate. <a target="_blank" href="https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/issues/609#issuecomment-524434987">[More Info]</a> 
 
 Having the <b>aud</b> claim point to Techpass Automation API endpoint instead of Microsoft Graph would not only allow us to validate the <b>signature</b> of the token using public validators, we can also make sure that the token is indeed for Techpass Automation API by matching the <b>aud</b> claim against the Techpass Automation API endpoint.
+
 ### Action required
 You are required to change the <b>scope</b> parameter value from <i>https://graph.microsoft.com/.default</i> to <i>https://api.stg.techpass.suite.gov.sg/.default</i> in the request for access token via client credentials grant.
 

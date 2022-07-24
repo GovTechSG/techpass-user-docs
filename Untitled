@@ -9,7 +9,7 @@ This page provides the following Information:
 
 None
 
-| Category |  <specify where this maintenance is planned for. For example, TechPass portal> |
+| Category |  <specify the maintenance category> |
 | ------------- |:-------------|
 | Scheduled for      | <specify the date in Date Month YYYY  with the start and end time in 24 hrs SGT >    |
 | What will happen?  |  <for example, TechPass Portal will be going through a migration during this maintenance window.>  |

@@ -1,7 +1,7 @@
 # Staging release notes
 
 ## Staging release 20 July 2022
-Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
+Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**
 
 <details>
@@ -9,7 +9,7 @@ Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
 
 There is a change to the `scope` parameter in the request for access token via client credentials grant.
 
-**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.techpass.gov.sg/.default`.
+**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.stg.techpass.suite.gov.sg/.default`.
 
 For more information, refer to the following:
 - [Transition guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
@@ -22,16 +22,8 @@ For more information, refer to the following:
 <details>
 <summary style="font-size:20px;font-weight:bold">Fixed the issue that triggered incorrect emails from TechBiz</summary>
 
- A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
+A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
 
-</details>
-
-**Fixes** - **TechPass portal**
-
-<details>
-<summary style="font-size:20px;font-weight:bold">UI updated in Managed User page</summary>
-
-We have updated the **Email ID** field displayed on the **Managed User** page.
 </details>
 
 ## Staging release 06 July 2022
@@ -45,15 +37,6 @@ Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 A new widget from the Developer Portal has been integrated into the TechPass portal. Using this, you can now access and learn more about the various GovTech featured products.
 
 <kbd>![developer portal widget](../assets/images/whats-new/20220706_masthead-devportalwidget-02.png)</kbd>
-
-</details>
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">New webhook in TechPass portal</summary>
-
-Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
-
-For more information, refer to [Configuring Webhooks](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks).
 
 </details>
 

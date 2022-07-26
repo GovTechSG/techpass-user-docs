@@ -1,4 +1,5 @@
 - [Back to main](/)
-- [Recent Release Notes](/whats-new/whats-new)
-- [Production Archive](/whats-new/archive-release-notes-prod)
-- [Stage Archive](/whats-new/archive-release-notes-stg)
+- [Release Notes](/whats-new/whats-new)
+  - [Production](/whats-new/production-release-notes)
+  - [Staging](/whats-new/staging-release-notes)
+  

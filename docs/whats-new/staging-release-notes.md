@@ -131,7 +131,7 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 
   For more information, refer to the following documentation:
   - [List Users By Namespace](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users/get)
-  - [List Users](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get).
+  - [List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get).
   </summary>
   </details>
 

@@ -138,7 +138,7 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 <details>
 <summary style="font-size:20px;font-weight:bold">Three different login timestamps available</summary>
 
-[Get User Info API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get) now lists the following three different last login date and time:
+[Get User Info API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get) now lists the following three different last login date and time:
 
   - **lastInteractiveSignInAt**: Displays the timestamp of a user who logs in with the login credentials and MFA.
   - **lastNonInteractiveSignInAt**: Displays the timestamp of a user who logs in without the authenticating factor as the session is still valid.

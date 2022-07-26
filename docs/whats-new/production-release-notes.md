@@ -1,7 +1,7 @@
 # Production release notes
 
 ## Production release 27 July 2022
-Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
+Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**
 
 <details>
@@ -14,6 +14,15 @@ There is a change to the `scope` parameter in the request for access token via c
 For more information, refer to the following:
 - [Transition guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
 - [Change in Automation API Access Token Scope](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
+
+</details>
+
+**Fixes** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed the issue that triggered incorrect emails from TechBiz</summary>
+
+A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
 
 </details>
 

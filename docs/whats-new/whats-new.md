@@ -1,6 +1,8 @@
-# What's new with TechPass platform?
+# What's new with TechPass?
 
-This page summarises the new features, enhancements and bug fixes completed in each release of the TechPass platform.
+This page summarises the new features, improvements and bug fixes completed in each release of the TechPass service.
+
+## Latest changes
 
 **Production release notes**
 - [Production Release 13 July 2022](whats-new/production-release-notes?id=production-release-13-july-2022)

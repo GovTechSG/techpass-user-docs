@@ -1,5 +1,22 @@
 # Production release notes
 
+## Production release 27 July 2022
+Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
+**Improvements** - **Automation API**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Parameter changed in the request for access token</summary>
+
+There is a change to the `scope` parameter in the request for access token via client credentials grant.
+
+**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.techpass.gov.sg/.default`.
+
+For more information, refer to the following:
+- [Transition guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
+- [Change in Automation API Access Token Scope](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
+
+</details>
+
 ## Production release 13 July 2022
 Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 

@@ -9,10 +9,10 @@ Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
 
 There is a change to the `scope` parameter in the request for access token via client credentials grant.
 
-**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.stg.techpass.suite.gov.sg/.default`.
+**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.techpass.gov.sg/.default`.
 
 For more information, refer to the following:
-- [Addition resources](whats-new/additional-resources)
+- [Transition guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
 - [Change in Automation API Access Token Scope](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
 
 </details>

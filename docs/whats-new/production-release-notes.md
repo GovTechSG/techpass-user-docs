@@ -36,7 +36,7 @@ A new widget from the Developer Portal has been integrated into the TechPass por
 
 Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
 
-For more information, refer to [Configuring Webhooks](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks-).
+For more information, refer to [Configuring Webhooks](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks).
 
 </details>
 

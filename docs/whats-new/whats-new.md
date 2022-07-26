@@ -14,4 +14,3 @@ This page summarises the new features, improvements and bug fixes completed in e
 - [Staging Release 20 July 2022](whats-new/staging-release-notes?id=staging-release-20-july-2022)
 - [Staging Release 06 July 2022](whats-new/staging-release-notes?id=staging-release-06-july-2022)
 
-[View all staging release notes](/whats-new/staging-release-notes)

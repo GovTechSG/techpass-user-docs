@@ -7,7 +7,7 @@ This page provides the status of the TechPass service and information on the fol
 ## Scheduled maintenance
 Posted on 26 July 2022
 
-**Scheduled** - TechPass portal will be going through a scheduled maintenance on 26 July 2022, 1030am. There may be connectivity issues during this time. There are no action required from you.
+**Scheduled** - TechPass portal will be going through a scheduled maintenance on 27 July 2022, 1030am. There may be connectivity issues during this time. There are no action required from you.
 
 
 ## Ongoing incidents

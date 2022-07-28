@@ -24,6 +24,7 @@ This section guides how vendors or contractors working on Government ICT Project
  <div class="warn">
  <ul>
  <li>SEED licence is applicable only for <b>non-GSIB device</b>.</li>
+ <li> Emails with <b>*_from@*.gov.sg</b> format are <b>not permitted</b>. Please provide a company email supplied by the vendor company</li>
  <li> If you already have an active TechPass account and need a SEED licence, contact your project manager or reporting officer.</li>
  <li>If you are a public officer, refer to <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines">Onboarding Public Officers to TechPass</a>.</li>
  </ul>

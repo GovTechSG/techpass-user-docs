@@ -13,6 +13,9 @@ and [Security Assertion Markup Language(SAML) 2.0](http://docs.oasis-open.org/se
 
 ?> While OAuth 2.0 SSO setup is available on the [TechPass portal](https://portal.techpass.gov.sg), SAML service is available only by request. If you need SAML support for your product and services, submit a [service request](https://go.gov.sg/techpass-sr). We will get back to you within three business days.
 
+## TechPass is not...
+TechPass is not an email service provider. TechPass is a purely an Identity provider to allow users to access the downstream SGTS services
+
 ## TechPass portal
 You can access [TechPass portal](https://portal.techpass.gov.sg) only from non-SE GSIB devices.  This portal allows you to set up SSO for your SG TechStack products and manage IAM for your users. Refer to [TechPass Tenant Guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/) to learn more about setting up SSO and manage your users.
 

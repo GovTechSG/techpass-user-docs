@@ -25,7 +25,7 @@ So emails with *_from@*.gov.sg format are now forbidded to self sign up via Tech
 
 </details>
 
-**Fixes** - **Portal & Automation API**
+**Fixes** - **Portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Fixed failed to get user's status when accessing application edit page</summary>
@@ -34,6 +34,7 @@ A fix has been applied to properly detect users with multiple roles assigned to 
 
 </details>
 
+<!--- pulling this fix announcement from current release train. as fix is incomplete
 <details>
 <summary style="font-size:20px;font-weight:bold">Invite and Get user apis are returning nil for UserPrincipalName</summary>
 
@@ -49,7 +50,7 @@ Retrieve user info apis:
 [Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
 
 </details>
-
+--->
 ## Staging release 20 July 2022
 Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**

@@ -2,8 +2,9 @@
 
 ## Staging release 03 August 2022
 Frontend version: x | Backend version: x  
-**New features/Updates** - **TechPass Portal**
+**Updates** - **TechPass Portal**
 
+<!---
 <details>
 <summary style="font-size:20px;font-weight:bold">Email reminders for expiring/expired secrets and certificates</summary>
 
@@ -13,6 +14,7 @@ You will have up to 30 days to upload a new certificate or generate a new certif
 **Action required**: None
 
 </details>
+--->
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Self sign up using *_from@*.gov.sg are no longer permitted</summary>
@@ -21,7 +23,10 @@ Vendors are given *_from@*.gov.sg emails for their work via GSIB. However, TechP
 
 So emails with *_from@*.gov.sg format are now forbidded to self sign up via TechPass portal.
 
-**Action required**: For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
+**Action required:**  
+For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
+
+For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [service request](https://go.gov.sg/techpass-sr) to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, organisation and department.
 
 </details>
 

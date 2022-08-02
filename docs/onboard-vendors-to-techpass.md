@@ -10,6 +10,7 @@ This section guides how vendors or contractors working on Government ICT Project
 <div class="warn">
 <ul>
 <li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
+<li>If you are a GCC Common Services vendor user with *_from@*.gov.sg - Please raise a <a href="https://go.gov.sg/techpass-sr">service request</a> to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, organisation and department. </li>
 <li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
 <li>If you've started the TechPass onboarding process, make sure to complete it within the same session.</li>
 </ul>

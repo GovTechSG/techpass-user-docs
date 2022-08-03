@@ -1,7 +1,7 @@
 # Staging release notes
 
 ## Staging release 03 August 2022
-Frontend version: x | Backend version: x  
+Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
 **Updates** - **TechPass Portal**
 
 <!---

@@ -2,9 +2,14 @@
 <details>
 <summary>1. Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
-If you are a vendor, your TechPass account will be locked after five consecutive unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
+If you are a vendor, your TechPass account will be locked after continuous unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
 
-If you are a public officer, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
+<kbd>![temp-locked-account](../assets/images/temp_locked-account.png ':size=500')</kbd>
+
+> **Note**:
+> If you are unable to unlock your account by resetting password, create a [TechPass support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
+
+If you are a public officer, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
 </details>
 
@@ -67,7 +72,7 @@ To re-enable or if you think your account was incorrectly disabled, raise a [ser
 
 <details><summary>8. I am a public officer and unable to sign in to my WOG account from my GMD.</summary>
 
-You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-3-set-up-security-verification-for-your-wog-account)
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-1-set-up-security-verification-for-your-wog-account)
 
 </details>
 
@@ -78,4 +83,4 @@ You might encounter this error if you are trying to sign in to your WOG account 
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [service-request]: https://go.gov.sg/techpass-sr
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
-[reset-mfa]: ../reset-mfa.md
+[reset-mfa]: https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/reset-mfa

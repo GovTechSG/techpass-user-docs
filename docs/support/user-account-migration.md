@@ -45,4 +45,4 @@ Refer to [Reset MFA][reset-mfa].
 [service-request]: https://go.gov.sg/techpass-sr
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
-[reset-mfa]: ../reset-mfa.md
+[reset-mfa]: https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/reset-mfa

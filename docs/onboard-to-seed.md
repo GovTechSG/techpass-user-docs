@@ -9,7 +9,7 @@ This article is applicable only for public officers who have an existing active 
 
 _To onboard your device to SEED:_
 
-1. Go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+1. From your GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 
@@ -55,4 +55,4 @@ After you submit the Intune device ID, the following success message is displaye
 
 9. Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) and complete the post onboarding instructions for SEED.
 
-?> If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/post-onboarding-steps-and-verification).
+?> If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/gcc-1.0-users).

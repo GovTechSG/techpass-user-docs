@@ -6,6 +6,8 @@
 - [Edit TechPass profile](edit-profile)
 - [Onboard to SEED](onboard-to-seed)
 - [Reset MFA](reset-mfa)
+  - [WOG account](reset-security-verification-for-wog-account)
+  - [TechPass account](reset-techpass-mfa-for-new-device)  
 - [TechPass Status](techpass-status)
 - [Support](/support/overview.md)
 - [Terms and Policies](terms-and-policies)

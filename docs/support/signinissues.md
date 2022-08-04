@@ -6,14 +6,14 @@ No. As LiteMail accounts can't receive emails outside your agency, you will not 
 ## I am using a SE GSIB device. How do I sign up for a TechPass account?
 If you are using a SE GSIB device:
 
-1. Raise a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
+1. Create a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
 
 ![SE-GSIB service request options](../assets/support/SE-GSIB_SROptions.png)
 
 2. In **Ticket Request Type**, select **Service Request** and choose **Create TechPass account for Secured Email GSIB users**.
 3. When prompted to confirm, if you are a Secured Email (SE) GSIB user, select **Yes**.
 
-?> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. Refer to [Glossary](glossary) for more information on SE GSIB device.
+?> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. For more information on SE-GSIB device, refer to the [Glossary](glossary).
 
 ## How do I confirm if my device is SE GSIB or non-SE GSIB device?
 
@@ -23,7 +23,7 @@ If you are using a SE GSIB device, you will be using your PS-Card to authenticat
 
 
 <!--## TechPass account for SE-GSIB device users
-SE-GSIB device users can raise a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
+SE-GSIB device users can create a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
 
 Please select **Service Request** for ticket request type and **Create TechPass account for Secure Email GSIB users** when submitting the ticket.
 
@@ -34,27 +34,27 @@ Please select **Service Request** for ticket request type and **Create TechPass 
 DEEP is a system that helps developers establish a robust security baseline for their devices, while ensuring only compliant devices can access Government engineering resources.
 
 ### Protecting developer devices
-DEEP applies a security configuration baseline for each developer device based on industry standards such as the CIS benchmark. It also alerts developers on configuration and malware-related issues via the DEEP Dashboard, providing detailed remediation instructions for each issue.
+[DEEP](https://deep.tech.gov.sg/) applies a security configuration baseline for each developer device based on industry standards such as the [Center for Internet Security(CIS) benchmark](https://www.cisecurity.org/cis-benchmarks/). It also alerts developers on configuration and malware-related issues of your device on the DEEP Dashboard and provides detailed remediation instructions for each issue.
 
 ### Protecting Government engineering resources
 DEEP makes use of device-specific configuration and malware information to block developers with at-risk devices from accessing Government engineering resources.
 
 ### Login Errors
-When a user is blocked by DEEP at the Cloudflare level, the user will be presented this error:
+If  you are blocked by DEEP at the Cloudflare level, you will see the following error message:
 
-<span style="display:block;text-align:center">![mdm_cloudflare_error](../assets/support/mdmCloudflareError.png)</span>
+<kbd>![mdm_cloudflare_error](../assets/support/mdmCloudflareError.png)</kbd>
 
-When the user has established a connection with Cloudflare and the user's device has been blocked by DEEP, the user will be get this error:
+If you have established a connection with Cloudflare and if your device is blocked by DEEP, you will see the following error message:
 
-<span style="display:block;text-align:center">![mdm_techpass_error](../assets/support/mdmTechPassError.png)</span>
+<kbd>![mdm_techpass_error](../assets/support/mdm-techpass-error.png)</kbd>
+
+
 
 ### Resolution
 
-If you've encountered any of the above errors, try to resolve them by going to the DEEP portal link listed below based on environment. The DEEP portal will show you all the issues and instructions on how to fix them.
+If you've encountered any [login errors](#login-errors), go to the [DEEP portal link](https://deep.tech.gov.sg/) to resolve the issue. The DEEP portal lists all the issues with your device and provides instructions to resolve them.
 
-| Environment | Links                     |
-| ----------- | ------------------------- |
-| PROD        | https://deep.tech.gov.sg/ |
+
 
 
 ## If your account is at risk

@@ -116,10 +116,10 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
   - **lastInteractiveSignInAt**: Displays the timestamp of a user who logs in with the login credentials and MFA.
   - **lastNonInteractiveSignInAt**: Displays the timestamp of a user who logs in without the authenticating factor as the session is still valid.
-  - **lastSignInAt**: Composite of the above 2, whichever is later.
+  - **lastSignInAt**: Composite of the above two, whichever is later.
 
 
-  For more information, refer to Microsoft's [Sign In Activities](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932) documentation.
+  For more information, refer to Microsoft's article on [Non-interactive logins](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932).
 
 
   </details>

@@ -18,7 +18,9 @@ If you are a public officer, your TechPass account will be locked after continuo
 
 For vendors, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory] and will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
-Based on WOG's password policies, public officers will be notified to [reset GSIB password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
+Based on the WOG password policy, public officers will be notified to [reset GSIB password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
+
+
 
 </details>
 
@@ -35,13 +37,13 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 
 **If you are a vendor**:
 
-i. Raise a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
+i. Create a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
 
 ii. When this is done, you will be notified. Proceed to [Reset TechPass MFA](reset-techpass-mfa-for-new-device) using your new mobile device.
 
  **If you are a public officer**:
 
-i. Contact your Agency Facility Management (AFM) to  remove the MFA configured for your WOG account and raise a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
+i. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
 
 ii. After completing this, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
 
@@ -52,13 +54,13 @@ ii. After completing this, reset MFA for [WOG account](reset-security-verificati
 <details>
 <summary>5. I have other problems with MFA?</summary>
 
-Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) for more information or you can raise us a [service request](https://go.gov.sg/techpass-sr).
+Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) for more information or you can create a [service request](https://go.gov.sg/techpass-sr).
 
 </details>
 
 <details><summary>6. I am public officer and my TechPass account has been deleted. Why was it deleted and what should I do to get another account?</summary>
 
-When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
+When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, from your GSIB device, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
 
 </details>
 
@@ -66,17 +68,19 @@ When public officers sign up for TechPass, a TechPass account is created but wil
 
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
-To re-enable or if you think your account was incorrectly disabled, raise a [service request](https://go.gov.sg/techpass-sr) with us.
+To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/techpass-sr).
 
 </details>
 
 <details><summary>8. I am a public officer and unable to sign in to my WOG account from my GMD.</summary>
 
-You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 3 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-1-set-up-security-verification-for-your-wog-account)
+![mfa_error](../assets/support/mfa_error.jpg)
+
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 1 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-1-set-up-security-verification-for-your-wog-account)
 
 </details>
 
-![mfa_error](../assets/support/mfa_error.jpg)
+
 
 [reset-password]: https://passwordreset.microsoftonline.com/
 [password-policy-of-azure-active-directory]: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences

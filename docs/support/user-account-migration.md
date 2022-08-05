@@ -4,7 +4,7 @@
 
 You will receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
-If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration,  [create a service request][service-request] and monitor your TechPass account for suspicious activities.
+If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration, [report this incident][service-request] immediately and monitor your TechPass account for suspicious activities.
 
 2. I received an email stating, "Your disabled account was used for a new registration request". What does it mean?
 
@@ -39,10 +39,9 @@ If you are accessing SGTS services from your GSIB, there is no need for WOG acco
 
 7. How do I reset my MFA?
 
-Refer to [Reset MFA][reset-mfa].
+Refer to [Reset MFA](reset-mfa).
 
 
 [service-request]: https://go.gov.sg/techpass-sr
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
-[reset-mfa]: https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/reset-mfa

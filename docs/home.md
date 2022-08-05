@@ -7,18 +7,13 @@ TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solu
 
 Following are the list of SGTS services that uses TechPass as their IAM service.
 
-> **Note**:
-> Only public officers with WOG ID need TechPass to access APEX service.
-
-- [GCC2.0](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html)
-- [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
-- GCC Common Services
-- [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
-- [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
-- [DocPortal](https://docs.developer.tech.gov.sg/)
 - [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)
-
-
+- [DocPortal](https://docs.developer.tech.gov.sg/)
+- GCC Common Services
+- [GCC2.0](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html)
+- [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
+- [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
+- [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
 
 ## Key concepts
 TechPass is powered by [Microsoft Azure AD service](https://azure.microsoft.com/en-us/services/active-directory/). It is built on top of Azure AD to meet specific requirements of public service's development environment.

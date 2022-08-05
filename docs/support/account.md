@@ -47,7 +47,7 @@ i. Contact your Agency Facility Management (AFM) to remove the MFA configured fo
 
 ii. After completing this, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
 
-?> In the service request form, select **Service Request** and **Request to reset Multi Factor Authentication (MFA)** as **Ticket Type** and **Service Requests**, respectively.
+?> In the service request form, select **Service Request** as ****Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
 
 </details>
 
@@ -87,4 +87,4 @@ You might encounter this error if you are trying to sign in to your WOG account 
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [service-request]: https://go.gov.sg/techpass-sr
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
-[reset-mfa]: https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/reset-mfa
+[reset-mfa]: reset-mfa

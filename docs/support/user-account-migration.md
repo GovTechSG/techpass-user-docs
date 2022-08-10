@@ -4,17 +4,17 @@
 
 You will receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
-If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration,  [report this][service-request] to us and monitor your TechPass account for suspicious activities.
+If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration, [report this incident][service-request] immediately and monitor your TechPass account for suspicious activities.
 
 2. I received an email stating, "Your disabled account was used for a new registration request". What does it mean?
 
-It indicates that your active TechPass account was disabled as it was inactive for 90 consecutive days. The email ID on which you received this message is your inactive TechPass ID and reactivate it by raising a [service request][service-request] with us.
+It indicates that your active TechPass account was disabled as it was inactive for 90 consecutive days. The email ID on which you received this message is your inactive TechPass ID and reactivate it by creating a [service request][service-request] with us.
 
 3. I received an email stating "Your TechPass account has been disabled and will be deleted soon". What does it mean?
 
 When you request for a TechPass account, it is created and an email with an onboarding link is sent to you to complete the TechPass onboarding process. If you had not completed this within 30days using this link, you get this email.
 
-To get a new invitation link, raise a [service request][service-request] with us. After you receive a new invitation link, make sure to onboard in to TechPass within 30 days.
+To get a new invitation link, create a [service request][service-request] with us. After you receive a new invitation link, make sure to onboard in to TechPass within 30 days.
 
 4. I am a public officer. How do I reset my TechPass account password?
 
@@ -39,10 +39,9 @@ If you are accessing SGTS services from your GSIB, there is no need for WOG acco
 
 7. How do I reset my MFA?
 
-Refer to [Reset MFA][reset-mfa].
+Refer to [Reset MFA](reset-mfa).
 
 
 [service-request]: https://go.gov.sg/techpass-sr
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
-[reset-mfa]: ../reset-mfa.md

@@ -13,6 +13,7 @@ This page summarises the new features, improvements and bug fixes completed in e
 [View all production release notes](/whats-new/production-release-notes)
 
 **Staging release notes**
+- [Staging Release 17 August 2022](whats-new/staging-release-notes?id=staging-release-17-august-2022)
 - [Staging Release 03 August 2022](whats-new/staging-release-notes?id=staging-release-03-august-2022)
 - [Staging Release 20 July 2022](whats-new/staging-release-notes?id=staging-release-20-july-2022)
 - [Staging Release 06 July 2022](whats-new/staging-release-notes?id=staging-release-06-july-2022)

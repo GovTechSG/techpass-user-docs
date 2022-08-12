@@ -8,7 +8,7 @@ Frontend version:  | Backend version:
 <summary style="font-size:20px;font-weight:bold">Email reminders for expiring/expired secrets and certificates</summary>
 
 There is now a new cron job that will be sending email reminders to all Tenant admins whenever an expiring or expired secret and/or certificate uploaded to the application is detected.  
-You will have up to 30 days to upload a new certificate or generate a new certificate upon recieving such emails. Do so timely for your published applications; otherwise users access to your application will be impeded.
+You will have up to 30 days to upload a new certificate or generate a new certificate upon receiving such emails. Do so timely for your published applications; otherwise users access to your application will be impeded.
 
 **Action required**: None
 

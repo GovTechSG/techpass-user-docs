@@ -15,19 +15,6 @@ Following are the list of SGTS services that uses TechPass as their IAM service.
 - [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
 - [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
 
-### SGTS services
-
-Following are the list of SGTS services that uses TechPass as their IAM service.
-
-> **Note**:
-> Only public officers with WOG ID need TechPass to access APEX service.
-- [GCC2.0](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html)
-- [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
-- GCC Common Services
-- [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
-- [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
-- [DocPortal](https://docs.developer.tech.gov.sg/)
-- [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)
 
 
 ## Key concepts

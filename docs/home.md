@@ -15,6 +15,7 @@ Following are the list of SGTS services that uses TechPass as their IAM service.
 - [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
 - [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
 
+
 ## Key concepts
 TechPass is powered by [Microsoft Azure AD service](https://azure.microsoft.com/en-us/services/active-directory/). It is built on top of Azure AD to meet specific requirements of public service's development environment.
 

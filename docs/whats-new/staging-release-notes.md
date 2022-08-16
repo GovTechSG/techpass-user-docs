@@ -1,7 +1,101 @@
 # Staging release notes
 
+## Staging release 17 August 2022
+Frontend version:  | Backend version:   
+**Updates** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Email reminders for expiring/expired secrets and certificates</summary>
+
+There is now a new cron job that will be sending email reminders to all Tenant admins whenever an expiring or expired secret and/or certificate uploaded to the application is detected.  
+You will have up to 30 days to upload a new certificate or generate a new secret upon receiving such emails. Do so timely for your published applications; otherwise users access to your application will be impeded.
+
+**Action required**: None
+
+</details>
+
+**Fixes** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Implicit grant settings were overwritten when updating other application settings</summary>
+
+If a Tenant Admin enabled the ID Token in the Implicit Grant settings via Azure Portal and proceeded to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
+
+</details>
+
+**Fixes** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Email notification sent to deleted account indicate 5 days of no sign-in but it should be 30 days</summary>
+
+A fix has been applied to the email template to indicate 30 days instead of 5 days of no sign-in. It was only a typo, the logic for the deletion is triggered after 30 days, as intended.
+
+</details>
+
+**Fixes** - **Automation API**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Invite and Get user APIs are returning nil for UserPrincipalName</summary>
+
+On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions. 
+
+A fix has been applied to manage the slow down from Azure and to properly return an error when UserPrincipalName is nil for the following apis.  
+Invite user apis:  
+[Invite Public Officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)  
+[Invite Vendor](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
+
+Retrieve user info apis:  
+[List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
+[Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
+
+</details>
+
+## Staging release 03 August 2022
+Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
+**Updates** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Self sign up using *_from@*.gov.sg are no longer permitted</summary>
+
+Vendors are given *_from@*.gov.sg emails for their work via GSIB. However, TechPass accounts for vendors must be sponsored by their respective agencies via the downstream SGTS services in use and vendors will need to provide their vendor company emails for account creation.
+
+So emails with *_from@*.gov.sg format are now forbidded to self sign up via TechPass portal.
+
+**Action required:**  
+For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
+
+For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [service request](https://go.gov.sg/techpass-sr) to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department.
+
+</details>
+
+**Fixes** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed failed to get user's status when accessing application edit page</summary>
+
+A fix has been applied to properly detect users with multiple roles assigned to the application; so that this list of users can be properly displayed in the application edit page.
+
+</details>
+
+<!--- pulling this fix announcement from current release train. as fix is incomplete
+<details>
+<summary style="font-size:20px;font-weight:bold">Invite and Get user apis are returning nil for UserPrincipalName</summary>
+
+On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions. 
+
+A fix has been applied to manage the slow down from Azure and to properly return an error when UserPrincipalName is nil for the following apis.  
+Invite user apis:  
+[Invite Public Officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)  
+[Invite Vendor](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
+
+Retrieve user info apis:  
+[List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
+[Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
+
+</details>
+--->
 ## Staging release 20 July 2022
-Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
+Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**
 
 <details>
@@ -9,7 +103,7 @@ Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
 
 There is a change to the `scope` parameter in the request for access token via client credentials grant.
 
-**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.techpass.gov.sg/.default`.
+**Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.stg.techpass.suite.gov.sg/.default`.
 
 For more information, refer to the following:
 - [Transition guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
@@ -22,22 +116,14 @@ For more information, refer to the following:
 <details>
 <summary style="font-size:20px;font-weight:bold">Fixed the issue that triggered incorrect emails from TechBiz</summary>
 
- A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
+A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
 
-</details>
-
-**Fixes** - **TechPass portal**
-
-<details>
-<summary style="font-size:20px;font-weight:bold">UI updated in Managed User page</summary>
-
-We have updated the **Email ID** field displayed on the **Managed User** page.
 </details>
 
 ## Staging release 06 July 2022
 Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 
-**New features** - **TechPass portal**
+**New features** - **TechPass Portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Developer Portal Widget is available on the TechPass portal</summary>
@@ -45,15 +131,6 @@ Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 A new widget from the Developer Portal has been integrated into the TechPass portal. Using this, you can now access and learn more about the various GovTech featured products.
 
 <kbd>![developer portal widget](../assets/images/whats-new/20220706_masthead-devportalwidget-02.png)</kbd>
-
-</details>
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">New webhook in TechPass portal</summary>
-
-Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
-
-For more information, refer to [Configuring Webhooks](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks).
 
 </details>
 
@@ -77,7 +154,7 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 
   </details>
 
-**Improvements** - **TechPass portal**
+**Improvements** - **TechPass Portal**
 
   <details>
   <summary style="font-size:20px;font-weight:bold">Metrics are available only for published applications on TechPass portal</summary>
@@ -98,7 +175,7 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 
   </details>
 
-**Improvements** - **TechPass portal and Automation API**
+**Improvements** - **TechPass Portal and Automation API**
 
   <details>
   <summary style="font-size:20px;font-weight:bold">Access token and ID token durations shortened</summary>

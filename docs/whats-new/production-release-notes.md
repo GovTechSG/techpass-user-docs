@@ -1,7 +1,34 @@
 # Production release notes
 
+## Production release 03 August 2022
+Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
+**Updates** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Self sign up using *_from@*.gov.sg are no longer permitted</summary>
+
+Vendors are given *_from@*.gov.sg emails for their work via GSIB. However, TechPass accounts for vendors must be sponsored by their respective agencies via the downstream SGTS services in use and vendors will need to provide their vendor company emails for account creation.
+
+So emails with *_from@*.gov.sg format are now forbidded to self sign up via TechPass portal.
+
+**Action required:**  
+For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
+
+For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [service request](https://go.gov.sg/techpass-sr) to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department.
+
+</details>
+
+**Fixes** - **Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed failed to get user's status when accessing application edit page</summary>
+
+A fix has been applied to properly detect users with multiple roles assigned to the application; so that this list of users can be properly displayed in the application edit page.
+
+</details>
+
 ## Production release 27 July 2022
-Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024
+Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**
 
 <details>
@@ -14,6 +41,15 @@ There is a change to the `scope` parameter in the request for access token via c
 For more information, refer to the following:
 - [Transition guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
 - [Change in Automation API Access Token Scope](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
+
+</details>
+
+**Fixes** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed the issue that triggered incorrect emails from TechBiz</summary>
+
+A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
 
 </details>
 

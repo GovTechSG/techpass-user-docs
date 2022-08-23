@@ -24,7 +24,7 @@ This article guides public officers to do the following:
 !> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others, can skip this and proceed to [step 2. Sign up for TechPass](#step-2-sign-up-for-techpass)
 
 <details>
-  <summary>How to set up security verification for WOG account?</summary>
+  <summary style="font-size:18px">How to set up security verification for WOG account?</summary>
 
   Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their GMD device.
 
@@ -49,6 +49,7 @@ This article guides public officers to do the following:
   <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
   8. Your **Profile** page is displayed.
   <kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup.png)</kbd>
+  <!--<kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup-updated.png)</kbd>-->
 
   </details>
 
@@ -59,7 +60,7 @@ This article guides public officers to do the following:
 >- Other users need to complete the below steps using a non-SE GSIB machine.
 
 <details>
-  <summary>How to sign up for TechPass?</summary>
+  <summary style="font-size:18px">How to sign up for TechPass?</summary>
 
   Public officers sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
 
@@ -97,7 +98,7 @@ This article guides public officers to do the following:
 ?> Complete steps 3 and 4 within the same session.
 
 <details>
-  <summary>Steps to accept invitation</summary>
+  <summary style="font-size:18px">Steps to accept invitation</summary>
 
   Public officer has to accept this invitation within 30 days to onboard to TechPass. Invitation is not valid after 30 days and you need to sign up again for a TechPass account.
 
@@ -116,7 +117,7 @@ This article guides public officers to do the following:
 
 ## Step 4. Onboard to TechPass
 <details>
-  <summary>How does a public officer onboard to TechPass?</summary>
+  <summary style="font-size:18px">How does a public officer onboard to TechPass?</summary>
 
   _To onboard in to your TechPass account:_
 

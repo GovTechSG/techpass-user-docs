@@ -1,5 +1,55 @@
 # Production release notes
 
+## Production release 24 August 2022
+Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220  
+**Updates** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Email reminders for expiring/expired secrets and certificates</summary>
+
+There is now a new cron job that will be sending email reminders to all Tenant admins whenever an expiring or expired secret and/or certificate uploaded to the application is detected.  
+You will have up to 30 days to upload a new certificate or generate a new secret upon receiving such emails. Do so timely for your published applications; otherwise users access to your application will be impeded.
+
+**Action required**: None
+
+</details>
+
+**Fixes** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Implicit grant settings were overwritten when updating other application settings</summary>
+
+If a Tenant Admin enabled the ID Token in the Implicit Grant settings via Azure Portal and proceeded to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
+
+</details>
+
+**Fixes** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Email notification sent to deleted account indicate 5 days of no sign-in but it should be 30 days</summary>
+
+A fix has been applied to the email template to indicate 30 days instead of 5 days of no sign-in. It was only a typo, the logic for the deletion is triggered after 30 days, as intended.
+
+</details>
+
+**Fixes** - **Automation API**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Invite and Get user APIs are returning nil for UserPrincipalName</summary>
+
+On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions. 
+
+A fix has been applied to manage the slow down from Azure and to properly return an error when UserPrincipalName is nil for the following apis.  
+Invite user apis:  
+[Invite Public Officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)  
+[Invite Vendor](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
+
+Retrieve user info apis:  
+[List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
+[Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
+
+</details>
+
 ## Production release 03 August 2022
 Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
 **Updates** - **TechPass Portal**

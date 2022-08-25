@@ -20,7 +20,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 
-<details> <summary> How to get a TechPass account and SEED licence?</summary>
+<details> <summary style="font-size:18px"> How to get a TechPass account and SEED licence?</summary>
 
  <div class="warn">
  <ul>
@@ -46,7 +46,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 2. First-time sign in using initial password
 
-<details> <summary>Steps to sign in using TechPass username and initial password</summary>
+<details> <summary style="font-size:18px">Steps to sign in using TechPass username and initial password</summary>
 
   1. Go to the web page provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
 
@@ -62,7 +62,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details> <summary> How to configure and verify MFA for vendor's TechPass account?</summary>
+<details> <summary style="font-size:18px"> How to configure and verify MFA for vendor's TechPass account?</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
 
@@ -102,7 +102,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 4. Reset your initial password
 
-<details> <summary> How to reset the initial password?</summary>
+<details> <summary style="font-size:18px"> How to reset the initial password?</summary>
 
   1. Enter your **initial password**, **new password** and retype the new password to confirm.  
 
@@ -113,7 +113,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 5. Accept Terms of Use, Privacy Policy and Mobile Device Management-Acceptable Use Policy
 
-<details><summary> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy for SEED</summary>
+<details><summary style="font-size:18px"> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy for SEED</summary>
 
   1. Click the arrow to view the **TechPass Terms of Use**.
 

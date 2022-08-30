@@ -13,6 +13,7 @@ You will have up to 30 days to upload a new certificate or generate a new secret
 
 **Action required**: If you receive email notifications for expired or expiring certificates or secrets, please follow the instructions in the TechPass tenant guide to [upload new certificate](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/clientcred?id=upload-certificate) or [create new secret](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/authcodegrant?id=_2-create-secret).
 
+
 </details>
 
 **Fixes** - **TechPass Portal**
@@ -27,6 +28,7 @@ A fix has been applied so that if a Tenant Admin enables the ID Token in the **I
 **Fixes** - **Backend**
 
 <details>
+
 <summary style="font-size:20px;font-weight:bold">Email notification sent to deleted account indicate five days of no sign-in but it should be 30 days</summary>
 
 A fix has been applied to the email template to indicate 30 days instead of 5 days of no sign-in. It was only a typo, the logic for the deletion is triggered after 30 days, as intended.
@@ -38,7 +40,7 @@ A fix has been applied to the email template to indicate 30 days instead of 5 da
 <details>
 <summary style="font-size:20px;font-weight:bold">Invite and Get user APIs does not return any value for UserPrincipalName</summary>
 
-On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user API is triggered. On such occasions, Invite and Get user APIs may return no value for **UserPrincipalName** .
+On rare occasions, Azure may take up more time than expected to generate a user resource when invite user API is triggered. On such occasions, Invite and Get user APIs may return no value for **UserPrincipalName** .
 
 A fix has been applied to manage the delay from Azure and to return a valid error message when UserPrincipalName is empty for the following APIs.  
 

@@ -6,11 +6,20 @@ Frontend version: <version number in the environment> | Backend version: <versio
 **New features** - **Backend**
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Terminate accounts that are inactive for 30 days from creation</summary>
+<summary style="font-size:20px;font-weight:bold">Notify users before terminating their account which is inactive for 30 days from creation</summary>
 
-TechPass will automatically terminate TechPass accounts that have not been used within 30 days from its creation date. The user will receive an email notification for this.
+TechPass automatically terminates TechPass accounts that have not been used within 30 days from its creation date. Users will now receive an email notification seven days in advance about this termination.
 
 <kbd>![email](../assets/images/whats-new/terminate-inactive-account.png)</kbd>
+
+**Action required:**
+
+Log in with your TechPass and complete the TechPass onboarding flow.
+
+- If you are a public officer, [accept the invitation and complete the onbaording flow](/onboard-public-officers-using-non-se-machines?id=step-3-accept-invitation).
+
+- If you are a vendor, [sign in to your TechPass account](onboard-vendors-to-techpass?id=step-2-first-time-sign-in-using-initial-password)
+
 </details>
 
 **Fixes** - **TechPass portal**

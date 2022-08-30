@@ -11,7 +11,7 @@ If you are a vendor, your TechPass account will be locked after continuous unsuc
 
 If you are a public officer, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
-<hr/></details>
+<hr/></details><br>
 
 <details>
 <summary style="font-size:18px">2. What is the password reset policy for TechPass accounts?</summary>
@@ -22,7 +22,7 @@ Based on the WOG password policy, public officers will be notified to [reset GSI
 
 
 
-<hr/></details>
+<hr/></details><br>
 
 <details>
 <summary style="font-size:18px">3. How often should I verify my security info?</summary>
@@ -30,7 +30,7 @@ Based on the WOG password policy, public officers will be notified to [reset GSI
 As security information is vital, you need to make sure it is always up-to-date. You will receive a reminder every 180 days to review your security info and update it as needed.
 
 To manage your security info any time, go to <a href="https://myaccount.microsoft.com/" target="_blank">My Account</a>.
-<hr/></details>
+<hr/></details><br>
 
 <details>
 <summary style="font-size:18px">4. I have lost the mobile device which I used for MFA authentications. What should I do?</summary>
@@ -49,7 +49,7 @@ ii. After completing this, reset MFA for [WOG account](reset-security-verificati
 
 ?> In the service request form, select **Service Request** as ****Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
 
-<hr/></details>
+<hr/></details><br>
 
 <details>
 <summary style="font-size:18px">5. I have other problems with MFA?</summary>
@@ -62,7 +62,7 @@ Visit Microsoft's [Common problems with two-factor verification](https://docs.mi
 
 When public officers sign up for TechPass, a TechPass account is created but will be in pending status until they accept the invitation link. If they do not accept this invitation link within 30 days, this account will be deleted. Note this is different from disabling TechPass account. If you still want a TechPass account, from your GSIB device, go to [TechPass portal](http://portal.techpass.gov.sg) and sign up again to receive a new invitation link.
 
-<hr/></details>
+<hr/></details><br>
 
 <details><summary style="font-size:18px">7. Why is my TechPass account disabled? How to re-enable it?</summary>
 
@@ -70,7 +70,7 @@ Your TechPass account might be disabled if you have not used it for 90 consecuti
 
 To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/techpass-sr).
 
-<hr/></details>
+<hr/></details><br>
 
 <details><summary style="font-size:18px">8. I am a public officer and unable to sign in to my WOG account from my GMD.</summary>
 
@@ -78,7 +78,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [step 1 in Onboarding public officer](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines?id=step-1-set-up-security-verification-for-your-wog-account)
 
-<hr/></details>
+<hr/></details><br>
 
 
 

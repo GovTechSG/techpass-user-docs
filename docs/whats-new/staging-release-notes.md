@@ -18,7 +18,7 @@ TechPass will automatically terminate TechPass accounts that have not been used 
 <details>
 <summary style="font-size:20px;font-weight:bold">Warning message for expiring and expired certificates and secrets</summary>
 
-we have fixed a bug and now warning messages will be displayed for both expiring and expired certificates and secrets on the portal. Earlier, it was displayed only for expiring certificates and secrets.
+We have fixed a bug and now warning messages will be displayed for both expiring and expired certificates and secrets on the portal. Earlier, it was displayed only for expiring certificates and secrets.
 
 </details>
 

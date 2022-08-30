@@ -1,7 +1,7 @@
 # Production release notes
 
-## Production release 31 August 2022
-Frontend version:  | Backend version:  
+## Production release 25 August 2022
+Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220  
 **Updates** - **Backend**
 
 <details>
@@ -43,12 +43,15 @@ On a rare occasion, Azure may take up more time than expected to generate a user
 A fix has been applied to manage the delay from Azure and to return a valid error message when UserPrincipalName is empty for the following APIs.  
 
 **Invite user API**
-[Invite Public Officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)  
-[Invite Vendor](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
+[Invite Public Officer](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)
+
+[Invite Vendor](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
 
 **Retrieve user info API**  
-[List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
-[Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
+[List Users](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
+[Get User Info](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
+
+</details>
 
 ## Production release 03 August 2022
 Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  

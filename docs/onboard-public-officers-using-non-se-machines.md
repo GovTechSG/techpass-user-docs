@@ -2,7 +2,7 @@
 
 **Overview**
 
-This article guides public officers to do the following:
+This article guides how public officers can get a TechPass account:
 
 1. [Set up security verification for your WOG account](#step-1-set-up-security-verification-for-your-wog-account) if you have not yet done.
 2. [Sign up for TechPass account and request SEED provisioning](#step-2-sign-up-for-techpass).

@@ -48,15 +48,15 @@ This section guides how vendors or contractors working on Government ICT Project
 
 **To get a TechPass account**:
 
-## Step 1. Get a TechPass account and SEED licence for vendors or contractors
+## Step 1. Get a TechPass account and request for SEED provision
 
-<details> <summary style="font-size:18px"> How to get a TechPass account and SEED licence?</summary>
+<details> <summary style="font-size:18px"> How to get a TechPass account and request for SEED provisioning?</summary>
 
  <div class="warn">
  <ul>
- <li>SEED licence is applicable only for <b>non-GSIB device</b>.</li>
- <li> Emails with <b>*_from@*.gov.sg</b> format are <b>not permitted</b>. Please provide a company email supplied by the vendor company</li>
- <li> If you already have an active TechPass account and need a SEED licence, contact your project manager or reporting officer.</li>
+ <li>SEED provisioning is required only if you use your <b>non-GSIB device</b> to access SGTS services.</li>
+ <li> Emails with <b>*_from@*.gov.sg</b> format are <b>not permitted</b>. You need to provide the company email ID supplied by the vendor company.</li>
+ <li> If you already have an active TechPass account and need SEED provisioning, create a [service request](https://go.gov.sg/techpass-sr).</li>
  <li>If you are a public officer, refer to <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines">Onboarding Public Officers to TechPass</a>.</li>
  </ul>
  </div>

@@ -5,7 +5,8 @@ This page summarises the new features, improvements and bug fixes completed in e
 ## Latest changes
 
 **Production release notes**
-- [Production Release 03 August 2022](whats-new/staging-release-notes?id=production-release-03-august-2022)
+- [Production release 25 August 2022](whats-new/production-release-notes?id=production-release-25-august-2022)
+- [Production Release 03 August 2022](whats-new/production-release-notes?id=production-release-03-august-2022)
 - [Production Release 27 July 2022](whats-new/production-release-notes?id=production-release-27-july-2022)
 - [Production Release 13 July 2022](whats-new/production-release-notes?id=production-release-13-july-2022)
 - [Production Release 17 June 2022](whats-new/production-release-notes?id=production-release-17-june-2022)  
@@ -13,6 +14,7 @@ This page summarises the new features, improvements and bug fixes completed in e
 [View all production release notes](/whats-new/production-release-notes)
 
 **Staging release notes**
+- [Staging release 31 August 2022](whats-new/staging-release-notes?id=staging-release-31-august-2022)
 - [Staging Release 17 August 2022](whats-new/staging-release-notes?id=staging-release-17-august-2022)
 - [Staging Release 03 August 2022](whats-new/staging-release-notes?id=staging-release-03-august-2022)
 - [Staging Release 20 July 2022](whats-new/staging-release-notes?id=staging-release-20-july-2022)

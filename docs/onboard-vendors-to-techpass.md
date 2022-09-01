@@ -1,6 +1,36 @@
 # Onboard vendors
 This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
+<!-- tabs:start -->
+
+## **Notes for GCC 1.0 users**
+
+- Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
+- Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
+- While registering, ensure to provide the correct VPN ID.
+- It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
+
+## **Notes for all users**
+
+- If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.
+- If you are a GCC Common Services vendor user with *_from@*.gov.sg - Please raise a <a href="https://go.gov.sg/techpass-sr">service request</a> to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department.
+- Other users need to complete the below steps using a non-SE GSIB machine.
+- If you've started the TechPass onboarding process, make sure to complete it within the same session.
+
+<!-- tabs:end -->
+
+<!--
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Notes for GCC 1.0 users</summary>
+<div class="warn">
+<ul>
+<li>Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.</li>
+<li>Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.</li>
+<li>While registering, ensure to provide the correct VPN ID.</li>
+<li>It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.</li>
+</details>
+
 > **Notes for GCC 1.0 users**:
 >1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
 >1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
@@ -14,9 +44,9 @@ This section guides how vendors or contractors working on Government ICT Project
 <li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
 <li>If you've started the TechPass onboarding process, make sure to complete it within the same session.</li>
 </ul>
-</div>
+</div> -->
 
-*To get a TechPass account* :
+**To get a TechPass account**:
 
 ## Step 1. Get a TechPass account and SEED licence for vendors or contractors
 

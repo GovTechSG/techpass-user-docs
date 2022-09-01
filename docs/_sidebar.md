@@ -10,5 +10,5 @@
   - [TechPass account](reset-techpass-mfa-for-new-device)  
 - [TechPass Status](techpass-status)
 - [Support](/support/overview.md)
-- [Terms and Policies](terms-and-policies)
+- [Terms and policies](terms-and-policies)
 - [Glossary](glossary)

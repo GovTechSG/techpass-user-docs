@@ -1,5 +1,36 @@
 # Production release notes
 
+## Production release 6 Sep 2022
+Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Notify users before terminating their account which is inactive for 30 days from creation</summary>
+
+TechPass automatically terminates TechPass accounts that have not been used within 30 days from its creation date. Users will now receive an email notification seven days in advance about this termination.
+
+<kbd>![email](../assets/images/whats-new/terminate-inactive-account.png)</kbd>
+
+**Action required:**
+
+Log in with your TechPass and complete the TechPass onboarding flow.
+
+- If you are a public officer, [accept the invitation and complete the onbaording flow](/onboard-public-officers-using-non-se-machines?id=step-3-accept-invitation).
+
+- If you are a vendor, [sign in to your TechPass account](onboard-vendors-to-techpass?id=step-2-first-time-sign-in-using-initial-password)
+
+</details>
+
+**Fixes** - **TechPass portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Warning message for expiring and expired certificates and secrets</summary>
+
+We have fixed a bug and now warning messages will be displayed for both expiring and expired certificates and secrets on the portal. Earlier, it was displayed only for expiring certificates and secrets.
+
+</details>
+
 ## Production release 25 August 2022
 Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220  
 **Updates** - **Backend**

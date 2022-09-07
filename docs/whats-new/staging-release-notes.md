@@ -1,5 +1,36 @@
 # Staging release notes
 
+## Staging release 31 August 2022
+Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Notify users before terminating their account which is inactive for 30 days from creation</summary>
+
+TechPass automatically terminates TechPass accounts that have not been used within 30 days from its creation date. Users will now receive an email notification seven days in advance about this termination.
+
+<kbd>![email](../assets/images/whats-new/terminate-inactive-account.png)</kbd>
+
+**Action required:**
+
+Log in with your TechPass and complete the TechPass onboarding flow.
+
+- If you are a public officer, [accept the invitation and complete the onbaording flow](/onboard-public-officers-using-non-se-machines?id=step-3-accept-invitation).
+
+- If you are a vendor, [sign in to your TechPass account](onboard-vendors-to-techpass?id=step-2-first-time-sign-in-using-initial-password)
+
+</details>
+
+**Fixes** - **TechPass portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Warning message for expiring and expired certificates and secrets</summary>
+
+We have fixed a bug and now warning messages will be displayed for both expiring and expired certificates and secrets on the portal. Earlier, it was displayed only for expiring certificates and secrets.
+
+</details>
+
 ## Staging release 17 August 2022
 Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220  
 **Updates** - **Backend**
@@ -7,10 +38,11 @@ Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220
 <details>
 <summary style="font-size:20px;font-weight:bold">Email reminders for expiring/expired secrets and certificates</summary>
 
-There is now a new cron job that will be sending email reminders to all Tenant admins whenever an expiring or expired secret and/or certificate uploaded to the application is detected.  
-You will have up to 30 days to upload a new certificate or generate a new secret upon receiving such emails. Do so timely for your published applications; otherwise users access to your application will be impeded.
+A new cron job sends email reminders to all Tenant admins whenever an application's certificate or secret is going to expire or if expired already. This email will prompt tenant admins to upload new certificate or create a new secret for the application.
 
-**Action required**: None
+You will have up to 30 days to upload a new certificate or generate a new secret upon receiving such emails. Do this on time for your published applications; otherwise users of this application will have issues in accessing it.
+
+**Action required**: If you receive email notifications for expired or expiring certificates or secrets, please follow the instructions in the TechPass tenant guide to [upload new certificate](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/clientcred?id=upload-certificate) or [create new secret](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/authcodegrant?id=_2-create-secret).
 
 </details>
 
@@ -19,14 +51,14 @@ You will have up to 30 days to upload a new certificate or generate a new secret
 <details>
 <summary style="font-size:20px;font-weight:bold">Implicit grant settings were overwritten when updating other application settings</summary>
 
-If a Tenant Admin enabled the ID Token in the Implicit Grant settings via Azure Portal and proceeded to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
+A fix has been applied so that if a Tenant Admin enables the ID Token in the **Implicit Grant settings** via Azure Portal and proceeds to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
 
 </details>
 
 **Fixes** - **Backend**
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Email notification sent to deleted account indicate 5 days of no sign-in but it should be 30 days</summary>
+<summary style="font-size:20px;font-weight:bold">Email notification sent to deleted account indicate five days of no sign-in but it should be 30 days</summary>
 
 A fix has been applied to the email template to indicate 30 days instead of 5 days of no sign-in. It was only a typo, the logic for the deletion is triggered after 30 days, as intended.
 
@@ -35,16 +67,17 @@ A fix has been applied to the email template to indicate 30 days instead of 5 da
 **Fixes** - **Automation API**
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Invite and Get user APIs are returning nil for UserPrincipalName</summary>
+<summary style="font-size:20px;font-weight:bold">Invite and Get user APIs does not return any value for UserPrincipalName</summary>
 
-On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions. 
+On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user API is triggered. On such occasions, Invite and Get user APIs may return no value for **UserPrincipalName** .
 
-A fix has been applied to manage the slow down from Azure and to properly return an error when UserPrincipalName is nil for the following apis.  
-Invite user apis:  
+A fix has been applied to manage the delay from Azure and to return a valid error message when UserPrincipalName is empty for the following APIs.  
+
+**Invite user API**
 [Invite Public Officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1publicofficer/post)  
 [Invite Vendor](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users~1vendor/post)
 
-Retrieve user info apis:  
+**Retrieve user info API**  
 [List Users](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get)  
 [Get User Info](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get)
 
@@ -81,7 +114,7 @@ A fix has been applied to properly detect users with multiple roles assigned to 
 <details>
 <summary style="font-size:20px;font-weight:bold">Invite and Get user apis are returning nil for UserPrincipalName</summary>
 
-On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions. 
+On a rare occasion, Azure may take up more time than expected to generate a user resource when invite user apis has been triggered. Invite and Get user apis may return nil for UserPrincipalName on such occasions.
 
 A fix has been applied to manage the slow down from Azure and to properly return an error when UserPrincipalName is nil for the following apis.  
 Invite user apis:  

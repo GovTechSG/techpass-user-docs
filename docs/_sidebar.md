@@ -8,7 +8,7 @@
 - [Reset MFA](reset-mfa)
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  
-- [TechPass Status](techpass-status)
+- [TechPass status](techpass-status)
 - [Support](/support/overview.md)
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)

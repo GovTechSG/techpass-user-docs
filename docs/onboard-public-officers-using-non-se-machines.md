@@ -1,34 +1,22 @@
 # Onboard public officers
 
-**Overview**
+If you are a public officer, complete the following steps to get a TechPass account and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) provisioning. You need SEED provisioning to access SGTS services from your internet device.
 
-This article guides how public officers can get a TechPass account:
+> **Tip**: Click the triangle to view the instructions to complete each step.
 
-1. [Set up security verification for your WOG account](#step-1-set-up-security-verification-for-your-wog-account) if you have not yet done.
-2. [Sign up for TechPass account and request SEED provisioning](#step-2-sign-up-for-techpass).
-3. [Accept invitation](#step-3-accept-invitation).
-4. [Onboard to TechPass](#step-4-onboard-to-techpass).
-
-> **Notes for GCC 1.0 users**:
->1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
->1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
->1. While registering, ensure to provide the correct VPN ID.
->1. It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
-
-?> If you use a SE-GSIB device, refer to [TechPass account for SE-GSIB device users](support/overview?id=techpass-account-for-se-gsib-device-users) for getting a TechPass account.
-
-**To get a TechPass account**:
 
 ## Step 1. Set up security verification for your WOG account
 
-!> This step is mandatory for public officers who will be accessing SGTS services using their GMD and whose SG Govt M365 profile is not displayed in their Microsoft Authenticator app. Others, can skip this and proceed to [step 2. Sign up for TechPass](#step-2-sign-up-for-techpass)
-
 <details>
-  <summary style="font-size:18px">How to set up security verification for WOG account?</summary>
+  <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
 
-  Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account to access Singapore Government Technology Stack (SGTS) services and tools from their GMD device.
+  > **Important**:<br>
+  > Public officers need to set up security verification(multi-factor authentication) for their Whole-of-Government(WOG) account if:
+    >- They need to access Singapore Government Technology Stack (SGTS) services and tools from their GMD(internet device onboarded to SEED) device
+    >- Their SG Govt M365 profile is not displayed on their Microsoft Authenticator app.<br><br>
+  > Others, can skip this and proceed to **Step 2. Sign up for TechPass**.
 
-  _To set up security verification for WOG account:_
+  _To set up security verification for WOG account_
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
@@ -41,7 +29,6 @@ This article guides how public officers can get a TechPass account:
   4. Follow the on-screen instructions displayed on the **Configure mobile app** page.
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code-updated.png)</kbd>
   When you scan the QR code displayed on your computer screen, your WOG account will be listed on the authenticator app and when you click **Next** your activation status is confirmed.
-
   5. In the **Additional security verification** page, click **Next**.
   <kbd>![after-scan](assets/images/security-verification-for-wog/additional-security-verification-next.png)</kbd>
   6. To verify that you are reachable on your mobile device, a notification is sent to your mobile app. Approve sign-in on the **Authenticator** app.
@@ -55,19 +42,17 @@ This article guides how public officers can get a TechPass account:
 
 ## Step 2. Sign up for TechPass
 
-> **Notes**:
->- If you are a GCC 1.0 user and activating your TechPass account based on instructions on this page, skip this step as you would have registered for TechPass as mentioned earlier in this page.
->- Other users need to complete the below steps using a non-SE GSIB machine.
+> **Note**:
+> If you are a public officer using a SE-GSIB device, create a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
 
 <details>
-  <summary style="font-size:18px">How to sign up for TechPass?</summary>
+  <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass?</summary>
 
-  Public officers sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
+  - Public officers need to sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
+  - Public officers must use their official email address. Format of a standard, official email address of a public officer is *your_name<span>@</span>agency.gov.sg*.
+  - LiteMail accounts are not supported by TechPass. If you have a LiteMail account, upgrade it to a standard mailbox before signing up for TechPass.
 
-?> Note: As LiteMail accounts are not supported, upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*
-
-
-  _To get a TechPass invitation link:_
+  _To get a TechPass invitation link_
 
   1. From your non-SE GSIB device, go to [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
@@ -98,11 +83,11 @@ This article guides how public officers can get a TechPass account:
 ?> Complete steps 3 and 4 within the same session.
 
 <details>
-  <summary style="font-size:18px">Steps to accept invitation</summary>
+  <summary style="font-size:20px;font-weight:bold">Steps to accept invitation</summary>
 
   Public officer has to accept this invitation within 30 days to onboard to TechPass. Invitation is not valid after 30 days and you need to sign up again for a TechPass account.
 
-  _To accept TechPass invitation:_
+  _To accept TechPass invitation_
 
   1. On your non-SE GSIB device, search for the email with the invitation link in your inbox.
 
@@ -117,9 +102,9 @@ This article guides how public officers can get a TechPass account:
 
 ## Step 4. Onboard to TechPass
 <details>
-  <summary style="font-size:18px">How does a public officer onboard to TechPass?</summary>
+  <summary style="font-size:20px;font-weight:bold">How does a public officer onboard to TechPass?</summary>
 
-  _To onboard in to your TechPass account:_
+  _To onboard in to your TechPass account_
 
   1. In **Review Permissions**, click **Accept**.
 

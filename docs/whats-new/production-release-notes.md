@@ -1,6 +1,6 @@
 # Production release notes
 
-## Production release 7 Sep 2022
+## Production release 07 September 2022
 Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
 
 **New features** - **Backend**

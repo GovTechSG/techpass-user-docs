@@ -1,7 +1,7 @@
 # Staging release notes
 
 ## Staging release 15 September 2022
-Frontend version: 1.0.0-20220913.0416 | Backend version: 1.31.0-220913.0230
+Frontend version: 1.0.0-20220914.1042 | Backend version: 1.31.7-220914.1416
 
 **Change** - **Backend**
 

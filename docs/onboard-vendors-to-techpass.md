@@ -15,16 +15,16 @@ If you are a vendor, complete the following steps to get a TechPass account and 
 
 1. Contact your project manager or reporting officer to request for TechPass account and SEED provisioning.
 
-2. Please provide the required details in this request, such as your official vendor company email address, handphone number and project name.
+2. Please provide the required details in this request, such as your official vendor company email address, mobile phone number and project name.
 
 3. If you need SEED, provide your device details.
 
 Your project manager or reporting officer will work with the engaging government agency to provide the requested services.
 
  > **Notes**:
- >- When your request is approved, you'll  receive separate emails for TechPass account and SEED provisioning.
+ >- When your request is approved, you'll receive separate emails for TechPass account and SEED provisioning.
  >- The email from TechPass will have a unique TechPass username.
- >- The initial password for your TechPass account is texted to your handphone.
+ >- The initial password for your TechPass account is texted to your mobile phone.
  >- If you've started the TechPass onboarding process, it is important to complete it within the same session.
 
 </details>
@@ -72,7 +72,7 @@ Your project manager or reporting officer will work with the engaging government
       <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5.png)</kbd>
 
   7. On your computer, click **Next**.
-  8. Choose the country code and enter your handphone number.
+  8. Choose the country code and enter your mobile phone number.
       <kbd>![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)</kbd>
   9. You will receive a six-digit code on this phone number. Enter the six-digit code and click **Next**.
 

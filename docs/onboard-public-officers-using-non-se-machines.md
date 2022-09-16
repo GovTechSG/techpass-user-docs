@@ -50,7 +50,7 @@ If you are a public officer, complete the following steps to get a TechPass acco
 
   - Public officers need to sign up for their TechPass account using their official email address. An invitation link will be sent to this email address for them to accept.
   - Public officers must use their official email address. Format of a standard, official email address of a public officer is *your_name<span>@</span>agency.gov.sg*.
-  - LiteMail accounts are not supported by TechPass. If you have a LiteMail account, upgrade it to a standard mailbox before signing up for TechPass.
+  - TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up for TechPass.
 
   _To get a TechPass invitation link_
 

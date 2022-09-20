@@ -1,5 +1,26 @@
 # Production release notes
 
+## Production release 20 September 2022
+Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
+
+**Change** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Automated resend initial password for vendor</summary>
+
+We have automated the process of resending the initial password to vendors. If the vendor creates a service request for a new initial password, the tenant admin or the support team creates a new initial password for the vendor. The system automatically sends it to the registered mobile phone of the vendor.
+
+</details>
+
+**Change** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Signing up for TechPass using *_from.XX@XX.gov.sg* is allowed again :grinning:!</summary>
+
+Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to sign up for a TechPass account from the TechPass portal.
+
+</details>
+
 ## Production release 07 September 2022
 Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
 

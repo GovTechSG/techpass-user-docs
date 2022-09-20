@@ -21,6 +21,15 @@ Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to si
 
 </details>
 
+**Change** - **Legal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Updated Terms of Use and Privacy Statement</summary>
+
+We have revised the Terms of Use and Privacy Statement for TechPass. Go to [Terms and policies](terms-and-policies) download the latest version.
+
+</details>
+
 ## Staging release 31 August 2022
 Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
 

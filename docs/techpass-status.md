@@ -1,4 +1,4 @@
-# TechPass system status
+# TechPass service status
 This page provides the status of the TechPass service and information on the following:
 - [Scheduled maintenance](#scheduled-maintenance)
 - [Ongoing incidents](#ongoing-incidents)

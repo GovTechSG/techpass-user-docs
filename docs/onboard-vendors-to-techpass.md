@@ -1,56 +1,42 @@
 # Onboard vendors
-This section guides how vendors or contractors working on Government ICT Projects can get a TechPass account and a [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) licence to onboard their non-GSIB device to SEED.
 
-> **Notes for GCC 1.0 users**:
->1. Depending on the allotted schedule, the agency admin or cloud admin receives an email with instructions on how to register for TechPass and onboard non-GSIB and a non-DWP device to SEED.
->1. Agency admin or cloud admin will share this registration link with the required GCC 1.0 users.
->1. While registering, ensure to provide the correct VPN ID.
->1. It might take up to two weeks for us to verify the VPN ID before sending the TechPass invite email. If you do not receive this email after two weeks, check if it is the same email address you provided while registering for TechPass or check your Spam, Junk Email, Deleted Items or Archive folder.
+> **Note**:
+> If you are vendor who has an email address in the format of *_from.XX@XX.gov.sg*, refer to [Onboard public officers](onboard-public-officers-using-non-se-machines) and follow the instructions to get your TechPass account and SEED.
 
-<div class="warn">
-<ul>
-<li>If you are a GCC 1.0 user and activating your TechPass account based on the below instructions, skip step 1.</li>
-<li>If you are a GCC Common Services vendor user with *_from@*.gov.sg - Please raise a <a href="https://go.gov.sg/techpass-sr">service request</a> to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department. </li>
-<li>Other users need to complete the below steps using a non-SE GSIB machine.</li>
-<li>If you've started the TechPass onboarding process, make sure to complete it within the same session.</li>
-</ul>
-</div>
 
-*To get a TechPass account* :
+If you are a vendor, complete the following steps to get a TechPass account and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) provisioning. You need SEED provisioning to access SGTS services from your internet(non-GSIB) device.
+
+
+> **Tip**: Click the triangle to view the instructions to complete each step.
 
 ## Step 1. Get a TechPass account and request for SEED provision
 
-<details> <summary style="font-size:18px"> How to get a TechPass account and request for SEED provisioning?</summary>
+<details> <summary style="font-size:20px;font-weight:bold"> How to get a TechPass account and request for SEED provisioning?</summary>
 
- <div class="warn">
- <ul>
- <li>SEED provisioning is required only if you use your <b>non-GSIB device</b> to access SGTS services.</li>
- <li> Emails with <b>*_from@*.gov.sg</b> format are <b>not permitted</b>. You need to provide the company email ID supplied by the vendor company.</li>
- <li> If you already have an active TechPass account and need SEED provisioning, create a [service request](https://go.gov.sg/techpass-sr).</li>
- <li>If you are a public officer, refer to <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/#/onboard-public-officers-using-non-se-machines">Onboarding Public Officers to TechPass</a>.</li>
- </ul>
- </div>
+1. Contact your project manager or reporting officer to request for TechPass account and SEED provisioning.
 
+2. Please provide the required details in this request, such as your official vendor company email address, mobile phone number and project name.
 
- 1. If you are a vendor or contractor who has to access SGTS services and does not have an active TechPass account and a SEED licence, request for them from your project manager or reporting officer.
- 2. Provide the required details such as your official vendor company email address, handphone number, project name and device details for SEED licence in this request. In turn, your project manager or reporting officer will work with the engaging government agency to assign a TechPass account and SEED licence.
+3. If you need SEED, provide your device details.
 
- once the request is approved, vendors or contractors receive the TechPass invitation email on the provided official email address.
+Your project manager or reporting officer will work with the engaging government agency to provide the requested services.
 
  > **Notes**:
- >- When a TechPass account is created for vendors or contractors, they will be notified about it in an email. This notification will have a unique TechPass username and an initial password will be texted to your handphone.
+ >- When your request is approved, you'll receive separate emails for TechPass account and SEED provisioning.
+ >- The email from TechPass will have a unique TechPass username.
+ >- The initial password for your TechPass account is texted to your mobile phone.
  >- If you've started the TechPass onboarding process, it is important to complete it within the same session.
- >- Similarly, vendors or contractors will receive an email when a SEED licence is assigned.
 
 </details>
 
 ## Step 2. First-time sign in using initial password
 
-<details> <summary style="font-size:18px">Steps to sign in using TechPass username and initial password</summary>
+<details> <summary style="font-size:20px;font-weight:bold">Steps to sign in using TechPass username and initial password</summary>
 
   1. Go to the web page provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
 
-  ?> SGTS product team will provide the address of this web page to your project manager or reporting officer.
+  > **Note**:
+  > SGTS product team will provide the address of this web page to your project manager or reporting officer.
 
   2. Enter your TechPass username and click **Next**.
     <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>
@@ -62,13 +48,14 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details> <summary style="font-size:18px"> How to configure and verify MFA for vendor's TechPass account?</summary>
+<details> <summary style="font-size:20px;font-weight:bold"> How to configure and verify MFA for a vendor TechPass account?</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
 
     <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1.png)</kbd>
 
-  ?> You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
+  > **Note**:
+  > You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
 
   2. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   3. Tap **Scan a QR code**.
@@ -85,7 +72,7 @@ This section guides how vendors or contractors working on Government ICT Project
       <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5.png)</kbd>
 
   7. On your computer, click **Next**.
-  8. Choose the country code and enter your handphone number.
+  8. Choose the country code and enter your mobile phone number.
       <kbd>![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)</kbd>
   9. You will receive a six-digit code on this phone number. Enter the six-digit code and click **Next**.
 
@@ -102,7 +89,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 4. Reset your initial password
 
-<details> <summary style="font-size:18px"> How to reset the initial password?</summary>
+<details> <summary style="font-size:20px;font-weight:bold"> How to reset the initial password?</summary>
 
   1. Enter your **initial password**, **new password** and retype the new password to confirm.  
 
@@ -113,7 +100,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
 ## Step 5. Accept Terms of Use, Privacy Policy and Mobile Device Management-Acceptable Use Policy
 
-<details><summary style="font-size:18px"> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy for SEED</summary>
+<details><summary style="font-size:20px;font-weight:bold"> Steps to accept the Terms of Use, privacy policy and mobile device management - acceptable use policy for SEED</summary>
 
   1. Click the arrow to view the **TechPass Terms of Use**.
 
@@ -143,6 +130,7 @@ This section guides how vendors or contractors working on Government ICT Project
 
   You have now successfully onboarded TechPass. You can now proceed to onboard your non-GSIB device to SEED.
 
-  ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
+  > **Note**:
+  > Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB device to SEED.
 
 </details>

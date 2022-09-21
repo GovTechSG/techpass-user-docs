@@ -1,5 +1,7 @@
 # Staging release notes
 
+> **Tip**: Click the triangle to view more details about the change.
+
 ## Staging release 15 September 2022
 Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 

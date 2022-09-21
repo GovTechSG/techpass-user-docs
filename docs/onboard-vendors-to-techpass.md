@@ -1,10 +1,10 @@
 # Onboard vendors
 
 > **Note**:
-> If you are vendor who has an email address in the format of *_from.XX@XX.gov.sg*, refer to [Onboard public officers](onboard-public-officers-using-non-se-machines) and follow the instructions to get your TechPass account and SEED.
+> If you are vendor who has an email address in the format of *_from.XX@XX.gov.sg*, refer to [Onboard public officers](onboard-public-officers-using-non-se-machines) and follow the instructions to get your TechPass account and SEED provisioning.
 
 
-If you are a vendor, complete the following steps to get a TechPass account and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) provisioning. You need SEED provisioning to access SGTS services from your internet(non-GSIB) device.
+If you are a vendor, complete the following steps to get a TechPass account and [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) provisioning. You need SEED provisioning to access SGTS services from your internet(non-GSIB or non-DWP) device.
 
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
@@ -24,7 +24,7 @@ Your project manager or reporting officer will work with the engaging government
  > **Notes**:
  >- When your request is approved, you'll receive separate emails for TechPass account and SEED provisioning.
  >- The email from TechPass will have a unique TechPass username.
- >- The initial password for your TechPass account is texted to your mobile phone.
+ >- The initial password for your TechPass account is texted to your mobile phone. If you have lost or forgotten your initial password, please create a [support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
  >- If you've started the TechPass onboarding process, it is important to complete it within the same session.
 
 </details>
@@ -33,11 +33,7 @@ Your project manager or reporting officer will work with the engaging government
 
 <details> <summary style="font-size:20px;font-weight:bold">Steps to sign in using TechPass username and initial password</summary>
 
-  1. Go to the web page provided by your project manager or reporting officer to sign in to SGTS service using your TechPass account.
-
-  > **Note**:
-  > SGTS product team will provide the address of this web page to your project manager or reporting officer.
-
+  1. Go to the portal of the SGTS service and sign in to the SGTS service using your TechPass account. For example if it is SHIP-HATS, you need to go to https://www.ship.gov.sg/.
   2. Enter your TechPass username and click **Next**.
     <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>
   3. Enter the initial password and click **Sign in**.

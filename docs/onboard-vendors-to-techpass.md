@@ -24,7 +24,7 @@ Your project manager or reporting officer will work with the engaging government
  > **Notes**:
  >- When your request is approved, you'll receive separate emails for TechPass account and SEED provisioning.
  >- The email from TechPass will have a unique TechPass username.
- >- The initial password for your TechPass account is texted to your mobile phone. If you have lost this password, please create a [support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
+ >- The initial password for your TechPass account is texted to your mobile phone. If you have lost or forgotten your initial password, please create a [support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
  >- If you've started the TechPass onboarding process, it is important to complete it within the same session.
 
 </details>

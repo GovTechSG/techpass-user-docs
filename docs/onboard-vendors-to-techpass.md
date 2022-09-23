@@ -36,7 +36,9 @@ Your project manager or reporting officer will work with the engaging government
 
 <details> <summary style="font-size:20px;font-weight:bold">Steps to sign in using TechPass username and initial password</summary>
 
-  1. Go to the [Docs portal](https://docs.developer.tech.gov.sg/) and click **Log in with TechPass**.
+  1. Go to the appropriate Docs portal environment to **Log in with TechPass**.
+   - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
+   - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
     <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
   2. Enter your TechPass username and click **Next**.
     <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>

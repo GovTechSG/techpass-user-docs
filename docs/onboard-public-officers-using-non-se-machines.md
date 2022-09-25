@@ -3,7 +3,7 @@
 This article guides you to do the following:
 - [Sign up for TechPass and SEED](#step-1-sign-up-for-techpass-and-seed).
 - [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
-- [Accept TechPass onbaording invitation](#step-3-accept-techpass-invitation).
+- [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
 - [Onboard to TechPass account](#step-4-onboard-to-techpass).
 
 <!--TechPass](https://portal.techpass.gov.sg)

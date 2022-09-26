@@ -13,16 +13,16 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 ## Audience
 
-- Public officers using a non-SE GSIB device with a WOG ID. WOG ID is the email address belonging to the *gov.sg* domain and is in the format of *your_name<span>@</span><acronym for your agency>.gov.sg*.
+- Public officers using a non-SE GSIB device with a WOG ID. WOG ID is the organisational email address belonging to the *gov.sg* domain and is in the format of *your_name<span>@</span><acronym for your agency>.gov.sg*.
 
-- Vendors or contractors using a non-SE GSIB device whose organisational email address is in the format of *your_name_from.<vendor organisation name>@<acronym for the agency>.gov.sg*.
+- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *your_name_from.<vendor organisation name>@<acronym for the agency>.gov.sg*.
 
 > **Note**: If you are a public officer using a SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. Alternatively, another public officer can invite you to TechPass via the [TechBiz Portal](portal.techbiz.suite.gov.sg).
 
 ## Prerequisites
 
-- non-SE GSIB device to use the TechPass portal for a self-service sign-up.
-- You must have received the TechPass onboarding email to onboard to TechPass.
+- If you are going to sign up for TechPass account via the TechPass portal, you need a non-SE GSIB device.
+- To onboard to TechPass, you must have received the TechPass onboarding email.
 - Standard mailbox for the users' organisational email addresses. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up for TechPass.
 
 > **Note**: You will receive the TechPass onboarding email when you sign up for TechPass from the TechPass Portal, or a public officer invites you to TechPass from the [TechBiz Portal](portal.techbiz.suite.gov.sg).
@@ -60,13 +60,16 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
   4. Click **Submit**. We will send you the TechPass onboarding invitation email.
 
   > **Additional information**:
-  >- If needed, [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
-  >- When you sign up for TechPass, a TechPass account is created for you and will be pending. As the following steps explain, it becomes activated when you [accept the invitation](#step-3-accept-techpass-invitation) and [complete the TechPass onboarding journey](#step-4-onboard-to-techpass).
-  >- We will send an invitation email to the provided email address for you to onboard TechPass, valid for 30 days.
-  >- If you do not onboard to TechPass within 30 days, we will terminate your TechPass account and notify you via email before the termination.
-  >- If we terminate your TechPass account, you need to sign up or request for TechPass again.
+  >- When your request is approved, you'll receive two separate onboarding emails for TechPass and SEED.
   >- If you have requested for SEED provisioning, you will receive the SEED onboarding email around the next three business days.
+  >- A TechPass account is created for you and will be *pending* to be activated.
+  >- It becomes activated when you [accept the invitation](#step-3-accept-techpass-invitation) and [complete the TechPass onboarding journey](#step-4-onboard-to-techpass).
+  >- The TechPass and SEED onboarding invitation emails are valid for 30 days. Refer to SEED documentation for more information on what to do if your SEED onboarding invitation has expired.
+  >- If you do not onboard to TechPass within 30 days, we will terminate your TechPass account and notify you via email before the termination. You can again sign up via the TechPass portal or request for TechPass and SEED.
   >- Onboard to TechPass before enrolling your non-GSIB or non-DWP device to SEED.
+  >- If needed, [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
+
+
 
   </details>
 

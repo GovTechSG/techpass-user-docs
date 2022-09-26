@@ -46,7 +46,7 @@ i. Contact your Agency Facility Management (AFM) to remove the MFA configured fo
 
 ii. After completing this, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
 
-?> In the service request form, select **Service Request** as ****Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
+?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
 
 <hr/></details><br>
 

@@ -13,7 +13,7 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 ## Audience
 
-- Public officers using a non-SE GSIB device with a WOG ID. WOG ID is the organisational email address belonging to the *gov.sg* domain and is in the format of *your_name<span>@</span><acronym for your agency>.gov.sg*.
+- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *your_name<span>@</span><acronym for your agency>.gov.sg*.
 
 - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *your_name_from.<vendor organisation name>@<acronym for the agency>.gov.sg*.
 
@@ -67,8 +67,6 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
   >- The TechPass and SEED onboarding invitation emails are valid for 30 days. Refer to SEED documentation for more information on what to do if your SEED onboarding invitation has expired.
   >- If you do not onboard to TechPass within 30 days, we will terminate your TechPass account and notify you via email before the termination. You can again sign up via the TechPass portal or request for TechPass and SEED.
   >- Onboard to TechPass before enrolling your non-GSIB or non-DWP device to SEED.
-  >- If needed, [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
-
 
 
   </details>
@@ -79,20 +77,15 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
   <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
 
   > **Important**:<br>
-  > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account if:
-    >- You must access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
+  > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
+    >- Access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
     >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
-  >
-  >  
-  > Others can skip this step and proceed to [**Step 3. Accept TechPass invitation**](#step-3-accept-techpass-invitation).
 
-  **To set up security verification for WOG account**
+    **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
-> **Note**: To sign in, use your organisational email address and GSIB device password.
-<!-- is it correct to say GSIB password, or should it be WOG email password-->
-
+> **Note**: To sign in, use your organisational email address and email password.
   2. Select **Mobile app** as the preferred authenticating method, and we strongly recommend you choose **Receive notifications for verification**.
 
   3. Click **Set up**.

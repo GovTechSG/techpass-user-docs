@@ -13,9 +13,9 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 ## Audience
 
-- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *your_name<span>@</span><acronym for your agency>.gov.sg*.
+- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*.
 
-- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *your_name_from.<vendor organisation name>@<acronym for the agency>.gov.sg*.
+- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name_from\>.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*.
 
 > **Note**: If you are a public officer using a SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. Alternatively, another public officer can invite you to TechPass via the [TechBiz Portal](portal.techbiz.suite.gov.sg).
 

@@ -5,7 +5,7 @@
 ## Production release 21 September 2022
 Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 
-**Change** - **Backend**
+**Changes** - **Backend**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Automated resend initial password for vendor</summary>
@@ -14,7 +14,7 @@ We have automated the process of resending the initial password to vendors. If t
 
 </details>
 
-**Change** - **TechPass Portal**
+**Changes** - **TechPass Portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Signing up for TechPass using *_from.XX@XX.gov.sg* is allowed again :grinning:!</summary>
@@ -23,7 +23,7 @@ Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to si
 
 </details>
 
-**Change** - **Legal**
+**Changes** - **Legal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Updated Terms of Use and Privacy Statement</summary>
@@ -325,7 +325,7 @@ Failed webhook events are now retried for 14 days with the time interval of five
 
 </details>
 
-**Fixed** - **TechPass portal**
+**Fixes** - **TechPass portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold"> Configuration fix </summary>

@@ -4,7 +4,7 @@
 
 ## Staging release 28 September 2022
 
-Frontend version: 1.0.0-20220922.0814 | Backend version: 1.31.10-220927.0538
+Frontend version: 1.0.0-20220927.1052 | Backend version: 1.31.10-220927.0538
 
 **New features** - **Backend**
 

@@ -9,7 +9,9 @@ This article guides you to do the following:
 <!--TechPass](https://portal.techpass.gov.sg)
 [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)-->
 
-You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account, or another public officer can invite you to TechPass via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg). For more information, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
+
+> **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 ## Audience
 

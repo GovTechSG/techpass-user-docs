@@ -13,6 +13,7 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 > **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
+
 ## Audience
 
 - Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*.

@@ -2,10 +2,40 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 28 September 2022
+
+Frontend version: 1.0.0-20220927.1052 | Backend version: 1.31.10-220927.0538
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">We send emails to the requestor and the TechPass account holder when a TechPass account's status changes.</summary>
+
+Won't it be great to know the progress of your request to enable, disable or terminate your or others' TechPass account?
+
+We have introduced a new feature to send an email to the requestor and account holder when a TechPass account is enabled, disabled and terminated. The requestor will be aware of the progress of their request at all stages.
+
+</details>
+
+**Fixes** - **Frontend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed incorrect validation rules for public officer's email address.</summary>
+
+Were you perplexed when you got an incorrect error "failed to invite user" while inviting public officers? Don't worry, we fixed it now!
+
+The validation rule for a public officer's email address:
+- must be in the format *your_name@<acronym for your agency>.gov.sg*.
+- must not exceed 113 characters.
+- The local part in the email address must not exceed 64 characters \<local part\>@\<domain part\>.
+
+</details>
+
+
 ## Staging release 15 September 2022
 Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 
-**Change** - **Backend**
+**Changes** - **Backend**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Automated resend initial password for vendor</summary>
@@ -14,7 +44,7 @@ We have automated the process of resending the initial password to vendors. If t
 
 </details>
 
-**Change** - **TechPass Portal**
+**Changes** - **TechPass Portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Signing up for TechPass using *_from.XX@XX.gov.sg* is allowed again :grinning:!</summary>
@@ -23,7 +53,7 @@ Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to si
 
 </details>
 
-**Change** - **Legal**
+**Changes** - **Legal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Updated Terms of Use and Privacy Statement</summary>
@@ -117,7 +147,7 @@ A fix has been applied to manage the delay from Azure and to return a valid erro
 
 ## Staging release 03 August 2022
 Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
-**Change** - **TechPass Portal**
+**Changes** - **TechPass Portal**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Self sign up using *_from@*.gov.sg are no longer permitted</summary>

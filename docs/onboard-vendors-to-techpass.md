@@ -1,9 +1,9 @@
 # Onboard vendors
 
-
-If a vendor or contractor needs TechPass and SEED provisioning for a project, public officer of the engaging agency can invite them to TechPass and SEED via [TechBiz Portal](portal.techbiz.suite.gov.sg).
+If you are a vendor or contractor who needs TechPass and SEED provisioning for a project, contact your reporting officer. The reporting officer requests the engaging agency to provision TechPass accounts and SEED for you.
 
 Vendors or contractors who do not have a GSIB device, can access SGTS services via a Government Managed Device(GMD). To achieve this, onboard your device to SEED.
+
 
 This article guides vendors and contractors to do the following:
 - [Request for TechPass account and SEED provisioning](#step-1-request-for-techpass-account-and-seed-provisioning).
@@ -13,11 +13,12 @@ This article guides vendors and contractors to do the following:
 
 ## Audience
 
-Vendors or contractors who do not have a GSIB device
+Vendors or contractors who do not have a non-SE GSIB device
 
 > **Note**:
 >- If you are a vendor or contractor using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name_from\>.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*, you can sign up for TechPass and request for SEED provisioning from the [TechPass portal](http://portal.techpass.gov.sg).
 >- To know more about self sign up for TechPass, refer to [Onboard public officers](onboard-public-officers-using-non-se-machines).
+
 
 ## Prerequisites
 
@@ -40,9 +41,11 @@ Vendors or contractors who do not have a GSIB device
 Your project manager or reporting officer will work with the engaging government agency to provide the requested services.
 
  > **Additional information**:
- >- When your request is approved, you'll receive two separate onboarding emails for TechPass and SEED.
+ >- There are two ways in which the requested services can be provisioned.
+ >- The SGTS service team linked to your project can provision TechPass account. Once TechPass account is provisioned, you will receive an onboarding invitation email for TechPass.
  >- If you have requested for SEED provisioning, you will receive the SEED onboarding email around the next three business days.
- >- A TechPass account is created for you and will be *pending* to be activated.
+ >- Alternatively, public officer of the engaging agency can invite you to TechPass and SEED via **TechBiz portal**. Following this, you will receive separate onboarding invitation emails for them.
+ >- When a TechPass account is provisioned, it will be *pending* to be activated.
  >- It becomes activated when you [sign in to TechPass using initial password](#step-2-sign-in-using-initial-password),[configure and verify MFA for TechPass account](#step-3-configure-and-verify-mfa-for-techpass-account)and [Reset initial password](#step-4-reset-initial-password).
  >- The TechPass and SEED onboarding invitation emails are valid for 30 days. Refer to SEED documentation for more information on what to do if your SEED onboarding invitation has expired.
  >- If you do not onboard to TechPass within 30 days, we will terminate your TechPass account and notify you via email before the termination. You can again request for TechPass and SEED.

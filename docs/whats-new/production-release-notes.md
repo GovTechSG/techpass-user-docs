@@ -4,7 +4,7 @@
 
 ## Production release 06 October 2022
 
-Frontend version: <tbp> | Backend version: <tbp>
+Frontend version: 1.0.0-20220927.1052 | Backend version: 1.31.10-220927.0538
 
 **New features** - **Backend**
 

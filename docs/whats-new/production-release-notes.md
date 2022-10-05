@@ -17,6 +17,20 @@ We have introduced a new feature to send an email to the requestor and account h
 
 </details>
 
+**Fixes** - **Frontend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed incorrect validation rules for public officer's email address.</summary>
+
+Were you perplexed when you got an incorrect error "failed to invite user" while inviting public officers? Don't worry, we fixed it now!
+
+The validation rule for a public officer's email address:
+- must be in the format *your_name@<acronym for your agency>.gov.sg*.
+- must not exceed 113 characters.
+- The local part in the email address must not exceed 64 characters \<local part\>@\<domain part\>.
+
+</details>
+
 ## Production release 21 September 2022
 Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 

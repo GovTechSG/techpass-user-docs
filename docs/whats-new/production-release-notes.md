@@ -2,6 +2,21 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Production release 06 October 2022
+
+Frontend version: <tbp> | Backend version: <tbp>
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">We send emails to the requestor and the TechPass account holder when a TechPass account's status changes.</summary>
+
+Won't it be great to know the progress of your request to enable, disable or terminate your or others' TechPass account?
+
+We have introduced a new feature to send an email to the requestor and account holder when a TechPass account is enabled, disabled and terminated. The requestor will be aware of the progress of their request at all stages.
+
+</details>
+
 ## Production release 21 September 2022
 Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 

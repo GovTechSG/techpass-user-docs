@@ -12,7 +12,7 @@ This article is applicable only for public officers who have an existing active 
 
 _To onboard your device to SEED_:
 
-1. Go to [TechPass portal](https://portal.techpass.suite.gov.sg) and click **Login with TechPass**.
+1. From your GSIB device, go to [TechPass portal](https://portal.techpass.suite.gov.sg) and click **Login with TechPass**.
 
 <kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
 

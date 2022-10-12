@@ -2,7 +2,7 @@
 
 Currently TechPass users can edit their TechPass profile anytime by logging into the TechPass portal using non-SE GSIB machine.
 
-?> If you do not have a non-SE GSIB machine, please raise a [service request](https://go.gov.sg/techpass-sr) so that we can help you update your profile details.
+?> If you do not have a non-SE GSIB machine, create a [service request](https://go.gov.sg/techpass-sr) so that we can help you update your profile details.
 
 _To edit your profile:_
 

@@ -10,7 +10,7 @@ All non-markdown files (i.e. images and sample code files) should live within th
 
 ## Running Locally
 ### Setting Up
-- Install docsify cli `npm -g install docsify-cli`
+- Install docsify cli `npm --location=global install docsify-cli`
 - Download this repository via `git clone`
 - Run `docsify serve .`
 

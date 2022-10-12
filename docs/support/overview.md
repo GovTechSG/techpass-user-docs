@@ -1,8 +1,8 @@
 # Support
-This section serves as a support and troubleshooting guide for any issues you may encounter.
+This section serves as a support and troubleshooting guide for any issues you might encounter.
 
 ## TechPass account for SE-GSIB device users
-SE-GSIB device users can raise a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
+SE-GSIB device users can create a [service request](https://go.gov.sg/techpass-sr) to get their TechPass account and it takes 3 business days for us to provision the TechPass Account.
 
 Please select **Service Request** for ticket request type and **Create TechPass account for Secure Email GSIB users** when submitting the ticket.
 

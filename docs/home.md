@@ -1,12 +1,28 @@
 # Overview of TechPass
 
 ## What is TechPass?
-TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution to access Singapore Government Technology Stack (SGTS) services. It provides a seamless login experience across SGTS services and allows centralised user access control.
+TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution to access [Singapore Government Technology Stack (SGTS) services](#sgts-services). It provides a seamless login experience across SGTS services and allows centralised user access control.
+
+### SGTS services
+
+Following are the list of SGTS services that uses TechPass as their IAM service.
+
+- [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)
+- [DocPortal](https://docs.developer.tech.gov.sg/)
+- GCC Common Services
+- [GCC2.0](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html)
+- [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)
+- [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html)
+- [TechBiz](https://www.developer.tech.gov.sg/products/categories/productivity-tools/techbiz/overview.html)
+
+
 
 ## Key concepts
 TechPass is powered by [Microsoft Azure AD service](https://azure.microsoft.com/en-us/services/active-directory/). It is built on top of Azure AD to meet specific requirements of public service's development environment.
 
-TechPass allows engineering teams working on SGTS products to develop and roll out their services quickly by simplifying the process needed to implement a new service.
+TechPass allows engineering teams working on SGTS products to develop and roll out their services quickly by simplifying the process needed to implement a new service. TechPass is not an email service provider. We are purely an Identity provider that allow users to access the downstream SGTS services
+
+TechPass is not an email service provider. We are purely an Identity provider that allow users to access the downstream SGTS services.
 
 TechPass utilises popular open standards such as [OAuth 2.0](https://oauth.net/2/) / [OpenID Connect(OIDC)](https://openid.net/connect/)
 and [Security Assertion Markup Language(SAML) 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html), for authentication and authorisation.

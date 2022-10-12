@@ -73,7 +73,7 @@ Your TechPass account is terminated if you do not onboard to TechPass successful
 
 To get a TechPass account:
 
-- If you have a non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) from this device and sign up again for TechPass and request for SEED (if needed) to receive a new onboarding invitation emails for them. Refer to [onboard public officers](/onboard-public-officers-using-non-se-machines) to complete your TechPass onboarding.
+- If you have a non-SE GSIB device, go to the [TechPass portal](https://portal.techpass.suite.gov.sg) from this device and sign up again for TechPass and request for SEED (if needed) to receive a new onboarding invitation emails for them. Refer to [onboard public officers](/onboard-public-officers-using-non-se-machines) to complete your TechPass onboarding.
 
 - If you do not have a non-SE GSIB device, follow the instructions on [onboard vendors to TechPass](/onboard-vendors-to-techpass)
 
@@ -85,7 +85,7 @@ Your SEED onboarding email invitation is valid for 30 days. If you have not onbo
 
 If you use a non-SE GSIB device and if your TechPass account is active, to request for SEED:
 
-1. Go to the [TechPass portal](http://portal.techpass.gov.sg) from your non-SE GSIB device.
+1. Go to the [TechPass portal](https://portal.techpass.suite.gov.sg) from your non-SE GSIB device.
 2. Log in with TechPass.
 3. Hover over your user name and click **My Account**.
 4. In the **Profile** page, click **Request for SEED**.

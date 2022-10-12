@@ -6,10 +6,10 @@ This article guides you to do the following:
 - [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
 - [Onboard to TechPass account](#step-4-onboard-to-techpass).
 
-<!--TechPass](https://portal.techpass.gov.sg)
+<!--TechPass](https://portal.techpass.suite.gov.sg)
 [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/)-->
 
-You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
+You can use the [TechPass portal](https://portal.techpass.suite.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
 > **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
@@ -42,7 +42,7 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
   **To get TechPass invitation email**
 
-  1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+  1. From your non-SE GSIB device, go to the [TechPass portal](https://portal.techpass.suite.gov.sg) and click **Sign Up**.
 
   <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 

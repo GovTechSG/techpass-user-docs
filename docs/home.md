@@ -20,9 +20,7 @@ Following are the list of SGTS services that uses TechPass as their IAM service.
 ## Key concepts
 TechPass is powered by [Microsoft Azure AD service](https://azure.microsoft.com/en-us/services/active-directory/). It is built on top of Azure AD to meet specific requirements of public service's development environment.
 
-TechPass allows engineering teams working on SGTS products to develop and roll out their services quickly by simplifying the process needed to implement a new service. TechPass is not an email service provider. We are purely an Identity provider that allow users to access the downstream SGTS services
-
-TechPass is not an email service provider. We are purely an Identity provider that allow users to access the downstream SGTS services.
+TechPass allows engineering teams working on SGTS products to develop and roll out their services quickly by simplifying the process needed to implement a new service. TechPass is not an email service provider. We are purely an Identity provider that allow users to access the downstream SGTS services.
 
 TechPass utilises popular open standards such as [OAuth 2.0](https://oauth.net/2/) / [OpenID Connect(OIDC)](https://openid.net/connect/)
 and [Security Assertion Markup Language(SAML) 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html), for authentication and authorisation.

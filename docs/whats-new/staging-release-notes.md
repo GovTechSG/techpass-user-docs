@@ -11,9 +11,9 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0846
 <details>
 <summary style="font-size:20px;font-weight:bold">Tenant admins can now create and update applications using APIs.</summary>
 
-Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
+Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
 
-This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
+This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
 </details>
 
@@ -35,7 +35,7 @@ We have made some changes to improve the security of your applications. When you
 
 If your existing applications' **Homepage URL** and **Redirect URL** do not comply with this, we strongly encourage you to update them.
 
-Refer to [TechPass Tenant Guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=updating-an-app).
+Refer to [TechPass Tenant Guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=updating-an-app).
 
 </details>
 

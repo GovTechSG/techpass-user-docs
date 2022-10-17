@@ -16,9 +16,13 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 ## Audience
 
-- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*.
+- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, peter_wilson@tech.gov.sg.
 
-- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name_from\>.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*.
+- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name>_FROM\>.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg.
+
+<!--
+-  Temporary hires using a non-SE GSIB device whose organisational email address is *\<your_name_from.TP\>@\<acronym for your agency\>.gov.sg*. For example, peter_wilson_FROM.TP@tech.gov.sg.
+-->
 
 > **Note**: If you are a public officer using a SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. Alternatively, another public officer can invite you to TechPass via the [TechBiz Portal](portal.techbiz.suite.gov.sg).
 
@@ -84,7 +88,7 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
     >- Access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
     >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
 
-    **To set up security verification for WOG account**
+  **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 

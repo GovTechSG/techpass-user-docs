@@ -2,6 +2,43 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 19 October 2022
+
+Frontend version:  | Backend version:
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenant admins can now create and update applications using APIs.</summary>
+
+Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
+
+This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
+
+</details>
+
+**Fixes** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Terminated admins will not be notified of expiring or expired secrets and certificates.</summary>
+
+Terminated admins will no longer be notified when an application's secret and certificate are nearing expiry or expired.
+
+</details>
+
+**Changes** - **Frontend** and **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Security enhancements.</summary>
+
+We have made some changes to improve the security of your applications. When you create and update applications, ensure the **Homepage URL** and **Redirect URL** are in the following formats: ```http://localhost``` or ```https://```.
+
+If your existing applications' **Homepage URL** and **Redirect URL** do not comply with this, we strongly encourage you to update them.
+
+Refer to [TechPass Tenant Guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=updating-an-app).
+
+</details>
+
 ## Production release 06 October 2022
 
 Frontend version: 1.0.0-20220927.1052 | Backend version: 1.31.10-220927.0538

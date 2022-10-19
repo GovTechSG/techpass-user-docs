@@ -2,18 +2,18 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
-## Staging release 19 October 2022
+## Production release 19 October 2022
 
-Frontend version:  | Backend version:
+Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 
 **New features** - **Backend**
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Tenant admins can now create and update applications using APIs.</summary>
 
-Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
+Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
 
-This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
+This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
 </details>
 
@@ -31,11 +31,11 @@ Terminated admins will no longer be notified when an application's secret and ce
 <details>
 <summary style="font-size:20px;font-weight:bold">Security enhancements.</summary>
 
-We have made some changes to improve the security of your applications. When you create and update applications, ensure the **Homepage URL** and **Redirect URL** are in the following formats: ```http://localhost``` or ```https://```.
+We have made some changes to improve the security of your applications. When you create and update applications, ensure the **Homepage URL** and **Redirect URL** are in ```https://``` format.
 
 If your existing applications' **Homepage URL** and **Redirect URL** do not comply with this, we strongly encourage you to update them.
 
-Refer to [TechPass Tenant Guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=updating-an-app).
+Refer to [TechPass Tenant Guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=updating-an-app).
 
 </details>
 

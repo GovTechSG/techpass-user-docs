@@ -22,8 +22,6 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 
 > **Note**: If you are a public officer using an SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. Alternatively, another public officer can invite you to TechPass using the [TechBiz Portal](portal.techbiz.suite.gov.sg).
 
-
-
 ## Prerequisites
 
 - If you are going to sign up for TechPass account using the TechPass portal, you need a non-SE GSIB device.

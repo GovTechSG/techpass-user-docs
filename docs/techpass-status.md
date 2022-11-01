@@ -34,17 +34,6 @@ Please [create a ticket](https://go.gov.sg/techpass-sr) if you encounter issue
 
 *Posted on 31 October 2022*
 
-
-### Scheduled for 03 August 2022
-
-TechPass portal will be going through a production deployment on 3 August 2022 at 17:00 SGT. There may be connectivity issues during this time. There are no action required from you.
-
-*Posted on 3 August 2022*
-
-<!---
-**Scheduled** - TechPass portal will be going through a (production|staging) maintenance on 27 July 2022, 1030am. There may be connectivity issues during this time. There are no action required from you.
---->
-
 ## Ongoing incidents
 
 No ongoing incidents. All services are up and running :relaxed:!

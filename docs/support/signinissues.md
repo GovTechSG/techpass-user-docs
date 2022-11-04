@@ -44,7 +44,7 @@ Please select **Service Request** for ticket request type and **Create TechPass 
 DEEP is a system that helps developers establish a robust security baseline for their devices, while ensuring only compliant devices can access Government engineering resources.
 
 ### Protecting developer devices
-[DEEP](https://deep.tech.gov.sg/) applies a security configuration baseline for each developer device based on industry standards such as the [Center for Internet Security(CIS) benchmark](https://www.cisecurity.org/cis-benchmarks/). It also alerts developers on configuration and malware-related issues of your device on the DEEP Dashboard and provides detailed remediation instructions for each issue.
+[DEEP](https://dashboard.deep.tech.gov.sg/) applies a security configuration baseline for each developer device based on industry standards such as the [Center for Internet Security(CIS) benchmark](https://www.cisecurity.org/cis-benchmarks/). It also alerts developers on configuration and malware-related issues of your device on the DEEP Dashboard and provides detailed remediation instructions for each issue.
 
 ### Protecting Government engineering resources
 DEEP makes use of device-specific configuration and malware information to block developers with at-risk devices from accessing Government engineering resources.
@@ -62,7 +62,7 @@ If you have established a connection with Cloudflare and if your device is block
 
 ### Resolution
 
-If you've encountered any [login errors](#login-errors), go to the [DEEP portal link](https://deep.tech.gov.sg/) to resolve the issue. The DEEP portal lists all the issues with your device and provides instructions to resolve them.
+If you've encountered any [login errors](#login-errors), go to the [DEEP portal link](https://dashboard.deep.tech.gov.sg/) to resolve the issue. The DEEP portal lists all the issues with your device and provides instructions to resolve them.
 
 
 ## If your account is at risk

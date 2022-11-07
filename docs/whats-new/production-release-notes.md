@@ -2,6 +2,52 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Production release 07 November 2022
+
+**New features** - **Backend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenant state overrides webhook state </summary>
+
+Tenant state will now override the webhook state. In other words, if the tenant state is disabled, irrespective of the web hook status, webhook event will not be triggered. </details>
+
+**Fixes** - **Frontend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">While signing up for TechPass, appropriate error messages will be displayed in the portal </summary>
+
+Public officers will see relevant error messages if they provide email address with domains that are not in the allowlist.
+
+</details>
+
+**Fixes** - **Backend** and **Automation API**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Error response will be returned for invalid display names provided while creating or updating applications using API</summary>
+
+If the application display name does not conform to our valid display name policy when the tenant admins create or update applications using API, the system will return the appropriate error response.
+
+</details>
+
+
+**Fixes** - **Frontend**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed incorrect hints displayed while creating application</summary>
+
+On screen hints displayed for Homepage URL and Logout URL on Create Application were not accurate. We have fixed them.
+
+</details>
+
+**Changes** - **Backend** and **Automation API**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Improved user experience while modifying tenant groups or creating applications</summary>
+
+We have improved the performance of the tenant group modification and the application creation processes.
+
+</details>
+
 ## Production release 19 October 2022
 
 Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845

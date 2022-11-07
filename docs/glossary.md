@@ -8,7 +8,7 @@ Government Standard Image Build
 
 It is a Secured Email (SE) GSIB device. This GSIB device is assigned to users who handle sensitive and secret information.
 
-If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE  GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN. 
+If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE  GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN.
 
 **SEED**
 

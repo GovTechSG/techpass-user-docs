@@ -11,7 +11,7 @@ Frontend version:  | Backend version:
 <details>
 <summary style="font-size:20px;font-weight:bold">A new webhook, application-credentials-expiring, is available for subscription</summary>
 
-Tenants can subscribe to this webhook to get notifications about their applications' expiring certificates and secrets. </details>
+Tenant admins can subscribe to this webhook to get notifications about their applications' expiring certificates and secrets. </details>
 
 ## Staging release 31 October 2022
 

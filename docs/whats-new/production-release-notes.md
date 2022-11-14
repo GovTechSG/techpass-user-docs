@@ -4,7 +4,7 @@
 
 ## Production release 12 November 2022
 
-Frontend version:  | Backend version:
+Frontend version: 1.0.0-20221112.0330  | Backend version: 1.35.1-221112.0342
 
 **New features** - **TechPass Portal**
 

@@ -2,6 +2,17 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 12 November 2022
+
+Frontend version: 1.0.0-20221112.0330  | Backend version: 1.35.1-221112.0342
+
+**New features** - **TechPass Portal**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">A new webhook, application-credentials-expiring, is available for subscription</summary>
+
+Tenant admins can subscribe to this webhook to get notifications about their applications' expiring certificates and secrets. </details>
+
 ## Staging release 31 October 2022
 
 **New features** - **Backend**

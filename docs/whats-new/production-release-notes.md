@@ -15,7 +15,7 @@ Tenant admins can subscribe to this webhook to get notifications about their app
 
 ## Production release 07 November 2022
 
-Frontend version:  | Backend version:
+Frontend version: 1.0.0-20221021.0757  | Backend version: 1.34.3-221021.0828
 
 **New features** - **Backend**
 

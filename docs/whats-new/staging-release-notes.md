@@ -2,7 +2,7 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
-## Staging release 22 November 2022
+## Staging release 23 November 2022
 
 Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
 

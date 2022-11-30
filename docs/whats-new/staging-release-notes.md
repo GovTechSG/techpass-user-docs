@@ -2,6 +2,59 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 23 November 2022
+
+Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
+
+**New features**
+<details>
+<summary style="font-size:20px;font-weight:bold">Automatically retrieve public officer profile details from WOG AAD upon account creation</summary>
+
+Upon account creation, the TechPass portal displays profile details such as first name, last name, organisation, department and mobile number of public officers.
+
+When WOG AAD does not have this information, and if you invite the public officer using automation API, the portal will display profile details provided in the Automation API.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Display Key ID for client secrets</summary>
+
+Tenant admins can view the Key IDs for their client secrets on the TechPass portal.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Number matching in multifactor authentication (MFA) notifications</summary>
+
+To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
+
+For more information, refer to [Azure documentation](https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match).
+
+</details>
+
+**Fixes**
+<details>
+<summary style="font-size:20px;font-weight:bold">Logs are now displayed for a newly added webhook</summary>
+
+When users added a webhook URL to an active tenant, they could not see the logs related to the webhook. We have fixed this, and you can view the logs.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">The word "terminated" won't be displayed in the mobile number field</summary>
+
+If a vendor's TechPass account was terminated, and when you selected or assigned this user to a role using any downstream services such as TechBiz, you could see the word terminated displayed in the mobile number field. We have fixed this now.
+
+</details>
+
+**Changes**
+<details>
+<summary style="font-size:20px;font-weight:bold">Disable reset password for test and training accounts</summary>
+
+TechPass admins and the operations team will no longer be able to reset passwords for test and training accounts.
+
+</details>
+
 ## Staging release 12 November 2022
 
 Frontend version: 1.0.0-20221112.0330  | Backend version: 1.35.1-221112.0342

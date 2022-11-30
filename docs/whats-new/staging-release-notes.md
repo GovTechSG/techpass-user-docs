@@ -6,11 +6,12 @@
 
 Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
 
-**New features**
+
+**New features** 
 <details>
 <summary style="font-size:20px;font-weight:bold">Automatically retrieve public officer profile details from WOG AAD upon account creation</summary>
 
-Upon account creation, the TechPass portal displays profile details such as first name, last name, organisation, department and mobile number of public officers.
+Upon account creation, the TechPass portal displays profile details such as first name, last name, organisation, department and mobile number of public officers. 
 
 When WOG AAD does not have this information, and if you invite the public officer using automation API, the portal will display profile details provided in the Automation API.
 

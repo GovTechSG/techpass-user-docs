@@ -6,6 +6,7 @@
 
 Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
 
+
 **New features** 
 <details>
 <summary style="font-size:20px;font-weight:bold">Automatically retrieve public officer profile details from WOG AAD upon account creation</summary>
@@ -54,7 +55,6 @@ If a vendor's TechPass account was terminated, and when you selected or assigned
 TechPass admins and the operations team will no longer be able to reset passwords for test and training accounts.
 
 </details>
-
 
 ## Staging release 12 November 2022
 

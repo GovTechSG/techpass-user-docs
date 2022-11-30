@@ -5,7 +5,7 @@ This page summarises the new features, improvements and bug fixes completed in e
 ## Latest changes
 
 **Production release notes**
-- [Production release 12 November 2022](whats-new/production-release-notes?id=production-release-12-november-2022)
+- [Production release 30 November 2022](whats-new/production-release-notes?id=production-release-30-november-2022)
 
 
   [**View all production release notes**](/whats-new/production-release-notes)

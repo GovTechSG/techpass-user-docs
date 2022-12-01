@@ -1,5 +1,8 @@
 # Onboard to TechPass as public officers
 
+>**Note**<br>
+> If you are a public officer using SE-GSIB device, create a [service request](https://go.gov.sg/techpass-sr) requesting for the required provisioning.
+
 This article guides you to do the following:
 - [Sign up for TechPass and SEED](#step-1-sign-up-for-techpass-and-seed).
 - [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
@@ -16,11 +19,11 @@ You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-se
 - Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *peter_wilson@tech.gov.sg*.
 - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, *peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg*
 
-> **Note**: 
+> **Note**:
 >- If you are a public officer using an SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. When your request gets approved, we will provide you with the instructions to activate your TechPass account.
 >- We strongly encourage vendors and contractors using a non-SE GSIB device also to follow the [vendor onboarding](onboard-vendors-to-techpass) flow.
 
-Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg). 
+Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
 If you are a public officer who is requesting TechPass and SEED provisioning for others, see [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
@@ -48,19 +51,19 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
   3. Indicate if you want to onboard your internet device to SEED and select **I'm not a robot**.
 
   > **Note**: You need SEED provisioning to access SGTS resources using an internet device.
-  
+
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
   4. Click **Submit**. We will send you the onboarding invitation email(s).
 
   > **Additional information**:
   >
-  > **If TechPass provisioning 
+  > **If TechPass provisioning
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate this account.
   >- This email is valid only for 30 days.
-  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account. 
+  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account.
   >- You can sign up again via the TechPass portal and request for TechPass and SEED.
   >
   > **If SEED provisioning is approved**:
@@ -180,7 +183,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   A number is shown on your computer screen.
 
     <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
-  
+
   9. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
 
   10. Click **Next**.

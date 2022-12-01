@@ -10,11 +10,11 @@ TechPass users can edit their TechPass profile anytime by logging into the TechP
 _To edit your profile:_
 
 1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
-2. Sign in to your TechPass account or choose your TechPass account.
+2. Sign in to your TechPass account.
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
 
 > **Note**
-> If you are a public officer and not logged into your WOG account, you will be prompted to log in to it first before proceeding to TechPass account.
+> If you are a public officer you may be prompted to log in to the WOG account first before proceeding to TechPass account.
 
 You will now be prompted to approve your TechPass sign-in. A number will be shown on your computer.
 

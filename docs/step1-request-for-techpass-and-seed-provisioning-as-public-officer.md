@@ -15,7 +15,7 @@ This article tells how a public officer with a non-SE GSIB device can request fo
 > :bulb:
 <font color="green">Request for SEED provisioning only if you have an internet device and need to access SGTS resources, products and services from it.</font>
 
-Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg). 
+Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
 If you are a public officer who is requesting TechPass and SEED provisioning for others, see [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
@@ -44,20 +44,20 @@ If you are a public officer who has a non-SE GSIB device, you can sign up for Te
   3. Indicate if you want to onboard your internet device to SEED.
 
   > :memo: <span style="color:green">To access SGTS services using an internet device, request for SEED provisioning.</span>
-  
+
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
-  4. Select **I'm not a robot** and click **Submit**. 
-  
+  4. Select **I'm not a robot** and click **Submit**.
+
 
 
   > **Additional information**:
   >
-  > **If TechPass provisioning 
+  > **If TechPass provisioning
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate this account.
   >- This email is valid only for 30 days.
-  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account. 
+  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account.
   >- You can sign up again via the TechPass portal and request for TechPass and SEED.
   >
   > **If SEED provisioning is approved**:
@@ -71,7 +71,7 @@ If you are a public officer who has a non-SE GSIB device, you can sign up for Te
 
 <!--
 - To onboard to TechPass, you must have received the TechPass onboarding email.
-- If you are a SE-GSIB user, use your non-SE GSIB or an internet device to complete steps [2](#step-2-set-up-security-verification-for-the-wog-account) and [3](#step-3-accept-techpass-invitation).
+- If you are an SE-GSIB user, use your non-SE GSIB or an internet device to complete steps [2](#step-2-set-up-security-verification-for-the-wog-account) and [3](#step-3-accept-techpass-invitation).
 
 >- If you are a public officer using the SE-GSIB device and want TechPass and SEED provisioning, create a [service request](https://go.gov.sg/techpass-sr).
 

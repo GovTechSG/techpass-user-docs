@@ -1,18 +1,75 @@
 # Glossary
 
+<!-- 
+Guidelines for anybody adding a new entry to this page.
+
+To add a new word:
+ 1. Place it in the alphabetical order.
+ 2. Enclose it by 
+ <a id="word-in-lower-case">
+
+ **word**
+
+ </a> 
+ 
+ 3. Include a line space before and after the word.
+ -->
+
+<a id="gfe">
+
+**GFE**
+
+</a>
+Government Furnished Equipment.
+
+<a id="gmd">
+
+**GMD**
+
+</a>
+
+Government Managed Device. An internet device or a GFE device when enrolled with SEED becomes a Government Managed Device.
+
+<a id="gsib">
+
 **GSIB**
 
-Government Standard Image Build
+</a>
+
+Government Standard Image Build.
+
+
+<a id="internet-device">
+
+**Internet device**
+
+</a>
+
+
+Device which is not a [GSIB](#gsib). This could be your personal device, or a device issued by your vendor or agency. 
+
+You must enroll this device with SEED (GovTech's MDM solution) in order to access SGTS resources, products and services.
+
+**non-SE GSIB**
+
+If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN. You can access the internet and intranet using this device. 
+
+**Note**<br>
+> You can't onboard this device to SEED.
 
 **SE GSIB**
 
-It is a Secured Email (SE) GSIB device. This GSIB device is assigned to users who handle sensitive and secret information.
+It is a Secured Email (SE) GSIB device. This GSIB device is assigned to public officers who handle sensitive and secret information.
 
-If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE  GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN.
+If you are using a SE GSIB device, you will be using your PS-Card to authenticate. You will not be able to access internet using this SE-GSIB device. 
+
+**Note**<br>
+>- You can't use this device to activate your TechPass account.
+>- You can't onboard this device to SEED.
 
 **SEED**
 
-Security Suite for Engineering Endpoint Devices
+Security Suite for Engineering Endpoint Devices. This is an MDM sol
 
 **TechPass**
 

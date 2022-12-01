@@ -49,7 +49,7 @@ Your project manager or reporting officer will work with the engaging government
  >- It becomes activated when you [sign in to TechPass using initial password](#step-2-sign-in-using-initial-password),[configure and verify MFA for TechPass account](#step-3-configure-and-verify-mfa-for-techpass-account)and [Reset initial password](#step-4-reset-initial-password).
  >- The TechPass and SEED onboarding invitation emails are valid for 30 days. Refer to SEED documentation for more information on what to do if your SEED onboarding invitation has expired.
  >- If you do not onboard to TechPass within 30 days, we will terminate your TechPass account and notify you via email before the termination. You can again request for TechPass and SEED.
- >- Onboard to TechPass before enrolling your non-GSIB or non-DWP device to SEED.
+ >- Onboard to TechPass before enrolling your internet device to SEED.
  >- TechPass onboarding email will contain your TechPass username.
  >- The initial password for your TechPass account is texted to your mobile phone. If you have lost or forgotten your initial password, please create a [support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
 
@@ -87,15 +87,13 @@ Your project manager or reporting officer will work with the engaging government
   4. Go back to your computer and click **Next**.
   <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2.png)</kbd>
   5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
-    <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3.png)</kbd>
-
-  The Authenticator sends a notification to your mobile device to confirm if this verification process was set up correctly.
-
-      <kbd>![vendor-confirms-mfa](assets/support/vendor-mfa-4.png)</kbd>
-
-  6. Tap **APPROVE** on your mobile device and on your computer, you will see that you have approved your sign-in.
-
-      <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5.png)</kbd>
+    <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3.png)</kbd>     
+  
+  A number is shown on your computer screen.
+  
+  6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in. 
+   
+   <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5.png)</kbd>
 
   7. On your computer, click **Next**.
   8. Choose the country code and enter your mobile phone number.
@@ -154,9 +152,9 @@ Your project manager or reporting officer will work with the engaging government
 
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
 
-  You have now successfully onboarded TechPass. You can now proceed to onboard your non-GSIB or non-DWP device to SEED.
+  You have now successfully onboarded TechPass. You can now proceed to onboard your internet device to SEED.
 
   > **Note**:
-  > Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your non-GSIB or non-DWP device to SEED.
+  > Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your internet device to SEED.
 
 </details>

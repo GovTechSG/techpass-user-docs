@@ -12,3 +12,12 @@
 - [Support](/support/overview.md)
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)
+
+
+<!--
+- Onboard public officer
+  - [Step 1 Request for TechPass and SEED](step1-request-for-techpass-and-seed-provisioning-as-public-officer)
+
+  -->
+  
+  

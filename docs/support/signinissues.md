@@ -37,7 +37,7 @@ SE-GSIB device users can create a [service request](https://go.gov.sg/techpass-s
 
 Please select **Service Request** for ticket request type and **Create TechPass account for Secure Email GSIB users** when submitting the ticket.
 
-<kbd>![SE-GSIB service request options](../assets/support/SE-GSIB_SROptions.png)</kbd>-->
+<kbd>![SE-GSIB service request options](../assets/support/SE-GSIB_SROptions.png)</kbd>
 
 
 ## DEEP (device compliance)

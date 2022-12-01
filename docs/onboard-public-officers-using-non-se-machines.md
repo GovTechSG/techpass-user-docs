@@ -100,6 +100,8 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 
   A number is shown on your computer screen.
 
+   <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
+
   6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
   7. Click **Done**.
   <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
@@ -176,6 +178,8 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
 
   A number is shown on your computer screen.
+
+    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
   
   9. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
 

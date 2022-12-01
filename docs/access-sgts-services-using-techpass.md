@@ -26,6 +26,8 @@ This article guides you on how to use TechPass to access SGTS resources.
 
 You will now be prompted to approve your TechPass sign-in. A number is shown on your computer screen.
 
+ <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
+
 5. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
 
 ?> To log out of TechPass, click **Log Out** and confirm which account you would like to log out.
@@ -41,6 +43,8 @@ You will now be prompted to approve your TechPass sign-in. A number is shown on 
 <kbd>![verify-wog-for-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)-->
 
 You will now be prompted to approve your TechPass sign-in. A number will shown on your computer.
+
+ <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
 4. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate this sign-in. 
 

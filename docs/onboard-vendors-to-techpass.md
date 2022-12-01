@@ -90,6 +90,8 @@ Your project manager or reporting officer will work with the engaging government
     <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3.png)</kbd>     
   
   A number is shown on your computer screen.
+
+   <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
   
   6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in. 
    

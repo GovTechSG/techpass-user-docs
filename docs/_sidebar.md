@@ -1,6 +1,6 @@
 - [Overview](home)
 - [What's new](/whats-new/whats-new.md)
-- [Onboard public officer](onboard-public-officers-using-non-se-machines)
+- [Onboard public officer](onboard-public-officers-using-non-se-devices)
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in with TechPass](access-sgts-services-using-techpass)
 - [Edit TechPass profile](edit-profile)

@@ -34,5 +34,5 @@ You can access [TechPass portal](https://portal.techpass.gov.sg) only from non-S
 
 **Related topics**
 
-- [Onboard public officer to TechPass](onboard-public-officers-using-non-se-machines)
+- [Onboard public officer to TechPass](onboard-public-officers-using-non-se-devices)
 - [Onboard vendor to TechPass](onboard-vendors-to-techpass)

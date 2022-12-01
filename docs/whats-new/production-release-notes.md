@@ -226,7 +226,7 @@ TechPass automatically terminates TechPass accounts that have not been used with
 
 Log in with your TechPass and complete the TechPass onboarding flow.
 
-- If you are a public officer, [accept the invitation and complete the onbaording flow](/onboard-public-officers-using-non-se-machines?id=step-3-accept-invitation).
+- If you are a public officer, [accept the invitation and complete the onbaording flow](/onboard-public-officers-using-non-se-devices?id=step-3-accept-invitation).
 
 - If you are a vendor, [sign in to your TechPass account](onboard-vendors-to-techpass?id=step-2-first-time-sign-in-using-initial-password)
 

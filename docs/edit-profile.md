@@ -1,24 +1,26 @@
 # Edit profile
 
-Currently TechPass users can edit their TechPass profile anytime by logging into the TechPass portal using non-SE GSIB machine.
+TechPass users can edit their TechPass profile anytime by logging into the TechPass portal using non-SE GSIB device.
 
-?> If you do not have a non-SE GSIB machine, create a [service request](https://go.gov.sg/techpass-sr) so that we can help you update your profile details.
+> **Note**
+> Create a [service request](https://go.gov.sg/techpass-sr) with us to update your profile details:
+>- If you are a public officer with a SE GSIB device.
+>- If you are a vendor or contractor whose TechPass ID's domain is *techpass.gov.sg*.
 
 _To edit your profile:_
 
-1. From your GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+2. Sign in to your TechPass account or choose your TechPass account.
+<kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
 
-<kbd>![log in](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=90%')</kbd>
+> **Note**
+> If you are a public officer and not logged into your WOG account, you will be prompted to log in to it first before proceeding to TechPass account.
 
-2. Choose your TechPass account.
+You will now be prompted to approve your TechPass sign-in. A number will be shown on your computer.
 
-<kbd>![choose-account](assets/images/onboarding/po-non-se/choose-account.png)</kbd>
+ <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
-?> If you are a public officer and not logged into your WOG account, you will be prompted to log in to it first before proceeding to TechPass account.
-
-3. You will be prompted to approve your TechPass login. Approve it on your Authenticator app.
-
-<kbd>![approve-signin](assets/images/onboarding/po-non-se/approve-sign-in.png)</kbd>
+4. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate this sign-in.
 
 4. Hover over your account name and click **My Account**.
 

@@ -17,7 +17,7 @@ Vendors or contractors who do not have a non-SE GSIB device
 
 > **Note**:
 >- If you are a vendor or contractor using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name_from\>.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*, you can sign up for TechPass and request for SEED provisioning from the [TechPass portal](http://portal.techpass.gov.sg).
->- To know more about self sign up for TechPass, refer to [Onboard public officers](onboard-public-officers-using-non-se-machines).
+>- To know more about self sign up for TechPass, refer to [Onboard public officers](onboard-public-officers-using-non-se-devices).
 
 
 ## Prerequisites

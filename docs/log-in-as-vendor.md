@@ -13,7 +13,7 @@
 <!--4. Choose an authenticating method.
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/vendor-choose-auth-method.png)</kbd>-->
 
-You will now be prompted to approve your TechPass sign-in. A number is shown on your computer screen.
+You will now be prompted to approve your TechPass sign-in. A number is shown on your browser.
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 

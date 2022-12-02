@@ -11,7 +11,7 @@ If you are signing in from your GMD, you will be prompted to authenticate your W
 
 <kbd>![verify-wog-for-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)-->
 
-You will now be prompted to approve your TechPass sign-in. A number will be shown on your computer.
+You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 

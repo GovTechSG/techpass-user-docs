@@ -89,7 +89,7 @@ Your project manager or reporting officer will work with the engaging government
   5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
     <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3.png)</kbd>     
   
-  A number is shown on your computer screen.
+  A number is shown on your browser.
 
    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
   

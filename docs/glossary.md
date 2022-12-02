@@ -48,7 +48,7 @@ Government Standard Image Build.
 
 Device which is not a [GSIB](#gsib). This could be your personal device, or a device issued by your vendor or agency.
 
-You must enroll this device with SEED (GovTech's MDM solution) in order to access SGTS resources, products and services.
+You must enroll this device with SEED (GovTech's MDM solution) in order to access SGTS resources, products and services that requires SEED.
 
 **non-SE GSIB**
 

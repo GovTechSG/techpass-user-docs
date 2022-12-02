@@ -16,7 +16,7 @@ _To edit your profile:_
 > **Note**
 > If you are a public officer you may be prompted to log in to the WOG account first before proceeding to TechPass account.
 
-You will now be prompted to approve your TechPass sign-in. A number will be shown on your computer.
+You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 

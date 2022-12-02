@@ -20,7 +20,7 @@ You will now be prompted to approve your TechPass sign-in. A number will be show
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
-4. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate this sign-in.
+3. On the Authenticator app, enter the number shown, and tap **Yes**.
 
 4. Hover over your account name and click **My Account**.
 

@@ -4,10 +4,10 @@ The following table tells who can complete the steps mentioned in this article t
 
  | User  | Device | Active TechPass | TechPass ID's domain format | Request for SEED provisioning |
 | ------------- |:-------------| :------------- | :------------- | ------ |
-| Public officer      | non-SE GSIB | Yes | *\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
-| Public officer | SE GSIB | Yes| *\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*. | Create a [service request](https://go.gov.sg/techpass-sr) |
-| Vendor | non-SE GSIB | Yes | *\<acronym-for-your-engaging-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
-| Vendor | internet device (not a GSIB) | Yes | *\<techpass\>.gov.sg*. <br><br>For example, *techpass.gov.sg*.| Contact your project manager or reporting officer to request for SEED provisioning. |
+| Public officer      | non-SE GSIB | Yes | *@\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
+| Public officer | SE GSIB | Yes| *@\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*. | Create a [service request](https://go.gov.sg/techpass-sr) |
+| Vendor | non-SE GSIB | Yes | *_from.\<vendor-name\>@\<acronym-for-your-engaging-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
+| Vendor | internet device (not a GSIB) | Yes | *techpass.gov.sg*| Contact your project manager or reporting officer to request for SEED provisioning. |
 
 *To request for SEED provisioning*
 
@@ -15,14 +15,11 @@ The following table tells who can complete the steps mentioned in this article t
 2. Sign in to your TechPass account.
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
 
-> **Note**
-> If you are a public officer you may be prompted to log in to the WOG account first before proceeding to TechPass account.
-
 You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
-3. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate this sign-in.
+3. On the Authenticator app, enter the number shown, and tap **Yes**. 
 
 4. Hover over your account name and click **My Account**.
 

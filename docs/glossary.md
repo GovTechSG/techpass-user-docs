@@ -69,7 +69,7 @@ If you are using a SE GSIB device, you will be using your PS-Card to authenticat
 
 **SEED**
 
-Security Suite for Engineering Endpoint Devices. This is an MDM solution.
+Security Suite for Engineering Endpoint Devices. This is the MDM solution offered by GovTech.
 
 **TechPass**
 

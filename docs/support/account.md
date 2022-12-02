@@ -59,7 +59,7 @@ Visit Microsoft's [Common problems with two-factor verification](https://docs.mi
 
 <details><summary style="font-size:18px">I am public officer and my TechPass account has been terminated. Why was it terminated?</summary>
 
-When you sign up or request for a TechPass account, it is created and we will send an invitation email to onboard to your TechPass account. When you complete this, your TechPass account is activated. For instructions on how to complete the onboarding, refer to [onboard public officers](docs/onboard-public-officers-using-non-se-machines) and [onboard vendors](docs/onboard-vendors-to-techpass) to TechPass.
+When you sign up or request for a TechPass account, it is created and we will send an invitation email to onboard to your TechPass account. When you complete this, your TechPass account is activated. For instructions on how to complete the onboarding, refer to [onboard public officers](docs/onboard-public-officers-using-non-se-devices) and [onboard vendors](docs/onboard-vendors-to-techpass) to TechPass.
 
 The TechPass onboarding invitation is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. You will be notified when your account is terminated.   
 
@@ -73,7 +73,7 @@ Your TechPass account is terminated if you do not onboard to TechPass successful
 
 To get a TechPass account:
 
-- If you have a non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) from this device and sign up again for TechPass and request for SEED (if needed) to receive a new onboarding invitation emails for them. Refer to [onboard public officers](/onboard-public-officers-using-non-se-machines) to complete your TechPass onboarding.
+- If you have a non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) from this device and sign up again for TechPass and request for SEED (if needed) to receive a new onboarding invitation emails for them. Refer to [onboard public officers](/onboard-public-officers-using-non-se-devices) to complete your TechPass onboarding.
 
 - If you do not have a non-SE GSIB device, follow the instructions on [onboard vendors to TechPass](/onboard-vendors-to-techpass)
 
@@ -89,7 +89,7 @@ If you use a non-SE GSIB device and if your TechPass account is active, to reque
 2. Log in with TechPass.
 3. Hover over your user name and click **My Account**.
 4. In the **Profile** page, click **Request for SEED**.
-5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your non-GSIB or non-DWP device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
+5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your internet device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
 
 If you do not use a non-SE GSIB device and if your TechPass account is active, [create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again. 
 

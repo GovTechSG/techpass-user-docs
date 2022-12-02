@@ -1,32 +1,27 @@
-# Onboard to TechPass as public officers
+# Step 1: Request for TechPass and SEED provisioning as public officer
 
->**Note**<br>
-> If you are a public officer using SE-GSIB device, create a [service request](https://go.gov.sg/techpass-sr) requesting for the required provisioning.
+This article tells how a public officer with a non-SE GSIB device can request for TechPass and SEED provisioning.
 
-This article guides you to do the following:
-- [Sign up for TechPass and SEED](#step-1-sign-up-for-techpass-and-seed).
-- [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
-- [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
-- [Onboard to TechPass account](#step-4-onboard-to-techpass).
-
-You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
-
-> **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+<!--
+**Note**<br>
+> If you are a vendor or contractor, you are strongly encouraged to follow the steps mentioned in the Request for TechPass and SEED provisioning as vendor page. This is irrespective of whether you are furnished with a non-SE GSIB device or not.-->
 
 
 ## Audience
 
-- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *peter_wilson@tech.gov.sg*.
-- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, *peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg*
+- [Public officer using SE-GSIB device](#public-officer-using-se-gsib-device)
+- [Public officer using non-SE GSIB device](#public-officer-using-non-se-gsib-device)
 
-> **Note**:
->- If you are a public officer using an SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. When your request gets approved, we will provide you with the instructions to activate your TechPass account.
->- We strongly encourage vendors and contractors using a non-SE GSIB device also to follow the [vendor onboarding](onboard-vendors-to-techpass) flow.
+> :bulb:
+<font color="green">Request for SEED provisioning only if you have an internet device and need to access SGTS resources, products and services from it.</font>
 
 Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
 If you are a public officer who is requesting TechPass and SEED provisioning for others, see [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
+<!--
+- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, *peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg*.
+-->
 ## Prerequisites
 
 - You need a non-SE GSIB device.
@@ -34,27 +29,26 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 - Organisational email address must be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *peter_wilson@tech.gov.sg*.
 
 
-> **Tip**: Click the triangle to view the instructions to complete each step.
+## Public officer using non-SE GSIB device
 
+If you are a public officer who has a non-SE GSIB device, you can sign up for TechPass and SEED provisioning as needed.
 
-## Step 1. Sign up for TechPass and SEED
-
-<details>
-  <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass?</summary>
-
-  **To get TechPass invitation email**
+**To sign up for TechPass and SEED provisioning**
 
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
-  2. Enter your organisational **Email Address**.
+  <kbd>![sign-up](assets/images/onboarding/po-non-se/sign-up-new.png)</kbd>
 
-  3. Indicate if you want to onboard your internet device to SEED and select **I'm not a robot**.
+  2. Enter your organisational **Email Address**.  
 
-  > **Note**: You need SEED provisioning to access SGTS resources using an internet device.
+  3. Indicate if you want to onboard your internet device to SEED.
+
+  > :memo: <span style="color:green">To access SGTS services using an internet device, request for SEED provisioning.</span>
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
+  4. Select **I'm not a robot** and click **Submit**.
 
-  4. Click **Submit**. We will send you the onboarding invitation email(s).
+
 
   > **Additional information**:
   >
@@ -70,10 +64,40 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account.
-  >- If your SEED onboarding email has expired, request again for SEED provisioning by going to your TechPass **Profile** > **Request for SEED**. For more information, see [SEED FAQ](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  >- If your SEED onboarding email has expired, request again for SEED provisioning from your TechPass **Profile** > **Request for SEED**.
 
 
-  </details>
+
+
+<!--
+- To onboard to TechPass, you must have received the TechPass onboarding email.
+- If you are an SE-GSIB user, use your non-SE GSIB or an internet device to complete steps [2](#step-2-set-up-security-verification-for-the-wog-account) and [3](#step-3-accept-techpass-invitation).
+
+>- If you are a public officer using the SE-GSIB device and want TechPass and SEED provisioning, create a [service request](https://go.gov.sg/techpass-sr).
+
+
+TechPass account using the [TechPass portal](http://portal.techpass.gov.sg).
+
+Step 1: [Sign up for TechPass and SEED](#step-1-sign-up-for-techpass-and-seed).
+
+
+Step 2: [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
+
+Step 3: [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
+
+Step 4: [Onboard to TechPass account](#step-4-onboard-to-techpass).
+
+> **Tip**: Click the triangle to view the instructions to complete each step.
+
+
+
+
+
+
+
+
+
+
 
 ## Step 2. Set up security verification for the WOG account
 
@@ -83,7 +107,9 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
   > **Important**:<br>
   > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
     >- Access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
-    >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
+    >- View your SG Govt M365 profile on the Microsoft Authenticator app.
+    >- You must use your non-SE GSIB or an internet device to complete the following steps.
+
 
 **To set up security verification for WOG account**
 
@@ -100,12 +126,8 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
   When you scan the QR code on your computer screen, your WOG account gets listed on the authenticator app, and your activation status is confirmed when you click **Next**.
   5. In the **Additional security verification** page, click **Next**.
   <kbd>![after-scan](assets/images/security-verification-for-wog/additional-security-verification-next.png)</kbd>
-
-  A number is shown on your computer screen.
-
-   <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
-
-  6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
+  A notification is sent to your mobile app to verify that you are reachable on your mobile device.
+  6. Approve sign-in on the **Authenticator** app.
   7. Click **Done**.
   <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
   8. Your **Profile** page is displayed.
@@ -155,6 +177,9 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   > **Note**: If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
   2. Click **Log in with TechPass**.
+
+  <kbd>![log-in-with-techpass](assets/images/onboarding/po-non-se/log-in-with-techpass.png ':size=400')</kbd>
+
   3. Click **Next**.
 
   <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')</kbd>
@@ -180,11 +205,9 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
 
-  A number is shown on your computer screen.
+  The Authenticator sends a notification for you to approve and confirm if the security verification set-up is correct.
 
-    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
-
-  9. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
+  9. Tap **APPROVE** on your mobile device. On your computer, you will see that you have approved your sign-in.
 
   10. Click **Next**.
 
@@ -225,3 +248,5 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 > **Note**: Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your internet device to SEED.
 
 </details>
+
+-->

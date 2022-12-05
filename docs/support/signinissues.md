@@ -2,7 +2,7 @@
 
 <details><summary style="font-size:18px">Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
 
-No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, official email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
+No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, organisational email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
 
 <hr/></details><br>
 

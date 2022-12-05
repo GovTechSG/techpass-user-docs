@@ -28,7 +28,7 @@ To get a new invitation link, create a [service request][service-request] with u
 <summary style="font-size:18px">
 4. I am a public officer. How do I reset my TechPass account password?</summary>
 
-If you are a public officer; your official email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
+If you are a public officer; your organisational email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
 
 Hence, your GSIB device password is also your TechPass account password. If you are currently logged in to your GSIB device, proceed to [reset your password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
 
@@ -45,9 +45,9 @@ Generally, if you are a vendor, your TechPass ID will look like *your_name<span>
 <summary style="font-size:18px">
 6. Why do public officers have 2 MFA profiles, SG Govt M365 and TECHPASS, on their authenticator app?</summary>
 
-If you are a public officer, generally, your official email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
+If you are a public officer, generally, your organisational email address is your TechPass account. For example, *your_name<span>@</span>agency.gov.sg* or *your_name<span>@</span>tech.gov.sg*.
 
-While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your official email address.
+While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account which in turn is associated with your organisational email address.
 
 If you are using TechPass as an SSO to access any SGTS services from your GMD device; First, you need to authenticate your WOG account by entering your email and the OTP as verification code displayed in your SG Govt M365 profile on the Authenticator app. If this is successful, depending on the MFA settings you configured earlier, you will be prompted to approve your TechPass account.
 

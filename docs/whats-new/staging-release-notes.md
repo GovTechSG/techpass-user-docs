@@ -2,7 +2,10 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+
 ## Staging release 07 December 2022
+
+> :memo: Due to some changes we made for this release, users may encounter an infinite sign-in loop. To fix this, please clear your cache.
 
 Frontend version: 1.0.0-20221205.0606   | Backend version: 1.38.0-221205.0704
 

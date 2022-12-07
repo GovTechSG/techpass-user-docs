@@ -5,7 +5,7 @@
 
 ## Staging release 07 December 2022
 
-> :memo: Due to some changes we made for this release, users may encounter an infinite sign-in loop. To fix this, please clear your cache.
+> :memo: Due to some changes we made for this release, users may encounter an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
 
 Frontend version: 1.0.0-20221205.0606   | Backend version: 1.38.0-221205.0704
 
@@ -26,7 +26,7 @@ Test if the Automation API is working as expected.
 <details>
 <summary style="font-size:20px;font-weight:bold">Improved portal security implementation</summary>
 
-We have improved the security of the anti-CSRF token implementation. However, because of this change, you may encounter an infinite sign-in loop.
+We have improved the security of the anti-CSRF token implementation. However, because of this change, you may encounter an infinite sign-in loop when you access the TechPass portal on the staging environment.
 
 > :bulb: Clear the cache to solve this infinite sign-in loop.
 

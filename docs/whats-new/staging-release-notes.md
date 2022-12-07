@@ -23,7 +23,9 @@ Test if the Automation API is working as expected.
 <details>
 <summary style="font-size:20px;font-weight:bold">Improved portal security implementation</summary>
 
-We have improved the security of anti-CSRF token implementation.
+We have improved the security of the anti-CSRF token implementation. However, because of this change, you may encounter an infinite sign-in loop.
+
+> :bulb: Clear the cache to solve this infinite sign-in loop.
 
 </details>
 

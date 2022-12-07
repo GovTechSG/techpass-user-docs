@@ -43,7 +43,7 @@ The Bind Owners To Group Automation API returned an empty array of groups in the
 
 Tenants can subscribe to webhook events such as user-invited, user-deleted and user-updated, which get triggered when users are added, deleted and removed, respectively, using TechPass Automation API, TechPass and TechBiz portals.
 
-If one of the tenants has an invalid configuration, such as a missing secret key, the webhook event should be retried for that tenant until it is successful. However, this was resent for all the tenants creating duplicate records. We have fixed this in this release.
+In the event where there's an invalid webhook configuration such as missing secret key; The system logic is to retry sending webhook events for the impacted tenant until it's successfully sent. There was a bug where this retry call was triggered for all tenants thus creating duplicate records. We have fixed it in this release.
 
 </details>
 

@@ -2,6 +2,53 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 07 December 2022
+
+Frontend version: 1.0.0-20221205.0606   | Backend version: 1.38.0-221205.0704
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">
+Role-Based Access Control (RBAC) for Automation API</summary>
+
+We have implemented Role-Based Access Control (RBAC) for Automation API by assigning tenant applications with the appropriate roles. Based on the roles assigned, we will be able to determine whether the application has access to the called endpoint. This is a change in our internal implementation.
+
+**Action required**
+
+Test if the Automation API is working as expected.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Improved portal security implementation</summary>
+
+We have improved the security of anti-CSRF token implementation.
+
+</details>
+
+
+**Fixes**
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed empty array issue with Bind Owners To Group Automation API</summary>
+
+The Bind Owners To Group Automation API returned an empty array of groups in the response body. This was redundant and we have removed it.
+
+</details>
+
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Resend user-related webhook events only to tenants for whom it failed</summary>
+
+Tenants can subscribe to webhook events such as user-invited, user-deleted and user-updated, which get triggered when users are added, deleted and removed, respectively, using TechPass Automation API, TechPass and TechBiz portals.
+
+In the event where there's an invalid webhook configuration such as missing secret key; The system logic is to retry sending webhook events for the impacted tenant until it's successfully sent. There was a bug where this retry call was triggered for all tenants thus creating duplicate records. We have fixed it in this release.
+
+</details>
+
+
+
 ## Staging release 23 November 2022
 
 Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155

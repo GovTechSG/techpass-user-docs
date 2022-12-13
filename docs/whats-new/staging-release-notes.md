@@ -32,6 +32,16 @@ We have improved the security of the anti-CSRF token implementation. However, be
 
 </details>
 
+<details>
+<summary style="font-size:20px;font-weight:bold">Increase character limt to group name</summary>
+
+TechPass will now support group creation with group name up to 99 characters.
+
+**Action required**
+
+None
+
+</details>
 
 **Fixes**
 

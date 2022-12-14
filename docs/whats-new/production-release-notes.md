@@ -32,9 +32,9 @@ We have improved the security of the anti-CSRF token implementation. However, be
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Increase character limit to group name</summary>
+<summary style="font-size:20px;font-weight:bold">Write longer group names</summary>
 
-You can now enter up to 99 characters for **Group Name** while creating groups.
+You can now enter up to 99 characters for **Group Name** while creating groups. In earlier versions, the character limit was 40.
 
 </details>
 

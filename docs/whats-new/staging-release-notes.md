@@ -5,9 +5,9 @@
 
 ## Staging release 07 December 2022
 
-> :memo: Due to some changes we made for this release, users may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
+> :memo: Due to some changes we made for this release, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
 
-Frontend version: 1.0.0-20221205.0606   | Backend version: 1.38.0-221205.0704
+Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 
 **Changes** 
 
@@ -33,9 +33,9 @@ We have improved the security of the anti-CSRF token implementation. However, be
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Increase character limt to group name</summary>
+<summary style="font-size:20px;font-weight:bold">Write longer group names</summary>
 
-TechPass will now support group creation with group name up to 99 characters.
+You can now enter up to 99 characters for **Group Name** while creating groups. In earlier versions, the character limit was 40.
 
 **Action required**
 
@@ -56,7 +56,7 @@ The Bind Owners To Group Automation API returned an empty array of groups in the
 <details>
 <summary style="font-size:20px;font-weight:bold">Resend user-related webhook events only to tenants for whom it failed</summary>
 
-Tenants can subscribe to webhook events such as user-invited, user-deleted and user-updated, which get triggered when users are added, deleted and removed, respectively, using TechPass Automation API, TechPass and TechBiz portals.
+Tenants can subscribe to webhook events such as user-invited, user-deleted and user-updated, which get triggered when users are added, deleted and updated, respectively, using TechPass Automation API, TechPass and TechBiz portals.
 
 In the event where there's an invalid webhook configuration such as missing secret key; The system logic is to retry sending webhook events for the impacted tenant until it's successfully sent. There was a bug where this retry call was triggered for all tenants thus creating duplicate records. We have fixed it in this release.
 

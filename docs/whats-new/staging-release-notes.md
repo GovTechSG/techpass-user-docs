@@ -5,7 +5,7 @@
 
 ## Staging release 07 December 2022
 
-> :memo: Due to some changes we made for this release, users may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
+> :memo: Due to some changes we made for this release, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
 
 Frontend version: 1.0.0-20221205.0606   | Backend version: 1.38.0-221205.0704
 
@@ -33,9 +33,9 @@ We have improved the security of the anti-CSRF token implementation. However, be
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Increase character limit to group name</summary>
+<summary style="font-size:20px;font-weight:bold">Write longer group names</summary>
 
-You can now enter up to 99 characters for **Group Name** while creating groups.
+You can now enter up to 99 characters for **Group Name** while creating groups. In earlier versions, the character limit was 40.
 
 **Action required**
 

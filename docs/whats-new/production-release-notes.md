@@ -4,7 +4,7 @@
 
 ## Production release 14 December 2022
 
-> :memo: Due to some changes we made for this release, users may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
+> :memo: Due to some changes we made for this release, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
 
 Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 

@@ -3,16 +3,16 @@
 > **Tip**: Click the triangle to view more details about the change.
 
 ## Staging release 21 December 2022
-Frontend version:  | Backend version: 
+Frontend version: 1.0.0-20221219.0756  | Backend version: 1.40.3-221219.0652
 
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Manage application role assignments now using TechBiz portal</summary>
+<summary style="font-size:20px;font-weight:bold">Manage application role assignments using TechBiz portal</summary>
 
-Tenants who have onboarded to TechBiz, need to use [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage the role assignments for it.
+From 4 January 2023, tenants who have onboarded to TechBiz, need to use [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage application role assignments.
 
-Earlier, you had to do this via TechPass portal or Automation API.
+Currently, you manage application role assignments via TechPass portal or Automation API.
 
 </details>
 

@@ -12,7 +12,7 @@ Frontend version: 1.0.0-20221219.0756  | Backend version: 1.40.3-221219.0652
 
 From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass portal) via the TechBiz portal, agencies need to use [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
 
-Currently, agencies manage application role assignments via TechPass portal or Automation API.
+Currently, the tenants manage the application role assignments via the TechPass portal or Automation API.
 
 </details>
 

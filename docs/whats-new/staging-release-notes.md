@@ -10,9 +10,9 @@ Frontend version: 1.0.0-20221219.0756  | Backend version: 1.40.3-221219.0652
 <details>
 <summary style="font-size:20px;font-weight:bold">Manage application role assignments using TechBiz portal</summary>
 
-From 4 January 2023, tenants who have onboarded to TechBiz, need to use [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage application role assignments.
+From 4 January 2023, agencies need to use [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage application role assignments for their subscribed SGTS services.
 
-Currently, you manage application role assignments via TechPass portal or Automation API.
+Currently, agencies manage application role assignments via TechPass portal or Automation API.
 
 </details>
 

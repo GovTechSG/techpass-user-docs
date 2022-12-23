@@ -6,7 +6,7 @@
 
 Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
 
-> :memo: Due to the changes we made for this release, you may experience unresponsiveness when you click **Add Users or Groups**. To fix this, please clear your cache.
+> :memo: Due to the changes we made for this release, Tenant admins may experience unresponsiveness when they click **Add Users or Groups** in **Edit Application - Assigned Users and Groups**. To fix this, please clear your cache.
 
 **Changes** 
 

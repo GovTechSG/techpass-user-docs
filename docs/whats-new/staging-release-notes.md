@@ -2,6 +2,22 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 21 December 2022
+
+Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
+
+> :memo: Due to the changes we made for this release, Tenant admins may experience unresponsiveness when they click **Add Users or Groups** in **Edit Application - Assigned Users and Groups**. To fix this, please clear your cache.
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Manage application role assignments using TechBiz portal</summary>
+
+From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
+
+Currently, the tenants manage the application role assignments via the TechPass portal or Automation API.
+
+</details>
 
 ## Staging release 07 December 2022
 

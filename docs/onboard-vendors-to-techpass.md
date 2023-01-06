@@ -58,59 +58,87 @@ Your project manager or reporting officer will work with the engaging government
 
 ## Step 2. Sign in using initial password
 
-<details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass using your username and initial password</summary>
+<details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass using your TechPass username and initial password</summary>
+
+> **Note**
+>- TechPass username is sent to the email address you specified while requesting for TechPass.
+>- Initial password is sent to the mobile phone number you specified while requesting for TechPass.
 
   1. Go to the appropriate Docs portal environment to **Log in with TechPass**.
+
    - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
    - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
+
     <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
+
   2. Enter your TechPass username and click **Next**.
+
     <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>
+
   3. Enter the initial password and click **Sign in**.
+
     <kbd>![vendor-initial-pwd](assets/support/vendor-initial-password.png)</kbd>
 
-  You will now be directed to configure MFA for your TechPass account.
-</details>
+  4. Click **Next** to configure MFA for your TechPass account. 
+
+   <kbd>![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')</kbd>
+
+  </details>
 
 ## Step 3. Configure and verify MFA for TechPass account
 
 <details> <summary style="font-size:20px;font-weight:bold"> How to configure and verify MFA for a vendor TechPass account?</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
+  
+  2. Click **Next** on your computer. 
 
-    <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1.png)</kbd>
+    <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)</kbd>
 
-  > **Note**: You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
+  > **Note**
+  > You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
 
-  2. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
-  3. Tap **Scan a QR code**.
-  4. Go back to your computer and click **Next**.
-  <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2.png)</kbd>
-  5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
-    <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3.png)</kbd>     
+  3. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
+  4. Tap **Scan a QR code**.
+  5. Go back to your computer and click **Next**.
+
+  <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)</kbd>
+
+  6. Scan the QR code on your computer screen and click **Next**. 
+  
+  Your TechPass account gets activated and is now linked to the authenticator app.
+    <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)</kbd>     
   
   A number is shown on your browser.
 
    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
   
-  6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in. 
+  7. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in. 
    
-   <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5.png)</kbd>
+   <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)</kbd>
 
-  7. On your computer, click **Next**.
-  8. Choose the country code and enter your mobile phone number.
-      <kbd>![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)</kbd>
-  9. You will receive a six-digit code on this phone number. Enter the six-digit code and click **Next**.
+  8. On your computer, click **Next**.
+  9. Choose the country code, enter your mobile phone number and click **Next**.
+  
+  <kbd>![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)</kbd>
 
-      <kbd>![vendor-mfa-7](assets/support/vendor-mfa-7.png)</kbd>
+  You will receive a six-digit code on this phone number. 
 
-  10. Click **Next**.
+  10. Enter the six-digit code and click **Next**.
 
-      <kbd>![vendor-mfa-8](assets/support/vendor-mfa-8.png)</kbd>
+  <kbd>![vendor-mfa-7](assets/support/vendor-mfa-7-new.png)</kbd>
+
+  Now your mobile phone is registered successfully to this account.
+
+  11. Click **Next**.
+
+  <kbd>![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)</kbd>  
+
   11. When you see a success message, click **Done**.
-      <kbd>![vendor-mfa-9](assets/support/vendor-mfa-9.png)</kbd>
 
-      Now you will be prompted to reset your initial password.
+  <kbd>![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)</kbd>
+
+  Now you will be prompted to reset your initial password.
 </details>
 
 ## Step 4. Reset initial password

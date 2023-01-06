@@ -3,7 +3,7 @@
 1. Go to the [Docs portal](https://docs.developer.tech.gov.sg/) and click **Log in with TechPass**.
 <kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
 
-2.  Sign in to your TechPass account or choose your TechPass account.
+2. Sign in to your TechPass account or choose your TechPass account.
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/vendor-sign-in-new.png)</kbd>
 
 3.  Enter your TechPass password.

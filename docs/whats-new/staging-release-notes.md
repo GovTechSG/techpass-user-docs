@@ -2,6 +2,24 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 18 January 2023
+
+Frontend version: 1.0.0-20230117.1132 | Backend version: 1.44.0-230117.1146
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Public officers mobile phone number will now either conform to TechPass format or will be blank.</summary>
+
+When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
+
+If the phone number is valid, but the format does not conform to the acceptable format, TechPass autocorrects it before displaying it in the User Profile.  However, if the mobile phone number is invalid, TechPass does not display the invalid phone number.
+
+![mobile phone number in profile](../assets/images/whats-new/invalid-mobile-phone-number.png)
+
+</details>
+
+
 ## Staging release 21 December 2022
 
 Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019

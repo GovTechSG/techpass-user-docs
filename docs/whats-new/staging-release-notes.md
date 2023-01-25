@@ -4,7 +4,9 @@
 
 ## Staging release 18 January 2023
 
-Frontend version: 1.0.0-20230117.1132 | Backend version: 1.44.0-230117.1146
+Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
+
+> :memo: Due to a hotfix we applied, the Frontend version number is changed from ```1.0.0-20230117.1132``` to ```1.0.0-20230119.0523```.
 
 **Fixes** 
 

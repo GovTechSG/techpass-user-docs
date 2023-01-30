@@ -1,13 +1,13 @@
 # Onboard to TechPass as public officers
 
 >**Note**<br>
-> If you are a public officer using SE-GSIB device, create a [service request](https://go.gov.sg/techpass-sr) requesting for the required provisioning.
+> If you are a public officer using **SE-GSIB** device, create a [service request](https://go.gov.sg/techpass-sr) requesting for the required provisioning.
 
 This article guides you to do the following:
-- [Sign up for TechPass and SEED](#step-1-sign-up-for-techpass-and-seed).
+- [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seed).
 - [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
 - [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
-- [Onboard to TechPass account](#step-4-onboard-to-techpass).
+- [Onboard TechPass account](#step-4-onboard-to-techpass).
 
 You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
@@ -80,38 +80,56 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 <details>
   <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
 
-  > **Important**:<br>
+  > **Note**:<br>
   > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
-    >- Access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
+    >- Securely access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
     >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
 
 **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
-> **Note**: To sign in, use your organisational email address and email password.
+  2. If prompted to sign in:
+  
+      a. Use your organisational email address and email password.
 
-  2. Select **Mobile app** as the preferred authenticating method, and we strongly recommend you choose **Receive notifications for verification**.
+      b. Click **Next** to provide additional information for your account.
 
-  3. Click **Set up**.
+  3. On the **Additional security verification** page, choose **Mobile app** from the dropdown list.
+  
+  4. Choose your preferred authenticating method, and click **Set up**. 
+
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
-  4. Follow the on-screen instructions on the **Configure mobile app** page.
-  <kbd>![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code-updated.png)</kbd>
-  When you scan the QR code on your computer screen, your WOG account gets listed on the authenticator app, and your activation status is confirmed when you click **Next**.
-  5. In the **Additional security verification** page, click **Next**.
-  <kbd>![after-scan](assets/images/security-verification-for-wog/additional-security-verification-next.png)</kbd>
 
-  A number is shown on your computer screen.
+  >**Note**: Do not close this page open on your computer.
 
-   <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
+  5. Follow the on-screen instructions on the **Configure mobile app** page.
+  <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>
 
-  6. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
-  7. Click **Done**.
-  <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
-  8. Your **Profile** page is displayed.
-  <kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup.png)</kbd>
-  <kbd>![profile-page](assets/images/security-verification-for-wog/completion-of-setup-updated.png)</kbd>
+  You are now redirected to Step 1 of **Additional security verification**.
+  
+  6. Confirm your Authenticator app is configured before clicking **Next**.
 
+  <kbd>![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)</kbd>
+
+  You are now directed to Step 2 of **Additional security verification**. A notification is sent to your Authenticator app.
+  
+  8. Approve the notification on your Authenticator app to confirm that you are reachable on this mobile phone.
+
+ <kbd>![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)</kbd>
+
+ When the notification is successfully approved, you will see the following page on your computer.
+
+ <kbd>![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)</kbd>
+
+ 7. Click **Done**.
+
+ <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
+  
+ 8. The **Profile** page is displays your WOG profile under **Organizations**.
+
+  <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
+  
   </details>
 
 

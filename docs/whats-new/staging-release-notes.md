@@ -18,7 +18,7 @@ TechPass sends emails to you for the following account-related activities so tha
 - If your SEED licence has been revoked.
 
 
-The reason why a TechPass account may get terminated, disabled, deleted, and so on is different. To make it easy for you to understand and take the appropriate action, we are now including the link to the [Accounts FAQ](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/account) page in these account-related emails sent to you. 
+To make it easy for you to understand the reason and take the appropriate action, we are now including the link to the [Accounts FAQ](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/account) page in these account-related emails sent to you. 
 
 </details>
 

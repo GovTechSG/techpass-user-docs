@@ -10,7 +10,10 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-No ongoing incidents. All services are up and running :relaxed:!
+| Date | 08 February 2023 |
+| ------ | ------- |
+| **Issue summary** | There is an ongoing issue with Azure cloud service in Southeast Asia. The issue started around 04:19 SGT on 8 February 2023.<br><br>**Impact**: Users may experience intermittent issues with the following:<br>- Accessing SGTS services using TechPass<br>- Provisioning of TechPass account for users who self-sign up<br>- Onboarding device to SEED. <br><br>For more information, see [Azure status](https://status.azure.com/en-gb/status).<br><br>*Posted on: 08 February 2023, 12:50 SGT*  |
+
 
 <!--## Previous incidents
 -->

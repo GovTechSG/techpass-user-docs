@@ -20,6 +20,7 @@ TechPass sends emails to you for the following account-related activities so tha
 
 To make it easy for you to understand the reason and take the appropriate action, we are now including the link to the [Accounts FAQ](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/account) page in these account-related emails sent to you. 
 
+</details>
 
 ## Production release 25 January 2023
 

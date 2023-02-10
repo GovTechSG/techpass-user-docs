@@ -10,7 +10,7 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-None
+No ongoing incidents.
 
 
 ## Previous incidents

@@ -2,6 +2,28 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 15 February 2023
+
+Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.4-230209.1434
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">API key limit is increased to four.</summary>
+
+The API key limit was set to two. It is now set to 4 for all namespaces to allow rotation of keys.
+
+</details>
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Special characters are reinstated when the webhook request is triggered..</summary>
+
+The middleware removed special characters, for example, '<' and '>', to safeguard against potential malicious code. The special characters are reinstated when the webhook request is triggered.
+
+</details>
+
 ## Staging release 01 February 2023
 
 Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657

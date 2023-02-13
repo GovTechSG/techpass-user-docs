@@ -18,7 +18,7 @@ The API key limit was set to two. It is now set to 4 for all namespaces to allow
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Special characters are reinstated when the webhook request is triggered..</summary>
+<summary style="font-size:20px;font-weight:bold">Special characters are reinstated when the webhook request is triggered.</summary>
 
 The middleware removed special characters, for example, '<' and '>', to safeguard against potential malicious code. The special characters are reinstated when the webhook request is triggered.
 

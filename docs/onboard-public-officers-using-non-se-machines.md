@@ -101,7 +101,7 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
 
-  >**Note**: Do not close this page open on your computer.
+  >**Note**: Do not close this page on your computer.
 
   5. Follow the on-screen instructions on the **Configure mobile app** page.
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>

@@ -2,6 +2,30 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 15 February 2023
+
+Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.6-230213.1101
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">API key limit is increased to four for all namespaces</summary>
+
+The API key limit was set to two. It is now set to four to allow rotation of keys for emergency purpose.
+
+> **Note:** This is specifically for the GCC team. No action is required for other users.
+
+</details>
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed webhook checksum</summary>
+
+We heard from you that checking against our webhook checksum was incorrect and we have fixed it now :handshake:. 
+
+</details>
+
 ## Staging release 01 February 2023
 
 Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657
@@ -9,7 +33,7 @@ Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">For more clarity, account-related emails now have the link to the Accounts FAQ.</summary>
+<summary style="font-size:20px;font-weight:bold">For more clarity, account-related emails now have the link to the Accounts FAQ</summary>
 
 TechPass sends emails to you for the following account-related activities so that you can act appropriately:
 
@@ -31,7 +55,7 @@ Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Public officers mobile phone number will now either conform to TechPass format or will be blank.</summary>
+<summary style="font-size:20px;font-weight:bold">Public officers mobile phone number will now either conform to TechPass format or will be blank</summary>
 
 When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
 

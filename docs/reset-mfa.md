@@ -13,7 +13,7 @@ Users whose TechPass domain is not ```techpass.gov.sg``` will have two profiles(
 
 - [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of their TechPass profile.
 
-- When the request is processed successfully, the support team sends an email with instructions on how to reset MFA for the TechPass account.
+- When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
 
 >**Note**
 >

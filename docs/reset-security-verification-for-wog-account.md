@@ -11,7 +11,7 @@ This article guides you how to reset your WOG(SGGovt M365) MFA.
 >
 >- You must [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.
 >
->- When the request is processed successfully, the support team sends an email with instructions on how to reset MFA for your TechPass account.
+>- When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
 >
 >- If you have changed your mobile phone, use your new device to complete these steps. 
 

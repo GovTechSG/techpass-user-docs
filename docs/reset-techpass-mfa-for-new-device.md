@@ -8,7 +8,7 @@ This article guides how to reset TechPass MFA.
 
 >**Important**
 >- If your TechPass domain is **not** ```techpass.gov.sg```:
-> 1. [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.When the request is processed successfully, the support team sends an email with instructions on how to reset MFA for your TechPass account.
+> 1. [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
 > 2. Complete the steps provided in this email.  
 
 

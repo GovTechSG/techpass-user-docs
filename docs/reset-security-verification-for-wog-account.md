@@ -1,6 +1,6 @@
 # Reset MFA for WOG account
 
-This article guides you how to reset your WOG MFA.
+This article guides you how to reset your WOG(SGGovt M365) MFA.
 
 **Audience**
 
@@ -8,7 +8,12 @@ This article guides you how to reset your WOG MFA.
 - If you have a TechPass account and its domain is not ```techpass.gov.sg```.
 
 >**Note**:
-> The above-mentioned users must [Create service request](https://go.gov.sg/techpass-sr) to **reset TechPass MFA**. 
+>
+>- You must [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.
+>
+>- When the request is processed successfully, the support team sends an email with instructions on how to reset MFA for your TechPass account.
+>
+>- If you have changed your mobile phone, use your new device to complete these steps. 
 
 **Preqrequisites** 
 

@@ -22,10 +22,6 @@ For more information about these services, see [SG Government Tech Stack Collect
 
 <!--
 
-I have given short intro for each service, removed the individual links as we want to retain users on this page but given a link to dev portal at the end of the list.
-
-Similarly, the key concepts is already on the Tenant guide. if the TechPass users need to know, the key concepts, pls let me know.
-
 - [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)
 - [DocPortal](https://docs.developer.tech.gov.sg/)
 - GCC Common Services

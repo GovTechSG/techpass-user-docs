@@ -12,7 +12,7 @@ No upcoming scheduled maintenance activity.
 
 | Date | 01 March 2023 |
 | ------ | ------- |
-| **Issue summary** | **Identified**<br>We have identified that Microsoft AAD is experiencing an authentication issue causing the intermittent log in issues for TechPass users. For more information, see [Azure status](https://azure.status.microsoft/en-gb/status).<br><br>*Updated on: 01 March 2023, 17:20 SGT*<br><br>**Investigating**<br>We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Issue start time:** 01 March 14:30 SGT<br><br>**Workaround**<br>You may try clearing your internet browser cache or logging in using an incognito browser.<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 01 March 2023, 19:00 SGT*<br><br>**Investigating**<br>We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Issue start time:** 01 March 14:30 SGT<br><br>**Workaround**<br>You may try clearing your internet browser cache or logging in using an incognito browser.<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|
 
 
 ## Previous incidents

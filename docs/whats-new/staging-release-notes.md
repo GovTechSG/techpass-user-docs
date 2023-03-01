@@ -4,7 +4,7 @@
 
 ## Staging release 1 March 2023
 
-Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.0-230224.0351
+Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
 
 **Changes** 
 

@@ -12,7 +12,7 @@ No upcoming scheduled maintenance activity.
 
 | Date | 01 March 2023 |
 | ------ | ------- |
-| **Issue summary** | We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Issue start time:** 01 March 14:30 SGT<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|
+| **Issue summary** | We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Issue start time:** 01 March 14:30 SGT<br><br>**Workaround**<br>You may try clearing your internet browser cache or logging in using an incognito browser.<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|
 
 
 ## Previous incidents

@@ -3,7 +3,7 @@
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in with TechPass](log-in-with-techpass)
-  - [Log in public officer](log-in-as-po)
+  - [Log in as public officer](log-in-as-po)
   - [Log in as vendor](log-in-as-vendor)
   - [Edit TechPass profile](edit-profile)
 - [Request for SEED provisioning with an active TechPass ID](request-for-seed-provisioning)

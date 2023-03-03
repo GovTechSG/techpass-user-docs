@@ -5,9 +5,9 @@ There are two types of TechPass accounts and the account type provisioned depend
 - Public officer account
 - Vendor account
 
-|   | Belongs to the domain | Format  | TechPass Account |
+|   | Belongs to the domain | Example  | TechPass Account | TechPass ID
 | ------------- |:-------------:| :-------------:| :-------------:|
-| **Organisational email address | - mindef.gov.sg | *john_doe<span>@</span>mindef*gov.sg** | Vendor account |
+| **Organisational email address** | - mindef.gov.sg | *john_doe<span>@</span>mindef*gov.sg** | Vendor account | *john_doe@techpass.gov.sg* |
 
 ## Public officer account
 

@@ -5,8 +5,10 @@ There are two types of TechPass accounts:
 - [Public officer accounts](#public-officer-accounts)
 - [Vendor accounts](#vendor-accounts)
 
+The account type provisioned to you depend on your organisational email address. Refer to [know your TechPass account type](#know-your-techpass-account-type) to identify your account type.
 
-## Know your account type
+
+## Know your TechPass account type
 
 !> **Important information**<br><br>- If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- If your organisational email address has **_from.tp**, you will be provisioned a **public officer account**.
 
@@ -20,9 +22,6 @@ Public officers who **sign up**<sup><b>1</b></sup> or **get invited to TechPass*
 ### Vendor accounts
 
 Contractors, vendors, temp staff, interns who **sign up** <sup><b>1</b></sup> or **get invited to TechPass**<sup><b>2</b></sup> are provisioned with a **vendor account**.
-
-
-
 
 
  | Footnote #  | Description |

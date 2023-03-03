@@ -2,8 +2,9 @@
 
 There are two types of TechPass accounts and the account type provisioned to you depend on your organisational email address. 
 
+For more information, see [What type of TechPass account will be provisioned?](#what-type-of-techpass-account-will-be-provisioned).
 
-!> For more information, see [What type of TechPass account will be provisioned to me?](#what-type-of-techpass-account-will-be-provisioned-to-me).
+
 
 <details><summary style="font-size:20px;font-weight:bold"> Public officer accounts</summary>
 
@@ -23,9 +24,9 @@ Contractors, vendors, temp staff, interns who **sign up** <sup><b>1</b></sup> or
 |Get invited| You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED. For this, you need to provide your organisational email address.<br><br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning.<br><br>If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a **non-SE GSIB** device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr). |
 
 
-## What type of TechPass account will be provisioned to me?
+## What type of TechPass account will be provisioned?
 
-!> **Important information**<br><br>- If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- All other email addresses will be provisioned a **public officer account**.
+!> **Important information**<br><br>:small_orange_diamond: If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- All other email addresses will be provisioned a **public officer account**.
 
 
 

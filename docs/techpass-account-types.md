@@ -13,7 +13,7 @@ There are two types of TechPass accounts:
 
 ### Public officer accounts
 
-Public officers who [**sign up**](#sign-up-for-techpass-and-seed) or **get invited to TechPass**<sup><b>[2](#2)</b></sup> are provisioned with a **public officer account**. 
+Public officers who **sign up**<sup><b>1</b></sup> or **get invited to TechPass**<sup><b>2</b></sup> are provisioned with a **public officer account**. 
 
 
 ### Vendor accounts
@@ -24,11 +24,9 @@ Contractors, vendors, temp staff, interns who sign up<sup><b>1</b></sup> or get 
 
 
 
- ### Sign up for TechPass and SEED
- 
- You can sign up for TechPass and request for SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg). Please check with your reporting officer in your organisation, agency or the sponsoring agency to know if you have non-SE GSIB device and also if you need TechPass and SEED provisioning.
+ 1 - You can sign up for TechPass and request for SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg). Please check with your reporting officer in your organisation, agency or the sponsoring agency to know if you have non-SE GSIB device and also if you need TechPass and SEED provisioning.
 
-#### 2 - You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED (optional). For this, you need to provide your organisational email address. <br><br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning. <br><br>If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a non-SE GSIB device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr).
+2 - You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED (optional). For this, you need to provide your organisational email address. <br><br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning. <br><br>If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a non-SE GSIB device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr).
 
 
 

@@ -1,6 +1,9 @@
 # TechPass account types
 
-There are two types of TechPass accounts and the account type provisioned to you depend on your organisational email address. For more information, see [What type of TechPass account will be provisioned to me?](#what-type-of-techpass-account-will-be-provisioned-to-me).
+There are two types of TechPass accounts and the account type provisioned to you depend on your organisational email address. 
+
+
+!> For more information, see [What type of TechPass account will be provisioned to me?](#what-type-of-techpass-account-will-be-provisioned-to-me).
 
 <details><summary style="font-size:20px;font-weight:bold"> Public officer accounts</summary>
 
@@ -14,7 +17,7 @@ Contractors, vendors, temp staff, interns who **sign up** <sup><b>1</b></sup> or
 
 </details>
 
-| How to get TechPass account  | Description |
+| How to get TechPass account?  | Description |
 | ------------- |:-------------:|
 | Sign up   | You can sign up for TechPass and SEED if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg).<br><br> Please check with your reporting officer in your organisation, agency or the sponsoring agency to know:<br><br>-  If you have non-SE GSIB device?<br>- If you need TechPass and SEED provisioning?    |
 |Get invited| You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED. For this, you need to provide your organisational email address.<br><br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning.<br><br>If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a **non-SE GSIB** device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr). |

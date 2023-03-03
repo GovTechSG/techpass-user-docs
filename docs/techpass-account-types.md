@@ -1,20 +1,36 @@
 # TechPass account types
 
-There are two types of TechPass accounts and the account type provisioned to you depend on your organisational email address. 
+There are two types of TechPass accounts and the account type provisioned depends on your organisational email address. 
 
-For more information, see [What type of TechPass account will be provisioned?](#what-type-of-techpass-account-will-be-provisioned).
+- Public officer account
+- Vendor account
+
+## Public officer account
+
+Generally, public officers whose organisational email address format is *\<your_name\>@\<acronym for your agency\>.gov.sg* are provisioned with a **public officer account** when they **sign up** or **get invited to TechPass**. 
+
+For example: 
+- *john_doe<span>@</span>tech.gov.sg*
+- *john_doe<span>@</span>hdb.gov.sg*
+
+However, you will be provisioned a **vendor account** if your organisational email address belongs to any of the following domains: <br>:large_blue_diamond: dsta.gov.sg<br>:large_blue_diamond: dsta-wog.gov.sg<br>:large_blue_diamond: mindef.gov.sg<br>:large_blue_diamond: defence.gov.sg<br>:large_blue_diamond: gebiz.gov.sg<br>:large_blue_diamond: mindef.gov.sg 
+
+For example: 
+
+*john_doe<span>@</span>dsta.gov.sg*
+
+If your organisational email address has a **_from**, you will be provided a **vendor account**.
+
+For example:
+
+*john_doe_from.NCS<span>@</span>hdb.gov.sg*
+*john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg*
 
 
-
-<details><summary style="font-size:20px;font-weight:bold"> Public officer accounts</summary>
-
-Public officers who **sign up**<sup><b>1</b></sup> or **get invited to TechPass**<sup><b>2</b></sup> are provisioned with a **public officer account**.
-
-</details>
-
-<details><summary style="font-size:20px;font-weight:bold"> Vendor accounts</summary>
 
 Contractors, vendors, temp staff, interns who **sign up** <sup><b>1</b></sup> or **get invited to TechPass**<sup><b>2</b></sup> are provisioned with a **vendor account**.
+
+If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>:large_blue_diamond: dsta.gov.sg<br>:large_blue_diamond: dsta-wog.gov.sg<br>:large_blue_diamond: mindef.gov.sg<br>:large_blue_diamond: defence.gov.sg<br>:large_blue_diamond: gebiz.gov.sg<br>:large_blue_diamond: mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*
 
 </details>
 
@@ -26,7 +42,7 @@ Contractors, vendors, temp staff, interns who **sign up** <sup><b>1</b></sup> or
 
 ## What type of TechPass account will be provisioned?
 
-!> **Important information**<br><br>:small_orange_diamond: If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- All other email addresses will be provisioned a **public officer account**.
+!> **Important information**<br><br>:small_orange_diamond: If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>:large_blue_diamond: dsta.gov.sg<br>:large_blue_diamond: dsta-wog.gov.sg<br>:large_blue_diamond: mindef.gov.sg<br>:large_blue_diamond: defence.gov.sg<br>:large_blue_diamond: gebiz.gov.sg<br>:large_blue_diamond: mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- All other email addresses will be provisioned a **public officer account**.
 
 
 

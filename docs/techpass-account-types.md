@@ -2,8 +2,8 @@
 
 There are two types of TechPass accounts:
 
-- Public officer accounts
-- Vendor accounts
+- [Public officer accounts](#public-officer-accounts)
+- [Vendor accounts](#vendor-accounts)
 
 
 ## Know your account type

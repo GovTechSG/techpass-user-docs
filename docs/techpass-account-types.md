@@ -10,7 +10,7 @@ The account type provisioned to you depend on your organisational email address.
 
 ## Know your TechPass account type
 
-!> **Important information**<br><br>- If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- If your organisational email address has **_from.tp**, you will be provisioned a **public officer account**.
+!> **Important information**<br><br>- If your organisational email address belongs to any of the following domains, you will be provisioned a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br><br>- If your organisational email address has **_from**, you will be provisioned a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*<br><br>- All other email addresses will be provisioned a **public officer account**.
 
 
 

@@ -26,7 +26,7 @@ Contractors, vendors, temp staff, interns who sign up<sup><b>1</b></sup> or get 
 
  | Footnote #  | Description |
 | ------------- |:-------------:|
-| 1   | You can sign up for TechPass and SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg).<br> Please check with your reporting officer in your organisation, agency or the sponsoring agency to know:<br>-  If you have non-SE GSIB device?<br>- If you need TechPass and SEED provisioning?    |
+| 1   | You can sign up for TechPass and SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg).<br><br> Please check with your reporting officer in your organisation, agency or the sponsoring agency to know:<br><br>-  If you have non-SE GSIB device?<br>- If you need TechPass and SEED provisioning?    |
 
 
  1 - You can sign up for TechPass and SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg).<br> Please check with your reporting officer in your organisation, agency or the sponsoring agency to know:<br>-  If you have non-SE GSIB device?<br>- If you need TechPass and SEED provisioning?

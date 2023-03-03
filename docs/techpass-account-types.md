@@ -28,7 +28,7 @@ Contractors, vendors, temp staff, interns who sign up<sup><b>1</b></sup> or get 
  
  You can sign up for TechPass and request for SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg). Please check with your reporting officer in your organisation, agency or the sponsoring agency to know if you have non-SE GSIB device and also if you need TechPass and SEED provisioning.
 
-#### 2 - You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED (optional). For this, you need to provide your organisational email address. Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning. If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a non-SE GSIB device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr).
+#### 2 - You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED (optional). For this, you need to provide your organisational email address. <br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning. If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a non-SE GSIB device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr).
 
 
 

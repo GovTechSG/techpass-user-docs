@@ -8,7 +8,7 @@ There are two types of TechPass accounts:
 
 ## Know your account type
 
-!> **Important information**<br><br>If the public officers' organisational email address belong to any of the following domains, they will be provisioned with a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>Additionally, if you use the email id which has **_from** but not **_from.tp** to sign up or request for TechPass and SEED, you will be provided a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*
+!> **Important information**<br><br>If the public officers' organisational email address belongs to any of the following domains, they will be provisioned with a **vendor account**.<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- dsta-wog.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- defence.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- gebiz.gov.sg<br>&nbsp;&nbsp;&nbsp;&nbsp;- mindef.gov.sg<br>Additionally, if you use the email id which has **_from** but not **_from.tp** to sign up or request for TechPass and SEED, you will be provided a **vendor account**. For example: *john_doe_from.ncs<span>@</span>tech.gov.sg*
 
 
 ### Public officer accounts

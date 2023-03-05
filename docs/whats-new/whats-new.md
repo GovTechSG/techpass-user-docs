@@ -1,8 +1,12 @@
 # What's new in TechPass?
 
-This page summarises the new features, improvements and bug fixes completed in each release of TechPass.
+This page summarises the following for each release:
 
-## Latest changes
+- new features
+- improvements
+- bug fixes 
+- deprecated features
+
 
 **Production release notes**
 - [Production release 22 February 2023](whats-new/production-release-notes?id=production-release-22-february-2023)

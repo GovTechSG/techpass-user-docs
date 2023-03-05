@@ -4,7 +4,8 @@
 - [TechPass account types](techpass-account-types)
 **What's new**
 - [Release notes](/whats-new/whats-new.md)
-**Get a Public officer account**
+**Public officer account**
+- [Get a public officer account](get-a-public-officer-techpass-account)
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)
 - [Edit TechPass profile](edit-profile)

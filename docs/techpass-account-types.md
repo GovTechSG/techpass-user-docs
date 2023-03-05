@@ -5,9 +5,13 @@ There are two types of TechPass accounts.
 - Public officer account
 - Vendor account
 
-TechPass account provisioned depends on your organisational email address. Refer to the below table to know what type of TechPass account is provisioned depending on your email address.  
+TechPass account provisioned depends on the following of your organisational email address:
 
-If your organisational email address belongs to / format is,
+- Domain name
+- Email address format 
+
+Refer to the below table to know what type of TechPass account is provisioned to you based on these two factors:  
+
 
 | Domain | Format | Example | Your account type | TechPass ID format |
 |:-------------| :-------------:| :-------------:|-------------| -------------:|

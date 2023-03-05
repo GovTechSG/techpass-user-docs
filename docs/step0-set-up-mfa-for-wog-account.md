@@ -12,9 +12,12 @@
 
   2. If prompted, log in using your organisational email address and password.
 
-  3. Click **Next**. 
+  3. Click **Next**. You are directed to the **Additional security verification** page to complete the following:
 
-  4. On the **Additional security verification** page, choose **Mobile app** from the dropdown list.
+  - Configure mobile app on your mobile phone
+  - Ensure you are reacheable via the mobile app on this phone
+
+  4. To configure your mobile app, on the **Additional security verification** page, choose **Mobile app** from the dropdown list.
   
   5. Choose your preferred authenticating method, and click **Set up**. 
 
@@ -26,15 +29,17 @@
 
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>
 
-  When you have completed the on-screen instructions, you are redirected to the **Additional security verification** page.
+  When you successfully complete the on-screen instructions, you are redirected to the **Additional security verification** page.
   
-  7. Ensure you see the text **Mobile app has been configured** on this page before clicking **Next**.
+  7. Ensure you see the text **Mobile app has been configured** on this page.
+  
+  8. Click **Next**.
 
   <kbd>![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)</kbd>
 
-  You are now directed to Step 2 of **Additional security verification**. A notification is sent to your Authenticator app.
+  To ensure you are reacheable via your mobile device, a notification is sent to your Authenticator app.
   
-  8. Approve the notification on your Authenticator app to confirm that you are reachable on this mobile phone.
+  8. Approve the notification on your Authenticator app.
 
  <kbd>![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)</kbd>
 
@@ -46,7 +51,7 @@
 
  <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
   
- 10. The **Profile** page is displays your WOG profile under **Organizations**.
+ 10. The **Profile** page displays your WOG profile under **Organizations**.
 
   <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
   

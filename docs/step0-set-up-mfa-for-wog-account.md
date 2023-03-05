@@ -20,13 +20,13 @@
 
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
 
-  !> Do not close this page on your computer.
-
   6. Follow the on-screen instructions on the **Configure mobile app** page.
+
+    !> Do not close this page on your computer.
 
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>
 
-  You are now redirected to Step 1 of **Additional security verification**.
+  When you have completed the on-screen instructions, you are redirected to the **Additional security verification** page.
   
   7. Confirm your Authenticator app is configured before clicking **Next**.
 

@@ -1,7 +1,8 @@
 **Overview**
-- [Overview](home)
+- [About TechPass](home)
+- [TechPass portal](techpass-portal)
 **What's new**
-- [What's new](/whats-new/whats-new.md)
+- [Release notes](/whats-new/whats-new.md)
 **Getting started**
 - [TechPass account types](techpass-account-types)
 **TechPass for public officers**

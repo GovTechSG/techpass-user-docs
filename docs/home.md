@@ -1,4 +1,4 @@
-# Overview of TechPass
+# About TechPass
 
 TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following [Singapore Government Technology Stack (SGTS) services](#sgts-services-integrated-with-techpass).
 
@@ -42,15 +42,4 @@ and [Security Assertion Markup Language(SAML) 2.0](http://docs.oasis-open.org/se
 
 ?> While OAuth 2.0 SSO setup is available on the [TechPass portal](https://portal.techpass.gov.sg), SAML service is available only by request. If you need SAML support for your product and services, submit a [service request](https://go.gov.sg/techpass-sr). We will get back to you within three business days. --> 
 
-## TechPass portal
 
-Users can access [TechPass portal](https://portal.techpass.gov.sg) only from a non-SE GSIB devices.  This portal allows SGTS tenants to set up SSO for their SGTS products and manage IAM for their users.
-
- Refer to [TechPass Tenant Guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/) to learn more about setting up SSO and manage users.
-
-?> You need to log in with your TechPass account to view this user guide.
-
-**Related topics**
-
-- [Onboard public officer to TechPass](onboard-public-officers-using-non-se-machines)
-- [Onboard vendor to TechPass](onboard-vendors-to-techpass)

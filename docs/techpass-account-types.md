@@ -13,8 +13,8 @@ TechPass account provisioned to you depends on the following of your organisatio
 Refer to the below table to know more:  
 
 
-| Domain | Email format | TechPass account type | TechPass ID format |
-|:-------------| :-------------:| :-------------:|-------------| -------------:|
+| Domain | Email format | TechPass  type | TechPass ID format |
+|:-------------| :-------------:| :-------------:|-------------:| 
 | - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg  | *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br> For example:<br>- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | Any domain | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg*<br><br>For example:<br>- *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | Other domains<sup>1</sup>| *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br>For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer | Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |

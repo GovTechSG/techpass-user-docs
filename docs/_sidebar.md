@@ -1,10 +1,9 @@
 **Overview**
 - [About TechPass](home)
 - [TechPass portal](techpass-portal)
+- [TechPass account types](techpass-account-types)
 **What's new**
 - [Release notes](/whats-new/whats-new.md)
-**Getting started**
-- [TechPass account types](techpass-account-types)
 **TechPass for public officers**
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)

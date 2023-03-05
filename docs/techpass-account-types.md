@@ -18,6 +18,11 @@ Refer to the below table to know what type of TechPass account would be assigned
 | - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg | *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br> For example:<br>- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | Any domain | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg*<br><br>For example:<br>- *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | All domains except for the ones stated in the first row of this table.| *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br>For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer account| Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
+
+**Related topics**
+
+- [Onboard public officer to TechPass](onboard-public-officers-using-non-se-machines)
+- [Onboard vendor to TechPass](onboard-vendors-to-techpass)
  
 
 <!--

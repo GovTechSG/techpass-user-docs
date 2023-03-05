@@ -1,5 +1,6 @@
 **Overview**
 - [About TechPass](home)
+- [Audience](audience)
 - [TechPass portal](techpass-portal)
 - [TechPass account types](techpass-account-types)
 **What's new**

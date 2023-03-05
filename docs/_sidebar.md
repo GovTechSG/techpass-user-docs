@@ -8,18 +8,21 @@
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)
 - [Edit TechPass profile](edit-profile)
+- [Reset password](reset-password)
 - [Request for SEED](request-for-seed-provisioning)
 - [Register Intune device ID](register-intune-device-id)
 **TechPass for vendors**
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in as vendor](log-in-as-vendor)
 - [Edit TechPass profile](edit-profile)
-**Reset MFA**
-  - [WOG account](reset-security-verification-for-wog-account)
-  - [TechPass account](reset-techpass-mfa-for-new-device)  
 - [Reset password](reset-password)
+**Reset MFA**
+  - [Reset MFA for WOG account](reset-security-verification-for-wog-account)
+  - [Reset MFA for TechPass account](reset-techpass-mfa-for-new-device)  
+**Support**
 - [TechPass status](techpass-status)
-- [Support](/support/overview.md)
+- [FAQs](/support/overview.md)
+**Additional resources**
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)
 

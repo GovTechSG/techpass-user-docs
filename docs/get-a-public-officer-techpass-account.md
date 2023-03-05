@@ -1,6 +1,6 @@
 # Public officer account
 
-You can sign up or get invited to get a public officer TechPass account.
+You can sign up or get invited to get a public officer TechPass account if you are eligible.
 
 **Important information**
 

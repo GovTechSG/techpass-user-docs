@@ -14,6 +14,14 @@ For more information about these services, see [SG Government Tech Stack Collect
 
 ## Audience
 
+TechPass user guide is intended for anyone who need to access Singapore Government Technology Stack products and services. 
+
+- Developers 
+- Testers
+- Project Managers
+- Project Admins
+
+
 <!--
 
 - [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)

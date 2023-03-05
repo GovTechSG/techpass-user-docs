@@ -12,15 +12,6 @@ TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solu
 
 For more information about these services, see [SG Government Tech Stack Collection](https://www.developer.tech.gov.sg/products/collections/singapore-government-tech-stack/)
 
-## Audience
-
-TechPass user guide is intended for anyone who need to access Singapore Government Technology Stack products and services. 
-
-- Developers 
-- Testers
-- Project Managers
-- Project Admins
-
 
 <!--
 

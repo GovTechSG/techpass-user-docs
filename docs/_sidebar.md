@@ -3,8 +3,6 @@
 - [TechPass portal](techpass-portal)
 - [TechPass account types](techpass-account-types)
 **What's new**
-- [Production](production-release-notes)
-- [Staging](staging-release-notes)
 - [Release notes](/whats-new/whats-new.md)
 **TechPass for public officers**
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)

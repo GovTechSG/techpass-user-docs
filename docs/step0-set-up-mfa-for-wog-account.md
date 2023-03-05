@@ -28,7 +28,7 @@
 
   When you have completed the on-screen instructions, you are redirected to the **Additional security verification** page.
   
-  7. Confirm your Authenticator app is configured before clicking **Next**.
+  7. Ensure you see the text **Mobile app has been configured** on this page before clicking **Next**.
 
   <kbd>![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)</kbd>
 

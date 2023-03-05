@@ -10,7 +10,7 @@ TechPass account provisioned to you depends on the following attributes of your 
 - Domain name
 - Email address format 
 
-Refer to the below table to know more.  
+Refer to the below table to know what type of TechPass account is assigned to you.  
 
 
 | Domain | Email format | TechPass  type | TechPass ID format |

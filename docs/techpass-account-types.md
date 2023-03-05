@@ -13,7 +13,7 @@ TechPass account provisioned to you depends on the following attributes of your 
 Refer to the below table to know what type of TechPass account is assigned to you.  
 
 
-| Domain | Email format | TechPass  type | TechPass ID format |
+| <div style="width:290px">Domain</div> | Email format | TechPass  type | TechPass ID format |
 |-------------| :-------------:| :-------------:|-------------:| 
 | - defence.gov.sg<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg | *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br> For example:<br>- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | Any domain | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg*<br><br>For example:<br>- *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |

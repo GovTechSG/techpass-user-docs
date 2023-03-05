@@ -6,6 +6,7 @@
 - [Release notes](/whats-new/whats-new.md)
 **Public officer account**
 - [Get a public officer account](get-a-public-officer-techpass-account)
+- [Sign up for TechPass](./snippets/snippet-signup-for-techpass.md ':include')
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)
 - [Edit TechPass profile](edit-profile)

@@ -21,8 +21,8 @@ Refer to the below table to know what type of TechPass account would be assigned
 
 **Related topics**
 
-- [Onboard public officer to TechPass](onboard-public-officers-using-non-se-machines)
-- [Onboard vendor to TechPass](onboard-vendors-to-techpass)
+- [Get public officer account](get-a-public-officer-techpass-account)
+- [Get vendor account](get-vendor-account)
  
 
 <!--

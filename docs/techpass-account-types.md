@@ -16,8 +16,8 @@ Refer to the below table to know more:
 | Domain | Format | Example | Your account type | TechPass ID format |
 |:-------------| :-------------:| :-------------:|-------------| -------------:|
 | - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg<br><br> For example:<br>- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg*  | Not applicable |- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
-| Not applicable | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg* | - *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
-| Other domains<sup>1</sup>| *\<your_name\>@\<acronym of the agency\>.gov.sg* | - *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer | Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
+| Not applicable | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg*<br><br>For example:<br>- *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | - *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
+| Other domains<sup>1</sup><br><br>For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg*| *\<your_name\>@\<acronym of the agency\>.gov.sg* | - *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer | Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
  
 
 

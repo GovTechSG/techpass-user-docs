@@ -1,6 +1,6 @@
 # About TechPass
 
-TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following [Singapore Government Technology Stack (SGTS) services](#sgts-services-integrated-with-techpass).
+TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following **Singapore Government Technology Stack (SGTS)** services:
 
 - Container Stack(CStack): CStack is a cloud-based container development and hosting platform.
 - Docs portal: Your hub for all the technical documentation such as developer guides, API references and tutorials.

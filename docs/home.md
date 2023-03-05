@@ -2,15 +2,17 @@
 
 TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following **Singapore Government Technology Stack (SGTS)** services:
 
-- Container Stack(CStack): CStack is a cloud-based container development and hosting platform.
-- Docs portal: Your hub for all the technical documentation such as developer guides, API references and tutorials.
-- GCC Common Services: 
-- GCC 2.0: A "wrapper" platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by cloud service providers.
-- SEED: SEED is the Singapore Government's implementation of IAM and zero trust platform to protect Government engineering resources from unauthorised access.
-- SHIP-HATS: The Continuous Integration/Continuous Delivery CI/CD component in SGTS with security and governance guardrails that enables developers to plan, build, test and deploy code to production.
-- TechBiz: One-stop portal to subscribe to SGTS services.
+- **Container Stack(CStack)**: CStack is a cloud-based container development and hosting platform.
+- **Docs portal**: Your hub for all the technical documentation such as developer guides, API references and tutorials.
+- **GCC Common Services: 
+- **GCC 2.0**: A "wrapper" platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by cloud service providers.
+- **SEED**: SEED is the Singapore Government's implementation of IAM and zero trust platform to protect Government engineering resources from unauthorised access.
+- **SHIP-HATS**: The Continuous Integration/Continuous Delivery CI/CD component in SGTS with security and governance guardrails that enables developers to plan, build, test and deploy code to production.
+- **TechBiz**: One-stop portal to subscribe to SGTS services.
 
 For more information about these services, see [SG Government Tech Stack Collection](https://www.developer.tech.gov.sg/products/collections/singapore-government-tech-stack/)
+
+## Audience
 
 <!--
 

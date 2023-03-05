@@ -4,14 +4,14 @@
 - [TechPass account types](techpass-account-types)
 **What's new**
 - [Release notes](/whats-new/whats-new.md)
-**TechPass for public officers**
+**Get a Public officer account**
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)
 - [Edit TechPass profile](edit-profile)
 - [Reset password](reset-password)
 - [Request for SEED](request-for-seed-provisioning)
 - [Register Intune device ID](register-intune-device-id)
-**TechPass for vendors**
+**Get a vendor account**
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in as vendor](log-in-as-vendor)
 - [Edit TechPass profile](edit-profile)

@@ -20,7 +20,7 @@
 
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
 
-  ?> Do not close this page on your computer.
+  !> Do not close this page on your computer.
 
   6. Follow the on-screen instructions on the **Configure mobile app** page.
 

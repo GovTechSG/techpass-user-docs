@@ -14,9 +14,7 @@
 - [Onboard vendor](onboard-vendors-to-techpass)
 - [Log in as vendor](log-in-as-vendor)
 - [Edit TechPass profile](edit-profile)
-
-
-- [Reset MFA](reset-mfa)
+**Reset MFA**
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  
 - [Reset password](reset-password)

@@ -5,14 +5,25 @@ There are two types of TechPass accounts.
 - Public officer account
 - Vendor account
 
-The account type provisioned depends on your organisational email address. If your organisational email address:
+TechPass account provisioned depends on your organisational email address. Refer to the below table to know what type of TechPass account is provisioned depending on your email address.  
 
-| Belongs to the domain | example format | TechPass account | TechPass ID
-|:-------------:| :-------------:| :-------------:| :-------------:|
-| - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg  | *john_doe<span>@</span>dsta.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
-| any domain | - *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
+If your organisational email address belongs to / format is,
+
+| Domain | Format | Example | Your account type | TechPass ID format |
+|:-------------| :-------------:| :-------------:|-------------| -------------:|
+| - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg  | Not applicable |- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
+| Not applicable | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg* | - *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
+| Other domains<sup>1</sup>| *\<your_name\>@\<acronym of the agency\>.gov.sg* | - *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer | Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
  
 
+
+**Footnotes:**
+
+1 - domains other than the following: <br>:small_blue_diamond: dsta.gov.sg<br>:small_blue_diamond: dsta-wog.gov.sg<br>:small_blue_diamond: mindef.gov.sg<br>:small_blue_diamond: defence.gov.sg<br>:small_blue_diamond: gebiz.gov.sg<br>:small_blue_diamond: mindef.gov.sg
+
+
+
+<!--
 
 ## Public officer account
 
@@ -56,7 +67,7 @@ If your organisational email address belongs to any of the following domains, yo
 
 
 
-<!--
+
  1 - You can sign up for TechPass and SEED provisioning(optional) if you have a **non-SE GSIB** device to access the [TechPass portal](http://portal.techpass.gov.sg).<br> Please check with your reporting officer in your organisation, agency or the sponsoring agency to know:<br>-  If you have non-SE GSIB device?<br>- If you need TechPass and SEED provisioning?
 
 2 - You can contact your reporting manager in your agency or sponsoring agency to get invited to TechPass and SEED (optional). For this, you need to provide your organisational email address. <br>Please check with your reporting manager within the agency or sponsoring agency to know if you need SEED provisioning. <br>If you are a **SE-GSIB** device user requiring TechPass and SEED provisioning, request to another public officer(who has a non-SE GSIB device) in your agency to invite you to TechPass and SEED or submit a [service request](https://go.gov.sg/techpass-sr).

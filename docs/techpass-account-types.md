@@ -10,24 +10,22 @@ TechPass account provisioned to you depends on the following attributes of your 
 - Domain name
 - Email address format 
 
-Refer to the below table to know what type of TechPass account is assigned to you.  
+Refer to the below table to know what type of TechPass account would be assigned to you.  
 
 
 | <div style="width:140px">Domain</div> | Email address format | TechPass  type | TechPass ID format |
 |-------------| :-------------:| :-------------:|-------------:| 
 | - dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- mindef.gov.sg | *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br> For example:<br>- *john_doe<span>@</span>dsta.gov.sg*<br>- *john_doe<span>@</span>mindef.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
 | Any domain | *\<your_name_from.VENDOR organisation\>@\<acronym of sponsoring agency\>.gov.sg*<br><br>For example:<br>- *john_doe_from.NCS<span>@</span>hdb.gov.sg*<br>- *john_doe_from.COGNIZANT<span>@</span>cpf.gov.sg* | Vendor account | *john_doe<span>@</span>techpass.gov.sg* |
-| Other domains<sup>1</sup>| *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br>For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer account| Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
+| All domains except for the ones stated in the first row| *\<your_name\>@\<acronym of the agency\>.gov.sg*<br><br>For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* | Public officer account| Same as your organisational email address. For example:<br>- *john_doe<span>@</span>cpf.gov.sg*<br>- *john_doe<span>@</span>hdb.gov.sg* |
  
 
-
+<!--
 **Footnotes:**
 
 1 - domains other than the following: <br>:small_blue_diamond: dsta.gov.sg<br>:small_blue_diamond: dsta-wog.gov.sg<br>:small_blue_diamond: mindef.gov.sg<br>:small_blue_diamond: defence.gov.sg<br>:small_blue_diamond: gebiz.gov.sg<br>:small_blue_diamond: mindef.gov.sg
 
 
-
-<!--
 
 ## Public officer account
 

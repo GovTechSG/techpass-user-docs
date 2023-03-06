@@ -19,7 +19,7 @@ Prerequisites:
 
   > **Note**: You need SEED provisioning to access SGTS resources using an internet device.<br><br>If you are not sure, please check with your reporting officer in your agency or the sponsoring agency.
 
-  <kbd>![sign-up-submit](/assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
+  <kbd>![sign-up-submit](assets/images/onboarding/signup-for-techpass.png)</kbd>
 
   4. Click **Submit**. We will send the onboarding email for the requested.
 

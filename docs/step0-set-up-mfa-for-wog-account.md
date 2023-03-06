@@ -2,12 +2,14 @@
 
 <ifigure>
 <iframe title="YouTubeVideoPlayer" src="
-https://www.youtube.com/embed/P9R5RiMpaVU?showinfo=0" height="560" width="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/P9R5RiMpaVU?showinfo=0" height="640" width="960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ifigure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTLOQCSwMpM?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <ifigure>
 <iframe title="YouTubeVideoPlayer" src="
-https://youtu.be/embed/gJ0U0w7C628?showinfo=0" height="640" width="960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtube/embed/gJ0U0w7C628?showinfo=0" height="640" width="960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ifigure>
 
 <!--

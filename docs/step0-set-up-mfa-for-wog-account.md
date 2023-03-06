@@ -10,6 +10,9 @@ https://www.youtube.com/embed/P9R5RiMpaVU?showinfo=0" height="315" width="560" f
 https://youtu.be/gJ0U0w7C628?showinfo=0" height="315" width="560" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ifigure>
 
+<ifigure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></ifigure>
+
 <!--
 
 https://youtu.be/gJ0U0w7C628

@@ -25,14 +25,15 @@ Prerequisites:
 
   > **Additional information**
   >
-  > **If you have signed up for TechPass**:
+  > **When you have sign up for TechPass**:
+  >
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the **TechPass onboarding email** to activate this account and is **valid only for 30 days**.
-  >- If you do not activate your TechPass within 30 days, we will notify via email and then terminate your TechPass account.
+  >- We send an email with a link to activate this account and this link is **valid only for 30 days**.
+  >- If you do not activate your TechPass within 30 days, we will notify you via email and terminate your TechPass account.
   >
   > **If you request for SEED**:
   >
-  >- We'll send the **SEED onboarding email** within the next three business days and this email is **valid only for 30 days**.
+  >- You will receive the **SEED onboarding email** within the next three business days and this email is **valid only for 30 days**.
   >- Before onboarding to SEED, ensure that you have activated your TechPass account.
   >- If your SEED onboarding email has expired, request again for SEED provisioning by going to your TechPass **Profile** > **Request for SEED**. For more information, see [SEED FAQ](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 

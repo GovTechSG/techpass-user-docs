@@ -21,7 +21,7 @@ Prerequisites:
 
   <kbd>![sign-up-submit](/assets/images/onboarding/signup-for-techpass.png)</kbd>
 
-  4. Click **Submit**. We will send the onboarding email for the requested.
+  4. Click **Submit**. 
 
   > **Additional information**
   >

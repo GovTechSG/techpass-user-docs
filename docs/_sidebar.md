@@ -7,7 +7,7 @@
 - [Release notes](/whats-new/whats-new.md)
 **Public officer account**
 - [Get a public officer account](get-a-public-officer-techpass-account)
-- [Step 0: Set up Multi-Factor Authentication](step0-set-up-mfa-for-wog-account)
+- [Step 0: Set up MFA for WOG](step0-set-up-mfa-for-wog-account)
 - [Step 1: Sign up for TechPass](./snippets/snippet-step1-signup-for-techpass ':include')
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Log in as public officer](log-in-as-po)

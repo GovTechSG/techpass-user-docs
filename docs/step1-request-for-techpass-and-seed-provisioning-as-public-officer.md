@@ -1,10 +1,14 @@
+
+[Step 1: Sign up for TechPass](./snippets/snippet-step1-signup-for-techpass ':include')
+
+<!--
 # Step 1: Request for TechPass and SEED provisioning as public officer
 
 This article tells how a public officer with a non-SE GSIB device can request for TechPass and SEED provisioning.
 
-<!--
+
 **Note**<br>
-> If you are a vendor or contractor, you are strongly encouraged to follow the steps mentioned in the Request for TechPass and SEED provisioning as vendor page. This is irrespective of whether you are furnished with a non-SE GSIB device or not.-->
+> If you are a vendor or contractor, you are strongly encouraged to follow the steps mentioned in the Request for TechPass and SEED provisioning as vendor page. This is irrespective of whether you are furnished with a non-SE GSIB device or not.
 
 
 ## Audience
@@ -19,9 +23,9 @@ Alternatively, a public officer can request TechPass and SEED provisioning for o
 
 If you are a public officer who is requesting TechPass and SEED provisioning for others, see [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
-<!--
+
 - Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, *peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg*.
--->
+
 ## Prerequisites
 
 - You need a non-SE GSIB device.
@@ -69,7 +73,7 @@ If you are a public officer who has a non-SE GSIB device, you can sign up for Te
 
 
 
-<!--
+
 - To onboard to TechPass, you must have received the TechPass onboarding email.
 - If you are an SE-GSIB user, use your non-SE GSIB or an internet device to complete steps [2](#step-2-set-up-security-verification-for-the-wog-account) and [3](#step-3-accept-techpass-invitation).
 

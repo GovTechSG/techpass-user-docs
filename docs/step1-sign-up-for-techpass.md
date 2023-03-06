@@ -1,5 +1,5 @@
 
-# Step 1. Sign up for TechPass and SEED
+# Step 1. Sign up for TechPass
 
 **Things to do before this**
 

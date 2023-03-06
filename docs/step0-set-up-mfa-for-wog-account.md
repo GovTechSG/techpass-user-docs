@@ -1,10 +1,14 @@
 # Step 0: Set up Multi-Factor Authentication for WOG account
 
+<ifigure>
+<iframe title="YouTubeVideoPlayer" src="https://www.youtube.com/watch?v=gJ0U0w7C628" height="640" width="960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</ifigure>
+
 <!--
   > **Note**:<br>
   > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
     >- Securely access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.-->
-    
+   
 
 ### To set up Multi-Factor Authentication for WOG account
 
@@ -51,7 +55,7 @@
 
  <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
   
- 10. The **Profile** page displays your WOG profile under **Organizations**.
+ 10. The **Profile** page now displays your WOG profile under **Organizations**.
 
   <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
   

@@ -9,12 +9,12 @@ When you sign up or get invited to the public officer TechPass account:
 
 Complete the following actions in a single session:
 
-- [Activate your public officer TechPass account](#to-activate-your-techpass-account)
-- [Set up MFA for public officer TechPass account](#to-set-up-mfa-for-techpass-account)
+- [Activate your public officer TechPass account](#step-2a-activate-your-public-officer-techpass-account)
+- [Set up MFA for public officer TechPass account](#step-2b-set-up-mfa-for-your-public-officer-techpass-account)
 
 
 
-###  To activate your TechPass account
+## Step 2a: Activate your public officer TechPass account
 
   1. On your GSIB device, open the TechPass onboarding invitation email. 
   2. Click **Accept invitation**.
@@ -22,7 +22,9 @@ Complete the following actions in a single session:
   
   ?> If you are already signed in to your WOG account, when you click **Accept invitation**, the **Review Permissions** page is displayed.
 
-  ### To set up MFA for TechPass account
+  
+
+## Step 2b: Set up MFA for your public officer TechPass account
 
 
 

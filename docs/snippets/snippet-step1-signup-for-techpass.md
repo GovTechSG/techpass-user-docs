@@ -2,7 +2,7 @@
 
 **Things to do before this**
 
-- Ensure [Step 0](docs/step0-set-up-mfa-for-wog-account.md) is completed.
+- Ensure [Step 0](step0-set-up-mfa-for-wog-account.md) is completed.
 - Read [TechPass account types](techpass-account-types) to know what type of TechPass account you are eligible for.
 
 Prerequisites:

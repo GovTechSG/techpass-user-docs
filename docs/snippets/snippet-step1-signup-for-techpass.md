@@ -2,7 +2,7 @@
 
 **Things to do before this**
 
-- Ensure Step 0 is completed.
+- Ensure [Step 0](docs/step0-set-up-mfa-for-wog-account.md) is completed.
 - Read [TechPass account types](techpass-account-types) to know what type of TechPass account you are eligible for.
 
 Prerequisites:
@@ -25,7 +25,7 @@ Prerequisites:
 
   > **Additional information**
   >
-  > **When you have sign up for TechPass**:
+  > **When you sign up for TechPass**:
   >
   >- A TechPass account is provisioned for you and is in pending state.
   >- We send an email with a link to activate this account and this link is **valid only for 30 days**.

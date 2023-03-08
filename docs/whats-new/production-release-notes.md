@@ -2,6 +2,30 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Production release 8 March 2023
+
+Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Account type is now displayed for easy identification of public officer or vendor</summary>
+
+You can now view your **Account type** when [editing and viewing your profile](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). 
+
+Tenants can now check a user's **Account type** to identify whether they are a public officer or vendor. The **Account type** is displayed when [managing users](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=adding-a-user-or-group) and viewing the list of users assigned to apps. 
+
+In order to enhance the granularity of our user account differentiation, a new *accountType* property is returned in the Get/List User API:
+  - account:public_officer 
+  - account:vendor
+  - account:temp
+
+> **Note:** The existing *userType* property (Guest/Member) will not be removed. 
+
+Go to [TechPass account type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) and [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/) for more information.
+
+</details>
+
 ## Production release 22 February 2023
 
 Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.6-230213.1101

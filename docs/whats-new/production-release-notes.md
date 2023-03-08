@@ -13,8 +13,6 @@ Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
 
 You can now view your **Account type** when [editing and viewing your profile](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). 
 
-Tenants can now check a user's **Account type** to identify whether they are a public officer or vendor. The **Account type** is displayed when [managing users](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=adding-a-user-or-group) and viewing the list of users assigned to apps. 
-
 In order to enhance the granularity of our user account differentiation, a new *accountType* property is returned in the Get/List User API:
   - account:public_officer 
   - account:vendor

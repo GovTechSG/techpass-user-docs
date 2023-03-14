@@ -1,19 +1,23 @@
+**About TechPass**
 - [Overview](home)
 - [What's new](/whats-new/whats-new.md)
+**Onboard to TechPass**
 - [Onboard public officer](onboard-public-officers-using-non-se-machines)
 - [Onboard vendor](onboard-vendors-to-techpass)
-- [Log in with TechPass](log-in-with-techpass)
-  - [Log in as public officer](log-in-as-po)
-  - [Log in as vendor](log-in-as-vendor)
-  - [Edit TechPass profile](edit-profile)
+**Log in with TechPass**
+- [Log in as public officer](log-in-as-po)
+- [Log in as vendor](log-in-as-vendor)
+**TechPass Portal**
 - [Request for SEED provisioning with an active TechPass ID](request-for-seed-provisioning)
 - [Register Intune device ID](register-intune-device-id)
-- [Reset MFA](reset-mfa)
-  - [WOG account](reset-security-verification-for-wog-account)
-  - [TechPass account](reset-techpass-mfa-for-new-device)  
+- [Edit TechPass profile](edit-profile)
+**Reset MFA**
+- [WOG account](reset-security-verification-for-wog-account)
+- [TechPass account](reset-techpass-mfa-for-new-device)  
 - [Reset password](reset-password)
+**TechPass support resources**
 - [TechPass status](techpass-status)
-- [Support](/support/overview.md)
+- [FAQ](/support/overview.md)
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)
 

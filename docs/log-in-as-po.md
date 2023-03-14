@@ -44,7 +44,7 @@ You are now successfully logged in with TechPass.
  
 <kbd>![sign-in](assets/images/assets/images/access-sgts-services-using-techpass/verification-code-po.png)</kbd>
 
-4. You will now be prompted to approve your WOG sign-in. A number will be shown on your browser.
+5. You will now be prompted to approve your WOG sign-in. A number will be shown on your browser.
 
 <kbd>![new-mfa](assets/images/onboarding/po-non-se/new-mfa.png)</kbd>
 

@@ -53,7 +53,7 @@ We heard from you that *account:temp* tag in the Get/List User API is missing an
 <details>
 <summary style="font-size:20px;font-weight:bold">Fixed wrong sender ID</summary>
 
-We fixed a bug that caused emails from our production environment to have the wrong sender ID (*no_reply@dev.techpass.gov.sg*) :bow:. 
+We heard from you that our emails from our production environment to have the wrong sender ID (*no_reply@dev.techpass.gov.sg*) and we have fixed it now :bow:. 
 
 
 </details>

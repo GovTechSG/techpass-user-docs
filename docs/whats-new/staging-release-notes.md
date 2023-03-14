@@ -2,6 +2,86 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 15 March 2023
+
+Frontend version: 1.0.0-20230314.0632 | Backend version: 1.54.0-230309.0902
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails.
+
+</summary>
+
+Tenants will now receive a daily notification when an invoked webhook endpoint fails.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
+
+When inviting vendors, the company field is now auto populated based on the vendor's email domain.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG ADD.</summary>
+
+Public officers on WOG AAD are only required to do one number matching authentication step.
+
+Go to [Log in as public officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/log-in-as-po) for more information.
+
+</details>
+
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed webhook checksum</summary>
+
+We heard from you that checking against our webhook checksum was incorrect and we have fixed it now :handshake:. 
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Account:temp tag is fixed.</summary>
+
+We heard from you that *account:temp* tag in the Get/List User API is missing and we have fixed it now :handshake:. 
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Fixed wrong sender ID</summary>
+
+We fixed a bug that caused emails from our production environment to have the wrong sender ID (*no_reply@dev.techpass.gov.sg*) :bow:. 
+
+
+</details>
+
+## Staging release 1 March 2023
+
+Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenants are notified once a day when an invoked webhook endpoint fails</summary>
+
+You can now view your **Account type** when [editing and viewing your profile](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). 
+
+Tenants can now check a user's **Account type** to identify whether they are a public officer or vendor. The **Account type** is displayed when [managing users](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=adding-a-user-or-group) and viewing the list of users assigned to apps. 
+
+In order to enhance the granularity of our user account differentiation, a new *accountType* property is returned in the Get/List User API:
+  - account:public_officer 
+  - account:vendor
+  - account:temp
+
+> **Note:** The existing *userType* property (Guest/Member) will not be removed. 
+
+Go to [TechPass account type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) and [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/) for more information.
+
+</details>
+
 ## Staging release 15 February 2023
 
 Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.6-230213.1101

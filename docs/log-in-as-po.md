@@ -10,7 +10,7 @@ Public officer can log in to TechPass using your non-SE GSIB device or your Gove
 
 2. Click **Log in with TechPass**.
 
-<kbd>![new-mfa](assets/images/onboarding/po-non-se/new-docs.png)</kbd>
+<kbd>![new-mfa](assets/images/onboarding/po-non-se/new-docs-tech.png)</kbd>
 
 3. Sign in to your TechPass account or choose your TechPass account.
 
@@ -42,7 +42,7 @@ You are now successfully logged in with TechPass.
 
 4. You will be prompted to authenticate your WOG account. Enter the verification code displayed for your SG Govt M365 profile on your Authenticator app.
  
-<kbd>![sign-in](assets/images/assets/images/access-sgts-services-using-techpass/verification-code-po.png)</kbd>
+<kbd>![sign-in](assets/images/access-sgts-services-using-techpass/verification-code-po.png)</kbd>
 
 5. You will now be prompted to approve your WOG sign-in. A number will be shown on your browser.
 

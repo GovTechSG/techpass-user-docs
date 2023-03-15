@@ -25,7 +25,7 @@ Previously, users had to manually enter the vendor's company name during the inv
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG ADD</summary>
+<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG AAD</summary>
 
 Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account.
 

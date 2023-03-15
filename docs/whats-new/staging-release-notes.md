@@ -38,7 +38,7 @@ Public officers on WOG AAD are only required to do one number matching authentic
 <details>
 <summary style="font-size:20px;font-weight:bold">Webhook checksum error changed. </summary>
 
-We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake:. 
+We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
 
 </details>
 

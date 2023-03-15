@@ -25,7 +25,7 @@ When inviting vendors, the company field is now auto populated based on the vend
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG ADD.</summary>
+<summary style="font-size:20px;font-weight:bold">Passwordless sign-in to TechPass for WOG users</summary>
 
 Public officers on WOG AAD are only required to do one number matching authentication step.
 

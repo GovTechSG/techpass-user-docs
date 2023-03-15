@@ -28,7 +28,7 @@ You will now be prompted to approve your TechPass sign-in. A number will be show
 
 5. Click **Edit Profile**.
 
-<kbd>![edit-account](assets/images/onboarding/po-non-se/edit-profile.png)</kbd>
+<kbd>![edit-account](assets/images/onboarding/po-non-se/edit-profile-new.png)</kbd>
 
 6. Make the required changes and click **Save**.
 

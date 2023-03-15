@@ -1,4 +1,4 @@
-# Support
+# FAQ
 This section serves as a support and troubleshooting guide for any issues you might encounter.
 
 ## TechPass account for SE-GSIB device users

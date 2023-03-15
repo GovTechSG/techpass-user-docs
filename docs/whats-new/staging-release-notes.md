@@ -4,7 +4,7 @@
 
 ## Staging release 15 March 2023
 
-Frontend version: 1.0.0-20230314.0632 | Backend version: 1.54.0-230309.0902
+Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902
 
 **Changes** 
 
@@ -13,23 +13,22 @@ Frontend version: 1.0.0-20230314.0632 | Backend version: 1.54.0-230309.0902
 
 </summary>
 
-Tenants will now receive a daily notification when an invoked webhook endpoint fails.
+Tenants will now receive a daily notification when an invoked webhook endpoint fails. The email informs you of the webhook ID, target URL and webhook event type. You have to check the target URL that has failed and fix the endpoints.
 
 </details>
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
 
-When inviting vendors, the company field is now auto populated based on the vendor's email domain.
+Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
 
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Passwordless sign-in to TechPass for WOG users</summary>
+<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG ADD</summary>
 
-Public officers on WOG AAD are only required to do one number matching authentication step.
+Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account.
 
-Go to [Log in as public officer](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/log-in-as-po) for more information.
 
 </details>
 
@@ -37,24 +36,23 @@ Go to [Log in as public officer](https://stg.docs.developer.tech.gov.sg/docs/tec
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Fixed webhook checksum</summary>
+<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed. </summary>
 
-We heard from you that checking against our webhook checksum was incorrect and we have fixed it now :handshake:. 
-
-</details>
-
-<details>
-<summary style="font-size:20px;font-weight:bold"> Account:temp tag is fixed.</summary>
-
-We heard from you that *account:temp* tag in the Get/List User API is missing and we have fixed it now :handshake:. 
+We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake:. 
 
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Fixed wrong sender ID</summary>
+<summary style="font-size:20px;font-weight:bold"> Temps staff account tagging</summary>
 
-We heard from you that our emails from our production environment to have the wrong sender ID (*no_reply@dev.techpass.gov.sg*) and we have fixed it now :bow:. 
+When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass portal. Keep track of your temporary staff accounts with this new account tagging feature.
 
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Sender ID bug is fixed</summary>
+
+We received feedback that emails sent from our production environment were displaying the wrong sender ID as *no_reply@dev.techpass.gov.sg*. We've fixed this issue and emails will now display the correct sender ID. Thanks for bringing this to our attention and helping us improve our platform! :bow:
 
 </details>
 

@@ -9,7 +9,7 @@ Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails.
+<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails
 
 </summary>
 
@@ -36,7 +36,7 @@ Public officers on WOG AAD are only required to do one number matching authentic
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed. </summary>
+<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed </summary>
 
 We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
 

@@ -20,6 +20,8 @@ Tenants will now receive a daily notification when an invoked webhook endpoint f
 <details>
 <summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
 
+!>**Note**<br>Currently, this change is experienced only in the staging environment. We will roll out this change to the production environment later. 
+
 Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
 
 </details>

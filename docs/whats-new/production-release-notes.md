@@ -4,7 +4,7 @@
 
 ## Production release 22 March 2023
 
-Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902
+Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.3-230321.0659
 
 **Changes** 
 
@@ -14,13 +14,6 @@ Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902
 </summary>
 
 Tenants will now receive a daily notification when an invoked webhook endpoint fails. The email informs you of the webhook ID, target URL and webhook event type. You have to check the target URL that has failed and fix the endpoints.
-
-</details>
-
-<details>
-<summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
-
-Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
 
 </details>
 

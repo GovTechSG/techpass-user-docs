@@ -2,6 +2,54 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Production release 22 March 2023
+
+Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.3-230321.0659
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails
+
+</summary>
+
+Tenants will now receive a daily notification when an invoked webhook endpoint fails. The email informs you of the webhook ID, target URL and webhook event type. You have to check the target URL that has failed and fix the endpoints.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">We have enhanced the login user experience for public officers in WOG AAD</summary>
+
+Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account.
+
+
+</details>
+
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed </summary>
+
+We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Temps staff account tagging</summary>
+
+When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass portal. Keep track of your temporary staff accounts with this new account tagging feature.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Sender ID bug is fixed</summary>
+
+We received feedback that emails sent from our production environment were displaying the wrong sender ID as *no_reply@dev.techpass.gov.sg*. We've fixed this issue and emails will now display the correct sender ID. Thanks for bringing this to our attention and helping us improve our platform! :bow:
+
+</details>
+
+
 ## Production release 8 March 2023
 
 Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334

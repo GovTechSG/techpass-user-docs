@@ -9,7 +9,7 @@ Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.6-230323.1031
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Tenants can now retry or stop a webhook trigger on TechPass portal</summary>
+<summary style="font-size:20px;font-weight:bold">Tenants can retry or stop a webhook trigger on TechPass portal</summary>
 
 Tenants can now retry or stop a webhook on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and expired after 14 days.
 
@@ -25,36 +25,7 @@ The webhook event *user-deleted* includes all groups the user is assigned to tha
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">  Email notification that is sent to vendor when their email is updated contains missing user profile values  </summary>
-
-Some fields shows special char and MISSING value which is incorrect. we have fixed it now.
-
-</details>
-
-**Fixes** 
-
-<details>
-<summary style="font-size:20px;font-weight:bold">  Email notification that is sent to vendor when their email is updated contains missing user profile values  </summary>
-
-Some fields shows special char and MISSING value which is incorrect. we have fixed it now.
-
-</details>
-
-Refer to [Retry or stop webhook trigger](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=retry-or-stop-webhook) for more information.
-</details>
-
-<details>
-<summary style="font-size:20px;font-weight:bold"> User-deleted webhook event include the tenant groups the user is a member of.
-
-</summary>
-
-The webhook event `user-deleted` should include all groups the user is assigned to that follows the pattern <namespace>:<group name>. This will limit to groups that belong to a tenant and not expose any TechPass internal groups the user is assigned to.
-</details>
-
-**Fixes** 
-
-<details>
-<summary style="font-size:20px;font-weight:bold">  Email notifications for vendor email updates now display accurate information </summary>
+<summary style="font-size:20px;font-weight:bold">  Email notifications for vendor email updates display accurate information  </summary>
 
 We have fixed a bug and now vendors will receive accurate email notifications. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or missing values for user profile fields.
 

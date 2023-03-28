@@ -38,7 +38,7 @@ Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails.
+<summary style="font-size:20px;font-weight:bold">Tenants receive a daily notification when an invoked webhook endpoint fails
 
 </summary>
 
@@ -48,6 +48,8 @@ Tenants will now receive a daily notification when an invoked webhook endpoint f
 
 <details>
 <summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
+
+!>**Note**<br>Currently, this change is experienced only in the staging environment. We will roll out this change to the production environment later. 
 
 Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
 
@@ -65,7 +67,7 @@ Public officers on WOG AAD are only required to do one number matching authentic
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed. </summary>
+<summary style="font-size:20px;font-weight:bold">Webhook checksum error changed</summary>
 
 We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
 

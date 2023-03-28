@@ -19,7 +19,7 @@ Refer to [Retry or stop webhook trigger](https://stg.docs.developer.tech.gov.sg/
 <details>
 <summary style="font-size:20px;font-weight:bold"> <i>user-deleted</i> webhook event now includes assigned groups</summary>
 
-The webhook event *user-deleted* includes all groups the user is assigned to that follow *<namespace>:<group name>*. This limits the groups to those belonging to a tenant and does not expose any TechPass internal groups the user is assigned to.
+The webhook event *user-deleted* includes all groups the user is assigned to that follow *namespace:group name*. This limits the groups to those belonging to a tenant and does not expose any TechPass internal groups the user is assigned to.
 </details>
 
 **Fixes** 

@@ -18,7 +18,7 @@ Tenants can now retry or stop a webhook trigger on TechPass portal. This option 
 <details>
 <summary style="font-size:20px;font-weight:bold"> <i>user-deleted</i> webhook event now includes assigned groups</summary>
 
-The webhook event *user-deleted* includes all groups the user is assigned to that follow *namespace:group name*. This limits the groups to those belonging to a tenant and does not expose any TechPass internal groups the user is assigned to.
+The webhook event *user-deleted* includes all groups the user is assigned to that follow the *namespace:group name* naming convention.
 </details>
 
 **Fixes** 

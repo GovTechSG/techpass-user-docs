@@ -27,7 +27,7 @@ The webhook event *user-deleted* includes all groups the user is assigned to tha
 <details>
 <summary style="font-size:20px;font-weight:bold">  Email updates for vendor display accurate information </summary>
 
-We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or missing values for user profile fields.
+We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
 
 </details>
 

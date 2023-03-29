@@ -11,7 +11,7 @@ Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.6-230323.1031
 <details>
 <summary style="font-size:20px;font-weight:bold">Tenants can retry or stop a webhook trigger on TechPass portal</summary>
 
-Tenants can now retry or stop a webhook on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and expired after 14 days.
+Tenants can now retry or stop a webhook trigger on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and expired after 14 days.
 
 Refer to [Retry or stop webhook trigger](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=retry-or-stop-webhook) for more information.
 </details>

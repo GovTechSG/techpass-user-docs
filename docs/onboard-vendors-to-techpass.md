@@ -44,7 +44,7 @@ Your project manager or reporting officer will work with the engaging government
  >- There are two ways in which the requested services can be provisioned.
  >- The SGTS service team linked to your project can provision TechPass account. Once TechPass account is provisioned, you will receive an onboarding invitation email for TechPass.
  >- If you have requested for SEED provisioning, you will receive the SEED onboarding email around the next three business days.
- >- Alternatively, public officer of the engaging agency can invite you to TechPass and SEED via **TechBiz portal**. Following this, you will receive separate onboarding invitation emails for them.
+ >- Alternatively, public officer of the engaging agency can invite you to TechPass and SEED via [TechBiz portal](https://portal.techbiz.suite.gov.sg/) Following this, you will receive separate onboarding invitation emails for them.
  >- When a TechPass account is provisioned, it will be *pending* to be activated.
  >- It becomes activated when you [sign in to TechPass using initial password](#step-2-sign-in-using-initial-password),[configure and verify MFA for TechPass account](#step-3-configure-and-verify-mfa-for-techpass-account)and [Reset initial password](#step-4-reset-initial-password).
  >- The TechPass and SEED onboarding invitation emails are valid for 30 days. Refer to SEED documentation for more information on what to do if your SEED onboarding invitation has expired.

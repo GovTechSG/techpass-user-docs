@@ -2,7 +2,7 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
-## Staging release 5 April 2023
+## Production release 5 April 2023
 
 Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536
 

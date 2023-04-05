@@ -2,6 +2,36 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 29 March 2023
+
+Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Tenants can retry or stop a webhook event on TechPass portal</summary>
+
+Tenants can now retry or stop a webhook event on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days.
+
+Refer to [Webhook states](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=webhook-states) for more information.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> <i>user-deleted</i> webhook event now includes assigned groups</summary>
+
+The webhook event *user-deleted* includes all groups the user is assigned to that follows the *namespace:group name* naming convention.
+</details>
+
+**Fixes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">  Email updates for vendor display accurate information </summary>
+
+We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
+
+</details>
+
 ## Staging release 15 March 2023
 
 Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.0-230309.0902

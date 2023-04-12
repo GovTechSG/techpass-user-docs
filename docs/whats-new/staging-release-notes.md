@@ -9,7 +9,7 @@ Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
 **Feature** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Search bar added to **User dashboard**</summary>
+<summary style="font-size:20px;font-weight:bold">Search bar added to*User dashboard</summary>
 
 The TechPass portal has been updated with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
 

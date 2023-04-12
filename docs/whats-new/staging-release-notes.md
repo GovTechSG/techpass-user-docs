@@ -2,6 +2,50 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 12 April 2023
+
+Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
+
+**Feature** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Search bar added on TechPass portal</summary>
+
+We have updated TechPass portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
+
+</details>
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Updated tenants' restriction on TechBiz application role assignment & groups management in TechPass </summary>
+
+Previously, tenants were not allowed to manage their applications' role assignments on TechPass if they had onboarded to TechBiz. However, we understand that some applications may not be on TechBiz, so we have updated the restriction to be applied at the application-level instead. 
+
+Additionally, TechBiz-created groups will no longer be displayed on the TechPass portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants.
+
+</details>
+
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Enhanced webhook UI and retry mechanisms </summary>
+
+We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.
+
+In response to user feedback, you can now use the **Retry** action for webhooks with **completed** and **expired** statuses to make it easier for users to reattempt webhook delivery. 
+
+</details>
+
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Improve accuracy of user's last sign-in information for Automation API Get User Info <i>with lastSignIn=true</i> </summary>
+
+We identified an issue where user's last sign-in information may not have up-to-date information. To address this, we have pulled the last sign-in information from other sources to improve the accuracy.
+
+</details>
+
+
+
 ## Staging release 29 March 2023
 
 Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536

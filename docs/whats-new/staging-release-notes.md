@@ -28,7 +28,7 @@ Additionally, TechBiz-created groups will no longer be displayed on the TechPass
 
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Improved webhook management with response messaging and disabled action buttons </summary>
+<summary style="font-size:20px;font-weight:bold"> Enhanced webhook UI and retry mechanisms </summary>
 
 We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.
 

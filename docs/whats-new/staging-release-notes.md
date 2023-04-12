@@ -18,7 +18,7 @@ We have updated TechPass portal with a new search bar feature that allows users 
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Updated restriction on TechBiz application role assignment in TechPass</summary>
+<summary style="font-size:20px;font-weight:bold"> Updated restriction on TechBiz application role assignment and groups management in TechPass</summary>
 
 Previously, tenants were not allowed to manage their applications' role assignments on TechPass if they had onboarded to TechBiz. However, we understand that some applications may not be on TechBiz, so we have updated the restriction to be applied at the application-level instead. 
 

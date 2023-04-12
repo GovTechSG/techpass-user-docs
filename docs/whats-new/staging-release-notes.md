@@ -9,18 +9,18 @@ Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
 **Feature** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">Search bar added to*User dashboard</summary>
+<summary style="font-size:20px;font-weight:bold">Search bar added on TechPass portal</summary>
 
-The TechPass portal has been updated with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
+We have updated TechPass portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
 
 </details>
 
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Updated restriction on TechBiz applications and groups management in TechPass</summary>
+<summary style="font-size:20px;font-weight:bold"> Updated restriction on TechBiz application role assignment in TechPass</summary>
 
-Previously, tenants were not allowed to manage their applications' role assignments on TechPass if they had onboard to TechBiz. However, we understand that some applications may not be on TechBiz, so we have updated the restriction to be applied at the application-level instead. Applications that are not on TechBiz can continue to have their application role assignments managed on TechPass, while applications on TechBiz should be managed on TechBiz.
+Previously, tenants were not allowed to manage their applications' role assignments on TechPass if they had onboarded to TechBiz. However, we understand that some applications may not be on TechBiz, so we have updated the restriction to be applied at the application-level instead. 
 
 Additionally, TechBiz-created groups will no longer be displayed on the TechPass portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants.
 
@@ -32,7 +32,7 @@ Additionally, TechBiz-created groups will no longer be displayed on the TechPass
 
 We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.
 
-In response to user feedback, we have also introduced a new **Retry** action for all webhook statuses to make it easier for users to reattempt webhook delivery. 
+In response to user feedback, you can now use the **Retry** action for webhooks with **completed** and **expired** statuses to make it easier for users to reattempt webhook delivery. 
 
 </details>
 
@@ -40,9 +40,7 @@ In response to user feedback, we have also introduced a new **Retry** action for
 <details>
 <summary style="font-size:20px;font-weight:bold"> Improve accuracy of user's last sign-in information for Automation API Get User Info <i>with lastSignIn=true</i> </summary>
 
-We identified an issue where user's *signInActivity* may not have up-to-date information, lagging by two days. To address this, we will be calling *v1.0/auditLogs/signIns* in addition to the current *signInActivity* we are using to improve the accuracy of the user's last sign-in information. Note that *v1.0/auditLogs/signIns* can only retrieve information for the last 30 days. 
-
-We will implement this improvement to our Automation API *Get User Info* with *lastSignIn=true* parameter. We will also refactor our Azure layer to use the v1.0 endpoint instead of beta, which may have caused the issue. 
+We identified an issue where user's last sign-in information may not have up-to-date information. To address this, we have pulled the last sign-in information from other sources to improve the accuracy.
 
 </details>
 

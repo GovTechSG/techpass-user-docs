@@ -89,7 +89,7 @@ If you use a non-SE GSIB device and if your TechPass account is active, to reque
 2. Log in with TechPass.
 3. Hover over your user name and click **My Account**.
 4. In the **Profile** page, click **Request for SEED**.
-5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your internet device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
+5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your Internet Device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
 
 If you do not use a non-SE GSIB device and if your TechPass account is active, [create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again. 
 

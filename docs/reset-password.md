@@ -1,6 +1,6 @@
 # Reset TechPass password
 
-If you are a vendor or contractor whose TechPass logon domain is ```techpass.gov.sg```, you may reset your TechPass password according to the [Azure Password Policy](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences).
+If you are a vendor whose TechPass logon domain is ```techpass.gov.sg```, you may reset your TechPass password according to the [Azure Password Policy](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences).
 
 >**Notes for public officers**
 >

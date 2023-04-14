@@ -7,7 +7,7 @@ The following table tells who can complete the steps mentioned in this article t
 | Public officer      | non-SE GSIB | Yes | *@\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
 | Public officer | SE GSIB | Yes| *@\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*. | Create a [service request](https://go.gov.sg/techpass-sr) |
 | Vendor | non-SE GSIB | Yes | *_from.\<vendor-name\>@\<acronym-for-your-engaging-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
-| Vendor | internet device (not a GSIB) | Yes | *techpass.gov.sg*| Contact your project manager or reporting officer to request for SEED provisioning. |
+| Vendor | Internet Device (not a GSIB) | Yes | *techpass.gov.sg*| Contact your project manager or reporting officer to request for SEED provisioning. |
 
 *To request for SEED provisioning*
 

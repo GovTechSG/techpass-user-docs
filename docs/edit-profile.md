@@ -5,7 +5,7 @@ TechPass users can edit their TechPass profile anytime by logging into the TechP
 > **Note**
 > Create a [service request](https://go.gov.sg/techpass-sr) with us to update your profile details:
 >- If you are a public officer with a SE GSIB device.
->- If you are a vendor or contractor whose TechPass ID's domain is *techpass.gov.sg*.
+>- If you are a vendor whose TechPass ID's domain is *techpass.gov.sg*.
 
 _To edit your profile:_
 

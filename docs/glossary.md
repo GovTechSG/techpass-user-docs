@@ -28,7 +28,7 @@ Government Furnished Equipment.
 
 </a>
 
-Government Managed Device. An internet device or a GFE device when enrolled with SEED becomes a Government Managed Device.
+Government Managed Device. An Internet Device or a GFE device when enrolled with SEED becomes a Government Managed Device.
 
 <a id="gsib">
 

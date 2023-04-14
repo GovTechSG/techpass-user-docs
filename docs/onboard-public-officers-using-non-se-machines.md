@@ -1,76 +1,73 @@
 # Onboard to TechPass as public officers
 
->**Note**<br>
-> If you are a public officer using **SE-GSIB** device, create a [service request](https://go.gov.sg/techpass-sr) requesting for the required provisioning.
+?> If you are a public officer using **SE-GSIB** device, create a [service request](https://go.gov.sg/techpass-sr) for TechPass provisioning.
+
 
 This article guides you to do the following:
-- [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seed).
+- [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seedoptional).
 - [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
 - [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
-- [Onboard TechPass account](#step-4-onboard-to-techpass).
+- [Onboard to TechPass account](#step-4-onboard-to-techpass).
 
-You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
+<!--You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
-> **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
-
+> **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).-->
 
 ## Audience
 
-- Public officers using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *peter_wilson@tech.gov.sg*.
-- Vendors or contractors using a non-SE GSIB device and whose organisational email address is in the format of *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. For example, *peter_wilson_FROM.VENDORPROVIDER@tech.gov.sg*
+- Users who have a non-SE GSIB device and who have a WOG account. Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.
 
-> **Note**:
->- If you are a public officer using an SE-GSIB device and intend to request for TechPass or SEED, create a [service request](https://go.gov.sg/techpass-sr) with us. When your request gets approved, we will provide you with the instructions to activate your TechPass account.
->- We strongly encourage vendors and contractors using a non-SE GSIB device also to follow the [vendor onboarding](onboard-vendors-to-techpass) flow.
-
-Alternatively, a public officer can request TechPass and SEED provisioning for other public officers and vendors using the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
-
-If you are a public officer who is requesting TechPass and SEED provisioning for others, see [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+Refer to the table in [Onboard to TechPass](onboard-to-techpass) to identify your TechPass onboarding persona.
 
 ## Prerequisites
 
 - You need a non-SE GSIB device.
-- You need a standard mailbox for the your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up for TechPass.
-- Organisational email address must be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *peter_wilson@tech.gov.sg*.
+- You need a standard mailbox for the your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
+- Organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg* .
 
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
 
-## Step 1. Sign up for TechPass and SEED
+## Step 1. Sign up for TechPass and SEED(optional)
+
+If your TechPass onboarding persona is a public officer, you can get TechPass provisioning in any one of the following ways:
+
+- Sign up from **TechPass portal**.
+- Another public officer from your project can invite you via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass?</summary>
+  <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass and SEED via TechPass portal?</summary>
 
-  **To get TechPass invitation email**
+  **To get onboarding invitation email(s)**
 
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   2. Enter your organisational **Email Address**.
 
-  3. Indicate if you want to onboard your internet device to SEED and select **I'm not a robot**.
+  3. Indicate if you want to onboard your Internet Device to SEED and select **I'm not a robot**.
 
-  > **Note**: You need SEED provisioning to access SGTS resources using an internet device.
+  !> You need SEED provisioning to access SGTS resources using an Internet Device.
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
-  4. Click **Submit**. We will send you the onboarding invitation email(s).
+  4. Click **Submit** to receive the onboarding invitation email(s).
 
   > **Additional information**:
   >
   > **If TechPass provisioning
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate this account.
+  >- We'll send the TechPass onboarding email to activate the account.
   >- This email is valid only for 30 days.
-  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account.
-  >- You can sign up again via the TechPass portal and request for TechPass and SEED.
+  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account. If you still need the TechPass account, you can sign up again via the TechPass portal or request for it.
   >
   > **If SEED provisioning is approved**:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
-  >- Ensure that you have activated your TechPass account.
-  >- If your SEED onboarding email has expired, request again for SEED provisioning by going to your TechPass **Profile** > **Request for SEED**. For more information, see [SEED FAQ](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
+  >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQ](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 
   </details>
@@ -80,18 +77,13 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 <details>
   <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
 
-  > **Note**:<br>
-  > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
-    >- Securely access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
-    >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
-
-**To set up security verification for WOG account**
+  **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
   2. If prompted to sign in:
   
-      a. Use your organisational email address and email password.
+      a. Use your organisational email address and GSIB device password.
 
       b. Click **Next** to provide additional information for your account.
 
@@ -101,7 +93,7 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
 
   <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
 
-  >**Note**: Do not close this page on your computer.
+  ?> Do not close this page on your computer.
 
   5. Follow the on-screen instructions on the **Configure mobile app** page.
   <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>
@@ -128,30 +120,25 @@ If you are a public officer who is requesting TechPass and SEED provisioning for
   
  8. The **Profile** page is displays your WOG profile under **Organizations**.
 
-  <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
+ <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
   
   </details>
 
 
-> **Important**: Complete steps 3 and 4 within the same session.
+?> Complete steps 3 and 4 within the same session.
 
 ## Step 3. Accept TechPass invitation
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to accept invitation</summary>
 
-Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again or request for a TechPass account from a public officer.
+Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again or request for a TechPass account from another public officer from your project.
 
   **To accept TechPass invitation**
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
 
-  > **Note**:
-  >- If you do not see this email in your inbox:
-  >
-  >
-  >- check if it is the same email address you provided during the TechPass self-sign-up or in your request for TechPass to a public officer
-  >- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
+  ?> If you do not see this email in your inbox:<br>- check if it is the same email address you provided while signing up or in your request.<br>- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
   2. Click **Accept invitation** and proceed with **Onboarding to TechPass**. If you are already signed in to your WOG account, it will direct you to **Review Permissions**.
 
@@ -170,7 +157,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
 
-  > **Note**: If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
+  ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
   2. Click **Log in with TechPass**.
   3. Click **Next**.
@@ -187,7 +174,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
 
-  > **Note**: While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
+  ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
   6. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
   7. Go back to your computer and click **Next**.
@@ -214,32 +201,33 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   You will now be directed to the Terms of Use page.
 
-  12. Click the arrow to view the **TechPass Terms of Use**.
+  12. Read the **Terms of Use** and click **Accept**.
+  13. Read the **Privacy Policy** and click **Accept**.
+  14. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-  <kbd>![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)</kbd>
+  
+  You have now successfully onboarded to TechPass. You can now proceed to onboard your Internet Device to SEED.
 
-  13. Read the TechPass **Terms of Use** and click **Accept**.
+?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
 
-  <kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
+</details>
 
-  14. Click the arrow to view the **TechPass Privacy Policy**.
 
-  <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
+<!--
 
-  15. Read the TechPass **Privacy Policy** and click **Accept**.
-
-  <kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
-
-  16. Click the arrow to view the **TechPass MDM AUP Policy**.
-
+> **Note**:<br>
+  > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
+    >- Securely access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
+    >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
+12. Click the arrow to view the **TechPass Terms of Use**.
+14. Click the arrow to view the **TechPass Privacy Policy**.
+16. Click the arrow to view the **TechPass MDM AUP Policy**.
+<kbd>![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)</kbd>
+<kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
+ <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
+<kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
-
-  17. Read the policy details and click **Accept**.
 
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
 
-  You have now successfully onboarded to TechPass. You can now proceed to onboard your internet device to SEED.
-
-> **Note**: Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your internet device to SEED.
-
-</details>
+    -->

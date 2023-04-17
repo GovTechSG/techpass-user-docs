@@ -77,6 +77,10 @@ If your TechPass onboarding persona is a public officer, you can get TechPass pr
 <details>
   <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
 
+<div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
+</div>
+
   **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).

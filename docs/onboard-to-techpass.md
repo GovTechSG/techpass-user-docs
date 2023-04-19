@@ -6,10 +6,7 @@ Refer to the following table to identify your onboarding persona:
 
 ```mermaid
 graph LR
-A("You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>For example#58;<br>bob#64;accenture.com<br>alice#64;gmail.com") -->click B "http://www.github.com"
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+A("You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>For example#58;<br>bob#64;accenture.com<br>alice#64;gmail.com") --> click B "http://www.github.com"
 ```
 
 <!--

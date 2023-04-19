@@ -1,4 +1,4 @@
-<br>bob&#64;accenture.com<br>alice&#64;gmail.com# Onboard to TechPass
+Onboard to TechPass
 
 Users can onboard to TechPass as **public officers** or **vendors**.
 
@@ -6,7 +6,7 @@ Refer to the following table to identify your onboarding persona:
 
 ```mermaid
 graph LR
-A[You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>] -->B(Round edge)
+A[You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>"For example&#58;"<br>"bob&#64;accenture.com"<br>"alice&#64;gmail.com"] -->B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]

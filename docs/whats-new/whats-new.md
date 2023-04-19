@@ -5,12 +5,12 @@ This page summarises the new features, improvements and bug fixes completed in e
 ## Latest changes
 
 **Production release notes**
-- [Production release 5 April 2023](whats-new/production-release-notes?id=production-release-5-april-2023)
+- [Production release 19 April 2023](whats-new/production-release-notes?id=production-release-19-april-2023)
 
  [**View all production release notes**](/whats-new/production-release-notes)
 
 
 **Staging release notes**
-- [Staging release 29 March 2023](whats-new/staging-release-notes?id=staging-release-29-march-2023)
+- [Staging release 12 April 2023](whats-new/staging-release-notes?id=staging-release-12-april-2023)
 
  [**View all staging release notes**](/whats-new/staging-release-notes)

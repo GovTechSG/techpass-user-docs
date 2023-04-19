@@ -20,7 +20,7 @@ We have updated TechPass portal with a new search bar feature that allows users 
 <details>
 <summary style="font-size:20px;font-weight:bold"> Updated tenants' restriction on TechBiz application role assignment & groups management in TechPass </summary>
 
-Previously, if a tenant had onboarded to TechBiz, they were not allowed to manage the app role assignments for any of their applications on TechPass at a tenant-wide level. The restriction is applied to all applications under that tenant. However, we understand that some applications may not be onboarded to TechBiz, and tenants may still want to manage the app role assignments for those applications on TechPass. 
+Previously, if a tenant had onboarded to TechBiz, they were not allowed to manage the app role assignments for any of their applications on TechPass at a tenant-wide level. The restriction is applied to all applications under that tenant. However, we understand that some applications may not be onboarded to TechBiz, and tenants will still need to manage the app role assignments for those applications on TechPass. 
 
 To address this, we updated the restriction to be applied at the application level instead of the tenant level. This means that on TechPass, Tenants cannot manage the app role assignments for applications that are onboarded to TechBiz, but they will still be able to manage the app role assignments for applications that are not onboarded to TechBiz.
 For applications that are onboarded to TechBiz, the agency responsible for the applications will manage the app role assignments on TechBiz.

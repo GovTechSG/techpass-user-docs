@@ -7,9 +7,12 @@ Refer to the following table to identify your onboarding persona:
 ```mermaid
 graph LR
 
-A --> |Yes| B
+A --> | Yes | B
+A --> | No | C
+
 A("You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>For example#58;<br>bob#64;accenture.com<br>alice#64;gmail.com") 
 B(Vendor)
+C("You have an official government email address that is not in the WOG AAD (see FAQ for complete list).")
 
 ```
 

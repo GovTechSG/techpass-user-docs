@@ -4,7 +4,7 @@ Users can onboard to TechPass as **public officers** or **vendors**.
 
 Refer to the following table to identify your onboarding persona:
 
-| <center>You have an official business email address that is not a government email address and does not resemble a personal email address.<br>For example:<br>bob@accenture.com ✔️<br>alice@gmail.com ✖️</center> | <center>Yes<br>▶️</center> | <center>[Onboard to TechPass as vendors](onboard-vendors-to-techpass)</center> | 
+| You have an official business email address that is not a government email address and does not resemble a personal email address.<br>For example:<br>bob@accenture.com ✔️<br>alice@gmail.com ✖️ | Yes<br>▶️ | [Onboard to TechPass as vendors](onboard-vendors-to-techpass) |
 
 
 | Persona| Description | <div style="width:210px">Examples</div> |

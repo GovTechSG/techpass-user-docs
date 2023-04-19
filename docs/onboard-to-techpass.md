@@ -6,7 +6,7 @@ Refer to the following table to identify your onboarding persona:
 
 ```mermaid
 graph LR
-A[Hard edge] -->B(Round edge)
+A[You have an official business email address that is not a government email address and does not resemble a personal email address] -->B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]

@@ -9,11 +9,18 @@ graph LR
 
 A --> | Yes | B
 A --> | No | C
+C --> | Yes | B
+C --> | No | D
+D --> | Yes | E
+D --> | No | F
+
 
 A("You have an official business email address that is not a government email<br>address and does not resemble a personal email address<br>For example#58;<br>bob#64;accenture.com<br>alice#64;gmail.com") 
 B(Vendor)
 C("You have an official government email address that is not in the WOG AAD (see FAQ for complete list).")
-
+D("You have an official government email address that is in the WOG AAD.")
+E(Public Officer)
+F("Raise queries to enquires_techpass@tech.gov.sg")
 ```
 
 <!--

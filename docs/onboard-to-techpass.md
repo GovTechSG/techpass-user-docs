@@ -6,9 +6,9 @@ Refer to the following table to identify your onboarding persona:
 
 <table>
 <tr>
-  <td>You have an official business email address that is not a government email address and does not resemble a personal email address.<br>For example:<br>bob@accenture.com ✔️<br>alice@gmail.com ✖️</td>
-  <td>Yes<br>➡️</td>
-  <td>[Onboard to TechPass as vendors](onboard-vendors-to-techpass)</td>
+  <td style="border: 1px solid black; border-radius: 10px;">You have an official business email address that is not a government email address and does not resemble a personal email address.<br>For example:<br>bob@accenture.com ✔️<br>alice@gmail.com ✖️</td>
+  <td style="border: none;">Yes<br>➡️</td>
+  <td style="border: 1px solid black; border-radius: 10px;">[Onboard to TechPass as vendors](onboard-vendors-to-techpass)</td>
 </tr>
 </table>
 

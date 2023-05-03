@@ -2,6 +2,56 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Production release 3 May 2023
+
+Frontend version: 1.0.0-20230424.1714 | Backend version: 1.61.3-230425.0821
+
+**Feature** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold">TechPass tenant notification for group limit.</summary>
+
+Tenants will now receive email notifications when their tenant's group count is close to the limit. This notification provides tenants with sufficient notice so that they can request an increase in their group limit without disrupting their service continuity.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Webhook failure notification and reminder for tenant admins.</summary>
+
+Tenant admins will receive an email notification when an invoked webhook endpoint fails and a reminder when there are incomplete cases. This notification and reminder will provide admins with timely information regarding the status of their webhook endpoints and incomplete cases without overwhelming them with excessive notifications.
+
+</details>
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Automation API now supports filtering users by account type.</summary>
+
+We have enhanced the Automation API that enables developers to filter users by account type. This feature will enable developers to easily retrieve a list of users that meet specific account type criteria.
+
+</details>
+
+<details>
+<summary style="font-size:20px;font-weight:bold">Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
+
+Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
+
+</details>
+
+**Fixes**
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Fix for occasional failure in Automation API <i>Get User Info</i> with <i>lastSignIn=true </i> </summary>
+
+We have released a fix for an occasional failure observed in the Automation API *Get User Info* endpoint when calling with *lastSignIn=true*.
+
+Previously, TechPass had added an extra step to improve the accuracy of user's last sign-in information by calling *ListSignIns. However, in certain cases, *ListSignIns* would take too long to respond, resulting in a timeout and failed API calls.
+
+To address this issue, TechPass has released a fix that removes the extra step for improved accuracy and implements a best effort approach to avoid failures due to timeouts. This means that while the accuracy of the data may be slightly affected, developers can rely on the API to provide consistent results without any failures.
+
+</details>
+
+
 ## Production release 19 April 2023
 
 Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515

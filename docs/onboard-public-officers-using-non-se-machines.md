@@ -130,7 +130,7 @@ You need the following to sign up and activate your TechPass account:
   </details>
 
 
-  ?> Complete steps 3 and 4 within the same session.
+ ?> Complete steps 3 and 4 within the same session.
 
 ## Step 3. Accept TechPass invitation
 

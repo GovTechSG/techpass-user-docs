@@ -26,6 +26,8 @@ Their organisational email address should be in the format of *\<your_name\>@\<a
 
 ## Prerequisites
 
+You need the following to sign up and activate your TechPass account:
+
 - Non-SE GSIB device.
 - Standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
 

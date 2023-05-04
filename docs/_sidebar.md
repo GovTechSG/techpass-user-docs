@@ -1,9 +1,10 @@
 **About TechPass**
 - [Overview](home)
 - [What's new](/whats-new/whats-new.md)
-- [**Onboard to TechPass**](onboard-to-techpass.md)
-  - [Sign up and onboard](onboard-public-officers-using-non-se-machines)
-  - [Get invited and onboard](onboard-vendors-to-techpass)
+**Getting started**  
+- [Onboard to TechPass](onboard-to-techpass.md)
+- [Sign up and onboard](onboard-public-officers-using-non-se-machines)
+- [Get invited and onboard](onboard-vendors-to-techpass)
 **Log in with TechPass**
 - [Log in as public officer](log-in-as-po)
 - [Log in as vendor](log-in-as-vendor)

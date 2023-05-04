@@ -1,6 +1,6 @@
 # Sign up and onboard to TechPass
 
-This article guides you to sign up for TechPass and activate it.
+This article guides you to sign up for TechPass and activate it. See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
 
 <!--
 do the following:
@@ -19,7 +19,7 @@ do the following:
 
 - Users who have a non-SE GSIB device and have a WOG account. 
 
-?> <br>- See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.<br>-  If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
+?> If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
 
 <!--
 Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->

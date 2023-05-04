@@ -1,12 +1,15 @@
 # Sign up and onboard to TechPass
 
-This article guides you to do the following:
+This article guides you to sign up for TechPass and activate it.
+
+<!--
+do the following:
 - [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seedoptional).
 - [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
 - [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
 - [Onboard to TechPass account](#step-4-onboard-to-techpass).
 
-?> If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
+-->
 
 <!--You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
@@ -16,17 +19,15 @@ This article guides you to do the following:
 
 - Users who have a non-SE GSIB device and have a WOG account. 
 
-?> See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
+?> <br>- See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.<br>-  If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
 
 <!--
 Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
 
 ## Prerequisites
 
-- You need a non-SE GSIB device.
-- You need a standard mailbox for the your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
-- Organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg* .
-
+- Non-SE GSIB device.
+- Standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
@@ -46,7 +47,7 @@ Their organisational email address should be in the format of *\<your_name\>@\<a
 
   3. Indicate if you want to onboard your Internet Device to SEED and select **I'm not a robot**.
 
-  !> You need SEED provisioning to access SGTS resources using an Internet Device.
+  !> You need SEED provisioning to access SGTS and GCC 2.0 resources via an Internet Device.
 
   <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
 
@@ -231,5 +232,8 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
 
   <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
+
+  
+- Organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg* .
 
     -->

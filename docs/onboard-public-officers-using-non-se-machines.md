@@ -2,19 +2,6 @@
 
 This article guides you to sign up for TechPass via TechPass portal and activate it. See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
 
-<!--
-do the following:
-- [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seedoptional).
-- [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account).
-- [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
-- [Onboard to TechPass account](#step-4-onboard-to-techpass).
-
--->
-
-<!--You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
-
-> **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).-->
-
 ## Audience
 
 - Users who have a non-SE GSIB device and have a WOG account. 
@@ -137,7 +124,7 @@ You need the following to sign up and activate your TechPass account:
 <details>
   <summary style="font-size:20px;font-weight:bold">Steps to accept invitation</summary>
 
-Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again or request for a TechPass account from another public officer from your project.
+Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again.
 
   **To accept TechPass invitation**
 
@@ -154,7 +141,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
 ## Step 4. Onboard to TechPass
 <details>
-  <summary style="font-size:20px;font-weight:bold">How does a public officer onboard to TechPass?</summary>
+  <summary style="font-size:20px;font-weight:bold">How do I onboard to TechPass?</summary>
 
   **To onboard to your TechPass account**
 

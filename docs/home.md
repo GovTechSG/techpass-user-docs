@@ -9,7 +9,7 @@ Following are the list of SGTS services that uses TechPass as their IAM service.
 
 - Container Stack(CStack): CStack is a cloud-based container development and hosting platform.
 - Docs portal: Your hub for all the technical documentation such as developer guides, API references and tutorials.
-- GCC Common Services
+- GCC Common Services: A suite of IM8-compliant services that agencies can subscribe to, to help speed up their cloud adoption journey by leveraging centrally managed service.
 - GCC 2.0: A "wrapper" platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by cloud service providers.
 - SEED: SEED is the Singapore Government's implementation of IAM and zero trust platform to protect Government engineering resources from unauthorised access.
 - SHIP-HATS: The Continuous Integration/Continuous Delivery CI/CD component in SGTS with security and governance guardrails that enables developers to plan, build, test and deploy code to production.

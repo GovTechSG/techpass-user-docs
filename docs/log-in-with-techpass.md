@@ -44,7 +44,7 @@ This section guides you how to verify if authorised users can access TechPass po
 
 5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate this sign-in.
 
-You have now successfully logged in to the TechPass portal.
+ You have now successfully logged in to the TechPass portal.
 
 
 

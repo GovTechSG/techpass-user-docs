@@ -30,9 +30,9 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
-## Step 1. Request for TechPass account and SEED provisioning
+## Step 1. Request for TechPass account
 
-<details><summary style="font-size:20px;font-weight:bold">How to get a TechPass account and request for SEED provisioning?</summary>
+<details><summary style="font-size:20px;font-weight:bold">Get invited to TechPass account and request for SEED (optional)</summary>
 
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
@@ -88,7 +88,7 @@ Your project manager or reporting officer will work with the sponsoring governme
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details> <summary style="font-size:20px;font-weight:bold"> How to configure and verify MFA for a vendor TechPass account?</summary>
+<details> <summary style="font-size:20px;font-weight:bold"> Configure and verify MFA for TechPass account</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
   
@@ -144,7 +144,7 @@ Your project manager or reporting officer will work with the sponsoring governme
 
 ## Step 4. Reset initial password
 
-<details> <summary style="font-size:20px;font-weight:bold"> How to reset the initial password?</summary>
+<details> <summary style="font-size:20px;font-weight:bold"> Reset the initial password</summary>
 
   1. Enter your **initial password**, **new password** and retype the new password to confirm.  
 

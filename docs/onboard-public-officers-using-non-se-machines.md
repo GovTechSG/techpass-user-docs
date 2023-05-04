@@ -25,10 +25,10 @@ You need the following to sign up for TechPass and complete the onboarding:
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
 
-## Step 1. Sign up for TechPass and SEED(optional)
+## Step 1. Sign up for TechPass
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass and SEED via TechPass portal?</summary>
+  <summary style="font-size:20px;font-weight:bold">Sign up for TechPass and SEED(optional) via TechPass portal</summary>
 
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
@@ -62,7 +62,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 ## Step 2. Set up security verification for the WOG account
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">How to set up security verification for WOG account?</summary>
+  <summary style="font-size:20px;font-weight:bold">Set up security verification for WOG account</summary>
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>

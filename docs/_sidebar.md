@@ -3,8 +3,8 @@
 - [What's new](/whats-new/whats-new.md)
 **Get started**
 - [**Onboard to TechPass**](onboard-to-techpass.md)
-  - [Sign up for TechPass](onboard-public-officers-using-non-se-machines)
-  - [Get invited to TechPass](onboard-vendors-to-techpass)
+  - [Sign up and onboard to TechPass](onboard-public-officers-using-non-se-machines)
+  - [Get invited and onboard to TechPass](onboard-vendors-to-techpass)
 **Log in with TechPass**
 - [Log in as public officer](log-in-as-po)
 - [Log in as vendor](log-in-as-vendor)

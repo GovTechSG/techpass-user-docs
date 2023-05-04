@@ -1,6 +1,6 @@
-# Onboard to TechPass
+# Identify your onboarding flow
 
-The following chart helps you to identify how to onboard to TechPass.
+The following chart helps you to identify your TechPass onboarding flow.
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear'}} }%%

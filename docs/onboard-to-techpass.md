@@ -1,6 +1,5 @@
 # Onboard to TechPass
 
-
 The following chart helps you to identify how to onboard to TechPass.
 
 ```mermaid

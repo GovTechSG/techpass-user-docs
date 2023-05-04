@@ -1,7 +1,4 @@
-# Onboard to TechPass as public officers
-
-?> If you are a public officer using **SE-GSIB** device, create a [service request](https://go.gov.sg/techpass-sr) for TechPass provisioning.
-
+# Sign up and onboard to TechPass
 
 This article guides you to do the following:
 - [Sign up for TechPass and SEED(optional)](#step-1-sign-up-for-techpass-and-seedoptional).
@@ -9,15 +6,20 @@ This article guides you to do the following:
 - [Accept TechPass onboarding invitation](#step-3-accept-techpass-invitation).
 - [Onboard to TechPass account](#step-4-onboard-to-techpass).
 
+?> If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
+
 <!--You can use the [TechPass portal](http://portal.techpass.gov.sg) to do a self-service sign-up for a TechPass account. Alternatively, contact another public officer to send you the onboarding invitation emails via the [TechBiz Portal](https://portal.techbiz.suite.gov.sg).
 
 > **Tip**: If you are a public officer who is inviting others, refer to [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).-->
 
 ## Audience
 
-- Users who have a non-SE GSIB device and who have a WOG account. Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.
+- Users who have a non-SE GSIB device and have a WOG account. 
 
-Refer to the table in [Onboard to TechPass](onboard-to-techpass) to identify your TechPass onboarding persona.
+?> See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
+
+<!--
+Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
 
 ## Prerequisites
 
@@ -31,18 +33,14 @@ Refer to the table in [Onboard to TechPass](onboard-to-techpass) to identify you
 
 ## Step 1. Sign up for TechPass and SEED(optional)
 
-If your TechPass onboarding persona is a public officer, you can get TechPass provisioning in any one of the following ways:
-
-- Sign up from **TechPass portal**.
-- Another public officer from your project can invite you via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
-
-
 <details>
   <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass and SEED via TechPass portal?</summary>
 
   **To get onboarding invitation email(s)**
 
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+
+  ?> Alternatively, you can also get invited via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
   2. Enter your organisational **Email Address**.
 

@@ -20,6 +20,7 @@ To add a new word:
 **GFE**
 
 </a>
+
 Government Furnished Equipment.
 
 <a id="gmd">
@@ -41,54 +42,87 @@ Government Standard Image Build.
 
 <a id="internet-device">
 
-**Internet device**
+**Internet Device**
 
 </a>
 
 
-Device which is not a [GSIB](#gsib). This could be your personal device, or a device issued by your vendor or agency.
+Internet Device is not a [GSIB](#gsib). This could be your personal device, or a device issued by your vendor or agency.
 
-You must enroll this device with SEED (GovTech's MDM solution) in order to access SGTS resources, products and services that requires SEED.
+To access resources such as SGTS services and GCC via this device, you must onboard it to SEED (GovTech's MDM solution) .
+
+<a id="non-se-gsib">
 
 **non-SE GSIB**
 
+</a>
+
 If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN. You can access the internet and intranet using this device.
 
-**Note**<br>
-> You can't onboard this device to SEED.
+You can't onboard a GSIB device to SEED.
+
+<a id="se-gsib">
 
 **SE GSIB**
+
+</a>
 
 It is a Secured Email (SE) GSIB device. This GSIB device is assigned to public officers who handle sensitive and secret information.
 
 If you are using a SE GSIB device, you will be using your PS-Card to authenticate. You will not be able to access internet using this SE-GSIB device.
 
 **Note**<br>
->- You can't use this device to activate your TechPass account.
+>- You can't use this device to sign up and onboard your TechPass account.
 >- You can't onboard this device to SEED.
+
+<a id="seed">
 
 **SEED**
 
+</a>
+
 Security Suite for Engineering Endpoint Devices. This is the MDM solution offered by GovTech.
+
+<a id="techpass">
 
 **TechPass**
 
+</a>
+
 This is an Identity & Access Management (IAM) and  a single sign-on(SSO) solution to seamlessly access Singapore Government Technology Stack(SGTS) services.
 
+For more information on how to get a TechPass account and onboard to it, see [Onboard to TechPass](onboard-to-techpass.md). 
+
+<!--
 While public officers use their WOG credentials(organisational email address) to log in to their TechPass, vendors use their TechPass ID.
 
 If you are public officer and want to get a TechPass account, refer to [Create TechPass Account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-public-officers-using-non-se-machines)
 
 If you are a vendor, request the engaging agency or ministry to provide you with a TechPass account. For more information, refer to [Vendor onboarding to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-vendors-to-techpass).
+-->
+
+<a id="techpass-id">
 
 **TechPass ID**
-This is used to log in to your TechPass account.
 
+</a>
+
+Use this to log in to your TechPass account or access services using TechPass. 
+
+Depending on the organisational email address you used to sign up or get invited to TechPass, your TechPass ID can be your organisational email address or *your_name<span>@</span>techpass.gov.sg*.
+
+TechPass ID is sent to you to the email address you used to sign up or get invited to TechPass.
+
+<!-- 
 - For public officers, it is your WOG ID.
 - For vendors, it is *your_name<span>@</span>techpass.gov.sg*.
+-->
 
-**Whole of Government(WOG) ID or account**
 
-WOG ID is the email address belonging to the gov.sg domain. For example, *your_name<span>@</span>tech.gov.sg*.
+<a id="wog-account">
 
-Public officers who onboard to SEED must have a WOG ID or account. Note WOG ID and organisational email address are used interchangeably.
+**WOG account**
+
+</a>
+
+Whole of Government account or ID is the organisational email address of Public officers belonging to the *.gov.sg* domain. For example, *your_name<span>@</span>tech.gov.sg*.

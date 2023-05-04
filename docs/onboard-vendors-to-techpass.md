@@ -1,4 +1,4 @@
-# Onboard to TechPass as vendors
+# Get invited and onboard to TechPass
 
 If you are a vendor who needs TechPass and SEED provisioning for a project, contact your reporting officer. The reporting officer will then request the engaging agency to provision TechPass account and SEED for you.
 

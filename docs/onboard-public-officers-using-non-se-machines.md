@@ -1,6 +1,6 @@
 # Sign up and onboard to TechPass
 
-This article guides you to sign up for TechPass and activate it. See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
+This article guides you to sign up for TechPass via TechPass portal and activate it. See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
 
 <!--
 do the following:
@@ -68,7 +68,7 @@ You need the following to sign up and activate your TechPass account:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
-  >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQ](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 
   </details>
@@ -130,7 +130,7 @@ You need the following to sign up and activate your TechPass account:
   </details>
 
 
-?> Complete steps 3 and 4 within the same session.
+  ?> Complete steps 3 and 4 within the same session.
 
 ## Step 3. Accept TechPass invitation
 

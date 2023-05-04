@@ -26,7 +26,7 @@ Refer to the following table to identify your onboarding persona:
 | **Public officer** | Users who have a WOG account.<br><br>**Note**: Users who have a  ***_from*** in their email address are **NOT** public officers.  | - john_doe@cpf.gov.sg<br>- john_doe@hdb.gov.sg |
 -->
 
-**Next steps**
+## Next steps
 
 - [Sign up for TechPass](onboard-public-officers-using-non-se-machines)
 - [Get invited to TechPass](onboard-vendors-to-techpass)

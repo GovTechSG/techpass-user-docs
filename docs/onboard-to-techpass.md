@@ -37,8 +37,8 @@ Refer to the following table to identify your onboarding persona:
 
 ## Next steps
 
-- [Sign up for TechPass](onboard-public-officers-using-non-se-machines)
-- [Get invited to TechPass](onboard-vendors-to-techpass)
+- [Sign up and onboard to TechPass](onboard-public-officers-using-non-se-machines)
+- [Get invited and onboard to TechPass](onboard-vendors-to-techpass)
 
 
 

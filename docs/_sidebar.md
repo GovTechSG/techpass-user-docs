@@ -5,9 +5,8 @@
 - [Onboard to TechPass](onboard-to-techpass.md)
   - [Sign up and onboard](onboard-public-officers-using-non-se-machines)
   - [Get invited and onboard](onboard-vendors-to-techpass)
-**Log in with TechPass**
-- [Log in as public officer](log-in-as-po)
-- [Log in as vendor](log-in-as-vendor)
+**Verify TechPass login** 
+- [Log in with TechPass](log-in-with-techpass)
 **TechPass Portal**
 - [Request for SEED provisioning with an active TechPass ID](request-for-seed-provisioning)
 - [Register Intune device ID](register-intune-device-id)
@@ -21,6 +20,7 @@
 - [FAQ](/support/overview.md)
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)
+- [test](glossary)
 
 
 <!--

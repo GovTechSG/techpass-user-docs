@@ -1,22 +1,26 @@
 # Sign up and onboard to TechPass
 
-This article guides you to sign up for TechPass via TechPass portal and activate it. See the flow chart on [Onboard to TechPass](onboard-to-techpass) page to find if you can sign up for TechPass via the TechPass portal.
+This article guides you to sign up for TechPass via TechPass portal and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass via the TechPass portal.
+
+?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 ## Audience
 
-- Users who have a non-SE GSIB device and have a WOG account. 
-
-?> If you are a public officer using **SE-GSIB** device, submit a [service request](https://go.gov.sg/techpass-sr) to create your  TechPass account.
+Users who need TechPass account and have a non-SE GSIB device and a WOG account. 
 
 <!--
 Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
 
 ## Prerequisites
 
-You need the following to sign up and activate your TechPass account:
+You need the following to sign up for TechPass and complete the onboarding:
 
 - Non-SE GSIB device.
 - Standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
+- Your organisational email address.
+- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+
+?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
@@ -26,11 +30,7 @@ You need the following to sign up and activate your TechPass account:
 <details>
   <summary style="font-size:20px;font-weight:bold">How to sign up for TechPass and SEED via TechPass portal?</summary>
 
-  **To get onboarding invitation email(s)**
-
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
-
-  ?> Alternatively, you can also get invited via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
   2. Enter your organisational **Email Address**.
 
@@ -48,8 +48,7 @@ You need the following to sign up and activate your TechPass account:
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate the account.
-  >- This email is valid only for 30 days.
-  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account. If you still need the TechPass account, you can sign up again via the TechPass portal or request for it.
+  
   >
   > **If SEED provisioning is approved**:
   >- We'll send the SEED onboarding email within the next three business days.
@@ -68,8 +67,6 @@ You need the following to sign up and activate your TechPass account:
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 </div>
-
-  **To set up security verification for WOG account**
 
   1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
@@ -119,46 +116,49 @@ You need the following to sign up and activate your TechPass account:
 
 ?> Complete steps 3 and 4 within the same session.
 
-## Step 3. Accept TechPass invitation
+## Step 3. Accept invitation
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">Steps to accept invitation</summary>
+  <summary style="font-size:20px;font-weight:bold">Accept TechPass onboarding invitation</summary>
+
+<!--
 
 Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again.
-
-  **To accept TechPass invitation**
+-->
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
 
   ?> If you do not see this email in your inbox:<br>- check if it is the same email address you provided while signing up or in your request.<br>- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
-  2. Click **Accept invitation** and proceed with **Onboarding to TechPass**. If you are already signed in to your WOG account, it will direct you to **Review Permissions**.
+  2. Click **Accept invitation**.
 
   <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
 
+  If you are already signed in to your WOG account, you can view the **Review Permissions**.
 
-</details>
+  ?> If you are not signed in to your WOG account, you will be prompted to sign in to it first before proceeding further. 
 
-## Step 4. Onboard to TechPass
-<details>
-  <summary style="font-size:20px;font-weight:bold">How do I onboard to TechPass?</summary>
-
-  **To onboard to your TechPass account**
-
-  1. In **Review Permissions**, click **Accept**.
+  3. In **Review Permissions**, click **Accept**.
 
   <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
 
   ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
-  2. Click **Log in with TechPass**.
-  3. Click **Next**.
+  <!-- 4.  Click **Log in with TechPass**.  -->
+  4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
+  5. Click **Next** to configure and verify MFA for TechPass account.
 
   <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')</kbd>
 
-  4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
+  </details>
 
-  5. Choose one of the following options and click **Next**.
+  ## Step 4. Configure and verify MFA for TechPass account
+
+  <details>
+  <summary style="font-size:20px;font-weight:bold">Configure and verify MFA for TechPass account</summary>
+
+
+  1. Choose one of the following options and click **Next**.
 
     - If you do not have the Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and complete the wizard.
     - To use other authenticators, click **I want to use a different authenticator app**.
@@ -168,12 +168,12 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  6. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
-  7. Go back to your computer and click **Next**.
+  2. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+  3. Go back to your computer and click **Next**.
 
   <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
 
-  8. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
+  4. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
 
   <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
 
@@ -181,26 +181,32 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
     <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
 
-  9. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in.
+  5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
 
-  10. Click **Next**.
+  6. Click **Next**.
 
   <kbd>![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)</kbd>
 
-  11. When you see the success message, click **Done**.
+  7. When you see the success message, click **Done** to proceed to accept the Terms of Use.
 
   <kbd>![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)</kbd>
 
-  You will now be directed to the Terms of Use page.
+  </details>
 
-  12. Read the **Terms of Use** and click **Accept**.
-  13. Read the **Privacy Policy** and click **Accept**.
-  14. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
+  ## Step 5. Accept Privacy Policy and Terms of Use
+
+  <details>
+  <summary style="font-size:20px;font-weight:bold">Read and accept the Terms of Use</summary>
+
+    1. Read the **Privacy Policy** and click **Accept**.
+    2. Read the **Terms of Use** and click **Accept**.
+    3. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
   
-  You have now successfully onboarded to TechPass. You can now proceed to onboard your Internet Device to SEED.
+  You have now successfully onboarded to your TechPass account. If you need to onboard your Internet Device to SEED, you can proceed now.
 
-?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
+?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
+
 
 </details>
 

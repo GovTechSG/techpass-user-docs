@@ -1,55 +1,58 @@
 # Get invited and onboard to TechPass
 
-If you are a vendor who needs TechPass and SEED provisioning for a project, contact your reporting officer. The reporting officer will then request the engaging agency to provision TechPass account and SEED for you.
+This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.  
 
-?> You need SEED provisioning to access SGTS services via your Internet Device.
+?> **Note**<br>- Alternatively, public officers with a non-SE GSIB devices can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass account. For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
-
+<!--
 This article guides vendors to do the following:
 - [Request for TechPass account and SEED provisioning](#step-1-request-for-techpass-account-and-seed-provisioning).
 - [Sign in to TechPass using initial password](#step-2-sign-in-using-initial-password).
 - [Configure and verify MFA for vendor TechPass account](#step-3-configure-and-verify-mfa-for-techpass-account)
 - [Reset initial password](#step-4-reset-initial-password).
 
+-->
+
 ## Audience
 
-- Vendors
-
-Refer to the table in [Onboard to TechPass](onboard-to-techpass) to identify your TechPass onboarding persona.
+Users who need a TechPass account but do not have a WOG account or a non-SE GSIB device.
 
 ## Prerequisites
 
-- You need a standard mailbox for the your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
-- Organisational email address provided by your vendor organisation. 
-- You can't use your personal email address such as john_doe@hotmail.com, john_doe@gmail.com and john_doe@yahoo.com while requesting for a TechPass account.
-- To onboard to TechPass, you must have received the TechPass onboarding email.
+You need the following to get invited to TechPass and complete the onboarding:
+
+- A standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.
+- Your organisational email address provided by your organisation. 
+- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+
+?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
 ## Step 1. Request for TechPass account and SEED provisioning
 
-<details> <summary style="font-size:20px;font-weight:bold"> How to get a TechPass account and request for SEED provisioning?</summary>
+<details><summary style="font-size:20px;font-weight:bold">How to get a TechPass account and request for SEED provisioning?</summary>
 
-1. Contact your project manager or reporting officer to request for TechPass account and SEED provisioning.
+1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
-2. Provide the required details in this request such as your organisational email address provided by your vendor organisation, mobile phone number and project name.
+!> You need SEED provisioning to access SGTS and GCC 2.0 resources via an Internet Device.
 
-3. If you need SEED, provide your device details.
+2. Provide the required details in this request such as your organisational email address, mobile phone number and project name.
+
+3. Project manager or the reporting officer contacts the sponsoring agency or the tenant admin to invite you to TechPass.
+
+<!--3. If you are requesting for SEED provisioning, provide the details of your Internet Device.
 
 Your project manager or reporting officer will work with the sponsoring government agency to provide the requested services.
-
+-->
 
 > **Additional information**:
   >
-  > **If TechPass provisioning
-  is approved**
+  > **When you are invited to TechPass**
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate the account.
-  >- This email is valid only for 30 days.
-  >- TechPass onboarding email will contain your TechPass username.
-  >- The initial password for your TechPass account is texted to your mobile phone. If you have lost or forgotten your initial password, please create a [support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
-  >- If you do not activate your TechPass within 30 days, we will send an email and then terminate your TechPass account. If you still need TechPass, you need to request again.
+  
   >
   > **If SEED provisioning is approved**:
   >- We'll send the SEED onboarding email within the next three business days.
@@ -64,10 +67,10 @@ Your project manager or reporting officer will work with the sponsoring governme
 
 <details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass using your TechPass username and initial password</summary>
 
- 1. Go to the appropriate Docs portal environment to **Log in with TechPass**.
+ 1. Go to the required Docs portal environment and click **Login**.
 
-   - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
-   - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
+    - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
+    - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
 
   2. Enter your TechPass username and click **Next**.
 
@@ -96,8 +99,8 @@ Your project manager or reporting officer will work with the sponsoring governme
   > **Note**
   > You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
 
-  3. On your mobile device, open Microsoft **Authenticator** and tap **+ Add account** > **Work or School account**.
-  4. Tap **Scan a QR code**.
+  3. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+  4. Select **Scan a QR code**.
   5. Go back to your computer and click **Next**.
 
   <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)</kbd>
@@ -111,7 +114,7 @@ Your project manager or reporting officer will work with the sponsoring governme
 
    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
   
-  7. On the Authenticator app, enter the number shown, and tap **Yes** to authenticate your sign-in. 
+  7. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in. 
    
    <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)</kbd>
 
@@ -145,23 +148,22 @@ Your project manager or reporting officer will work with the sponsoring governme
 
   1. Enter your **initial password**, **new password** and retype the new password to confirm.  
 
-  2. Click **Sign in** to proceed with the Terms of Use.
+  2. Click **Sign in** to proceed to accept the Terms of Use.
 
   <kbd>![vendor-mfa-9](assets/support/vendor-update-initial-password.png)</kbd>
 </details>
 
-## Step 5. Accept Terms of Use, Privacy Policy and MDM-Acceptable Use Policy
+## Step 5. Accept Privacy Policy and Terms of Use
 
-<details><summary style="font-size:20px;font-weight:bold"> Steps to accept the Terms of Use, privacy policy and MDM-acceptable use policy for SEED</summary>
+<details><summary style="font-size:20px;font-weight:bold"> Read and accept the Terms of Use</summary>
 
-  1. Read the **Terms of Use** and click **Accept**.
-  2. Read the **Privacy Policy** and click **Accept**. 
+  1. Read the **Privacy Policy** and click **Accept**.
+  2. Read the **Terms of Use** and click **Accept**.
   3. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
+  You have now successfully onboarded to your TechPass account. If you need to onboard your Internet Device to SEED, you can proceed now.
 
-  You have now successfully onboarded TechPass. You can now proceed to onboard your Internet Device to SEED.
-
-  ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
+?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
 
 </details>
 

@@ -1,13 +1,13 @@
 # Log in with TechPass
 
-This article guides you how to verify the following:
+This article tells you how to:
  
  - [Log in to a service using your TechPass account](#log-in-to-a-service-using-your-techpass-account).
  - [Log in to TechPass portal](#log-in-to-techpass-portal).
 
 ## Log in to a service using your TechPass account
 
-This section guides you how to verify if you can access services and products which use TechPass as their SSO.
+This section guides you how to access services and products which use TechPass as their IAM.
 
 1. Go to the portal or home page of the required service. 
 2. Click **Login with TechPass**.
@@ -31,7 +31,9 @@ You have now successfully logged in to the service using your TechPass account.
 
 ## Log in to TechPass portal
 
-This section guides you how to verify if authorised users can access TechPass portal.
+TechPass users who have a non-SE GSIB device can log in to TechPass portal. 
+
+**To access TechPass portal**
 
 1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg/).
 2. Click **Login with TechPass**.

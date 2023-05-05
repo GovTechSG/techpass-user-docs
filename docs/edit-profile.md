@@ -6,11 +6,11 @@ TechPass users can edit their TechPass profile anytime by logging into the TechP
 
 ## Audience
 
-TechPass users.
+TechPass users who can access TechPass portal.
 
 ## Prerequisites
 
-You need the following to edit your TechPass profile via TechPass portal:
+You need the following to edit your TechPass profile via the TechPass portal:
 
 - An active TechPass account.
 - A non-SE GSIB device.

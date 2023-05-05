@@ -59,7 +59,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   </details>
 
-## Step 2. Set up security verification for the WOG account
+## Step 2. Configure and verify MFA for the WOG account
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Set up security verification for WOG account</summary>
@@ -155,7 +155,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   ## Step 4. Configure and verify MFA for TechPass account
 
   <details>
-  <summary style="font-size:20px;font-weight:bold">Configure and verify MFA for TechPass account</summary>
+  <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
 
 
   1. Choose one of the following options and click **Next**.

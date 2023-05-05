@@ -80,7 +80,7 @@ Your project manager or reporting officer will work with the sponsoring governme
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details> <summary style="font-size:20px;font-weight:bold"> Configure and verify MFA for TechPass account</summary>
+<details> <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
   

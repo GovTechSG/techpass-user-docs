@@ -2,27 +2,29 @@
 
 This article guides you how to reset your WOG(SGGovt M365) MFA.
 
-**Audience**
+## Audience
 
-- Users who have a WOG profile(account)
-- If you have a TechPass account and its domain is not ```techpass.gov.sg```.
+Users who have a WOG profile(account) may want to reset the MFA of their WOG account for any of the following reasons:
 
->**Note**:
->
->- You must [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.
->
->- When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
->
->- If you have changed your mobile phone, use your new device to complete these steps. 
+- Changed mobile phone.
+- Lost mobile phone.
+- Deleted the Authenticator app from the mobile phone.
+- Change in the organisational email address linked to the WOG account.
 
-**Preqrequisites** 
 
-If you have changed the mobile phone and want to reset your WOG MFA on the new mobile phone:
+<!--
+?>**Note**<br>- You must [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.<br><br>- When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.<br><br>- If you have changed your mobile phone, use your new device to complete these steps. 
+-->
+
+## Prerequisites
+
+Following are required to reset MFA for WOG account: 
 
 - You must have the old mobile phone.
 - You must be able to authenticate your WOG login using the old mobile phone.
+- If you have lost your old mobile phone, formatted the old phone(factory reset),or unable to authenticate your log in using the old mobile phone, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account.
 
-If you have lost your old mobile phone, formatted the old phone(factory reset),or unable to authenticate your log in using the old mobile phone, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account.
+
 
 
  <!--Public officers might have to reset security verification for their WOG account in the following cases:
@@ -32,7 +34,7 @@ If you have lost your old mobile phone, formatted the old phone(factory reset),o
 - Deleted the Authenticator app from their mobile device.
 - If public officers are transferred to a different agency, they can sign up for a new TechPass account while the old account to be terminated by their previous agency-->
 
-  _To reset MFA for WOG account:_
+### To reset MFA for WOG account
 
 1. Go to [Microsoft Additional security verification](https://account.activedirectory.windowsazure.com/proofup.aspx). 
 
@@ -46,7 +48,9 @@ If you have lost your old mobile phone, formatted the old phone(factory reset),o
 
 4. After it is removed, go to your Authenticator app on your old mobile phone and remove the existing MFA for your WOG account(SG Govt M365).
 
-> **Note**: This removes the MFA settings for the WOG account from the old mobile phone.
+?> If you have lost your old mobile phone, formatted the old phone(factory reset),or unable to authenticate your log in using the old mobile phone, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account.
+
+This removes the MFA settings for the WOG account from the old mobile phone.
 
 5. Select **Authenticator app or Token** and click **Set up Authenticator app**.
 
@@ -72,3 +76,7 @@ When your activation status is confirmed, a notification is sent to your new mob
 10. When you approve the verification sent, a success message is displayed. Click **Close**.
 
 <kbd>![](assets/images/security-verification-for-wog/reset-wog-mfa/reset-successful.png)</kbd>
+
+
+
+

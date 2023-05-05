@@ -37,6 +37,8 @@ Refer to the following table to identify your onboarding persona:
 
 ## Next steps
 
+Refer to the onboarding flow that is applicable to you.
+
 - [Sign up and onboard to TechPass](onboard-public-officers-using-non-se-machines)
 - [Get invited and onboard to TechPass](onboard-vendors-to-techpass)
 

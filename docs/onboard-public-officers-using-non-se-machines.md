@@ -1,6 +1,7 @@
 # Onboard to TechPass using non-SE GSIB machines
 
-This content has move to [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass)
+This content has moved to [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass).
+
 
 <!--
 This article guides you to sign up for TechPass via TechPass portal and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass via the TechPass portal.
@@ -207,7 +208,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 </details>
 
 
-<!--
+
 
 > **Note**:<br>
   > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
@@ -229,4 +230,3 @@ You need the following to sign up for TechPass and complete the onboarding:
 
     -->
 
-    -->

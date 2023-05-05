@@ -17,7 +17,7 @@ Following are the prerequisites to register Intune device ID on TechPass portal:
 - Complete setting up of Microsoft Intune on the Internet Device.
 - Intune Device ID of the Internet Device.
 
-**To register Intune device ID**
+### To register Intune device ID
 
 1. Using your non-SE GSIB device, log in to the [TechPass portal](https://portal.techpass.gov.sg).
 2. Hover over your account name and click **My Account**.

@@ -27,7 +27,7 @@ The following table tells who can complete the steps mentioned in this article t
 | Vendor | Internet Device (not a GSIB) | Yes | *techpass.gov.sg*| Contact your project manager or reporting officer to request for SEED provisioning. |
 -->
 
-**To request for SEED provisioning**
+### To request for SEED provisioning
 
 1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
 2. Sign in to your TechPass account.

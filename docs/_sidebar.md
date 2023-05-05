@@ -3,8 +3,8 @@
 - [What's new](/whats-new/whats-new.md)
 **Getting started**  
 - [Onboard to TechPass](onboard-to-techpass.md)
-  - [Sign up and onboard](sign-up-and-onboard-to-TechPass.md)
-  - [Get invited and onboard](get-invited-and-onboard-to-TechPass)
+  - [Sign up and onboard](sign-up-and-onboard-to-techpass)
+  - [Get invited and onboard](get-invited-and-onboard-to-techpass)
 **Verify TechPass login** 
 - [Log in with TechPass](log-in-with-techpass)
 **TechPass Portal**

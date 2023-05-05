@@ -1,5 +1,22 @@
 # Request for SEED provisioning using TechPass portal
 
+This article guides how an **existing TechPass user** can request for SEED provisioning. 
+
+## Audience
+
+TechPass users with a non-SE GSIB device and need SEED provisioning to onboard their Internet Device to SEED.
+
+?> **Note**<br>- If you are a SE-GSIB user, submit a [service request](https://go.gov.sg/techpass-sr) to request for SEED provisioning.<br>- Other users need to contact their project manager or reporting officer to request for SEED provisioning.
+
+## Prerequisites
+
+Following are the prerequisites to request for SEED provisioning via TechPass portal:
+
+- An active TechPass account.
+- A non-SE GSIB device.
+
+<!--
+
 The following table tells who can complete the steps mentioned in this article to request for SEED provisioning using the TechPass portal.
 
  | User  | Device | Active TechPass | TechPass ID's domain format | Request for SEED provisioning |
@@ -8,19 +25,12 @@ The following table tells who can complete the steps mentioned in this article t
 | Public officer | SE GSIB | Yes| *@\<acronym-for-your-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*. | Create a [service request](https://go.gov.sg/techpass-sr) |
 | Vendor | non-SE GSIB | Yes | *_from.\<vendor-name\>@\<acronym-for-your-engaging-agency\>.gov.sg*. <br><br>For example, *tech.gov.sg*.| [TechPass portal](https://portal.techpass.gov.sg) |
 | Vendor | Internet Device (not a GSIB) | Yes | *techpass.gov.sg*| Contact your project manager or reporting officer to request for SEED provisioning. |
+-->
 
-*To request for SEED provisioning*
+**To request for SEED provisioning**
 
 1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
 2. Sign in to your TechPass account.
-<kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
-
-You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
-
- <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
-
-3. On the Authenticator app, enter the number shown, and tap **Yes**. 
-
 4. Hover over your account name and click **My Account**.
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
@@ -29,4 +39,15 @@ You will now be prompted to approve your TechPass sign-in. A number will be show
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
-?> Note:  If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.
+?> If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.
+
+
+<!--
+<kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
+
+ You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
+
+ <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
+
+3. On the Authenticator app, enter the number shown, and tap **Yes**. 
+-->

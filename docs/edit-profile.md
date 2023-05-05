@@ -1,15 +1,39 @@
-# Edit profile
+# Edit your TechPass profile
 
-TechPass users can edit their TechPass profile anytime by logging into the TechPass portal using non-SE GSIB device.
+TechPass users can edit their TechPass profile anytime by logging into the TechPass portal.
 
-> **Note**
-> Create a [service request](https://go.gov.sg/techpass-sr) with us to update your profile details:
->- If you are a public officer with a SE GSIB device.
->- If you are a vendor whose TechPass ID's domain is *techpass.gov.sg*.
+?> Users who don't have access to TechPass portal, create a [service request](https://go.gov.sg/techpass-sr) with us to update your profile details.
 
-_To edit your profile:_
+## Audience
 
-1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+TechPass users.
+
+## Prerequisites
+
+You need the following to edit your TechPass profile via TechPass portal:
+
+- An active TechPass account.
+- A non-SE GSIB device.
+
+### To edit your TechPass profile
+
+1. From your non-SE GSIB device, log in to [TechPass portal](https://portal.techpass.gov.sg).
+
+2. Hover over your account name and click **My Account**.
+
+<kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
+
+3. Click **Edit Profile**.
+
+<kbd>![edit-account](assets/images/onboarding/po-non-se/edit-profile-new.png)</kbd>
+
+4. Make the required changes and click **Save**.
+
+<kbd>![save-account](assets/images/onboarding/po-non-se/save-profile.png)</kbd>
+
+?> If you need to edit your email address, create a [service request](https://go.gov.sg/techpass-sr) with us.
+
+<!--
 2. Sign in to your TechPass account.
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
 
@@ -21,17 +45,4 @@ You will now be prompted to approve your TechPass sign-in. A number will be show
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
 3. On the Authenticator app, enter the number shown, and tap **Yes**.
-
-4. Hover over your account name and click **My Account**.
-
-<kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
-
-5. Click **Edit Profile**.
-
-<kbd>![edit-account](assets/images/onboarding/po-non-se/edit-profile-new.png)</kbd>
-
-6. Make the required changes and click **Save**.
-
-<kbd>![save-account](assets/images/onboarding/po-non-se/save-profile.png)</kbd>
-
-?> Public officers cannot edit their email address.
+-->

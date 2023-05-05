@@ -2,11 +2,11 @@
 
 This article guides you to sign up for TechPass via the TechPass portal and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass via the TechPass portal.
 
-?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
-
 ## Audience
 
-Users who need TechPass account and have a non-SE GSIB device and a WOG account. 
+Users with a WOG account and needs TechPass.
+
+?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 <!--
 Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
@@ -15,9 +15,9 @@ Their organisational email address should be in the format of *\<your_name\>@\<a
 
 You need the following to sign up for TechPass and complete the onboarding:
 
-- Non-SE GSIB device.
-- Standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
-- Your organisational email address.
+- A non-SE GSIB device.
+- Organisational email address.
+- A standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
 ?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
@@ -28,7 +28,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 ## Step 1. Sign up for TechPass
 
 <details>
-  <summary style="font-size:20px;font-weight:bold">Sign up for TechPass and SEED(optional) via TechPass portal</summary>
+  <summary style="font-size:20px;font-weight:bold">Sign up for TechPass via TechPass portal</summary>
 
   1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
@@ -38,16 +38,16 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   !> You need SEED provisioning to access SGTS and GCC 2.0 resources via an Internet Device.
 
-  <kbd>![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)</kbd>
+  ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
-  4. Click **Submit** to receive the onboarding invitation email(s).
+  4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you will receive two onboarding invitation emails.
 
   > **Additional information**:
   >
   > **If TechPass provisioning
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account.
+  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
   
   >
   > **If SEED provisioning is approved**:
@@ -59,7 +59,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   </details>
 
-## Step 2. Configure and verify MFA for the WOG account
+## Step 2. Configure MFA for the WOG account
 
 <details>
   <summary style="font-size:20px;font-weight:bold">Set up security verification for WOG account</summary>
@@ -68,11 +68,11 @@ You need the following to sign up for TechPass and complete the onboarding:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 </div>
 
-  1. From your non-SE GSIB device, go to [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+  1. From your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
   2. If prompted to sign in:
   
-      a. Use your organisational email address and GSIB device password.
+      a. Use your organisational email address and device password.
 
       b. Click **Next** to provide additional information for your account.
 
@@ -80,36 +80,36 @@ You need the following to sign up for TechPass and complete the onboarding:
   
   4. Choose your preferred authenticating method, and click **Set up**. 
 
-  <kbd>![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)</kbd>
+  ![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)
 
   ?> Do not close this page on your computer.
 
   5. Follow the on-screen instructions on the **Configure mobile app** page.
-  <kbd>![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)</kbd>
+  ![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)
 
   You are now redirected to Step 1 of **Additional security verification**.
   
   6. Confirm your Authenticator app is configured before clicking **Next**.
 
-  <kbd>![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)</kbd>
+  ![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)
 
   You are now directed to Step 2 of **Additional security verification**. A notification is sent to your Authenticator app.
   
   8. Approve the notification on your Authenticator app to confirm that you are reachable on this mobile phone.
 
- <kbd>![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)</kbd>
+ ![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)
 
  When the notification is successfully approved, you will see the following page on your computer.
 
- <kbd>![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)</kbd>
+ ![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)
 
  7. Click **Done**.
 
- <kbd>![step2-done](assets/images/security-verification-for-wog/step2-done.png)</kbd>
+ ![step2-done](assets/images/security-verification-for-wog/step2-done.png)
   
  8. The **Profile** page is displays your WOG profile under **Organizations**.
 
- <kbd>![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)</kbd>
+ ![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)
   
   </details>
 
@@ -132,7 +132,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   2. Click **Accept invitation**.
 
-  <kbd>![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)</kbd>
+  ![accept-invitation](assets/images/onboarding/po-non-se/accept-invitation.png)
 
   If you are already signed in to your WOG account, you can view the **Review Permissions**.
 
@@ -140,7 +140,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   3. In **Review Permissions**, click **Accept**.
 
-  <kbd>![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')</kbd>
+  ![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')
 
   ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
@@ -148,7 +148,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
   4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
   5. Click **Next** to configure and verify MFA for TechPass account.
 
-  <kbd>![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')</kbd>
+  ![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')
 
   </details>
 
@@ -164,32 +164,32 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
     - To use other authenticators, click **I want to use a different authenticator app**.
     - To use other methods, click **I want to set up a different method**.
 
-    <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)</kbd>
+    <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)
 
   ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
   2. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
   3. Go back to your computer and click **Next**.
 
-  <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
+  ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
 
   4. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
 
-  <kbd>![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)</kbd>
+  ![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)
 
   A number is shown on your computer screen.
 
-    <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
+  ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
 
   5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
 
   6. Click **Next**.
 
-  <kbd>![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)</kbd>
+  ![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)
 
   7. When you see the success message, click **Done** to proceed to accept the Terms of Use.
 
-  <kbd>![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)</kbd>
+  ![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)
 
   </details>
 

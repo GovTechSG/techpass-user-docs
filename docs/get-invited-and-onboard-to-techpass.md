@@ -2,7 +2,7 @@
 
 This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.  
 
-?> **Note**<br>- Alternatively, public officers with a non-SE GSIB devices can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass account. For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?> **Note**<br>- Alternatively, public officers with a non-SE GSIB devices can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass account. <br>- For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 
 ## Audience
@@ -13,8 +13,8 @@ Users who need a TechPass account but do not have a WOG account or a non-SE GSIB
 
 You need the following to get invited to TechPass and complete the onboarding:
 
+- Your organisational email address provided by your organisation.
 - A standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.
-- Your organisational email address provided by your organisation. 
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
 ?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
@@ -43,7 +43,7 @@ Your project manager or reporting officer will work with the sponsoring governme
   >
   > **When you are invited to TechPass**
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account.
+  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
   
   >
   > **If SEED provisioning is approved**:
@@ -66,15 +66,15 @@ Your project manager or reporting officer will work with the sponsoring governme
 
   2. Enter your TechPass username and click **Next**.
 
-    <kbd>![vendor-sign-in-1](assets/support/Vendor_email.png)</kbd>
+    ![vendor-sign-in-1](assets/support/Vendor_email.png)
 
   3. Enter the initial password and click **Sign in**.
 
-    <kbd>![vendor-initial-pwd](assets/support/vendor-initial-password.png)</kbd>
+    ![vendor-initial-pwd](assets/support/vendor-initial-password.png)
 
   4. Click **Next** to configure MFA for your TechPass account. 
 
-   <kbd>![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')</kbd>
+   ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
 
   </details>
 
@@ -86,7 +86,7 @@ Your project manager or reporting officer will work with the sponsoring governme
   
   2. Click **Next** on your computer. 
 
-    <kbd>![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)</kbd>
+    ![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)
 
   > **Note**
   > You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
@@ -95,41 +95,41 @@ Your project manager or reporting officer will work with the sponsoring governme
   4. Select **Scan a QR code**.
   5. Go back to your computer and click **Next**.
 
-  <kbd>![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)</kbd>
+  ![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)
 
   6. Scan the QR code on your computer screen and click **Next**. 
   
   Your TechPass account gets activated and is now linked to the authenticator app.
-    <kbd>![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)</kbd>     
+    ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
   
   A number is shown on your browser.
 
-   <kbd>![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)</kbd>
+   ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
   
   7. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in. 
    
-   <kbd>![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)</kbd>
+   ![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)
 
   8. On your computer, click **Next**.
   9. Choose the country code, enter your mobile phone number and click **Next**.
   
-  <kbd>![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)</kbd>
+  ![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)
 
   You will receive a six-digit code on this phone number. 
 
   10. Enter the six-digit code and click **Next**.
 
-  <kbd>![vendor-mfa-7](assets/support/vendor-mfa-7-new.png)</kbd>
+  ![vendor-mfa-7](assets/support/vendor-mfa-7-new.png)
 
   Now your mobile phone is registered successfully to this account.
 
   11. Click **Next**.
 
-  <kbd>![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)</kbd>  
+  ![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)  
 
   11. When you see a success message, click **Done**.
 
-  <kbd>![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)</kbd>
+  ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
   Now you will be prompted to reset your initial password.
 </details>
@@ -142,7 +142,7 @@ Your project manager or reporting officer will work with the sponsoring governme
 
   2. Click **Sign in** to proceed to accept the Terms of Use.
 
-  <kbd>![vendor-mfa-9](assets/support/vendor-update-initial-password.png)</kbd>
+  ![vendor-mfa-9](assets/support/vendor-update-initial-password.png)
 </details>
 
 ## Step 5. Accept Privacy Policy and Terms of Use

@@ -40,7 +40,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 2. Provide the required details in this request such as your organisational email address, mobile phone number and project name.
 
-3. Project manager or the reporting officer contacts the sponsoring agency or the tenant admin to invite you to TechPass.
+   Project manager or the reporting officer contacts the sponsoring agency or the tenant admin to invite you to TechPass.
 
 <!--3. If you are requesting for SEED provisioning, provide the details of your Internet Device.
 

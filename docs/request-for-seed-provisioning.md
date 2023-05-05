@@ -35,11 +35,11 @@ The following table tells who can complete the steps mentioned in this article t
 
 <kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
 
-5. To request for SEED, click **Request for SEED** under **SEED Status**.
+5. To request for SEED, click **Request for SEED**.
 
 <kbd>![request-for-seed](assets/images/seed/request-for-seed.png)</kbd>
 
-?> If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.
+?> **Note**<br>-If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.<br>- Before you proceed to onboard your Internet Device to SEED, refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
 
 
 <!--

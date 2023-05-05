@@ -8,7 +8,7 @@
 **Verify TechPass login** 
 - [Log in with TechPass](log-in-with-techpass)
 **TechPass Portal**
-- [Request for SEED provisioning with an active TechPass ID](request-for-seed-provisioning)
+- [Request for SEED provisioning](request-for-seed-provisioning)
 - [Register Intune device ID](register-intune-device-id)
 - [Edit TechPass profile](edit-profile)
 **Reset MFA**

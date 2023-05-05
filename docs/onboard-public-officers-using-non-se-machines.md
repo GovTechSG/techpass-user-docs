@@ -1,5 +1,8 @@
-# Sign up and onboard to TechPass
+# Onboard to TechPass using non-SE GSIB machines
 
+This content has move to [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass)
+
+<!--
 This article guides you to sign up for TechPass via TechPass portal and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass via the TechPass portal.
 
 ?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass via [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
@@ -7,9 +10,6 @@ This article guides you to sign up for TechPass via TechPass portal and onboard 
 ## Audience
 
 Users who need TechPass account and have a non-SE GSIB device and a WOG account. 
-
-<!--
-Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
 
 ## Prerequisites
 
@@ -121,10 +121,6 @@ You need the following to sign up for TechPass and complete the onboarding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Accept TechPass onboarding invitation</summary>
 
-<!--
-
-Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again.
--->
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
 
@@ -144,7 +140,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
-  <!-- 4.  Click **Log in with TechPass**.  -->
+ 
   4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
   5. Click **Next** to configure and verify MFA for TechPass account.
 
@@ -230,5 +226,7 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 
   
 - Organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg* .
+
+    -->
 
     -->

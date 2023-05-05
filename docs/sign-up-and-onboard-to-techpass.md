@@ -4,7 +4,7 @@ This article guides you to sign up for TechPass via the TechPass portal and onbo
 
 ## Audience
 
-Users with a WOG account and needs TechPass.
+Users with a WOG account who needs a TechPass account.
 
 ?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 

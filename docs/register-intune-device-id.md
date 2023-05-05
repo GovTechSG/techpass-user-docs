@@ -22,22 +22,22 @@ Following are the prerequisites to register Intune device ID on TechPass portal:
 1. Using your non-SE GSIB device, log in to the [TechPass portal](https://portal.techpass.gov.sg).
 2. Hover over your account name and click **My Account**.
 
-<kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
+![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
 
 3. Click **Onboard device to SEED**.
 
-<kbd>![onboard-device-to-seed](assets/images/seed/licence-assigned-onboard-device.png)</kbd>
+![onboard-device-to-seed](assets/images/seed/licence-assigned-onboard-device.png)
 
 The **SEED - Onboard Device** dialog is displayed.
 
 4. **Enter the Intune Device ID** without any spaces .
 
-<kbd>![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)</kbd>
+![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)
 
 5. Click **Submit**.
 
 After you submit the Intune device ID, the following success message is displayed.
 
-<kbd>![onboard-device-success](assets/images/seed/onboard-device-success.png)</kbd>
+![onboard-device-success](assets/images/seed/onboard-device-success.png)
 
-?> **Note**<br>- It might take up to 60 minutes for Intune to update your device with the required software and configurations. During this time, the device onboarding status is **Pending**.<br>- After the device is updated with all the required software and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.<br>- Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/post-onboarding-instructions/post-onboarding-steps-and-verification) and complete the post onboarding instructions for SEED.<br>- If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/gcc-1.0-users).
+>**Note**<br>- It might take up to 60 minutes for Intune to update your device with the required software and configurations. During this time, the device onboarding status is Pending.<br>- After the device is updated with all the required software and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.<br>- Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/post-onboarding-instructions/post-onboarding-steps-and-verification) and complete the post onboarding instructions for SEED.<br>- If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/gcc-1.0-users).

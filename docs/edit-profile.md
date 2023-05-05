@@ -21,15 +21,15 @@ You need the following to edit your TechPass profile via the TechPass portal:
 
 2. Hover over your account name and click **My Account**.
 
-<kbd>![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)</kbd>
+![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
 
 3. Click **Edit Profile**.
 
-<kbd>![edit-account](assets/images/onboarding/po-non-se/edit-profile-new.png)</kbd>
+![edit-account](assets/images/onboarding/po-non-se/edit-profile-new.png)
 
 4. Make the required changes and click **Save**.
 
-<kbd>![save-account](assets/images/onboarding/po-non-se/save-profile.png)</kbd>
+![save-account](assets/images/onboarding/po-non-se/save-profile.png)
 
 ?> If you need to edit your email address, create a [service request](https://go.gov.sg/techpass-sr) with us.
 

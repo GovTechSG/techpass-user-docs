@@ -9,6 +9,8 @@ This article tells you how to:
 
 This section guides you how to access services and products which use TechPass as their IAM.
 
+**To log in to a service using TechPass account**
+
 1. Go to the portal or home page of the required service. 
 2. Click **Login with TechPass**.
 3. Sign in to your TechPass account or choose the required TechPass account.
@@ -33,7 +35,7 @@ You have now successfully logged in to the service using your TechPass account.
 
 TechPass users who have a non-SE GSIB device can log in to TechPass portal. 
 
-**To access TechPass portal**
+**To log in to TechPass portal**
 
 1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg/).
 2. Click **Login with TechPass**.

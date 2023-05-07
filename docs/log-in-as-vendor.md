@@ -18,6 +18,5 @@ You will now be prompted to approve your TechPass sign-in. A number is shown on 
 
  <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
-4. On the Authenticator app, enter the number shown, and tap **Yes**.
+4. On the Authenticator app, enter the number shown, and select **Yes**.
 
-?> To log out of TechPass, click **Log Out** and confirm which account you would like to log out.

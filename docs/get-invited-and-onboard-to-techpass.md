@@ -43,7 +43,7 @@ Your project manager or reporting officer will work with the sponsoring governme
   >
   > **When you are invited to TechPass**
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days. This will have your TechPass log in ID. 
+  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days and will have your TechPass account or log in ID. 
   >- Your TechPass log in ID's domain will be ``techpass.gov.sg```.
   
   >

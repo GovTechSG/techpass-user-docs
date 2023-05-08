@@ -2,7 +2,7 @@
 
 This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.  
 
-?> **Note**<br>- Alternatively, public officers with a non-SE GSIB devices can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass account. <br>- For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED(optional) provisioning. <br>- For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 
 ## Audience
@@ -43,7 +43,8 @@ Your project manager or reporting officer will work with the sponsoring governme
   >
   > **When you are invited to TechPass**
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
+  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days. This will have your TechPass log in ID. 
+  >- Your TechPass log in ID's domain will be ``techpass.gov.sg```.
   
   >
   > **If SEED provisioning is approved**:
@@ -158,6 +159,10 @@ Your project manager or reporting officer will work with the sponsoring governme
 ?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
 
 </details>
+
+### Next step
+
+- [Verify TechPass login](log-in-with-techpass#log-in-to-a-service-using-your-techpass-account)
 
 
 <!--

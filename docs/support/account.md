@@ -7,7 +7,7 @@ If you are a vendor, your TechPass account will be locked after continuous unsuc
 <kbd>![temp-locked-account](../assets/images/temp_locked-account.png ':size=500')</kbd>
 
 > **Note**:
-> If you are unable to unlock your account by resetting password, create a [TechPass support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
+> If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/techpass-sr).
 
 If you are a public officer, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
@@ -63,7 +63,7 @@ When you sign up or request for a TechPass account, it is created and we will se
 
 The TechPass onboarding invitation is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. You will be notified when your account is terminated.   
 
-> **Note**:  This is different from disabled TechPass account.
+> **Note**: This is different from disabled TechPass account.
 
 <hr/></details><br>
 
@@ -89,7 +89,7 @@ If you use a non-SE GSIB device and if your TechPass account is active, to reque
 2. Log in with TechPass.
 3. Hover over your user name and click **My Account**.
 4. In the **Profile** page, click **Request for SEED**.
-5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your internet device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
+5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your Internet Device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
 
 If you do not use a non-SE GSIB device and if your TechPass account is active, [create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again. 
 

@@ -5,7 +5,7 @@ TechPass users need to reset MFA if they:
 - Change their mobile phone.
 - Delete Authenticator app from their mobile phone.
 
-Users whose TechPass domain is ```techpass.gov.sg```,  will only have TechPass profile(account) and must [Reset TechPass MFA](reset-techpass-mfa-for-new-device) when needed.
+Users whose TechPass domain is ```techpass.gov.sg```, will only have TechPass profile(account) and must [Reset TechPass MFA](reset-techpass-mfa-for-new-device) when needed.
 
 Users whose TechPass domain is not ```techpass.gov.sg``` will have two profiles(accounts) - SGGovt M365(WOG) and TechPass. Such users need do the following:
 

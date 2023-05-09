@@ -122,7 +122,7 @@ The webhook event *user-deleted* includes all groups the user is assigned to tha
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">  Email updates for vendor display accurate information </summary>
+<summary style="font-size:20px;font-weight:bold">Email updates for vendor display accurate information</summary>
 
 We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
 
@@ -818,7 +818,7 @@ To update or delete a whitelist, you need the whitelist ID (UUID) and to get thi
 
 **Now**:
 
-Whitelist value will be the Whitelist ID and when you create a new whitelist, there is no need to know the whitelist ID if you already know the whitelist value. The OTP Update/Delete Whitelist APIs will accept email domains and email addresses.  
+Whitelist value will be the Whitelist ID and when you create a new whitelist, there is no need to know the whitelist ID if you already know the whitelist value. The OTP Update/Delete Whitelist APIs will accept email domains and email addresses.
 
 For more information, refer to the following:
 - [Update OTP Whitelist API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/OTP/paths/~1otp~1namespace~1{namespace}~1apps~1{appid}~1whitelists~1{whitelistid}/put) documentation.

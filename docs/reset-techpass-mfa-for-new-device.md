@@ -31,7 +31,7 @@ TechPass users may want to reset the MFA of their TechPass account for any of th
 ![install-auth-method](assets/images/reset-techpass-mfa-vendor/install-auth-app.png)
 6. Follow the on-screen instructions to add your TechPass account and click **Next**.
 ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
-7. Download and install Microsoft Authenticator on your new[Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
+7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
 8. In the app, add an account and choose **Work or school account**.
 9. Select **Scan a QR code** on the app.
 10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.

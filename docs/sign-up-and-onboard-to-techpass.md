@@ -143,7 +143,6 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
 
-  <!-- 4.  Click **Log in with TechPass**.  -->
   4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
   5. Click **Next** to configure and verify MFA for TechPass account.
 

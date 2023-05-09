@@ -10,7 +10,7 @@ If you are a vendor whose TechPass logon domain is ```techpass.gov.sg```, you ma
 
 **To reset TechPass password**
 
-1. Go to [reset password](https://passwordreset.microsoftonline.com/) and  enter your TechPass user name.
+1. Go to [reset password](https://passwordreset.microsoftonline.com/) and enter your TechPass user name.
 
 > **Note**
 >- If the email address you specified while requesting for a TechPass account, is a Microsoft account, you can either enter that email address or your TechPass user name.

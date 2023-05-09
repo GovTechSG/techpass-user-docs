@@ -1,6 +1,6 @@
 # Get invited and onboard to TechPass
 
-This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.  
+This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.
 
 ?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED(optional) provisioning. <br>- For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
@@ -82,7 +82,7 @@ You need the following to get invited to TechPass and complete the onboarding:
  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
   1. Install Microsoft Authenticator on your mobile device.
-  
+
   2. Click **Next** on your computer. 
 
     ![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)
@@ -94,10 +94,10 @@ You need the following to get invited to TechPass and complete the onboarding:
   ![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)
 
   6. Scan the QR code on your computer screen and click **Next**. 
-  
+
   Your TechPass account gets activated and is now linked to the authenticator app.
     ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
-  
+
   A number is shown on your browser.
 
    ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
@@ -121,7 +121,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   11. Click **Next**.
 
-  ![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)  
+  ![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)
 
   11. When you see a success message, click **Done**.
 
@@ -134,7 +134,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 <details> <summary style="font-size:20px;font-weight:bold"> Reset the initial password</summary>
 
-  1. Enter your **initial password**, **new password** and retype the new password to confirm.  
+  1. Enter your **initial password**, **new password** and retype the new password to confirm.
 
   2. Click **Sign in** to proceed to accept the Terms of Use.
 

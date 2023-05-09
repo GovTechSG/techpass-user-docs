@@ -63,7 +63,7 @@ When you sign up or request for a TechPass account, it is created and we will se
 
 The TechPass onboarding invitation is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. You will be notified when your account is terminated.   
 
-> **Note**:  This is different from disabled TechPass account.
+> **Note**: This is different from disabled TechPass account.
 
 <hr/></details><br>
 

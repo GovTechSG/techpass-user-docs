@@ -7,7 +7,8 @@ TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solu
 
 Following are the list of SGTS services that uses TechPass as their IAM service.
 
-- Container Stack(CStack): CStack is a cloud-based container development and hosting platform.
+- CloudSCAPE: Cloud Security and Compliance Automation Platform Ecosystem (CloudSCAPE) is part of the monitoring component of the SGTS tech stack.
+- Container Stack(CStack): This is a base Layer product of the SGTS tech stack offering a centralised, secure, and fully managed development platform for containers and Kubernetes.
 - Docs portal: Your hub for all the technical documentation such as developer guides, API references and tutorials.
 - GCC Common Services: A suite of IM8-compliant services that agencies can subscribe to, to help speed up their cloud adoption journey by leveraging centrally managed service.
 - GCC 2.0: A "wrapper" platform that provides government agencies with a consistent means to adopt commercial cloud solutions offered by cloud service providers.

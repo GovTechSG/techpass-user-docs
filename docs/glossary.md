@@ -89,7 +89,7 @@ Security Suite for Engineering Endpoint Devices. This is the MDM solution offere
 
 </a>
 
-This is an Identity & Access Management (IAM) and  a single sign-on(SSO) solution to seamlessly access Singapore Government Technology Stack(SGTS) services.
+This is an Identity & Access Management (IAM) and a single sign-on(SSO) solution to seamlessly access services such as Singapore Government Technology Stack(SGTS) and GCC.
 
 For more information on how to get a TechPass account and onboard to it, see [Onboard to TechPass](onboard-to-techpass.md). 
 

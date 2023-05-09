@@ -32,23 +32,3 @@ If you are a vendor whose TechPass logon domain is ```techpass.gov.sg```, you ma
 A success message confirms that your password has been reset for this TechPass account.
 
 
-
-<!--
-![reset-password](assets/images/reset-password-vendor.png)
->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

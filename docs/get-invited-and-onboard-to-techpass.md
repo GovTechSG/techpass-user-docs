@@ -34,11 +34,6 @@ You need the following to get invited to TechPass and complete the onboarding:
 
    Project manager or the reporting officer contacts the sponsoring agency or the tenant admin to invite you to TechPass.
 
-<!--3. If you are requesting for SEED provisioning, provide the details of your Internet Device.
-
-Your project manager or reporting officer will work with the sponsoring government agency to provide the requested services.
--->
-
 > **Additional information**:
   >
   > **When you are invited to TechPass**
@@ -165,25 +160,3 @@ Your project manager or reporting officer will work with the sponsoring governme
 - [Verify TechPass login](log-in-with-techpass#log-in-to-a-service-using-your-techpass-account)
 
 
-<!--
-onboard-vendors-to-techpass
->- It becomes activated when you [sign in to TechPass using initial password](#step-2-sign-in-using-initial-password),[configure and verify MFA for TechPass account](#step-3-configure-and-verify-mfa-for-techpass-account)and [Reset initial password](#step-4-reset-initial-password).
-
-> **Note**
->- TechPass username is sent to the email address you specified while requesting for TechPass.
->- Initial password is sent to the mobile phone number you specified while requesting for TechPass.
-
-<kbd>![log-in-with-techpass](assets/images/access-sgts-services-using-techpass/first.png)</kbd>
-
-
-
-<kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
-<kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
-
-<kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
-
-<kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
-
-<kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
-
--->

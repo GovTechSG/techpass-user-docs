@@ -8,9 +8,6 @@ Users with a WOG account who needs a TechPass account.
 
 ?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/techpass-sr) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass and SEED(optional) via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
-<!--
-Their organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg*.-->
-
 ## Prerequisites
 
 You need the following to sign up for TechPass and complete the onboarding:
@@ -122,10 +119,6 @@ You need the following to sign up for TechPass and complete the onboarding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Accept TechPass onboarding invitation</summary>
 
-<!--
-
-Onboard to TechPass within 30 days of receiving the TechPass invitation email. If you do not onboard within 30 days, we will terminate your TechPass account, and you need to sign up again.
--->
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
 
@@ -212,24 +205,3 @@ Onboard to TechPass within 30 days of receiving the TechPass invitation email. I
 </details>
 
 
-<!--
-
-> **Note**:<br>
-  > You need to set up security verification (multi-factor authentication) for your Whole-of-Government(WOG) account to:
-    >- Securely access Singapore Government Technology Stack (SGTS) services and tools from your GMD device.
-    >- To view your SG Govt M365 profile on the Microsoft Authenticator app.
-12. Click the arrow to view the **TechPass Terms of Use**.
-14. Click the arrow to view the **TechPass Privacy Policy**.
-16. Click the arrow to view the **TechPass MDM AUP Policy**.
-<kbd>![techpass-terms-of-use](assets/images/onboarding/po-non-se/techpass-terms-of-use.png)</kbd>
-<kbd>![accept-terms-of-use](assets/images/onboarding/po-non-se/accept-terms-of-use.png)</kbd>
- <kbd>![techpass-view-privacy-policy](assets/images/onboarding/po-non-se/techpass-view-privacy-policy.png)</kbd>
-<kbd>![accept-techpass-privacy-policy](assets/images/onboarding/po-non-se/accept-techpass-privacy-policy.png)</kbd>
-  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/mdm-aup-1.png)</kbd>
-
-  <kbd>![mdm-acceptable-use-policy](assets/images/onboarding/po-non-se/accept-mdm-aup.png)</kbd>
-
-  
-- Organisational email address should be in the format of *\<your_name\>@\<acronym for your agency\>.gov.sg*. For example, *john_doe@tech.gov.sg* .
-
-    -->

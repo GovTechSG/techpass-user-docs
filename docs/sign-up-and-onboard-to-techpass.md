@@ -48,7 +48,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   >- Your TechPass log in ID will be the organisational email id used for signing up for TechPass.
   
   >
-  > **If SEED provisioning is approved**:
+  > **If SEED provisioning is successful**:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
@@ -62,9 +62,14 @@ You need the following to sign up for TechPass and complete the onboarding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Set up security verification for WOG account</summary>
 
+  ?> If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).
+
+ 
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 </div>
+
+ ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
   1. From your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
@@ -150,6 +155,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   <details>
   <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
+
+   ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 
   1. Choose one of the following options and click **Next**.

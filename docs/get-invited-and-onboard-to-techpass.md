@@ -43,7 +43,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- You will receive the initial password by SMS to the registered mobile number.
   
   >
-  > **If SEED provisioning is approved**:
+  > **If SEED provisioning is successful**:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
@@ -79,14 +79,13 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 <details> <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
 
+ ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+
   1. Install Microsoft Authenticator on your mobile device.
   
   2. Click **Next** on your computer. 
 
     ![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)
-
-  > **Note**
-  > You may install any authenticator. However, as we recommend Microsoft authenticator, this document guides you to configure TechPass MFA using that.
 
   3. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
   4. Select **Scan a QR code**.

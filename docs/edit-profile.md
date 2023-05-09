@@ -29,20 +29,5 @@ You need the following to edit your TechPass profile via the TechPass portal:
 
 4. Make the required changes and click **Save**.
 
-![save-account](assets/images/onboarding/po-non-se/save-profile.png)
+?> <br>- You can't edit the **Agency** name to which your TechPass is linked.<br>- To edit any typo in your email address, create a [service request](https://go.gov.sg/techpass-sr) with us.
 
-?> If you need to edit your email address, create a [service request](https://go.gov.sg/techpass-sr) with us.
-
-<!--
-2. Sign in to your TechPass account.
-<kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
-
-> **Note**
-> If you are a public officer you may be prompted to log in to the WOG account first before proceeding to TechPass account.
-
-You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
-
- <kbd>![number-mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
-
-3. On the Authenticator app, enter the number shown, and tap **Yes**.
--->

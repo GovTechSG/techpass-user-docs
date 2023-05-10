@@ -1,68 +1,43 @@
 # Reset TechPass MFA
 
-This article guides how to reset TechPass MFA.
+This article guides how TechPass users can reset TechPass MFA.
 
-**Audience**
+## Audience
 
-- Users who have a TechPass account and domain is ```techpass.gov.sg```.
+TechPass users may want to reset the MFA of their TechPass account for any of the following reasons:
 
->**Important**
->- If your TechPass domain is **not** ```techpass.gov.sg```:
-> 1. [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of your TechPass profile.When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
-> 2. Complete the steps provided in this email.  
+- Changed mobile phone.
+- Lost mobile phone.
+- Deleted the Authenticator app from the mobile phone or unable to access the app on your phone.
 
+?> If you have a WOG account, you also need to [reset your MFA of your WOG account](reset-techpass-mfa-for-new-device).
 
-**Preqrequisites** 
+## Prerequisites
 
-If you have changed the mobile phone and want to reset your TechPass MFA on the new mobile phone:
+- You must have the old mobile phone to authenticate your TechPass login.
 
-- You must have the old mobile phone.
-- You must be able to authenticate your TechPass login using the old mobile phone.
+?> If you have lost your old mobile phone, formatted the old phone(factory reset), or unable to authenticate your TechPass login using the old mobile phone, contact [TechPass support team](https://go.gov.sg/techpass-sr).
 
->**Note**
-> 
-> If you have lost your old mobile phone, formatted the old phone(factory reset),or unable to authenticate your log in using the old mobile phone, [Create service request](https://go.gov.sg/techpass-sr) to reset MFA for their TechPass profile.
-
-
-_To reset MFA for TechPass account:_
+### To reset MFA for TechPass account
 
 1. Go to [My Account](https://account.activedirectory.windowsazure.com/proofup.aspx?proofup=1).
 
-2. If prompted, sign in to your TechPass account and go to **Security info**. Approve the sign-in.
+2. If prompted, sign in to your WOG account using your old mobile phone.
+3. On the **Security info** page, click **+ Add sign-in method**.
+![add-sign-in-method](assets/images/reset-techpass-mfa-vendor/add-sign-in-method.png)
+4. In **Add a method**, select **Authenticator app** and click **Add**.
+![add-auth-method](assets/images/reset-techpass-mfa-vendor/add-method.png)
+5. Click **Next**.
+![install-auth-method](assets/images/reset-techpass-mfa-vendor/install-auth-app.png)
+6. Follow the on-screen instructions to add your TechPass account and click **Next**.
+![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
+7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
+8. In the app, add an account and choose **Work or school account**.
+9. Select **Scan a QR code** on the app.
+10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.
+![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code.png)
 
-<kbd>![](assets/images/reset-techpass-mfa-vendor/security-info-menu.png)</kbd>
+  ?> A notification is sent to your new mobile phone to verify your authentication process. A number will be shown on your browser.
 
-3.  On the **Security info** page, click **Delete** next to the Authenticator method linked to your mobile device.
+![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)
 
-<kbd>![delete-auth-method](assets/images/reset-techpass-mfa-vendor/delete-auth-app-for-old-device.png)
-
-4. Click **OK** to confirm the deletion.
-
-5. Open the authenticator app on your mobile phone and delete your TechPass account from the authenticator app.
-
-6. On the **Security info** page, click **+ Add sign-in method**.
-7. In **Add a method**, select **Authenticator app** and click **Add**.
-
-<kbd>![add-auth-method](assets/images/reset-techpass-mfa-vendor/add-method.png)
-
-7. If needed, download and install Microsoft Authenticator on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and click **Next**.
-
-  <kbd>![install-auth-method](assets/images/reset-techpass-mfa-vendor/install-auth-app.png)
-
-8. Follow the on-screen instructions to add your TechPass account and click **Next**.
-
-  <kbd>![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)</kbd>
-
-9. Scan the QR code displayed on your computer using the new mobile device and click **Next**.
-
-  <kbd>![scan-qr-code](assets/images/reset-techpass-mfa-vendor/scan-qr-code.png)
-
-Your TechPass account gets listed in the **Authenticator** app indicating that verification for TechPass is now set on your new mobile phone.
-
-You will receive a notification on your new mobile device to verify your authentication process.
-
-10. Approve sign-in on your new mobile device. You will see a notification approved message.
-
-<kbd>![](assets/images/reset-techpass-mfa-vendor/verification-confirmed.png)
-
-11. Click **Next**. The new device is listed on the **Security info** page.

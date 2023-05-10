@@ -155,7 +155,7 @@ The webhook event *user-deleted* includes all groups the user is assigned to tha
 **Fixes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold">  Email updates for vendor display accurate information </summary>
+<summary style="font-size:20px;font-weight:bold">Email updates for vendor display accurate information</summary>
 
 We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
 
@@ -298,7 +298,7 @@ Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
 
 When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
 
-If the phone number is valid, but the format does not conform to the acceptable format, TechPass autocorrects it before displaying it in the User Profile.  However, if the mobile phone number is invalid, TechPass does not display the invalid phone number.
+If the phone number is valid, but the format does not conform to the acceptable format, TechPass autocorrects it before displaying it in the User Profile. However, if the mobile phone number is invalid, TechPass does not display the invalid phone number.
 
 ![mobile phone number in profile](../assets/images/whats-new/invalid-mobile-phone-number.png)
 

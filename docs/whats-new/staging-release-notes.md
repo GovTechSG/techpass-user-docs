@@ -12,14 +12,14 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 <summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for public officers.
 </summary>
 
-We have improved the device status field to provide users with greater visibility regarding their progress. This includes various stages such as,**triggered, waiting for software installation, software installed, awaiting backend onboarding**, and **failed**. If the status shows failed, the user can view the reason for the failure and click the **retry** button to initiate the onboarding process again.
+Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
 
 > **Note**: This change only affects public officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
 
 </details>
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> TechBiz groups are excluded from <i>ListGroups</i> implementation by default.</summary>
+<summary style="font-size:20px;font-weight:bold"> Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default. </summary>
 
 Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
 

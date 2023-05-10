@@ -4,7 +4,7 @@
 
 ## Staging release 10 May 2023
 
-Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0923
+Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 
 **Changes** 
 
@@ -12,22 +12,16 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0923
 <summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for public officers.
 </summary>
 
-Previously, the device status was displayed as **pending** until the device was successfully onboarded. However, this status did not provide Public Officers with much visibility into the onboarding process.
+We have improved the device status field to provide users with greater visibility regarding their progress. This includes various stages such as,**triggered, waiting for software installation, software installed, awaiting backend onboarding**, and **failed**. If the status shows failed, the user can view the reason for the failure and click the **retry** button to initiate the onboarding process again.
 
-We have now updated the device status to include more detailed information. The new statuses are as follows:
-
-- Triggered: Indicates that the onboarding process has been triggered for the device.
-- Software installed: Indicates that the software has been installed and the device is awaiting backend onboarding.
-- Failed: Indicates that the onboarding process has failed. In this case, the user will be able to see the reason for the failure and can click on the **retry** button to re-trigger onboarding. Depending on the reason for failure, retry may or may not be possible. If it is not possible, the 'retry' button will not be displayed.
-
-> **Note**: This change only affects Public Officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
+> **Note**: This change only affects public officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
 
 </details>
 
 <details>
 <summary style="font-size:20px;font-weight:bold"> TechBiz groups are excluded from <i>ListGroups</i> implementation by default.</summary>
 
-TechBiz groups will be hidden by default on TechPass portal. This change is also consistent with TechPass portal's **Groups** page, as we are not displaying the TechBiz groups there. However, if you want to include TechBiz groups via the Automation API, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
+Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
 
 </details>
 
@@ -39,7 +33,7 @@ TechBiz groups will be hidden by default on TechPass portal. This change is also
 
 We have made some enhancements to our FormSG to better integrate with Jira. As part of the SGTS ITSM Jira Tool, TechPass will now be using the new FormSG. 
 
-In addition, we have also changed the URL for accessing our technical support for SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
+In addition, we have also changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
 
 </details>
 

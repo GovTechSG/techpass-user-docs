@@ -21,6 +21,7 @@ We have now updated the device status to include more detailed information. The 
 - Failed: Indicates that the onboarding process has failed. In this case, the user will be able to see the reason for the failure and can click on the **retry** button to re-trigger onboarding. Depending on the reason for failure, retry may or may not be possible. If it is not possible, the 'retry' button will not be displayed.
 
 > **Note**: This change only affects Public Officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
+
 </details>
 
 <details>

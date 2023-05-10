@@ -1,7 +1,7 @@
 # TechPass User Doc Repository
 This is a documentation repository for TechPass, written for Documentation portal, using [docsify](https://docsify.js.org/#/). You can find out what docsify or markdown extensions are supported [here](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/).
 
-> The repository is currently in active development and  contents will change rapidly.
+> The repository is currently in active development and contents will change rapidly.
 
 ## File Structure
 All markdown files should live within the **/docs** folder. Each main section should be a separate markdown file by itself. If you have added a new main section, you should also update [_sidebar.md](docs/_sidebar.md) so that it will show up when the webpage is rendered.

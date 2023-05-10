@@ -1,24 +1,26 @@
-# Account Management FAQ
+# Account Management FAQs
+
 <details>
 <summary style="font-size:18px">Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
-If you are a vendor, your TechPass account will be locked after continuous unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
+- If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
 
-<kbd>![temp-locked-account](../assets/images/temp_locked-account.png ':size=500')</kbd>
+![pwd-reset](../assets/images/password-reset-for-vendors.png)
 
-> **Note**:
-> If you are unable to unlock your account by resetting password, create a [TechPass support request](https://form.gov.sg/#!/5f69797d0666cb0011cc59da).
+?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/techpass-sr).
 
-If you are a public officer, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
+- If your TechPass ID is same as the organisational email ID, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
 <hr/></details><br>
 
 <details>
 <summary style="font-size:18px">What is the password reset policy for TechPass accounts?</summary>
 
-For vendors, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory] and will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
+- If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
-Based on the WOG password policy, public officers will be notified to [reset GSIB password][reset-password-gsib]. If there are any issues, contact your Agency Facility Management (AFM).
+![pwd-reset](../assets/images/password-reset-for-vendors.png)
+
+- If your TechPass ID is same as the organisational email ID, you will be notified to [reset GSIB password][reset-password-gsib] in accordance with the WOG password policy. If there are any issues, contact your Agency Facility Management (AFM).
 
 <hr/></details><br>
 
@@ -32,66 +34,56 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 <hr/></details><br>
 
 <details>
-<summary style="font-size:18px">I have lost the mobile device which I used for MFA authentications. What should I do?</summary>
+<summary style="font-size:18px">I have lost my mobile device that I used for MFA authentications. What should I do?</summary>
 
-**If you are a vendor**:
+**If your TechPass login ID's domain is ```techpass.gov.sg```**:
 
-i. Create a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
+a. Create a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
 
-ii. When this is done, you will be notified. Proceed to [Reset TechPass MFA](reset-techpass-mfa-for-new-device) using your new mobile device.
+?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**. 
 
- **If you are a public officer**:
+b. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-techpass-mfa-for-new-device).
 
-i. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
+**If your TechPass ID is same as the organisational email ID**:
 
-ii. After completing this, reset MFA for [WOG account](reset-security-verification-for-wog-account) and [TechPass account](reset-techpass-mfa-for-new-device) using your new mobile device.
+a. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
 
 ?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
+
+b. [Reset WOG MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-security-verification-for-wog-account).
+    
+c. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-techpass-mfa-for-new-device).
 
 <hr/></details><br>
 
 <details>
 <summary style="font-size:18px">I have other problems with MFA?</summary>
 
-Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) for more information or you can create a [service request](https://go.gov.sg/techpass-sr).
+Do one of the following:
+
+ - Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) to see if there is a solution.
+ - You can also create a [service request](https://go.gov.sg/techpass-sr).
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I am public officer and my TechPass account has been terminated. Why was it terminated?</summary>
+<details><summary style="font-size:18px">I have not yet onboarded to my TechPass account but I received an email stating that it has been terminated. Why was it terminated?</summary>
 
-When you sign up or request for a TechPass account, it is created and we will send an invitation email to onboard to your TechPass account. When you complete this, your TechPass account is activated. For instructions on how to complete the onboarding, refer to [onboard public officers](docs/onboard-public-officers-using-non-se-devices) and [onboard vendors](docs/onboard-vendors-to-techpass) to TechPass.
+When you sign up or get invited to a TechPass account, a TechPass account is created for you and we will send an onboarding invitation email. When you onboard to your account, it gets activated.
 
-The TechPass onboarding invitation is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. You will be notified when your account is terminated.   
+This onboarding invitation email is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. When your account is terminated, you will again be notified about the account termination.
 
-> **Note**:  This is different from disabled TechPass account.
+?><br>- Terminating account is different from disabling an account.<br>- If your TechPass ID is same as your organisational email ID, [accept the onboarding invitation](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-3-accept-invitation).<br>- If your TechPass login ID's domain is ```techpass.gov.sg```, you will receive an initial password by SMS. You need to [sign in to TechPass using initial password](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass?id=step-2-sign-in-using-initial-password).
 
-<hr/></details><br>
-
-<details><summary style="font-size:18px">My TechPass account is terminated. What should I do to get a TechPass account?</summary>
-
-Your TechPass account is terminated if you do not onboard to TechPass successfully within 30 days of receiving the onboarding invitation email.
-
-To get a TechPass account:
-
-- If you have a non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) from this device and sign up again for TechPass and request for SEED (if needed) to receive a new onboarding invitation emails for them. Refer to [onboard public officers](/onboard-public-officers-using-non-se-devices) to complete your TechPass onboarding.
-
-- If you do not have a non-SE GSIB device, follow the instructions on [onboard vendors to TechPass](/onboard-vendors-to-techpass)
-
+ 
 <hr/></details><br>
 
 <details><summary style="font-size:18px">My TechPass account is active but my SEED onboarding email invitation has expired. How do I get another SEED onboarding email invitation?</summary>
 
-Your SEED onboarding email invitation is valid for 30 days. If you have not onboarded to SEED following your TechPass onboarding within this 30 days, your invitation will no longer be valid.
+Your SEED onboarding email invitation is valid only for 30 days. 
 
-If you use a non-SE GSIB device and if your TechPass account is active, to request for SEED:
+- If you can access [TechPass portal](http://portal.techpass.gov.sg), complete the instructions mentioned on [Request for SEED provisioning](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/request-for-seed-provisioning).
 
-1. Go to the [TechPass portal](http://portal.techpass.gov.sg) from your non-SE GSIB device.
-2. Log in with TechPass.
-3. Hover over your user name and click **My Account**.
-4. In the **Profile** page, click **Request for SEED**.
-5. You will receive the SEED onboarding invitation email around the next three business days. Complete to onboard your internet device by following the instructions on [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
-
-If you do not use a non-SE GSIB device and if your TechPass account is active, [create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again. 
+- If you can't access [TechPass portal](http://portal.techpass.gov.sg), do one of the following:<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you had earlier requested your reporting officer or project manager to invite you to TechPass and SEED, contact them again to resend the SEED onboarding invitation. <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again.
 
 <hr/></details><br>
 
@@ -103,15 +95,13 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I am a public officer and unable to sign in to my WOG account from my GMD.</summary>
+<details><summary style="font-size:18px">I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 
-You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA to authenticate it. For more information, refer to [Set up security verification for WOG account](#step-2-set-up-security-verification-for-the-wog-account)
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA for WOG to authenticate it. For more information, refer to [Set up security verification for WOG account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-2-configure-mfa-for-the-wog-account)
 
 <hr/></details><br>
-
-
 
 [reset-password]: https://passwordreset.microsoftonline.com/
 [password-policy-of-azure-active-directory]: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences

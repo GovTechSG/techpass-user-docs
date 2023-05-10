@@ -28,12 +28,10 @@ Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation 
 **Fixes**
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Enhancements to FormSG integration with Jira and URL change.
+<summary style="font-size:20px;font-weight:bold"> URL Update for Technical Support for TechPass and SEED.
 </summary>
 
-We have made some enhancements to our FormSG to better integrate with Jira. As part of the SGTS ITSM Jira Tool, TechPass will now be using the new FormSG. 
-
-In addition, we have also changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
+We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
 
 </details>
 

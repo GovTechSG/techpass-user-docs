@@ -1,4 +1,4 @@
-# TechPass onboarding and signing in FAQ
+# TechPass onboarding and signing in FAQs
 
 <details><summary style="font-size:18px">Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
 

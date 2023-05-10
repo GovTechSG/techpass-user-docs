@@ -17,7 +17,7 @@
 - [Reset password](reset-password)
 **TechPass support resources**
 - [TechPass status](techpass-status)
-- [FAQ](/support/overview.md)
+- [FAQs](/support/overview.md)
 - [Terms and policies](terms-and-policies)
 - [Glossary](glossary)
 

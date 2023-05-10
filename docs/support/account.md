@@ -1,4 +1,4 @@
-# Account Management FAQ
+# Account Management FAQs
 
 <details>
 <summary style="font-size:18px">Why is my TechPass account locked. How to unlock my TechPass account?</summary>

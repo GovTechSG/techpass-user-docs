@@ -11,7 +11,7 @@ Users whose TechPass domain is not ```techpass.gov.sg``` will have two profiles(
 
 - [Reset WOG(SGGovt M365) MFA](reset-security-verification-for-wog-account).
 
-- [Create service request](https://go.gov.sg/techpass-sr) to remove the MFA of their TechPass profile.
+- [Create service request](https://go.gov.sg/seed-techpass-support) to remove the MFA of their TechPass profile.
 
 - When the request is processed successfully, you will be able to register a new TechPass MFA profile when you try to sign in again.
 

@@ -16,7 +16,7 @@ TechPass users may want to reset the MFA of their TechPass account for any of th
 
 - You must have the old mobile phone to authenticate your TechPass login.
 
-?> If you have lost your old mobile phone, formatted the old phone(factory reset), or unable to authenticate your TechPass login using the old mobile phone, contact [TechPass support team](https://go.gov.sg/techpass-sr).
+?> If you have lost your old mobile phone, formatted the old phone(factory reset), or unable to authenticate your TechPass login using the old mobile phone, contact [TechPass support team](https://go.gov.sg/seed-techpass-support).
 
 ### To reset MFA for TechPass account
 

@@ -649,7 +649,7 @@ So emails with *_from@*.gov.sg format are now forbidded to self sign up via Tech
 **Action required:**  
 For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
 
-For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [service request](https://go.gov.sg/techpass-sr) to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department.
+For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [service request](https://go.gov.sg/seed-techpass-support) to provision your accounts. You will need to provide a valid vendor company email address, mobile number, first name, last name, company and department.
 
 </details>
 

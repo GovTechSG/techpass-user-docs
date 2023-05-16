@@ -19,25 +19,44 @@ Following are the prerequisites to register Intune device ID on TechPass portal:
 
 ### To register Intune device ID
 
-1. Using your non-SE GSIB device, log in to the [TechPass portal](https://portal.techpass.gov.sg).
-2. Hover over your account name and click **My Account**.
+1. Choose the appropriate method to register your Intune Device ID:
 
-![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
+    a. If you only have a **SE GSIB** device, submit a [support request](https://go.gov.sg/seed-techpass-support) to register your Intune Device ID and skip rest of the steps. Within two hours, you should receive the successfully onboarded email. 
 
-3. Click **Onboard device to SEED**.
+    b. If you have a **non-SE GSIB** device, log in to the [TechPass portal](https://portal.techpass.gov.sg/secure/account/profile).
 
-![onboard-device-to-seed](assets/images/seed/licence-assigned-onboard-device.png)
+2. On the TechPass portal, at the top right, go to your user name and click **My Account**. Your **Profile** details are displayed. 
+3. Click **Onboard device to SEED** and follow the on-screen instructions to submit this Intune Device ID.
 
-The **SEED - Onboard Device** dialog is displayed.
+  ![enter-intune](assets/images/intune-id/enter-intune-device-id.png)
 
-4. **Enter the Intune Device ID** without any spaces .
+  You will receive the following confirmation message.
 
-![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)
+  ![enter-intune](assets/images/intune-id/ack-of-intune-device-id.png)
 
-5. Click **Submit**.
 
-After you submit the Intune device ID, the following success message is displayed.
+  Your Internet Device record is listed under the **SEED Devices** with the following details:
 
-![onboard-device-success](assets/images/seed/onboard-device-success.png)
+    - Device name
+    - Operating system of the device
+    - Serial number
+    - Intune Device ID
+    - Date and time when the onboarding was trigerred or when the device was successfully onboarded
+    - Onboarding status
 
->**Note**<br>- It might take up to 60 minutes for Intune to update your device with the required software and configurations. During this time, the device onboarding status is Pending.<br>- After the device is updated with all the required software and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.<br>- Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/post-onboarding-instructions/post-onboarding-steps-and-verification) and complete the post onboarding instructions for SEED.<br>- If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/gcc-1.0-users).
+  ![enter-intune](assets/images/intune-id/macos-device-listed-tp-portal.png)
+
+4. Ensure the device you are onboarding is connected to the Internet so that Intune is able to install the required software and configurations.
+
+5. Refer to the following table to know about the possible onboarding status and the action required by you.
+
+| Status | Description | Action required |
+|---| ---| ---|
+| **triggered, waiting for software installation (step 1 of 2)**| Your SEED onboarding has been triggered on the device and is waiting for the software installation to be completed. | When you click the refresh button after a successful software installation, the status changes to **software installed, waiting for backend onboarding (step 2 of 2)**.|
+| **software installed, waiting for backend onboarding (step 2 of 2)**| Required software has been installed on the device and waiting for backend onboarding.  | When you click the refresh button after a successful backend onboarding, the status changes to **onboarded** . |
+| **onboarded** | Your SEED onboarding is successful. | Go to step 6 in this section.  |
+| **failed(*Reason for failure*)** | Your SEED onboarding failed due to the  error mentioned within the parentheses. | Action required to resolve this failure is generally mentioned in the parentheses. Complete the suggested action required by you. |
+
+6. Check your inbox (organisational email address) to see if you have received the successfully onboarded email.
+
+?> If you don't receive this email after two hours, submit an [incident request](https://go.gov.sg/seed-techpass-support).

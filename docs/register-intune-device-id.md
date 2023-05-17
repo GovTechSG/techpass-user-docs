@@ -49,7 +49,7 @@ Following are the prerequisites to register Intune device ID on TechPass portal:
 
 6. Choose the appropriate step:
 
-   a. If you have received a successfully onboarded email, skip rest of the steps in this section and proceed to [Step 3: Verify installation](https://docs.developer.tech.gov.sg/docs/staging-security-suite-for-engineering-endpoint-devices-seed/onboard-device/mac-os?id=step-3-verify-installation).
+   a. If you have received a successfully onboarded email, skip rest of the steps in this section and proceed to [Step 3: Verify installation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices-seed/onboard-device/mac-os?id=step-3-verify-installation).
 
    b. If you have **not yet received** the **successfully onboarded email** or if you **have received** a **failed onboarding email**, complete the following step on [TechPass portal](https://portal.techpass.gov.sg/).
 

@@ -34,6 +34,7 @@ Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation 
 We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
 
 </details>
+
 ## Production release 3 May 2023
 
 Frontend version: 1.0.0-20230424.1714 | Backend version: 1.61.3-230425.0821

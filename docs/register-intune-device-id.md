@@ -19,25 +19,51 @@ Following are the prerequisites to register Intune device ID on TechPass portal:
 
 ### To register Intune device ID
 
-1. Using your non-SE GSIB device, log in to the [TechPass portal](https://portal.techpass.gov.sg).
-2. Hover over your account name and click **My Account**.
+1. Log in to the [TechPass portal](https://portal.techpass.gov.sg/secure/account/profile).
 
-![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
+2. On the TechPass portal, at the top right, go to your user name and click **My Account**. Your **Profile** details are displayed. 
 
-3. Click **Onboard device to SEED**.
+3. Click **Onboard device to SEED** and follow the on-screen instructions to submit this Intune Device ID.
 
-![onboard-device-to-seed](assets/images/seed/licence-assigned-onboard-device.png)
+  ![enter-intune](assets/images/intune-id/enter-intune-device-id.png)
 
-The **SEED - Onboard Device** dialog is displayed.
+  You will receive the following confirmation message.
 
-4. **Enter the Intune Device ID** without any spaces .
+  ![enter-intune](assets/images/intune-id/ack-of-intune-device-id.png)
 
-![instructions-to-onboard-device-to-seed](assets/images/seed/onboard-device.png)
 
-5. Click **Submit**.
+  Your Internet Device record is listed under the **SEED Devices** with the following details:
 
-After you submit the Intune device ID, the following success message is displayed.
+    - Device name
+    - Operating system of the device
+    - Serial number
+    - Intune Device ID
+    - Date and time when the onboarding was trigerred or when the device was successfully onboarded
+    - Onboarding status
 
-![onboard-device-success](assets/images/seed/onboard-device-success.png)
+  ![enter-intune](assets/images/intune-id/macos-device-listed-tp-portal.png)
 
->**Note**<br>- It might take up to 60 minutes for Intune to update your device with the required software and configurations. During this time, the device onboarding status is Pending.<br>- After the device is updated with all the required software and configurations, the device onboarding status changes to **Onboarded** and you will receive a successfully onboarded email.<br>- Refer to [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/post-onboarding-instructions/post-onboarding-steps-and-verification) and complete the post onboarding instructions for SEED.<br>- If you are a GCC 1.0 user, refer to the [post onboarding instructions for GCC 1.0 users](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/post-onboarding-instructions/gcc-1.0-users).
+4. Ensure the device you are onboarding is connected to the Internet so that Intune is able to install the required software and configurations.
+
+5. After 30-60 minutes, check your inbox (organisational email address) to see if you have received any email regarding your onboarding status.
+
+6. Choose the appropriate step:
+
+   a. If you have received a successfully onboarded email, skip rest of the steps in this section and proceed to [Step 3: Verify installation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices-seed/onboard-device/mac-os?id=step-3-verify-installation).
+
+   b. If you have **not yet received** the **successfully onboarded email** or if you **have received** a **failed onboarding email**, complete the following step on [TechPass portal](https://portal.techpass.gov.sg/).
+
+7. Refer to the following table to know about the possible onboarding status and the action required by you.
+
+| Status | Description | Action required |
+|---| ---| ---|
+| **triggered, waiting for software installation (step 1 of 2)**| Your SEED onboarding has been triggered on the device and is waiting for the software installation to be completed. | 1. Go to the [TechPass portal](https://portal.techpass.gov.sg/).<br><br>2. At the top right, go to your user name and click **My Account**. Your profile details are displayed.<br><br>3. Go to the **SEED Devices** section and click the refresh icon. If the software installation is successful, the status changes to **software installed, waiting for backend onboarding (step 2 of 2)**.|
+| **software installed, waiting for backend onboarding (step 2 of 2)**| Required software has been installed on the device and waiting for backend onboarding.  | 1. Go to the [TechPass portal](https://portal.techpass.gov.sg/).<br><br>2. At the top right, go to your user name and click **My Account**. Your profile details are displayed.<br><br>3. Go to the **SEED Devices** section and click the refresh icon. If the backend onboarding is successful, the status changes to **onboarded**. |
+| **onboarded** | Your SEED onboarding is successful. | Go to step 8 in this section.  |
+| **failed(*Reason for failure*)** | Your SEED onboarding failed due to the  error mentioned within the parentheses. | 1. Go to the [TechPass portal](https://portal.techpass.gov.sg/).<br><br>2. At the top right, go to your user name and click **My Account**. Your profile details are displayed.<br><br>3. Go to the **SEED Devices** section. Action required to resolve this failure is generally mentioned in the parentheses.<br><br>4. Complete the suggested action. | 
+
+
+8. Check your inbox (organisational email address) to see if you have received the successfully onboarded email.
+
+?> If you don't receive this email after two hours, submit an [incident request](https://go.gov.sg/seed-techpass-support).
+

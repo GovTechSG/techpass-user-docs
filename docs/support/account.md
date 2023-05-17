@@ -3,24 +3,16 @@
 <details>
 <summary style="font-size:18px">Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
-- If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
-
-![pwd-reset](../assets/images/password-reset-for-vendors.png)
-
-?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/techpass-sr).
-
-- If your TechPass ID is same as the organisational email ID, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
+If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. You need to [Reset TechPass password](reset-password) to unlock your TechPass account.
 
 <hr/></details><br>
 
 <details>
 <summary style="font-size:18px">What is the password reset policy for TechPass accounts?</summary>
 
-- If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
+If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
 ![pwd-reset](../assets/images/password-reset-for-vendors.png)
-
-- If your TechPass ID is same as the organisational email ID, you will be notified to [reset GSIB password][reset-password-gsib] in accordance with the WOG password policy. If there are any issues, contact your Agency Facility Management (AFM).
 
 <hr/></details><br>
 

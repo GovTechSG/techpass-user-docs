@@ -101,7 +101,7 @@ You might encounter this error if you are trying to sign in to your WOG account 
 <details>
 <summary style="font-size:18px">I have changed my email address, how do I update my TechPass account?</summary>
 
-Create a [service-request]: https://go.gov.sg/seed-techpass-support and we will trigger a reinvite to retectify the issue.
+Create a [service-request](https://go.gov.sg/seed-techpass-support) and we will trigger a reinvite to retectify the issue.
 
 
 <hr/></details><br>

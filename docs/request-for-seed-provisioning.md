@@ -6,7 +6,7 @@ This article guides how an **existing TechPass user** can request for SEED provi
 
 TechPass users with a non-SE GSIB device who need SEED provisioning to onboard their Internet Device to SEED.
 
-?> **Note**<br>- If you are a SE-GSIB user, submit a [service request](https://go.gov.sg/techpass-sr) to request for SEED provisioning.<br>- Other users need to contact their project manager or reporting officer to request for SEED provisioning.
+?> **Note**<br>- If you are a SE-GSIB user, submit a [service request](https://go.gov.sg/seed-techpass-support) to request for SEED provisioning.<br>- Other users need to contact their project manager or reporting officer to request for SEED provisioning.
 
 ## Prerequisites
 

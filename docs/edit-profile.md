@@ -2,7 +2,7 @@
 
 TechPass users can edit their TechPass profile anytime by logging into the TechPass portal.
 
-?> Users who don't have access to TechPass portal, create a [service request](https://go.gov.sg/techpass-sr) with us to update your profile details.
+?> Users who don't have access to TechPass portal, create a [service request](https://go.gov.sg/seed-techpass-support) with us to update your profile details.
 
 ## Audience
 
@@ -29,5 +29,5 @@ You need the following to edit your TechPass profile via the TechPass portal:
 
 4. Make the required changes and click **Save**.
 
-?> <br>- You can't edit the **Agency** name to which your TechPass is linked.<br>- To edit any typo in your email address, create a [service request](https://go.gov.sg/techpass-sr) with us.
+?> <br>- You can't edit the **Agency** name to which your TechPass is linked.<br>- To edit any typo in your email address, create a [service request](https://go.gov.sg/seed-techpass-support) with us.
 

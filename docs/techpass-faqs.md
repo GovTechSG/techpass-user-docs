@@ -20,7 +20,7 @@ No. As LiteMail accounts can't receive emails outside your agency, you will not 
 
 If you are using a SE GSIB device:
 
-1. Create a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
+1. Create a [service request](https://go.gov.sg/seed-techpass-support) to get your TechPass account.
 
 2. In **Ticket Request Type**, select **Service Request** and choose **Create TechPass account for Secured Email GSIB users**.
 3. When prompted to confirm, if you are a Secured Email (SE) GSIB user, select **Yes**.
@@ -52,7 +52,7 @@ If you experience an infinite sign-in loop while signing in to the TechPass port
 
 ![pwd-reset](assets/images/password-reset-for-vendors.png)
 
-?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/techpass-sr).
+?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/seed-techpass-support).
 
 - If your TechPass ID is same as the organisational email ID, your TechPass account will be locked after continuous unsuccessful login attempts. Using your GSIB device, [reset GSIB password][reset-password-gsib] according to WOG's password policies. If there are any issues, contact your Agency Facility Management (AFM).
 
@@ -84,7 +84,7 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 Choose the appropriate option based on your TechPass ID
 
 - If your TechPass login ID's domain is ```techpass.gov.sg```:
-    a. Create a [service request](https://go.gov.sg/techpass-sr) to contact our technical support to remove the MFA configured for your TechPass account.
+    a. Create a [service request](https://go.gov.sg/seed-techpass-support) to contact our technical support to remove the MFA configured for your TechPass account.
 
     ?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**. 
 
@@ -92,7 +92,7 @@ Choose the appropriate option based on your TechPass ID
 
 - If your TechPass ID is same as the organisational email ID:
 
-    a. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/techpass-sr) to remove the MFA configured for your TechPass account.
+    a. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/seed-techpass-support) to remove the MFA configured for your TechPass account.
 
     ?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
 
@@ -108,7 +108,7 @@ Choose the appropriate option based on your TechPass ID
 Do one of the following:
 
  - Visit Microsoft's [Common problems with two-factor verification](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/troubleshoot-azure-mfa-issue) to see if there is a solution.
- - You can also create a [service request](https://go.gov.sg/techpass-sr).
+ - You can also create a [service request](https://go.gov.sg/seed-techpass-support).
 
 <hr/></details><br>
 
@@ -129,7 +129,7 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 - If you can access [TechPass portal](http://portal.techpass.gov.sg), complete the instructions mentioned on [Request for SEED provisioning](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/request-for-seed-provisioning).
 
-- If you can't access [TechPass portal](http://portal.techpass.gov.sg), do one of the following:<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you had earlier requested your reporting officer or project manager to invite you to TechPass and SEED, contact them again to resend the SEED onboarding invitation. <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Create a service request with TechPass](https://go.gov.sg/techpass-sr) to receive the SEED onboarding invitation email again.
+- If you can't access [TechPass portal](http://portal.techpass.gov.sg), do one of the following:<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you had earlier requested your reporting officer or project manager to invite you to TechPass and SEED, contact them again to resend the SEED onboarding invitation. <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Create a service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again.
 
 <hr/></details><br>
 
@@ -137,7 +137,7 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
-To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/techpass-sr).
+To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/seed-techpass-support).
 
 <hr/></details><br>
 
@@ -211,7 +211,7 @@ If you are accessing SGTS services from your GSIB, there is no need for WOG acco
 [reset-password]: https://passwordreset.microsoftonline.com/
 [password-policy-of-azure-active-directory]: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
-[service-request]: https://go.gov.sg/techpass-sr
+[service-request]: https://go.gov.sg/seed-techpass-support
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/
 [reset-mfa]: reset-mfa
 

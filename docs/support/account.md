@@ -109,9 +109,9 @@ Create a [service-request]: https://go.gov.sg/seed-techpass-support and we will 
 <details>
 <summary style="font-size:18px">I would like to terminate my TechPass account, what should I do?</summary>
 
-If you have a SEED device, offboard your SEED device by following the [offboarding guide]: https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/offboard-device/offboard-device-from-seed. After offbarding your SEED device, create a [service-request]: https://go.gov.sg/seed-techpass-support. Upon verification, we will teminate the TechPass account.
+If you have a SEED device, offboard your SEED device by following the [offboarding guide](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/offboard-device/offboard-device-from-seed). After offbarding your SEED device, create a [service-request](https://go.gov.sg/seed-techpass-support). Upon verification, we will teminate the TechPass account.
 
-If you do not have a SEED device, create a [service-request]: https://go.gov.sg/seed-techpass-support. Upon verification, we will teminate the TechPass account.
+If you do not have a SEED device, create a [service-request](https://go.gov.sg/seed-techpass-support). Upon verification, we will teminate the TechPass account.
 
 
 <hr/></details><br>

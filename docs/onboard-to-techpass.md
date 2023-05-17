@@ -16,7 +16,7 @@ Z("Q1. Do you need TechPass to access SGTS or GCC services?") --> |No| A("<div s
     A ----> |Yes| B("<a href='https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass'>Get invited to TechPass</a>")
     C --> |No| D("<div style='text-align: left'>Q4. Do you have an organisational email address that <br>can be used to sign up for TechPass? <br>For example:<br> - john_doe@moe.gov.sg <br>- john_doe@cpf.gov.sg <br>- john_doe_from.thoughtworks@tech.gov.sg")
     C ---> |Yes| G("<a href='https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass'>Get invited to TechPass</a>")
-    D --> |No| F("Contact <a href='mailto:enquires_techpass@tech.gov.sg'>enquires_techpass@tech.gov.sg</a>")
+    D --> |No| F("Contact <a href='https://go.gov.sg/seed-techpass-support'>TechPass Support</a>")
     D --> |Yes| E("<a href='https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass'>Sign up for TechPass</a>")
 ```
 

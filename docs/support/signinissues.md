@@ -10,7 +10,7 @@ No. As LiteMail accounts can't receive emails outside your agency, you will not 
 
 If you are using a SE GSIB device:
 
-1. Create a [service request](https://go.gov.sg/techpass-sr) to get your TechPass account.
+1. Create a [service request](https://go.gov.sg/seed-techpass-support) to get your TechPass account.
 
 2. In **Ticket Request Type**, select **Service Request** and choose **Create TechPass account for Secured Email GSIB users**.
 3. When prompted to confirm, if you are a Secured Email (SE) GSIB user, select **Yes**.

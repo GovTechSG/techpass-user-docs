@@ -6,7 +6,7 @@ If you have a GSIB device, your SEED onboarding is successful only when you regi
 
 Users with a non-SE GSIB device and onboarding their Internet Device to SEED.
 
-?> If you are a public officer with an SE-GSIB device, to register your Intune device ID, create a [service request](https://go.gov.sg/techpass-sr).
+?> If you are a public officer with an SE-GSIB device, to register your Intune device ID, create a [service request](https://go.gov.sg/seed-techpass-support).
 
 ## Prerequisites
 

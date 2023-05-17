@@ -97,6 +97,25 @@ You might encounter this error if you are trying to sign in to your WOG account 
 
 <hr/></details><br>
 
+
+<details>
+<summary style="font-size:18px">I have changed my email address, how do I update my TechPass account?</summary>
+
+Create a [service-request]: https://go.gov.sg/seed-techpass-support and we will trigger a reinvite to retectify the issue.
+
+
+<hr/></details><br>
+
+<details>
+<summary style="font-size:18px">I would like to terminate my TechPass account, what should I do?</summary>
+
+If you have a SEED device, offboard your SEED device by following the [offboarding guide]: https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/offboard-device/offboard-device-from-seed. After offbarding your SEED device, create a [service-request]: https://go.gov.sg/seed-techpass-support. Upon verification, we will teminate the TechPass account.
+
+If you do not have a SEED device, create a [service-request]: https://go.gov.sg/seed-techpass-support. Upon verification, we will teminate the TechPass account.
+
+
+<hr/></details><br>
+
 [reset-password]: https://passwordreset.microsoftonline.com/
 [password-policy-of-azure-active-directory]: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3

@@ -9,12 +9,12 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for public officers.
+<summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for Public officers.
 </summary>
 
 Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
 
-> **Note**: This change only affects public officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
+> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
 
 </details>
 
@@ -28,7 +28,7 @@ Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation 
 **Fixes**
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> URL Update for Technical Support for TechPass and SEED.
+<summary style="font-size:20px;font-weight:bold"> URL update for technical support for TechPass and SEED.
 </summary>
 
 We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 

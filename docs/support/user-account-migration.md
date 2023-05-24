@@ -54,6 +54,6 @@ If you are accessing the services integrated with TechPass via your GSIB, there 
 
 
 
-[service-request]: https://go.gov.sg/techpass-sr
+[service-request]: https://go.gov.sg/seed-techpass-support
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3
 [reset-password-vendor]: https://passwordreset.microsoftonline.com/

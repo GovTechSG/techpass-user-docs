@@ -1,11 +1,25 @@
 # Account Management FAQs
 
 <details>
+<summary style="font-size:18px">I recently changed my email address due to staff movement. However, my TechPass account no longer works with the new email. What should I do to fix my TechPass account?</summary>
+
+Create a [service request](https://go.gov.sg/seed-techpass-support) to inform the support team about the email address change and the associated TechPass account.
+The support team will reinvite you to TechPass, which will help fix the external IDs and restore functionality to your TechPass account.
+Once you receive the reinvitation, follow the provided instructions to complete the account setup and regain access to your TechPass account.
+
+<hr/></details><br>
+
+<details>
+<summary style="font-size:18px">I would like to terminate my TechPass account. What is the process for account termination?</summary>
+
+Create a [service request](https://go.gov.sg/seed-techpass-support) to initiate the account termination process. The support team will review your request and process the account termination accordingly.
+
+<hr/></details><br>
+
+<details>
 <summary style="font-size:18px">Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
-
 If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. You need to [Reset TechPass password](reset-password) to unlock your TechPass account.
-
 
 <hr/></details><br>
 

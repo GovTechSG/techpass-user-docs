@@ -2,6 +2,20 @@
 
 > **Tip**: Click the triangle to view more details about the change.
 
+## Staging release 7 Jun 2023
+
+Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230601.0714
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> MFA fraud alert is now enabled.
+</summary>
+
+The MFA fraud alert feature is now enabled to enhance security on TechPass portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](/docs/mfa-fraud-alert.md) for more information.
+</details>
+
+
 ## Staging release 10 May 2023
 
 Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922

@@ -15,6 +15,32 @@ Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230601.0714
 The MFA fraud alert feature is now enabled to enhance security on TechPass portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](/docs/mfa-fraud-alert.md) for more information.
 </details>
 
+## Staging release 24 May 2023
+
+Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016
+
+**Changes** 
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Automatic removal of devices  in 'pending' state.
+</summary>
+
+Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system.
+
+Users will receive an email notification informing them about the automatic removal of their devices.
+</details>
+
+**Fixes**
+
+<details>
+<summary style="font-size:20px;font-weight:bold"> Fix for <i>accountTypes</i> filter in <b>List Users By Namespace</b> Automation API
+</summary>
+
+We have addressed an issue with the **List Users By Namespace** Automation API where the *accountTypes* filter was not working correctly.
+Previously, when attempting to filter users based on account types using this API, the expected results were not being returned.
+We have resolved this issue, and the *accountType* filter now functions properly in the **List Users By Namespace** Automation API.
+Users can now successfully filter users by account types using this API, improving the accuracy and effectiveness of their queries.
+</details>
 
 ## Staging release 10 May 2023
 

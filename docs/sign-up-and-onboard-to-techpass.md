@@ -23,8 +23,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 1. Sign up for TechPass
 
-<details>
-  <summary style="font-size:20px;font-weight:bold">Sign up for TechPass via TechPass portal</summary>
+<details data-is-open="true" data-is-size="medium">
+   <summary>Sign up for TechPass via TechPass portal</summary>
 
   1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
@@ -59,8 +59,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 2. Configure MFA for the WOG account
 
-<details>
-  <summary style="font-size:20px;font-weight:bold">Set up security verification for WOG account</summary>
+<details data-is-open="true" data-is-size="medium">
+   <summary>Set up security verification for WOG account</summary>
 
   ?> If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).
 
@@ -121,8 +121,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 3. Accept invitation
 
-<details>
-  <summary style="font-size:20px;font-weight:bold">Accept TechPass onboarding invitation</summary>
+<details data-is-open="true" data-is-size="large">
+   <summary>Accept TechPass onboarding invitation</summary>
 
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
@@ -152,8 +152,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ## Step 4. Configure and verify MFA for TechPass account
 
-  <details>
-  <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
+  <details data-is-open="true" data-is-size="medium">
+   <summary>Set up security verification for TechPass account</summary>
 
    ?> This document guides you to configure Microsoft authenticator as your MFA. We strongly recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
@@ -197,8 +197,8 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ## Step 5. Accept Privacy Policy and Terms of Use
 
-  <details>
-  <summary style="font-size:20px;font-weight:bold">Read and accept the Terms of Use</summary>
+  <details data-is-open="true" data-is-size="medium">
+   <summary>Read and accept the Terms of Use</summary>
 
     1. Read the **Privacy Policy** and click **Accept**.
     2. Read the **Terms of Use** and click **Accept**.

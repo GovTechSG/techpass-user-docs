@@ -22,7 +22,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 1. Request for TechPass account
 
-<details><summary style="font-size:20px;font-weight:bold">Get invited to TechPass account and request for SEED (optional)</summary>
+<details> <summary>Get invited to TechPass account and request for SEED (optional)</summary>
 
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
@@ -54,7 +54,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 2. Sign in using initial password
 
-<details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass account using your TechPass username and initial password</summary>
+<details>  <summary>Sign in to TechPass account using your TechPass username and initial password</summary>
 
  1. Go to the required Docs portal environment and click **Login**.
 
@@ -77,7 +77,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details> <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
+<details>  <summary>Set up security verification for TechPass account</summary>
 
  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
@@ -133,7 +133,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 4. Reset initial password
 
-<details> <summary style="font-size:20px;font-weight:bold"> Reset the initial password</summary>
+<details>  <summary> Reset the initial password</summary>
 
   1. Enter your **initial password**, **new password** and retype the new password to confirm.
 
@@ -144,7 +144,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 5. Accept Privacy Policy and Terms of Use
 
-<details><summary style="font-size:20px;font-weight:bold"> Read and accept the Terms of Use</summary>
+<details> <summary> Read and accept the Terms of Use</summary>
 
   1. Read the **Privacy Policy** and click **Accept**.
   2. Read the **Terms of Use** and click **Accept**.

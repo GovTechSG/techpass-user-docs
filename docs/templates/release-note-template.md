@@ -22,19 +22,19 @@ Frontend version: version number in the environment | Backend version: version n
 
 **New features** 
 
-<details>
+<details data-is-size="medium">
  <summary></summary>
 
 </details>
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary></summary></details>
 
 **Fixes** 
 
-<details>
+<details data-is-size="medium">
  <summary></summary>
 
 

@@ -1,12 +1,12 @@
 # TechPass onboarding and signing in FAQs
 
-<details><summary style="font-size:18px">Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
+<details data-is-size="medium"><summary>Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
 
 No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, organisational email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I am using a SE GSIB device. How do I sign up for a TechPass account?</summary>
+<details data-is-size="medium"><summary>I am using a SE GSIB device. How do I sign up for a TechPass account?</summary>
 
 If you are using a SE GSIB device:
 
@@ -20,14 +20,14 @@ If you are using a SE GSIB device:
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
+<details data-is-size="medium"><summary>How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
 
 
 If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN.
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I experience an infinite sign-in loop while accessing TechPass portal.</summary>
+<details data-is-size="medium"><summary>I experience an infinite sign-in loop while accessing TechPass portal.</summary>
 
 
 If you experience an infinite sign-in loop while signing in to the TechPass portal, please clear your cache. 

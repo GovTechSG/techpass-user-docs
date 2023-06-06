@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary> Enhancement to SEED device onboarding Status for Public officers.
 </summary>
 
@@ -18,7 +18,7 @@ Previously, Public Officers would only see their device status as ‘pending’ 
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary> Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default. </summary>
 
 Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
@@ -27,7 +27,7 @@ Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation 
 
 **Fixes**
 
-<details>
+<details data-is-size="medium">
  <summary> URL update for technical support for TechPass and SEED.
 </summary>
 
@@ -41,14 +41,14 @@ Frontend version: 1.0.0-20230424.1714 | Backend version: 1.61.3-230425.0821
 
 **Feature** 
 
-<details>
+<details data-is-size="medium">
  <summary>TechPass tenant notification for group limit.</summary>
 
 Tenants will now receive email notifications when their tenant's group count is close to the limit. This notification provides tenants with sufficient notice so that they can request an increase in their group limit without disrupting their service continuity.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Webhook failure notification and reminder for tenant admins.</summary>
 
 Tenant admins will receive an email notification when an invoked webhook endpoint fails and a reminder when there are incomplete cases. This notification and reminder will provide admins with timely information regarding the status of their webhook endpoints and incomplete cases without overwhelming them with excessive notifications.
@@ -57,14 +57,14 @@ Tenant admins will receive an email notification when an invoked webhook endpoin
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary> Automation API now supports filtering users by account type.</summary>
 
 We have enhanced the Automation API that enables developers to filter users by account type. This feature will enable developers to easily retrieve a list of users that meet specific account type criteria.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
 
 Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
@@ -73,7 +73,7 @@ Previously, users had to manually enter the vendor's company name during the inv
 
 **Fixes**
 
-<details>
+<details data-is-size="medium">
  <summary> Fix for occasional failure in Automation API <i>Get User Info</i> with <i>lastSignIn=true </i> </summary>
 
 We have released a fix for an occasional failure observed in the Automation API *Get User Info* endpoint when calling with *lastSignIn=true*.
@@ -91,7 +91,7 @@ Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
 
 **Feature** 
 
-<details>
+<details data-is-size="medium">
  <summary>Search bar added on TechPass portal</summary>
 
 We have updated TechPass portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
@@ -100,7 +100,7 @@ We have updated TechPass portal with a new search bar feature that allows users 
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary> Updated tenants' restriction on TechBiz application role assignment & groups management in TechPass </summary>
 
 Previously, if a tenant had onboarded to TechBiz, they were not allowed to manage the app role assignments for any of their applications on TechPass at a tenant-wide level. The restriction is applied to all applications under that tenant. However, we understand that some applications may not be onboarded to TechBiz, and tenants will still need to manage the app role assignments for those applications on TechPass. 
@@ -113,7 +113,7 @@ Additionally, TechBiz-created groups will no longer be displayed on the TechPass
 </details>
 
 
-<details>
+<details data-is-size="medium">
  <summary> Enhanced webhook UI and retry mechanisms </summary>
 
 We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.
@@ -123,7 +123,7 @@ In response to user feedback, you can now use the **Retry** action for webhooks 
 </details>
 
 
-<details>
+<details data-is-size="medium">
  <summary> Improve accuracy of user's last sign-in information for Automation API Get User Info <i>with lastSignIn=true</i> </summary>
 
 We identified an issue where user's last sign-in information may not have up-to-date information. To address this, we have pulled the last sign-in information from other sources to improve the accuracy.
@@ -137,7 +137,7 @@ Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Tenants can retry or stop a webhook event on TechPass portal</summary>
 
 Tenants can now retry or stop a webhook event on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days.
@@ -146,7 +146,7 @@ Refer to [Webhook states](https://docs.developer.tech.gov.sg/docs/techpass-tenan
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary> <i>user-deleted</i> webhook event now includes assigned groups</summary>
 
 The webhook event *user-deleted* includes all groups the user is assigned to that follows the *namespace:group name* naming convention.
@@ -154,7 +154,7 @@ The webhook event *user-deleted* includes all groups the user is assigned to tha
 
 **Fixes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Email updates for vendor display accurate information</summary>
 
 We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
@@ -167,7 +167,7 @@ Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.3-230321.0659
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Tenants receive a daily notification when an invoked webhook endpoint fails
 
 </summary>
@@ -176,7 +176,7 @@ Tenants will now receive a daily notification when an invoked webhook endpoint f
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>We have enhanced the login user experience for public officers in WOG AAD</summary>
 
 Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account.
@@ -187,21 +187,21 @@ Public officers on WOG AAD are only required to do one number matching authentic
 
 **Fixes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Webhook checksum error changed </summary>
 
 We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary> Temps staff account tagging</summary>
 
 When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass portal. Keep track of your temporary staff accounts with this new account tagging feature.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Sender ID bug is fixed</summary>
 
 We received feedback that emails sent from our production environment were displaying the wrong sender ID as *no_reply@dev.techpass.gov.sg*. We've fixed this issue and emails will now display the correct sender ID. Thanks for bringing this to our attention and helping us improve our platform! :bow:
@@ -215,7 +215,7 @@ Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Account type is now displayed for easy identification of public officer or vendor</summary>
 
 You can now view your **Account type** when [editing and viewing your profile](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). 
@@ -238,7 +238,7 @@ Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.6-230213.1101
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>API key limit is increased to four for all namespaces</summary>
 
 The API key limit was set to two. It is now set to four to allow rotation of keys for emergency purpose.
@@ -249,7 +249,7 @@ The API key limit was set to two. It is now set to four to allow rotation of key
 
 **Fixes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed webhook checksum</summary>
 
 We heard from you that checking against our webhook checksum was incorrect and we have fixed it now :handshake:. 
@@ -262,7 +262,7 @@ Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>For more clarity, account-related emails now have the link to the Accounts FAQ.</summary>
 
 TechPass sends emails to you for the following account-related activities so that you can act appropriately:
@@ -282,7 +282,7 @@ Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
 
 **Fixes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Public officers mobile phone number will now either conform to TechPass format or will be blank.</summary>
 
 When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
@@ -303,7 +303,7 @@ Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>Manage application role assignments using TechBiz portal</summary>
 
 From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
@@ -322,7 +322,7 @@ Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 
 **Changes** 
 
-<details>
+<details data-is-size="medium">
  <summary>
 Role-Based Access Control (RBAC) for Automation API</summary>
 
@@ -334,7 +334,7 @@ Test if the Automation API is working as expected.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Improved portal security implementation</summary>
 
 We have improved the security of the anti-CSRF token implementation. However, because of this change, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment.
@@ -343,7 +343,7 @@ We have improved the security of the anti-CSRF token implementation. However, be
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Write longer group names</summary>
 
 You can now enter up to 99 characters for **Group Name** while creating groups. In earlier versions, the character limit was 40.
@@ -352,7 +352,7 @@ You can now enter up to 99 characters for **Group Name** while creating groups. 
 
 **Fixes**
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed empty array issue with Bind Owners To Group Automation API</summary>
 
 The Bind Owners To Group Automation API returned an empty array of groups in the response body. This was redundant and we have removed it.
@@ -360,7 +360,7 @@ The Bind Owners To Group Automation API returned an empty array of groups in the
 </details>
 
 
-<details>
+<details data-is-size="medium">
  <summary>Resend user-related webhook events only to tenants for whom it failed</summary>
 
 Tenants can subscribe to webhook events such as user-invited, user-deleted and user-updated, which get triggered when users are added, deleted and updated, respectively, using TechPass Automation API, TechPass and TechBiz portals.
@@ -376,7 +376,7 @@ In the event where there's an invalid webhook configuration such as missing secr
 Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
 
 **New features**
-<details>
+<details data-is-size="medium">
  <summary>Automatically retrieve public officer profile details from WOG AAD upon account creation</summary>
 
 Upon account creation, the TechPass portal displays profile details such as first name, last name, organisation, department and mobile number of public officers.
@@ -385,14 +385,14 @@ When WOG AAD does not have this information, and if you invite the public office
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Display Key ID for client secrets</summary>
 
 Tenant admins can view the Key IDs for their client secrets on the TechPass portal.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Number matching in multifactor authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
@@ -402,14 +402,14 @@ For more information, refer to [Azure documentation](https://learn.microsoft.com
 </details>
 
 **Fixes**
-<details>
+<details data-is-size="medium">
  <summary>Logs are now displayed for a newly added webhook</summary>
 
 When users added a webhook URL to an active tenant, they could not see the logs related to the webhook. We have fixed this, and you can view the logs.
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>The word "terminated" won't be displayed in the mobile number field</summary>
 
 If a vendor's TechPass account was terminated, and when you selected or assigned this user to a role using any downstream services such as TechBiz, you could see the word terminated displayed in the mobile number field. We have fixed this now.
@@ -417,7 +417,7 @@ If a vendor's TechPass account was terminated, and when you selected or assigned
 </details>
 
 **Changes**
-<details>
+<details data-is-size="medium">
  <summary>Disable reset password for test and training accounts</summary>
 
 TechPass admins and the operations team will no longer be able to reset passwords for test and training accounts.
@@ -430,7 +430,7 @@ Frontend version: 1.0.0-20221112.0330  | Backend version: 1.35.1-221112.0342
 
 **New features** - **TechPass Portal**
 
-<details>
+<details data-is-size="medium">
  <summary>A new webhook, application-credentials-expiring, is available for subscription</summary>
 
 Tenant admins can subscribe to this webhook to get notifications about their applications' expiring certificates and secrets. </details>
@@ -441,14 +441,14 @@ Frontend version: 1.0.0-20221021.0757  | Backend version: 1.34.3-221021.0828
 
 **New features** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Tenant state overrides webhook state </summary>
 
 Tenant state will now override the webhook state. In other words, if the tenant state is disabled, irrespective of the web hook status, webhook event will not be triggered. </details>
 
 **Fixes** - **Frontend**
 
-<details>
+<details data-is-size="medium">
  <summary>While signing up for TechPass, appropriate error messages will be displayed in the portal </summary>
 
 Public officers will see relevant error messages if they provide email address with domains that are not in the allowlist.
@@ -457,7 +457,7 @@ Public officers will see relevant error messages if they provide email address w
 
 **Fixes** - **Backend** and **Automation API**
 
-<details>
+<details data-is-size="medium">
  <summary>Error response will be returned for invalid display names provided while creating or updating applications using API</summary>
 
 If the application display name does not conform to our valid display name policy when the tenant admins create or update applications using API, the system will return the appropriate error response.
@@ -467,7 +467,7 @@ If the application display name does not conform to our valid display name polic
 
 **Fixes** - **Frontend**
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed incorrect hints displayed while creating application</summary>
 
 On screen hints displayed for Homepage URL and Logout URL on Create Application were not accurate. We have fixed them.
@@ -476,7 +476,7 @@ On screen hints displayed for Homepage URL and Logout URL on Create Applica
 
 **Changes** - **Backend** and **Automation API**
 
-<details>
+<details data-is-size="medium">
  <summary>Improved user experience while modifying tenant groups or creating applications</summary>
 
 We have improved the performance of the tenant group modification and the application creation processes.
@@ -489,7 +489,7 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 
 **New features** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Tenant admins can now create and update applications using APIs.</summary>
 
 Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
@@ -500,7 +500,7 @@ This new feature complements the existing functionality to [create and update ap
 
 **Fixes** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Terminated admins will not be notified of expiring or expired secrets and certificates.</summary>
 
 Terminated admins will no longer be notified when an application's secret and certificate are nearing expiry or expired.
@@ -509,7 +509,7 @@ Terminated admins will no longer be notified when an application's secret and ce
 
 **Changes** - **Frontend** and **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Security enhancements.</summary>
 
 We have made some changes to improve the security of your applications. When you create and update applications, ensure the **Homepage URL** and **Redirect URL** are in ```https://``` format.
@@ -526,7 +526,7 @@ Frontend version: 1.0.0-20220927.1052 | Backend version: 1.31.10-220927.0538
 
 **New features** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>We send emails to the requestor and the TechPass account holder when a TechPass account's status changes.</summary>
 
 Won't it be great to know the progress of your request to enable, disable or terminate your or others' TechPass account?
@@ -537,7 +537,7 @@ We have introduced a new feature to send an email to the requestor and account h
 
 **Fixes** - **Frontend**
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed incorrect validation rules for public officer's email address.</summary>
 
 Were you perplexed when you got an incorrect error "failed to invite user" while inviting public officers? Don't worry, we fixed it now!
@@ -554,7 +554,7 @@ Frontend version: 1.0.0-20220915.0435 | Backend version: 1.31.7-220914.1416
 
 **Changes** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Automated resend initial password for vendor</summary>
 
 We have automated the process of resending the initial password to vendors. If the vendor creates a service request for a new initial password, the tenant admin or the support team creates a new initial password for the vendor. The system automatically sends it to the registered mobile phone of the vendor.
@@ -563,7 +563,7 @@ We have automated the process of resending the initial password to vendors. If t
 
 **Changes** - **TechPass Portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Signing up for TechPass using *_from.XX@XX.gov.sg* is allowed again :grinning:!</summary>
 
 Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to sign up for a TechPass account from the TechPass portal.
@@ -572,7 +572,7 @@ Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to si
 
 **Changes** - **Legal**
 
-<details>
+<details data-is-size="medium">
  <summary>Updated Terms of Use and Privacy Statement</summary>
 
 We have revised the Terms of Use and Privacy Statement for TechPass. Go to [Terms and policies](terms-and-policies) download the latest version.
@@ -584,7 +584,7 @@ Frontend version: 1.0.0-20220830.0352 | Backend version: 1.29.0-220826.0415
 
 **New features** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Notify users before terminating their account which is inactive for 30 days from creation</summary>
 
 TechPass automatically terminates TechPass accounts that have not been used within 30 days from its creation date. Users will now receive an email notification seven days in advance about this termination.
@@ -603,7 +603,7 @@ Log in with your TechPass and complete the TechPass onboarding flow.
 
 **Fixes** - **TechPass portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Warning message for expiring and expired certificates and secrets</summary>
 
 We have fixed a bug and now warning messages will be displayed for both expiring and expired certificates and secrets on the portal. Earlier, it was displayed only for expiring certificates and secrets.
@@ -614,7 +614,7 @@ We have fixed a bug and now warning messages will be displayed for both expiring
 Frontend version: 1.0.0-20220808.0908 | Backend version: 1.27.8-220817.0220  
 **Updates** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Email reminders for expiring/expired secrets and certificates</summary>
 
 A new cron job sends email reminders to all Tenant admins whenever an application's certificate or secret is going to expire or if expired already. This email will prompt tenant admins to upload new certificate or create a new secret for the application.
@@ -628,7 +628,7 @@ You will have up to 30 days to upload a new certificate or generate a new secret
 
 **Fixes** - **TechPass Portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Implicit grant settings were overwritten when updating other application settings</summary>
 
 A fix has been applied so that if a Tenant Admin enables the ID Token in the **Implicit Grant settings** via Azure Portal and proceeds to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
@@ -637,7 +637,7 @@ A fix has been applied so that if a Tenant Admin enables the ID Token in the **I
 
 **Fixes** - **Backend**
 
-<details>
+<details data-is-size="medium">
 
  <summary>Email notification sent to deleted account indicate five days of no sign-in but it should be 30 days</summary>
 
@@ -647,7 +647,7 @@ A fix has been applied to the email template to indicate 30 days instead of 5 da
 
 **Fixes** - **Automation API**
 
-<details>
+<details data-is-size="medium">
  <summary>Invite and Get user APIs does not return any value for UserPrincipalName</summary>
 
 On rare occasions, Azure may take up more time than expected to generate a user resource when invite user API is triggered. On such occasions, Invite and Get user APIs may return no value for **UserPrincipalName** .
@@ -669,7 +669,7 @@ A fix has been applied to manage the delay from Azure and to return a valid erro
 Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032  
 **Updates** - **TechPass Portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Self sign up using *_from@*.gov.sg are no longer permitted</summary>
 
 Vendors are given *_from@*.gov.sg emails for their work via GSIB. However, TechPass accounts for vendors must be sponsored by their respective agencies via the downstream SGTS services in use and vendors will need to provide their vendor company emails for account creation.
@@ -685,7 +685,7 @@ For new GCC Common Services vendor users with *_from@*.gov.sg - Please raise a [
 
 **Fixes** - **Portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed failed to get user's status when accessing application edit page</summary>
 
 A fix has been applied to properly detect users with multiple roles assigned to the application; so that this list of users can be properly displayed in the application edit page.
@@ -696,7 +696,7 @@ A fix has been applied to properly detect users with multiple roles assigned to 
 Frontend version: 1.0.0-20220719.0855 | Backend version: 1.24.10-220715.1024  
 **Improvements** - **Automation API**
 
-<details>
+<details data-is-size="medium">
  <summary>Parameter changed in the request for access token</summary>
 
 There is a change to the `scope` parameter in the request for access token via client credentials grant.
@@ -711,7 +711,7 @@ For more information, refer to the following:
 
 **Fixes** - **Backend**
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed the issue that triggered incorrect emails from TechBiz</summary>
 
 A fix has been applied to the email templates to correct the invitation emails triggered from TechBiz.
@@ -723,7 +723,7 @@ Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 
 **New features** - **TechPass portal**
 
-<details>
+<details data-is-size="medium">
  <summary>Developer Portal Widget is available on the TechPass portal</summary>
 
 A new widget from the Developer Portal has been integrated into the TechPass portal. Using this, you can now access and learn more about the various GovTech featured products.
@@ -732,7 +732,7 @@ A new widget from the Developer Portal has been integrated into the TechPass por
 
 </details>
 
-<details>
+<details data-is-size="medium">
    <summary>New webhook in TechPass portal</summary>
 
 Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
@@ -741,7 +741,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
 </details>
 
-<details>
+<details data-is-size="medium">
    <summary>New configuration flag for Applications</summary>
 
   A new configuration flag `published` has been added to Applications. When the application is indicated as `published`, it will be visible on the TechPass portal.
@@ -754,7 +754,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
 **Improvements** - **TechPass portal**
 
-  <details>
+  <details data-is-size="medium">
    <summary>Metrics are available only for published applications on TechPass portal</summary>
 
   **Earlier**:
@@ -764,7 +764,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
   - Metrics will be available only for the published applications on the TechPass portal login page.
 
   </details>
-  <details>
+  <details data-is-size="medium">
    <summary>Search user by mobile number</summary>
 
   The search user feature now allows tenant to search for users by their mobile number.
@@ -775,7 +775,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
 **Improvements** - **TechPass portal and Automation API**
 
-  <details>
+  <details data-is-size="medium">
    <summary>Access token and ID token durations shortened</summary>
 
   Access and ID token durations are shortened for better security posture.
@@ -794,7 +794,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
   </details>
 
-  <details>
+  <details data-is-size="medium">
    <summary>Verify user availability on TechPass before sending TechPass invitation email</summary>
 
   **Earlier**:
@@ -810,7 +810,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
   </summary>
   </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Three different login timestamps available</summary>
 
 [Get User Info API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users~1{identifier}/get) now lists the following three different last login date and time:
@@ -825,7 +825,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 
   </details>
 
-  <details>
+  <details data-is-size="medium">
    <summary>Redirect user to TechPass portal login page</summary>
 
   **Earlier**:
@@ -841,7 +841,7 @@ For more information, refer to [Configuring Webhooks](https://docs.developer.tec
 Frontend version: 1.0.0-20220531.0334 | Backend version: 1.23.5-220601.0954
 
 **Improvements** - **Automation API**
-<details>
+<details data-is-size="medium">
  <summary>Whitelist value will be the Whitelist ID</summary>
 
 **Earlier**:
@@ -865,7 +865,7 @@ For more information, refer to the following:
 
 **Improvements** - **Webhook**
 
-<details>
+<details data-is-size="medium">
  <summary>Updated Webhook retry logic</summary>
 
 Failed webhook events are now retried for 14 days with the time interval of five minutes.
@@ -874,7 +874,7 @@ Failed webhook events are now retried for 14 days with the time interval of five
 
 **Fixes** - **TechPass portal**
 
-<details>
+<details data-is-size="medium">
  <summary> Configuration fix </summary>
 
 The HTTP `X-XSS-Protection` response header has been deprecated by modern browsers as it can introduce additional security issues on the client side.
@@ -887,7 +887,7 @@ In the HTTP Response Header, the XSS protection response header has been disable
 
 </details>
 
-<details>
+<details data-is-size="medium">
  <summary>Fixed Error Code:0</summary>
 
   TechPass portal displayed an error banner if the metrics about **TechPass Users** and **Applications Integrated with TechPass** could not be displayed. This has been fixed in this release.

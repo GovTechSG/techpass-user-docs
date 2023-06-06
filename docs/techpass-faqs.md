@@ -10,13 +10,13 @@ Need to work with Shilpa if we can have a single FAQ page
 
 ## General FAQs
 
-<details><summary style="font-size:18px">Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
+<details data-is-size="medium"><summary>Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
 
 No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, organisational email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I am using a SE GSIB device. How do I sign up for a TechPass account?</summary>
+<details data-is-size="medium"><summary>I am using a SE GSIB device. How do I sign up for a TechPass account?</summary>
 
 If you are using a SE GSIB device:
 
@@ -30,14 +30,14 @@ If you are using a SE GSIB device:
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
+<details data-is-size="medium"><summary>How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
 
 
 If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN.
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I experience an infinite sign-in loop while accessing TechPass portal.</summary>
+<details data-is-size="medium"><summary>I experience an infinite sign-in loop while accessing TechPass portal.</summary>
 
 
 If you experience an infinite sign-in loop while signing in to the TechPass portal, please clear your cache. 
@@ -45,8 +45,8 @@ If you experience an infinite sign-in loop while signing in to the TechPass port
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">Why is my TechPass account locked. How to unlock my TechPass account?</summary>
+<details data-is-size="medium">
+<summary>Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
 - If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. Go to [reset password][reset-password] and follow the on-screen instructions.
 
@@ -58,8 +58,8 @@ If you experience an infinite sign-in loop while signing in to the TechPass port
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">What is the password reset policy for TechPass accounts?</summary>
+<details data-is-size="medium">
+<summary>What is the password reset policy for TechPass accounts?</summary>
 
 - If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
@@ -69,8 +69,8 @@ If you experience an infinite sign-in loop while signing in to the TechPass port
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">How often should I verify my security info?</summary>
+<details data-is-size="medium">
+<summary>How often should I verify my security info?</summary>
 
 As security information is vital, you need to make sure it is always up-to-date. You will receive a reminder every 180 days to review your security info and update it as needed.
 
@@ -78,8 +78,8 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">I have lost my mobile device that I used for MFA authentications. What should I do?</summary>
+<details data-is-size="medium">
+<summary>I have lost my mobile device that I used for MFA authentications. What should I do?</summary>
 
 Choose the appropriate option based on your TechPass ID
 
@@ -102,8 +102,8 @@ Choose the appropriate option based on your TechPass ID
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">I have other problems with MFA?</summary>
+<details data-is-size="medium">
+<summary>I have other problems with MFA?</summary>
 
 Do one of the following:
 
@@ -112,7 +112,7 @@ Do one of the following:
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I have not yet onboarded to my TechPass account but I received an email stating that it has been terminated. Why was it terminated?</summary>
+<details data-is-size="medium"><summary>I have not yet onboarded to my TechPass account but I received an email stating that it has been terminated. Why was it terminated?</summary>
 
 When you sign up or get invited to a TechPass account, a TechPass account is created for you and we will send an onboarding invitation email. When you onboard to your account, it gets activated.
 
@@ -123,7 +123,7 @@ This onboarding invitation email is valid only for 30 days and if you have not c
  
 <hr/></details><br>
 
-<details><summary style="font-size:18px">My TechPass account is active but my SEED onboarding email invitation has expired. How do I get another SEED onboarding email invitation?</summary>
+<details data-is-size="medium"><summary>My TechPass account is active but my SEED onboarding email invitation has expired. How do I get another SEED onboarding email invitation?</summary>
 
 Your SEED onboarding email invitation is valid only for 30 days. 
 
@@ -133,7 +133,7 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">Why is my TechPass account disabled? How to re-enable it?</summary>
+<details data-is-size="medium"><summary>Why is my TechPass account disabled? How to re-enable it?</summary>
 
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
@@ -141,7 +141,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 <hr/></details><br>
 
-<details><summary style="font-size:18px">I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
+<details data-is-size="medium"><summary>I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
 
 ![mfa_error](assets/support/mfa_error.jpg)
 
@@ -151,30 +151,30 @@ You might encounter this error if you are trying to sign in to your WOG account 
 
 ## Common issues for GCC 1.0 MDM onboarding and SHIP-HATS account migration users
 
-<details>
-<summary style="font-size:18px">I received an email stating, "Your account was used for a new registration request". What does it mean?</summary>
+<details data-is-size="medium">
+<summary>I received an email stating, "Your account was used for a new registration request". What does it mean?</summary>
 
 You will receive this email if you are a GCC 1.0 user or a part of the SHIP-HATS account migration, who tried to sign up for TechPass account when you already have an active account.
 
 If you neither re-attempted to sign up for TechPass account nor a part of the SHIP-HATS account migration, [report this incident][service-request] immediately and monitor your TechPass account for suspicious activities.
 
 <hr/></details><br>
-<details>
-<summary style="font-size:18px">I received an email stating, "Your disabled account was used for a new registration request". What does it mean?</summary>
+<details data-is-size="medium">
+<summary>I received an email stating, "Your disabled account was used for a new registration request". What does it mean?</summary>
 
 It indicates that your active TechPass account was disabled as it was inactive for 90 consecutive days. The email ID on which you received this message is your inactive TechPass ID and reactivate it by creating a [service request][service-request] with us.
 
 <hr/></details><br>
-<details>
-<summary style="font-size:18px">I received an email stating "Your TechPass account has been disabled and will be deleted soon". What does it mean?</summary>
+<details data-is-size="medium">
+<summary>I received an email stating "Your TechPass account has been disabled and will be deleted soon". What does it mean?</summary>
 
 When you request for a TechPass account, it is created and an onboarding invitation email is sent to you to complete the TechPass onboarding process.  This email is valid only for 30 days. If you do not complete TechPass onboarding within 30days, you get this email.
 
 To get a new invitation link, create a [service request][service-request] with us.
 
 <hr/></details><br>
-<details>
-<summary style="font-size:18px">How do I reset my TechPass account password?</summary>
+<details data-is-size="medium">
+<summary>How do I reset my TechPass account password?</summary>
 
 - If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
 
@@ -183,8 +183,8 @@ To get a new invitation link, create a [service request][service-request] with u
 - If your TechPass ID is same as the organisational email ID, you will be notified to [reset GSIB password][reset-password-gsib] in accordance with the WOG password policy. If there are any issues, contact your Agency Facility Management (AFM).
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">Why do I have 2 MFA profiles: SG Govt M365 and TECHPASS, on my authenticator app?</summary>
+<details data-is-size="medium">
+<summary>Why do I have 2 MFA profiles: SG Govt M365 and TECHPASS, on my authenticator app?</summary>
 
 If you have used your WOG account (organisational email ID) to get invited or while signing up for your TechPass account, your TechPass ID is same as your organisational email ID. 
 
@@ -197,8 +197,8 @@ If you are accessing SGTS services from your GSIB, there is no need for WOG acco
 
 <hr/></details><br>
 
-<details>
-<summary style="font-size:18px">How do I reset my MFA?</summary>
+<details data-is-size="medium">
+<summary>How do I reset my MFA?</summary>
 
   If your TechPass login ID's domain is ```techpass.gov.sg```,[reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-techpass-mfa-for-new-device).
 

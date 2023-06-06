@@ -1,23 +1,23 @@
 # Reset MFA for WOG account
 
-This article guides you how to reset your WOG(SGGovt M365) MFA.
+This article provides instructions on how users can reset their WOG MFA(Multi-Factor Authentication). The WOG profile is listed as SGGovt M365 on the authenticator app. 
 
 ## Audience
 
-Users who have a WOG profile(account) may want to reset the MFA of their WOG account for any of the following reasons:
+Users who have a WOG profile, listed as SGGovt M365 on the authenticator app, may need to reset the MFA for the following reasons:
 
 - Changed mobile phone.
 - Lost mobile phone.
 - Deleted the Authenticator app from the mobile phone or unable to access the app on your phone.
-- Change in the organisational email address linked to the WOG account.
+- Change in the organisational email address linked to the WOG profile.
 
-?> You may also need to [reset MFA of your TechPass account](reset-security-verification-for-wog-account).
+?> You also need to [reset MFA of your TechPass account](reset-security-verification-for-wog-account).
 
 ## Prerequisites
 
 - You must have the old mobile phone to authenticate your WOG login.
 
-?> If you have lost your old mobile phone, formatted the old phone(factory reset), or unable to authenticate your login using the old mobile phone, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account. They will get provide the steps to reset your WOG MFA and also your TechPass MFA.
+?> If you have lost or formatted your old phone or unable to authenticate using it, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG profile.
 
 ### To reset MFA for WOG account
 
@@ -29,9 +29,9 @@ Users who have a WOG profile(account) may want to reset the MFA of their WOG acc
 ![add-auth-method](assets/images/reset-techpass-mfa-vendor/add-method.png)
 5. Click **Next**.
 ![install-auth-method](assets/images/reset-techpass-mfa-vendor/install-auth-app.png)
-6. Follow the on-screen instructions to add your TechPass account and click **Next**.
+6. Follow the on-screen instructions and click **Next**.
 ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
-7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
+7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
 8. In the app, add an account and choose **Work or school account**.
 9. Select **Scan a QR code** on the app.
 10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.

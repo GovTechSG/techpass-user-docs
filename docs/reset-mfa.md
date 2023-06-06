@@ -1,9 +1,15 @@
+<!--
 # Reset multifactor authentication (MFA)
 
-TechPass users need to reset MFA if they:
+This article provides instructions on how TechPass users can reset their TechPass MFA (Multi-Factor Authentication).
 
-- Change their mobile phone.
-- Delete Authenticator app from their mobile phone.
+## Audience
+
+TechPass users need to reset their MFA for the following reasons:
+
+- Changed mobile phone.
+- Lost mobile phone.
+- Deleted the Authenticator app from the mobile phone or unable to access the app on the phone.
 
 Users whose TechPass domain is ```techpass.gov.sg```, will only have TechPass profile(account) and must [Reset TechPass MFA](reset-techpass-mfa-for-new-device) when needed.
 
@@ -20,4 +26,5 @@ Users whose TechPass domain is not ```techpass.gov.sg``` will have two profiles(
 > If you have changed your mobile phone, use your new device to complete these steps.
 
 
+-->
 

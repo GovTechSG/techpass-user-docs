@@ -2,7 +2,7 @@
 
 This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.
 
-?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED(optional) provisioning. <br>- For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED(optional) provisioning. <br>- For more details, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 
 ## Audience

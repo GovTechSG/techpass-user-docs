@@ -1,6 +1,6 @@
 # Onboard to TechPass
 
-Depending on the users' device and supported organisational email addresses, there are different ways for a user to onboard to TechPass.
+Users have multiple options to onboard to TechPass, depending on their device and supported organisational email addresses.
 
 
 ## Identify your onboarding flow

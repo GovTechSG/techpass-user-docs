@@ -1,4 +1,4 @@
-# Overview of TechPass
+# TechPass Overview
 
 TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following Singapore Government Technology Stack (SGTS) services.
 

@@ -1,6 +1,6 @@
 # Get invited and onboard to TechPass
 
-This article guides you how to request for a TechPass account and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass account via TechPass portal or not. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.
+This article walks you through the TechPass portal sign-up and onboarding process. Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal. If you can't sign up for TechPass account via TechPass portal, you need to request to get invited.
 
 ?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED(optional) provisioning. <br>- For more details, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
@@ -13,14 +13,12 @@ Users who need a TechPass account but do not have a WOG account or a non-SE GSIB
 
 You need the following to get invited to TechPass and complete the onboarding:
 
-- Your organisational email address provided by your organisation.
-- A standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.
-- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+- Organisational email address with a standard mailbox (not LiteMail).
+- Valid TechPass onboarding email.
 
 ?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
-> **Tip**: Click the triangle to view the instructions to complete each step.
 
 ## Step 1. Request for TechPass account
 
@@ -28,7 +26,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
-!> You need SEED provisioning to access SGTS and GCC 2.0 resources via an Internet Device.
+!> To access service such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
 2. Provide the required details in this request such as your organisational email address, mobile phone number and project name.
 
@@ -38,15 +36,17 @@ You need the following to get invited to TechPass and complete the onboarding:
   >
   > **When you are invited to TechPass**
   >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days and will have your TechPass account or log in ID. 
-  >- Your TechPass log in ID's domain will be ``techpass.gov.sg```.
+  >- We'll send the TechPass onboarding email with your TechPass account or log in ID. 
+  >- You need to activate the account within 30 days. 
+  >- Your TechPass log in ID's domain will be ```techpass.gov.sg```.
   >- You will receive the initial password by SMS to the registered mobile number.
   
   >
   > **If SEED provisioning is successful**:
+  >
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
-  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
+  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you need to request again.
 
  
@@ -54,7 +54,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 2. Sign in using initial password
 
-<details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass using your TechPass username and initial password</summary>
+<details> <summary style="font-size:20px;font-weight:bold">Sign in to TechPass account using your TechPass username and initial password</summary>
 
  1. Go to the required Docs portal environment and click **Login**.
 
@@ -95,10 +95,11 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   6. Scan the QR code on your computer screen and click **Next**. 
 
-  Your TechPass account gets activated and is now linked to the authenticator app.
-    ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
+     ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
 
-  A number is shown on your browser.
+   Your TechPass account gets activated and linked to the authenticator app. 
+   
+   A number is shown on your browser.
 
    ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
   
@@ -151,7 +152,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   You have now successfully onboarded to your TechPass account. If you need to onboard your Internet Device to SEED, you can proceed now.
 
-?> Refer to [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before proceeding to onboard your Internet Device to SEED.
+?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
 </details>
 

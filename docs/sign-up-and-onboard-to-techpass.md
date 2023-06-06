@@ -18,7 +18,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this period, we will terminate your TechPass account, and you may need to sign up again.
 
-> **Tip**: Click the triangle to view the instructions to complete each step.
+ 
 
 
 ## Step 1. Sign up for TechPass
@@ -48,9 +48,10 @@ You need the following to sign up for TechPass and complete the onboarding:
   
   >
   > **If SEED provisioning is successful**:
+  >
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
-  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED .
+  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 
@@ -184,7 +185,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
 
-  6. Click **Next**.
+  6. On your computer, click **Next**.
 
   ![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)
 

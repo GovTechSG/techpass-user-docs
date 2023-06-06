@@ -17,7 +17,7 @@ Following are the prerequisites to request for SEED provisioning via TechPass po
 
 ### To request for SEED provisioning
 
-1. From your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
+1.  Using your non-SE GSIB device, go to [TechPass portal](https://portal.techpass.gov.sg) and click **Login with TechPass**.
 2. Sign in to your TechPass account.
 4. Hover over your account name and click **My Account**.
 

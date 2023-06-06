@@ -1,23 +1,22 @@
 # Sign up and onboard to TechPass
 
-This article guides you to sign up for TechPass via the TechPass portal and onboard to it. Refer to the flow chart on [Onboard to TechPass](onboard-to-techpass) page to know if you can sign up for TechPass via the TechPass portal.
+This article walks you through the TechPass portal sign-up and onboarding process. Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal.
 
 ## Audience
 
-Users with a WOG account who needs a TechPass account.
+Users with a WOG account and who needs a TechPass account.
 
-?> **Note**<br>- If you are a public officer who is using an **SE-GSIB** device, please submit a [service request](https://go.gov.sg/seed-techpass-support) to create your TechPass account.<br>- Alternatively, users can also get invited to TechPass and SEED(optional) via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?> **Note**<br>- Public officers using an **SE-GSIB** device should submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED(optional) via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more details, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 ## Prerequisites
 
 You need the following to sign up for TechPass and complete the onboarding:
 
-- A non-SE GSIB device.
-- Organisational email address.
-- A standard mailbox for your organisational email address. TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before signing up.
-- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+- Non-SE GSIB device.
+- Organisational email address with a standard mailbox (not LiteMail).
+- Valid TechPass onboarding email.
 
-?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this period, we will terminate your TechPass account, and you may need to sign up again.
 
 > **Tip**: Click the triangle to view the instructions to complete each step.
 
@@ -27,13 +26,13 @@ You need the following to sign up for TechPass and complete the onboarding:
 <details>
   <summary style="font-size:20px;font-weight:bold">Sign up for TechPass via TechPass portal</summary>
 
-  1. From your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+  1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   2. Enter your organisational **Email Address**.
 
-  3. Indicate if you want to onboard your Internet Device to SEED and select **I'm not a robot**.
+  3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
 
-  !> You need SEED provisioning to access SGTS and GCC 2.0 resources via an Internet Device.
+  !> To access service such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
   ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
@@ -71,7 +70,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
-  1. From your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+  1. Using your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
   2. If prompted to sign in:
   
@@ -155,20 +154,22 @@ You need the following to sign up for TechPass and complete the onboarding:
   <details>
   <summary style="font-size:20px;font-weight:bold">Set up security verification for TechPass account</summary>
 
-   ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+   ?> This document guides you to configure Microsoft authenticator as your MFA. We strongly recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 
-  1. Choose one of the following options and click **Next**.
+  1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app
 
-    - If you do not have the Microsoft Authenticator app(recommended) on your mobile phone, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/) and complete the wizard.
-    - To use other authenticators, click **I want to use a different authenticator app**.
-    - To use other methods, click **I want to set up a different method**.
+    - To install Microsoft Authenticator, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
+    - To use a different authenticator, click **I want to use a different authenticator app**.
+    - To use other authentication methods, click **I want to set up a different method**.
 
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)
+  
+  2. Click **Next**. 
 
-  ?> While we recommend Microsoft Authenticator, you can choose any other authenticator app. As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
+  ?> As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
-  2. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+  2. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
   3. Go back to your computer and click **Next**.
 
   ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)

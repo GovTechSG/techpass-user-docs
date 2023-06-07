@@ -21,6 +21,7 @@
 - [TechPass status](techpass-status)
 - [FAQs](/support/overview.md)
 - [Terms and policies](terms-and-policies)
+- [Assets](assets)
 - [Glossary](glossary)
 
 

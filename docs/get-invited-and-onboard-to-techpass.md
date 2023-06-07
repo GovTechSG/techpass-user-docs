@@ -100,8 +100,6 @@ You need the following to get invited to TechPass and complete the onboarding:
    A number is shown on your browser.
 
    ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
-  
-  
   7. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in. 
    
    ![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)

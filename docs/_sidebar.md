@@ -1,7 +1,8 @@
 - **About TechPass**
   - [Overview](home)
   - [What's new](/whats-new/whats-new.md)
-- **[Onboard to TechPass](onboard-to-techpass.md)**  
+- **Getting started**
+- [Onboard to TechPass](onboard-to-techpass.md)  
   - [Sign up and onboard](sign-up-and-onboard-to-techpass)
   - [Get invited and onboard](get-invited-and-onboard-to-techpass)
 - **Verify TechPass login** 

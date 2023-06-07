@@ -2,7 +2,7 @@
 
 <details><summary>Can I use my <em>your_name<span>@</span>litemail.gov.sg</em> to sign up for a TechPass account?</summary>
 
-No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, organisational email address of a public officer will be *your_name<span>@</span>agency.gov.sg*.
+No. As LiteMail accounts can't receive emails outside your agency, you will not receive emails from TechPass. So upgrade to a standard mailbox before signing up for TechPass. Format of a standard, organisational email address of a public officer is *your_name<span>@</span>agency.gov.sg*.
 
 </details><br>
 
@@ -23,7 +23,7 @@ If you are using a SE GSIB device:
 <details><summary>How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
 
 
-If you are using a SE GSIB device, you will be using your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN.
+If you are using a SE GSIB device, you need to use your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you need to enter your BitLocker PIN.
 
 </details><br>
 

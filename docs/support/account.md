@@ -4,7 +4,7 @@
 <summary>Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
 
-If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account will be locked after continuous unsuccessful login attempts. You need to [Reset TechPass password](reset-password) to unlock your TechPass account.
+If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account is locked after continuous unsuccessful login attempts. You need to [Reset TechPass password](reset-password) to unlock your TechPass account.
 
 
 </details><br>
@@ -64,7 +64,7 @@ Do one of the following:
 
 When you sign up or get invited to a TechPass account, a TechPass account is created for you and we will send an onboarding invitation email. When you onboard to your account, it gets activated.
 
-This onboarding invitation email is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you will be notified via email on the 25th day and your account will be terminated on the 30th day. When your account is terminated, you will again be notified about the account termination.
+This onboarding invitation email is valid only for 30 days and if you have not completed to onboard to TechPass within this time, you are notified via email on the 25th day and your account is terminated on the 30th day. When your account is terminated, you will again be notified about the account termination.
 
 ?><br>- Terminating account is different from disabling an account.<br>- If your TechPass ID is same as your organisational email ID, [accept the onboarding invitation](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-3-accept-invitation).<br>- If your TechPass login ID's domain is ```techpass.gov.sg```, you will receive an initial password by SMS. You need to [sign in to TechPass using initial password](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass?id=step-2-sign-in-using-initial-password).
 
@@ -83,7 +83,7 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 <details><summary>Why is my TechPass account disabled? How to re-enable it?</summary>
 
-Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
+Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account is disabled on day 90 and you are notified.
 
 To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/seed-techpass-support).
 

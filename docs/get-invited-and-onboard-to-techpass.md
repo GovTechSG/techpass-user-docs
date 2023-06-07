@@ -24,7 +24,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
-!> To access service such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
+!> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
 2. Provide the required details in this request such as your organisational email address, mobile phone number and project name.
 
@@ -36,8 +36,8 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email with your TechPass account or log in ID. 
   >- You need to activate the account within 30 days. 
-  >- Your TechPass log in ID's domain will be ```techpass.gov.sg```.
-  >- You will receive the initial password by SMS to the registered mobile number.
+  >- Your TechPass log in ID's domain is ```techpass.gov.sg```.
+  >- We'll send the initial password by SMS to the registered mobile number.
   
   >
   > **If SEED provisioning is successful**:
@@ -117,7 +117,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
-  Now you will be prompted to reset your initial password.
+  Now you are now prompted to reset your initial password.
 
 
 ## Step 4. Reset initial password

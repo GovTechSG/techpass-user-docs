@@ -37,7 +37,7 @@ Users who have a WOG profile, listed as SGGovt M365 on the authenticator app, ma
 10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.
 ![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code.png)
 
-  ?> A notification is sent to your new mobile phone to verify your authentication process. A number will be shown on your browser.
+  ?> A notification is sent to your new mobile phone to verify your authentication process. A number is shown on your browser.
 
 ![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)
 

@@ -16,9 +16,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 - Organisational email address with a standard mailbox (not LiteMail).
 - Valid TechPass onboarding email.
 
-?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this period, we will terminate your TechPass account, and you may need to sign up again.
-
- 
+?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this period, we terminate your TechPass account, and you may need to sign up again.
 
 
 ## Step 1. Sign up for TechPass
@@ -29,11 +27,11 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
 
-  !> To access service such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
+  !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
   ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
-  4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you will receive two onboarding invitation emails.
+  4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you receive two onboarding invitation emails.
 
   > **Additional information**:
   >
@@ -41,7 +39,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   is approved**:
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
-  >- Your TechPass log in ID will be the organisational email id used for signing up for TechPass.
+  >- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
   
   >
   > **If SEED provisioning is successful**:
@@ -90,7 +88,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
  ![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)
 
- When the notification is successfully approved, you will see the following page on your computer.
+ When the notification is successfully approved, the following page is displayed on your computer.
 
  ![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)
 
@@ -117,13 +115,13 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   If you are already signed in to your WOG account, you can view the **Review Permissions**.
 
-  ?> If you are not signed in to your WOG account, you will be prompted to sign in to it first before proceeding further. 
+  ?> If you are not signed in to your WOG account, you are prompted to sign in to it first before proceeding further. 
 
   3. In **Review Permissions**, click **Accept**.
 
   ![after-accept-invitation-1](assets/images/onboarding/po-non-se/after-accept-invitation-1.png ':size=400')
 
-  ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you will be prompted to sign in before proceeding further.
+  ?> If you are not signed in to your WOG account while [accepting the invitation](#step-3-accept-techpass-invitation), you are prompted to sign in before proceeding further.
 
   4. Ensure the organisational email address you used while signing up or requesting for the TechPass account is displayed as username.
   5. Click **Next** to configure and verify MFA for TechPass account.

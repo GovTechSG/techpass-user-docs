@@ -12,13 +12,13 @@
 
 <kbd>![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)</kbd>
 
-If you are signing in from your GMD, you will be prompted to authenticate your WOG account first.
+If you are signing in from your GMD, you are prompted to authenticate your WOG account first.
 
 4. Enter the verification code displayed for your SG Govt M365 profile on your Authenticator app and click **Sign in**.
 
 <kbd>![verification-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)</kbd>
 
-You will now be prompted to approve your TechPass sign-in. A number will be shown on your browser.
+You will now be prompted to approve your TechPass sign-in. A number is shown on your browser.
 
 <kbd>![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 

@@ -57,7 +57,7 @@ To access resources such as SGTS services and GCC via this device, you must onbo
 
 </a>
 
-If you are using a non-SE GSIB device, every time you log in to your device, you will be prompted to enter your BitLocker PIN. You can access the internet and intranet using this device.
+If you are using a non-SE GSIB device, every time you log in to your device, you are prompted to enter your BitLocker PIN. You can access the internet and intranet using this device.
 
 You can't onboard a GSIB device to SEED.
 
@@ -69,7 +69,7 @@ You can't onboard a GSIB device to SEED.
 
 It is a Secured Email (SE) GSIB device. This GSIB device is assigned to public officers who handle sensitive and secret information.
 
-If you are using a SE GSIB device, you will be using your PS-Card to authenticate. You will not be able to access internet using this SE-GSIB device.
+If you are using a SE GSIB device, you need to use your PS-Card to authenticate. You will not be able to access internet using this SE-GSIB device.
 
 **Note**<br>
 >- You can't use this device to sign up and onboard your TechPass account.

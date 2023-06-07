@@ -93,12 +93,10 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)
 
-  6. Scan the QR code on your computer screen and click **Next**. 
+  6. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
 
      ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
 
-   Your TechPass account gets activated and linked to the authenticator app. 
-   
    A number is shown on your browser.
 
    ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)

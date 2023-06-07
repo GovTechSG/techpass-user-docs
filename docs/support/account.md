@@ -1,6 +1,6 @@
 # Account Management FAQs
 
-<details data-is-size="medium">
+<details>
 <summary>Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
 
@@ -9,7 +9,7 @@ If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass accou
 
 </details><br>
 
-<details data-is-size="medium">
+<details>
 <summary>What is the password reset policy for TechPass accounts?</summary>
 
 If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.
@@ -18,7 +18,7 @@ If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [pass
 
 </details><br>
 
-<details data-is-size="medium">
+<details>
 <summary>How often should I verify my security info?</summary>
 
 As security information is vital, you need to make sure it is always up-to-date. You will receive a reminder every 180 days to review your security info and update it as needed.
@@ -27,7 +27,7 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 
 </details><br>
 
-<details data-is-size="medium">
+<details>
 <summary>I have lost my mobile device that I used for MFA authentications. What should I do?</summary>
 
 **If your TechPass login ID's domain is ```techpass.gov.sg```**:
@@ -50,7 +50,7 @@ c. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-gu
 
 </details><br>
 
-<details data-is-size="medium">
+<details>
 <summary>I have other problems with MFA?</summary>
 
 Do one of the following:
@@ -60,7 +60,7 @@ Do one of the following:
 
 </details><br>
 
-<details data-is-size="medium"><summary>I have not yet onboarded to my TechPass account but I received an email stating that it has been terminated. Why was it terminated?</summary>
+<details><summary>I have not yet onboarded to my TechPass account but I received an email stating that it has been terminated. Why was it terminated?</summary>
 
 When you sign up or get invited to a TechPass account, a TechPass account is created for you and we will send an onboarding invitation email. When you onboard to your account, it gets activated.
 
@@ -71,7 +71,7 @@ This onboarding invitation email is valid only for 30 days and if you have not c
  
 </details><br>
 
-<details data-is-size="medium"><summary>My TechPass account is active but my SEED onboarding email invitation has expired. How do I get another SEED onboarding email invitation?</summary>
+<details><summary>My TechPass account is active but my SEED onboarding email invitation has expired. How do I get another SEED onboarding email invitation?</summary>
 
 Your SEED onboarding email invitation is valid only for 30 days. 
 
@@ -81,7 +81,7 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 </details><br>
 
-<details data-is-size="medium"><summary>Why is my TechPass account disabled? How to re-enable it?</summary>
+<details><summary>Why is my TechPass account disabled? How to re-enable it?</summary>
 
 Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account will be disabled on day 90 and you will be notified.
 
@@ -89,7 +89,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 </details><br>
 
-<details data-is-size="medium"><summary>I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
+<details><summary>I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 

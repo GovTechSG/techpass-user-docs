@@ -22,8 +22,6 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 1. Request for TechPass account
 
-<details data-is-open="true" data-is-size="medium"> <summary>Get invited to TechPass account and request for SEED (optional)</summary>
-
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
 !> To access service such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
@@ -48,13 +46,8 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you need to request again.
-
  
-</details>
-
 ## Step 2. Sign in using initial password
-
-<details data-is-open="true" data-is-size="medium">  <summary>Sign in to TechPass account using your TechPass username and initial password</summary>
 
  1. Go to the required Docs portal environment and click **Login**.
 
@@ -73,13 +66,11 @@ You need the following to get invited to TechPass and complete the onboarding:
 
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
 
-  </details>
-
+  
 ## Step 3. Configure and verify MFA for TechPass account
 
 ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
-<details data-is-open="true" data-is-size="medium">  <summary>Set up security verification for TechPass account</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
 
@@ -127,22 +118,20 @@ You need the following to get invited to TechPass and complete the onboarding:
   ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
   Now you will be prompted to reset your initial password.
-</details>
+
 
 ## Step 4. Reset initial password
 
-<details data-is-open="true" data-is-size="medium">  <summary> Reset the initial password</summary>
-
-  1. Enter your **initial password**, **new password** and retype the new password to confirm.
+ 1. Enter your **initial password**, **new password** and retype the new password to confirm.
 
   2. Click **Sign in** to proceed to accept the Terms of Use.
 
   ![vendor-mfa-9](assets/support/vendor-update-initial-password.png)
-</details>
+
 
 ## Step 5. Accept Privacy Policy and Terms of Use
 
-<details data-is-open="true" data-is-size="medium"> <summary> Read and accept the Terms of Use</summary>
+
 
   1. Read the **Privacy Policy** and click **Accept**.
   2. Read the **Terms of Use** and click **Accept**.
@@ -152,7 +141,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
-</details>
+
 
 ### Next step
 

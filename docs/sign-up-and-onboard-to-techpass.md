@@ -23,10 +23,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 1. Sign up for TechPass
 
-<details data-is-open="true" data-is-size="medium">
-   <summary>Sign up for TechPass via TechPass portal</summary>
-
-  1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+ 1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   2. Enter your organisational **Email Address**.
 
@@ -54,15 +51,9 @@ You need the following to sign up for TechPass and complete the onboarding:
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
-
-  </details>
-
 ## Step 2. Configure MFA for the WOG account
 
 ?> - If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
-
-<details data-is-open="true" data-is-size="medium">
-   <summary>Set up security verification for WOG account</summary>
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
@@ -111,15 +102,9 @@ You need the following to sign up for TechPass and complete the onboarding:
 
  ![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)
   
-  </details>
-
-
 ?> Complete steps 3 and 4 within the same session.
 
 ## Step 3. Accept invitation
-
-<details data-is-open="true" data-is-size="large">
-   <summary>Accept TechPass onboarding invitation</summary>
 
 
   1. On your GSIB device, open the TechPass onboarding invitation email.
@@ -145,16 +130,11 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')
 
-  </details>
-
-  ## Step 4. Configure and verify MFA for TechPass account
+## Step 4. Configure and verify MFA for TechPass account
 
   ?> This document guides you to configure Microsoft authenticator as your MFA. We strongly recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
-  <details data-is-open="true" data-is-size="medium">
-   <summary>Set up security verification for TechPass account</summary>
-
-    1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app:
+   1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app:
 
     - To install Microsoft Authenticator, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
     - To use a different authenticator, click **I want to use a different authenticator app**.
@@ -190,12 +170,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)
 
-  </details>
-
   ## Step 5. Accept Privacy Policy and Terms of Use
-
-  <details data-is-open="true" data-is-size="medium">
-   <summary>Read and accept the Terms of Use</summary>
 
     1. Read the **Privacy Policy** and click **Accept**.
     2. Read the **Terms of Use** and click **Accept**.
@@ -205,8 +180,5 @@ You need the following to sign up for TechPass and complete the onboarding:
   You have now successfully onboarded to your TechPass account. If you need to onboard your Internet Device to SEED, you can proceed now.
 
 ?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
-
-
-</details>
 
 

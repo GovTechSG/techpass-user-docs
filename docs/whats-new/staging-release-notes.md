@@ -7,7 +7,7 @@ Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016
 **Changes** 
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Automatic removal of devices  in 'pending' state.
+<summary> Automatic removal of devices  in 'pending' state.
 </summary>
 
 Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system.
@@ -18,7 +18,7 @@ Users will receive an email notification informing them about the automatic remo
 **Fixes**
 
 <details>
-<summary style="font-size:20px;font-weight:bold"> Fix for <i>accountTypes</i> filter in <b>List Users By Namespace</b> Automation API
+<summary> Fix for <i>accountTypes</i> filter in <b>List Users By Namespace</b> Automation API
 </summary>
 
 We have addressed an issue with the **List Users By Namespace** Automation API where the *accountTypes* filter was not working correctly.

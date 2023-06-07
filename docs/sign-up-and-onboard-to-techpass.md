@@ -59,7 +59,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 2. Configure MFA for the WOG account
 
-?> If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).
+?> - If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 <details data-is-open="true" data-is-size="medium">
    <summary>Set up security verification for WOG account</summary>
@@ -69,8 +69,6 @@ You need the following to sign up for TechPass and complete the onboarding:
 </div>
 
   1. Using your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
-
-  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
   2. If prompted to sign in:
   

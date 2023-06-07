@@ -1,5 +1,18 @@
 # Staging release notes
 
+## Staging release 7 Jun 2023
+
+Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230605.0231
+
+**Changes** 
+
+<details>
+<summary> MFA fraud alert is now enabled.
+</summary>
+
+The MFA fraud alert feature is now enabled to enhance security on TechPass portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+</details>
+
 ## Staging release 24 May 2023
 
 Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016

@@ -45,7 +45,6 @@ a. Contact your Agency Facility Management (AFM) to remove the MFA configured fo
 b. [Reset WOG MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-security-verification-for-wog-account).
     
 c. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-techpass-mfa-for-new-device).
-    
 
 </details>
 

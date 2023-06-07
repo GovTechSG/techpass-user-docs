@@ -6,7 +6,7 @@
     - [Sign up and onboard](sign-up-and-onboard-to-techpass)
     - [Get invited and onboard](get-invited-and-onboard-to-techpass)
 - **Verify TechPass login** 
- - [Log in with TechPass](log-in-with-techpass)
+  - [Log in with TechPass](log-in-with-techpass)
 - **TechPass Portal**
   - [Request for SEED provisioning](request-for-seed-provisioning)
   - [Register Intune device ID](register-intune-device-id)

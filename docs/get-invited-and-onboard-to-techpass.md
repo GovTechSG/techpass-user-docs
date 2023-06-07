@@ -77,9 +77,9 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 3. Configure and verify MFA for TechPass account
 
-<details data-is-open="true" data-is-size="medium">  <summary>Set up security verification for TechPass account</summary>
+?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
-  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+<details data-is-open="true" data-is-size="medium">  <summary>Set up security verification for TechPass account</summary>
 
   1. Install Microsoft Authenticator on your mobile device.
 

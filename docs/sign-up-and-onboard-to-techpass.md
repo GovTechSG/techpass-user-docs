@@ -180,13 +180,13 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
 
-  6. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
+    6. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
 
-  7. On your computer, click **Next**.
+    7. On your computer, click **Next**.
 
   ![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)
 
-   8. When you see the success message, click **Done** to proceed to accept the Terms of Use.
+    8. When you see the success message, click **Done** to proceed to accept the Terms of Use.
 
   ![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)
 

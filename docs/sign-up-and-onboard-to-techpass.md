@@ -154,7 +154,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   <details data-is-open="true" data-is-size="medium">
    <summary>Set up security verification for TechPass account</summary>
 
-    1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app
+    1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app:
 
     - To install Microsoft Authenticator, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
     - To use a different authenticator, click **I want to use a different authenticator app**.
@@ -167,11 +167,11 @@ You need the following to sign up for TechPass and complete the onboarding:
   ?> As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
     3. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
-  3. Go back to your computer and click **Next**.
+    4. Go back to your computer and click **Next**.
 
   ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
 
-  4. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
+    5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
 
   ![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)
 
@@ -179,13 +179,13 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
 
-  5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
+  6. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in.
 
-  6. On your computer, click **Next**.
+  7. On your computer, click **Next**.
 
   ![sign-in-approved](assets/images/onboarding/po-non-se/sign-in-approved.png)
 
-  7. When you see the success message, click **Done** to proceed to accept the Terms of Use.
+  8. When you see the success message, click **Done** to proceed to accept the Terms of Use.
 
   ![authenticator-set-up-success](assets/images/onboarding/po-non-se/success-onboard.png)
 

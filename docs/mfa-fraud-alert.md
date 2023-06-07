@@ -13,8 +13,8 @@ If the malicious user or the actual account holder attempts to log in after ente
 
 The user can click the **Verify** button and the user will be provided options for the user to verify their identity. However, none of the verification steps will be successful, as the following screen will consistently appear:
 
-![not-me](/docs/assets/images/mfa-fraud/request-denied.png)
+![not-me](/assets/images/mfa-fraud/request-denied.png)
 
 This serves as a security measure to prevent unauthorized access and ensure the protection of user accounts.
 
-An email will be sent to the user's registered email address to facilitate communication and resolution. The user should check their email inbox for this notification.
+A remediation email will be sent to the user's registered email address. The user should check their email inbox for this notification.

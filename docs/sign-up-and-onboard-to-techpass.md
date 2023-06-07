@@ -62,7 +62,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 <details data-is-open="true" data-is-size="medium">
    <summary>Set up security verification for WOG account</summary>
 
-  ?> If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).
+    ?> If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).
 
  
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">

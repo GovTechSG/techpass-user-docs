@@ -154,7 +154,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   <details data-is-open="true" data-is-size="medium">
    <summary>Set up security verification for TechPass account</summary>
 
-   1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app
+  1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app
 
     - To install Microsoft Authenticator, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
     - To use a different authenticator, click **I want to use a different authenticator app**.

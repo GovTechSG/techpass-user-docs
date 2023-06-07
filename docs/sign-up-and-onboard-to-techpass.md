@@ -167,6 +167,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   ?> As we recommend Microsoft Authenticator, this article guides you through setting up multi-factor authentication for your TechPass account using that. For other authenticators, refer to the respective help resources.
 
     3. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+    
     4. Go back to your computer and click **Next**.
 
   ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)

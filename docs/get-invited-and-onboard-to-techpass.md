@@ -98,6 +98,8 @@ You need the following to get invited to TechPass and complete the onboarding:
      ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
 
    A number is shown on your browser.
+   
+   test
 
    ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
 

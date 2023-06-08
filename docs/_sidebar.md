@@ -17,7 +17,7 @@
 **Manage password**
 - [Reset password](reset-password)
 **TechPass support resources**
-- [MFA fraud alert](mfa-fraud-alert)
+- [Multi Factor Authentication(MFA) fraud alert](mfa-fraud-alert)
 - [TechPass status](techpass-status)
 - [FAQs](/support/overview.md)
 - [Terms and policies](terms-and-policies)

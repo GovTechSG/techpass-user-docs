@@ -13,10 +13,12 @@ Users with a WOG account and who needs a TechPass account.
 You need the following to sign up for TechPass and complete the onboarding:
 
 - Non-SE GSIB device.
-- Organisational email address with a standard mailbox (not LiteMail).
-- Valid TechPass onboarding email.
+- Your organisational email address which has a standard mailbox(not LiteMail).  
+- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
-?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this period, we terminate your TechPass account, and you may need to sign up again.
+
+?>- TechPass does not support email accounts which does not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+
 
 
 ## Step 1. Sign up for TechPass
@@ -51,7 +53,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 2. Configure MFA for the WOG account
 
-?> - If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+?> - If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This document guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
@@ -130,12 +132,12 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 4. Configure and verify MFA for TechPass account
 
-?> This document guides you to configure Microsoft authenticator as your MFA. We strongly recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+?> This document guides you to configure Microsoft Authenticator as your MFA. We strongly recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
-   1. Select the appropriate option and follow the instructions on your mobile phone to set up the authenticator app:
+   1. Select the appropriate option and follow the instructions on your mobile phone to set up the Authenticator app:
 
     - To install Microsoft Authenticator, download and install it on your [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
-    - To use a different authenticator, click **I want to use a different authenticator app**.
+    - To use a different authenticator, click **I want to use a different Authenticator app**.
     - To use other authentication methods, click **I want to set up a different method**.
 
     <kbd>![set-up-authenticating-method](assets/images/onboarding/po-non-se/set-up-authenticating-method.png)
@@ -150,7 +152,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
   ![keep-your-account-secure-next](assets/images/onboarding/po-non-se/keep-your-account-secure-next.png)
 
-    5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
+    5. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the Authenticator app.
 
   ![after-scanning-qr-code](assets/images/onboarding/po-non-se/after-scanning-qr-code.png)
 

@@ -13,11 +13,11 @@ Users who need a TechPass account but do not have a WOG account or a non-SE GSIB
 
 You need the following to get invited to TechPass and complete the onboarding:
 
-- Organisational email address with a standard mailbox (not LiteMail).
-- Valid TechPass onboarding email.
+- Your organisational email address which has a standard mailbox(not LiteMail).  
+- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
-?> TechPass onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
+?> - TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
 ## Step 1. Request for TechPass account
@@ -67,24 +67,24 @@ You need the following to get invited to TechPass and complete the onboarding:
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
 
   
-## Step 3. Configure and verify MFA for TechPass account
+## Step 3. Configure and verify multi-factor authentication(MFA) for TechPass account
 
-  ?> This document guides you to configure Microsoft authenticator as your MFA. We recommend Microsoft authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+  ?> This document guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 
-  1. Install Microsoft Authenticator on your mobile device.
+  1. Install Microsoft Authenticator on your mobile phone.
 
   2. Click **Next** on your computer. 
 
     ![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)
 
-  3. On your mobile device, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+  3. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
   4. Select **Scan a QR code**.
   5. Go back to your computer and click **Next**.
 
     ![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)
 
-  6. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the authenticator app.
+  6. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the Authenticator app.
 
      ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
 

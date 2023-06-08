@@ -34,7 +34,7 @@ TechPass users need to reset their MFA for the following reasons:
 7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
 8. In the app, add an account and choose **Work or school account**.
 9. Select **Scan a QR code** on the app.
-10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.
+10. Scan the QR code displayed on your computer using the new mobile phone and click **Next**.
 ![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code.png)
 
   ?> A notification is sent to your new mobile phone to verify the authentication process. A number is shown on your browser.

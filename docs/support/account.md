@@ -26,7 +26,7 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 </details>
 
 <details>
-<summary>I have lost my mobile device that I used for MFA authentications. What should I do?</summary>
+<summary>I have lost my mobile phone that I used for MFA authentications. What should I do?</summary>
 
 **If your TechPass login ID's domain is ```techpass.gov.sg```**:
 

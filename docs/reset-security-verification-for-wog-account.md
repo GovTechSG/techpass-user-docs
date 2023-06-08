@@ -1,10 +1,10 @@
 # Reset MFA for WOG account
 
-This article provides instructions on how users can reset their WOG MFA(Multi-Factor Authentication). The WOG profile is listed as SGGovt M365 on the authenticator app. 
+This article provides instructions on how users can reset their WOG MFA(Multi-Factor Authentication). The WOG profile is listed as SGGovt M365 on the Authenticator app. 
 
 ## Audience
 
-Users who have a WOG profile, listed as SGGovt M365 on the authenticator app, may need to reset the MFA for the following reasons:
+Users who have a WOG profile, listed as SGGovt M365 on the Authenticator app, may need to reset the MFA for the following reasons:
 
 - Changed mobile phone.
 - Lost mobile phone.
@@ -34,7 +34,7 @@ Users who have a WOG profile, listed as SGGovt M365 on the authenticator app, ma
 7. Download and install Microsoft Authenticator on your new [Microsoft phone](https://www.microsoft.com/en-sg/store/apps/windows-phone), [Android phone](https://play.google.com/store/apps?hl=en&amp;gl=US) or [iOS phone](https://www.apple.com/app-store/).
 8. In the app, add an account and choose **Work or school account**.
 9. Select **Scan a QR code** on the app.
-10. Scan the QR code displayed on your computer using the new mobile device and click **Next**.
+10. Scan the QR code displayed on your computer using the new mobile phone and click **Next**.
 ![scan-qr-code](assets/images/security-verification-for-wog/reset-wog-mfa/scan-qr-code.png)
 
   ?> A notification is sent to your new mobile phone to verify your authentication process. A number is shown on your browser.

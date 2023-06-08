@@ -1,4 +1,4 @@
-# Multi Factor Authentication(MFA) fraud alert
+# Multi Factor Authentication (MFA) fraud alert
 TechPass implements various security measures to protect user accounts from fraudulent activities. This section provides an overview of the user flow when encountering potential fraud scenarios.
 
 If a user encounters an unexpected Number Matching challenge during login, the user should select the **NO, IT'S NOT ME** option and click on the **Report** button on the subsequent screen. This action will place the user's account in the **Risky Users with High Risk Level** state and trigger an investigation by the security team.

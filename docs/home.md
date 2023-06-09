@@ -1,11 +1,6 @@
-# TechPass Overview
+# Overview
 
 TechPass is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following Singapore Government Technology Stack (SGTS) services.
-
-
-## SGTS services integrated with TechPass
-
-Following are the list of SGTS services that uses TechPass as their IAM service.
 
 - CloudSCAPE: Cloud Security and Compliance Automation Platform Ecosystem (CloudSCAPE) is part of the monitoring component of the SGTS tech stack.
 - Container Stack(CStack): This is a base Layer product of the SGTS tech stack offering a centralised, secure, and fully managed development platform for containers and Kubernetes.

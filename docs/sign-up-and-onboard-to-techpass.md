@@ -1,12 +1,12 @@
 # Sign up and onboard to TechPass
 
-This article walks you through the TechPass Portal sign-up and onboarding process.
+This article tells you how to sign-up for TechPass via the TechPass Portal and onboard.
 
 ## Audience
 
 Users with a WOG account and who needs a TechPass account.
 
-?> **Note**<br>- Public officers using an **SE-GSIB** device should submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED(optional) via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more details, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?> **Note**<br>- Public officers using an **SE-GSIB** device should submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED, which is optional, via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more details, see the [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 ## Prerequisites
 

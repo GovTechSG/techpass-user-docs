@@ -13,12 +13,12 @@ Users with a WOG account and who needs a TechPass account.
 Following are the prerequisites to sign up for TechPass and complete the onboarding:
 
 - Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal.
-- Non-SE GSIB device.
+- A non-SE GSIB device.
 - Your organisational email address which has a standard mailbox(not LiteMail).  
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
 
-?>- TechPass does not support email accounts which does not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
 

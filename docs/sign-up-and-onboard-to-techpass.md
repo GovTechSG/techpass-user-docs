@@ -1,6 +1,6 @@
 # Sign up and onboard to TechPass
 
-This article walks you through the TechPass portal sign-up and onboarding process. Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal.
+This article walks you through the TechPass Portal sign-up and onboarding process.
 
 ## Audience
 
@@ -10,8 +10,9 @@ Users with a WOG account and who needs a TechPass account.
 
 ## Prerequisites
 
-You need the following to sign up for TechPass and complete the onboarding:
+Following are the prerequisites to sign up for TechPass and complete the onboarding:
 
+- Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal.
 - Non-SE GSIB device.
 - Your organisational email address which has a standard mailbox(not LiteMail).  
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
@@ -23,7 +24,7 @@ You need the following to sign up for TechPass and complete the onboarding:
 
 ## Step 1. Sign up for TechPass
 
- 1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+ 1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
   2. Enter your organisational **Email Address**.
 
@@ -49,7 +50,7 @@ You need the following to sign up for TechPass and complete the onboarding:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
-  >- If your SEED onboarding email has expired, you can request again from the TechPass portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  >- If your SEED onboarding email has expired, you can request again from the TechPass Portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 ## Step 2. Configure MFA for the WOG account
 

@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230605.0231
 <summary> MFA fraud alert is now enabled.
 </summary>
 
-The MFA fraud alert feature is now enabled to enhance security on TechPass portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
 </details>
 
 ## Staging release 24 May 2023
@@ -52,7 +52,7 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 
 Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
 
-> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass portal and do not have a **pending** device.
+> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass Portal and do not have a **pending** device.
 
 </details>
 
@@ -124,9 +124,9 @@ Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
 **Feature** 
 
 <details>
- <summary>Search bar added on TechPass portal</summary>
+ <summary>Search bar added on TechPass Portal</summary>
 
-We have updated TechPass portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
+We have updated TechPass Portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
 
 </details>
 
@@ -137,7 +137,7 @@ We have updated TechPass portal with a new search bar feature that allows users 
 
 Previously, tenants were not allowed to manage their applications' role assignments on TechPass if they had onboarded to TechBiz. However, we understand that some applications may not be on TechBiz, so we have updated the restriction to be applied at the application-level instead. 
 
-Additionally, TechBiz-created groups will no longer be displayed on the TechPass portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants.
+Additionally, TechBiz-created groups will no longer be displayed on the TechPass Portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants.
 
 </details>
 
@@ -168,9 +168,9 @@ Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536
 **Changes** 
 
 <details>
- <summary>Tenants can retry or stop a webhook event on TechPass portal</summary>
+ <summary>Tenants can retry or stop a webhook event on TechPass Portal</summary>
 
-Tenants can now retry or stop a webhook event on TechPass portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days.
+Tenants can now retry or stop a webhook event on TechPass Portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days.
 
 Refer to [Webhook states](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=webhook-states) for more information.
 
@@ -236,7 +236,7 @@ We heard from you that checking against our webhook checksum was still incorrect
 <details>
  <summary> Temps staff account tagging</summary>
 
-When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass portal. Keep track of your temporary staff accounts with this new account tagging feature.
+When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass Portal. Keep track of your temporary staff accounts with this new account tagging feature.
 
 </details>
 
@@ -346,15 +346,15 @@ Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
 <details>
  <summary>Manage application role assignments using TechBiz portal</summary>
 
-From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
+From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass Portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
 
-Currently, the tenants manage the application role assignments via the TechPass portal or Automation API.
+Currently, the tenants manage the application role assignments via the TechPass Portal or Automation API.
 
 </details>
 
 ## Staging release 07 December 2022
 
-> :memo: Due to some changes we made for this release, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment. To fix this, please clear your cache.
+> :memo: Due to some changes we made for this release, you may experience an infinite sign-in loop when you access the TechPass Portal on the staging environment. To fix this, please clear your cache.
 
 Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 
@@ -375,7 +375,7 @@ Test if the Automation API is working as expected.
 <details>
  <summary>Improved portal security implementation</summary>
 
-We have improved the security of the anti-CSRF token implementation. However, because of this change, you may experience an infinite sign-in loop when you access the TechPass portal on the staging environment.
+We have improved the security of the anti-CSRF token implementation. However, because of this change, you may experience an infinite sign-in loop when you access the TechPass Portal on the staging environment.
 
 > :bulb: Clear the cache to solve this infinite sign-in loop.
 
@@ -422,7 +422,7 @@ Frontend version: 1.0.0-20221117.0948   | Backend version: 1.35.8-221123.0155
 <details>
  <summary>Automatically retrieve public officer profile details from WOG AAD upon account creation</summary>
 
-Upon account creation, the TechPass portal displays profile details such as first name, last name, organisation, department and mobile number of public officers. 
+Upon account creation, the TechPass Portal displays profile details such as first name, last name, organisation, department and mobile number of public officers. 
 
 When WOG AAD does not have this information, and if you invite the public officer using automation API, the portal will display profile details provided in the Automation API.
 
@@ -431,7 +431,7 @@ When WOG AAD does not have this information, and if you invite the public office
 <details>
  <summary>Display Key ID for client secrets</summary>
 
-Tenant admins can view the Key IDs for their client secrets on the TechPass portal.
+Tenant admins can view the Key IDs for their client secrets on the TechPass Portal.
 
 </details>
 
@@ -537,7 +537,7 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 
 Tenant Admins can now create and update applications using APIs. For more information, refer to [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
 
-This new feature complements the existing functionality to [create and update applications through the TechPass portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
+This new feature complements the existing functionality to [create and update applications through the TechPass Portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
 </details>
 
@@ -610,7 +610,7 @@ We have automated the process of resending the initial password to vendors. If t
 <details>
  <summary>Signing up for TechPass using *_from.XX@XX.gov.sg* is allowed again :grinning:!</summary>
 
-Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to sign up for a TechPass account from the TechPass portal.
+Vendors who have *_from.XX@XX.gov.sg* email address can continue to use it to sign up for a TechPass account from the TechPass Portal.
 
 </details>
 
@@ -645,7 +645,7 @@ Log in with your TechPass and complete the TechPass onboarding flow.
 
 </details>
 
-**Fixes** - **TechPass portal**
+**Fixes** - **TechPass Portal**
 
 <details>
  <summary>Warning message for expiring and expired certificates and secrets</summary>
@@ -674,7 +674,7 @@ You will have up to 30 days to upload a new certificate or generate a new secret
 <details>
  <summary>Implicit grant settings were overwritten when updating other application settings</summary>
 
-A fix has been applied so that if a Tenant Admin enables the ID Token in the **Implicit Grant settings** via Azure Portal and proceeds to change any application settings in the TechPass portal, the changes in the Azure Portal will be discarded.
+A fix has been applied so that if a Tenant Admin enables the ID Token in the **Implicit Grant settings** via Azure Portal and proceeds to change any application settings in the TechPass Portal, the changes in the Azure Portal will be discarded.
 
 </details>
 
@@ -715,7 +715,7 @@ Frontend version: 1.0.0-20220802.1153 | Backend version: 1.27.1-220801.1032
 
 Vendors are given *_from@*.gov.sg emails for their work via GSIB. However, TechPass accounts for vendors must be sponsored by their respective agencies via the downstream SGTS services in use and vendors will need to provide their vendor company emails for account creation.
 
-So emails with *_from@*.gov.sg format are now forbidded to self sign up via TechPass portal.
+So emails with *_from@*.gov.sg format are now forbidded to self sign up via TechPass Portal.
 
 **Action required:**  
 For existing TechPass users with *_from@*.gov.sg - Please wait for news on account migration. There's no change for now. You may continue to use *_from@*.gov.sg as your TechPass account.
@@ -782,16 +782,16 @@ Frontend version: 1.0.0-20220705.0420 | Backend version: 1.24.6-220701.0601
 **New features** - **TechPass Portal**
 
 <details>
- <summary>Developer Portal Widget is available on the TechPass portal</summary>
+ <summary>Developer Portal Widget is available on the TechPass Portal</summary>
 
-A new widget from the Developer Portal has been integrated into the TechPass portal. Using this, you can now access and learn more about the various GovTech featured products.
+A new widget from the Developer Portal has been integrated into the TechPass Portal. Using this, you can now access and learn more about the various GovTech featured products.
 
 <kbd>![developer portal widget](../assets/images/whats-new/20220706_masthead-devportalwidget-02.png)</kbd>
 
 </details>
 
 <details>
-   <summary>New webhook in TechPass portal</summary>
+   <summary>New webhook in TechPass Portal</summary>
 
 Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
 
@@ -802,7 +802,7 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 <details>
    <summary>New configuration flag for Applications</summary>
 
-  A new configuration flag `published` has been added to Applications. When the application is indicated as `published`, it will be visible on the TechPass portal.
+  A new configuration flag `published` has been added to Applications. When the application is indicated as `published`, it will be visible on the TechPass Portal.
 
  >**Note**:
  >- All existing applications are marked as **published**.
@@ -813,13 +813,13 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
 **Improvements** - **TechPass Portal**
 
   <details>
-   <summary>Metrics are available only for published applications on TechPass portal</summary>
+   <summary>Metrics are available only for published applications on TechPass Portal</summary>
 
   **Earlier**:
-  - Metrics of all the applications were displayed on the TechPass portal login page.
+  - Metrics of all the applications were displayed on the TechPass Portal login page.
 
   **Now**:
-  - Metrics will be available only for the published applications on the TechPass portal login page.
+  - Metrics will be available only for the published applications on the TechPass Portal login page.
 
   </details>
   <details>
@@ -884,12 +884,12 @@ For more information, refer to [Configuring Webhooks](https://stg.docs.developer
   </details>
 
   <details>
-   <summary>Redirect user to TechPass portal login page</summary>
+   <summary>Redirect user to TechPass Portal login page</summary>
 
   **Earlier**:
-  When user clicks the BACK button on their browser while logging out from the TechPass portal, an error is displayed as the session is no longer valid.
+  When user clicks the BACK button on their browser while logging out from the TechPass Portal, an error is displayed as the session is no longer valid.
 
   **Now**:
-   When user clicks the BACK button on their browser while logging out from the TechPass portal, user will be redirected to the TechPass portal login page.
+   When user clicks the BACK button on their browser while logging out from the TechPass Portal, user will be redirected to the TechPass Portal login page.
 
   </details>

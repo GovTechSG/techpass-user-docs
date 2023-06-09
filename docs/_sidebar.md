@@ -9,7 +9,7 @@
   - [Log in with TechPass](log-in-with-techpass)
 - **TechPass Portal**
   - [Request for SEED provisioning](request-for-seed-provisioning)
-  - [Register Intune device ID](register-intune-device-id)
+  - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)
 - **Reset MFA**
   - [WOG account](reset-security-verification-for-wog-account)

@@ -27,10 +27,10 @@ If you are using a SE GSIB device, you need to use your PS-Card to authenticate.
 
 </details>
 
-<details><summary>I experience an infinite sign-in loop while accessing TechPass portal.</summary>
+<details><summary>I experience an infinite sign-in loop while accessing TechPass Portal.</summary>
 
 
-If you experience an infinite sign-in loop while signing in to the TechPass portal, please clear your cache. 
+If you experience an infinite sign-in loop while signing in to the TechPass Portal, please clear your cache. 
 
 
 </details>

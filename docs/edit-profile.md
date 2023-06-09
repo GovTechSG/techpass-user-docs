@@ -1,23 +1,23 @@
 # Edit your TechPass profile
 
-TechPass users can edit their TechPass profile anytime by logging into the TechPass portal.
+TechPass users can edit their TechPass profile anytime by logging into the TechPass Portal.
 
-?> If you don't have access to TechPass portal, create a [service request](https://go.gov.sg/seed-techpass-support) with us to update your profile details.
+?> If you don't have access to TechPass Portal, create a [service request](https://go.gov.sg/seed-techpass-support) with us to update your profile details.
 
 ## Audience
 
-TechPass users who can access TechPass portal.
+TechPass users who can access TechPass Portal.
 
 ## Prerequisites
 
-You need the following to edit your TechPass profile via the TechPass portal:
+You need the following to edit your TechPass profile via the TechPass Portal:
 
 - Active TechPass account.
 - Non-SE GSIB device.
 
 ### To edit your TechPass profile
 
-1. Using your non-SE GSIB device, log in to [TechPass portal](https://portal.techpass.gov.sg).
+1. Using your non-SE GSIB device, log in to [TechPass Portal](https://portal.techpass.gov.sg).
 
 2. Hover over your account name and click **My Account**.
 

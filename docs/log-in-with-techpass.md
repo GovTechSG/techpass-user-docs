@@ -3,7 +3,7 @@
 This article tells you how to:
  
  - [Log in to a service using your TechPass account](#log-in-to-a-service-using-your-techpass-account).
- - [Log in to TechPass portal](#log-in-to-techpass-portal).
+ - [Log in to TechPass Portal](#log-in-to-techpass-portal).
 
 ## Log in to a service using your TechPass account
 
@@ -38,13 +38,13 @@ You will now be prompted to authenticate your TechPass sign-in. A number is show
 
 You have now successfully logged in to the service using your TechPass account.
 
-## Log in to TechPass portal
+## Log in to TechPass Portal
 
-TechPass users who have a non-SE GSIB device can log in to TechPass portal. 
+TechPass users who have a non-SE GSIB device can log in to TechPass Portal. 
 
-**To log in to TechPass portal**
+**To log in to TechPass Portal**
 
-1. Using your non-SE GSIB device, go to the [TechPass portal](http://portal.techpass.gov.sg/).
+1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg/).
 2. Click **Login with TechPass**.
 3. Sign in to your TechPass account or choose the required TechPass account.
 
@@ -60,7 +60,7 @@ TechPass users who have a non-SE GSIB device can log in to TechPass portal.
 
 6. Select **Yes** or **Done** on the app.
 
- You have now successfully logged in to the TechPass portal.
+ You have now successfully logged in to the TechPass Portal.
 
 
 

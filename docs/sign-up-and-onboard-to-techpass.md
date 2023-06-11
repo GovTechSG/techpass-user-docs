@@ -28,27 +28,27 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
 
-!> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
+   !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
-![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
+   ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
 4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you receive two onboarding invitation emails.
 
-> **Additional information**:
->
-> **If TechPass provisioning
+  > **Additional information**:
+  >
+  > **If TechPass provisioning
   is approved**:
->- A TechPass account is provisioned for you and is in pending state.
->- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
->- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
+  >- A TechPass account is provisioned for you and is in pending state.
+  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
+  >- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
   
 
-> **If SEED provisioning is successful**:
->
->- We'll send the SEED onboarding email within the next three business days.
->- This email is valid only for 30 days.
->- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
->- If your SEED onboarding email has expired, you can request again from the TechPass Portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  > **If SEED provisioning is successful**:
+  >
+  >- We'll send the SEED onboarding email within the next three business days.
+  >- This email is valid only for 30 days.
+  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
+  >- If your SEED onboarding email has expired, you can request again from the TechPass Portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 ## Step 2. Configure Multi-Factor Authentication(MFA) for WOG account
 
@@ -70,9 +70,9 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   
 4. Choose your preferred authenticating method, and click **Set up**. 
 
-![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)
+  ![security-verification](assets/images/security-verification-for-wog/step-1-selection.png)
 
-?> Do not close this page on your computer.
+  ?> Do not close this page on your computer.
 
 5. Follow the on-screen instructions on the **Configure mobile app** page.
   ![scan-qr-code](assets/images/security-verification-for-wog/scan-qr-code.png)
@@ -81,27 +81,27 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   
 6. Confirm that your Authenticator app is configured before clicking **Next**.
 
-  ![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)
+   ![after-scan](assets/images/security-verification-for-wog/indicates-auth-app-configured.png)
 
-  You are directed to Step 2 of **Additional security verification**. A notification is sent to your Authenticator app.
+    You are directed to Step 2 of **Additional security verification**. A notification is sent to your Authenticator app.
   
 7. Approve the notification on your Authenticator app to confirm that you are reachable on this mobile phone.
 
- ![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)
+  ![step2-verify](assets/images/security-verification-for-wog/step2-verify-you-are-reachable-via-mp.png)
 
- When the notification is successfully approved, the following page is displayed on your computer.
+  When the notification is successfully approved, the following page is displayed on your computer.
 
- ![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)
+  ![step2-verification-confirmed](assets/images/security-verification-for-wog/step2-verification-confirmed.png)
 
 8. Click **Done**.
 
- ![step2-done](assets/images/security-verification-for-wog/step2-done.png)
+  ![step2-done](assets/images/security-verification-for-wog/step2-done.png)
   
 9. The **Profile** page displays your WOG profile under **Organizations**.
 
- ![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)
+  ![profile-page](assets/images/security-verification-for-wog/wog-account-on-profile-page.png)
   
-?> Complete steps 3 and 4 within the same session.
+  ?> Complete steps 3 and 4 within the same session.
 
 ## Step 3. Accept invitation
 

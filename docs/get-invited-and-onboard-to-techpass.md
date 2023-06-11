@@ -51,25 +51,20 @@ You need the following to get invited to TechPass and complete the onboarding:
  
 ## Step 2. Sign in using your initial password
 
-3. test
-4. Go to the required Docs portal environment and click **Login**.
+1. Go to the required Docs portal environment and click **Login**.
 
     - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
     - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
-
 2. Enter your TechPass username and click **Next**.
 
    ![vendor-sign-in-1](assets/support/Vendor_email.png)
-
 3. Enter the initial password and click **Sign in**.
 
    ![vendor-initial-pwd](assets/support/vendor-initial-password.png)
-
 4. Click **Next** to configure MFA for your TechPass account. 
 
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
-
-  
+ 
 ## Step 3. Configure and verify multi-factor authentication(MFA) for TechPass account
 
 ?> This document guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.

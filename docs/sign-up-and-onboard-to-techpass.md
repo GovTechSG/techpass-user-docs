@@ -36,13 +36,14 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
   > **Additional information**:
   >
-  > **If TechPass provisioning
-  is approved**:
+  > **If your request for TechPass provisioning
+  is successful**:
+  >
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
   >- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
   >
-  > **If SEED provisioning is approved**:
+  > **If your request for SEED provisioning is successful**:
   >
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.

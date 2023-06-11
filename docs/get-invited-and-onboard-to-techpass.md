@@ -40,7 +40,6 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- You need to activate the account within 30 days. 
   >- Your TechPass log in ID's domain is ```techpass.gov.sg```.
   >- We'll send the initial password by SMS to the registered mobile number.
-  
   >
   > **If your request for SEED provisioning is successful**:
   >

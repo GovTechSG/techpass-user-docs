@@ -48,14 +48,14 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more details, see the [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general) section.
  
-## Step 2. Sign in using initial password
+## Step 2. Sign in using your initial password
 
-  1. Go to the required Docs portal environment and click **Login**.
+1. Go to the required Docs portal environment and click **Login**.
 
     - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
     - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
 
-  2. Enter your TechPass username and click **Next**.
+2. Enter your TechPass username and click **Next**.
 
    ![vendor-sign-in-1](assets/support/Vendor_email.png)
 

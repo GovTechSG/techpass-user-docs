@@ -518,7 +518,7 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 <details>
  <summary>Tenant admins can now create and update applications using APIs.</summary>
 
-Tenant Admins can now create and update applications using APIs. For more details, refer to [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
+Tenant Admins can now create and update applications using APIs. For more details, see the [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant) documentation.
 
 This new feature complements the existing functionality to [create and update applications through the TechPass Portal](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
@@ -846,7 +846,7 @@ For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov
   - **lastSignInAt**: Composite of the above two, whichever is later.
 
 
-  For more details, see theMicrosoft's article on [Non-interactive logins](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932).
+  For more details, see the Microsoft's article on [Non-interactive logins](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932).
 
 
   </details>

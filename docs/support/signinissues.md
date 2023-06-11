@@ -16,7 +16,7 @@ If you are using a SE GSIB device:
 3. When prompted to confirm, if you are a Secured Email (SE) GSIB user, select **Yes**.
 
 > **Note**:
-> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. For more information on SE-GSIB device, refer to the [Glossary](glossary).
+> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. For more details on SE-GSIB device, refer to the [Glossary](glossary).
 
 </details>
 

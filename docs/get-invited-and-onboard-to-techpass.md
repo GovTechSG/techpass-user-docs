@@ -51,6 +51,8 @@ You need the following to get invited to TechPass and complete the onboarding:
  
 ## Step 2. Sign in using your initial password
 
+This is a test paragraph.
+
 1. Go to the required Docs portal environment and click **Login**.
 
     - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)

@@ -48,7 +48,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
-  >- If your SEED onboarding email has expired, you can request again from the TechPass Portal. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  >- If your SEED onboarding email has expired, you can [Request for SEED via TechPass Portal](https://docs.developer.tech.gov.sg/docs/tp-userdocs-for-writers/request-for-seed-provisioning) or create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again.
 
 ## Step 2. Configure Multi-Factor Authentication(MFA) for WOG account
 

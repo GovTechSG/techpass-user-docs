@@ -46,7 +46,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- We'll send the SEED onboarding email within the next three business days.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
-  >- If your SEED onboarding email has expired, you need to request again.
+  >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more details, see the [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general) section.
  
 ## Step 2. Sign in using initial password
 
@@ -129,7 +129,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
 3. If you had requested for SEED provisioning and successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-?> You may proceed to onboard your Internet Device to SEED. See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
+  ?> You may proceed to onboard your Internet Device to SEED. See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
 ### Next step
 

@@ -10,7 +10,7 @@ This information is intended for users whose TechPass Login ID's domain is ```te
 
 ## When to reset your TechPass password?
 
-Users who meet the above-condition should reset their TechPass password under the following circumstances:
+Users who meet the above-condition have to reset their TechPass password under the following circumstances:
 
 - If their TechPass account is locked due to multiple unsuccessful login attempts.
 

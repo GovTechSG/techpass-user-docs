@@ -1,23 +1,23 @@
 # Get invited and onboard to TechPass
 
-This article walks you through the TechPass Portal sign-up and onboarding process. Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the portal. If you can't sign up for TechPass account via TechPass Portal, you need to request to get invited.
+This article guides you how to request for a TechPass account and onboard to it. 
 
-?> **Note**<br>- Alternatively, public officers with a non-SE GSIB device can access [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for provisioning of TechPass and SEED, which is optional. <br>- For more details, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?>- Alternatively, public officers with a non-SE GSIB device can access the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg) to request for TechPass and SEED provisioning, which is optional. <br>- For more details, see the [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 
 ## Audience
 
-Users who need a TechPass account but do not have a WOG account or a non-SE GSIB device.
+Users who require a TechPass account but do not have a WOG account or a non-SE GSIB device.
 
 ## Prerequisites
 
 You need the following to get invited to TechPass and complete the onboarding:
 
+- Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal. If you can't sign up for TechPass account via TechPass Portal, you need to request to get invited.
 - Your organisational email address which has a standard mailbox(not LiteMail).  
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
-
-?> - TechPass does not support email accounts which do not have an inbox, such as LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
 ## Step 1. Request for TechPass account
@@ -117,7 +117,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
-  Now you are now prompted to reset your initial password.
+  Now you are prompted to reset your initial password.
 
 
 ## Step 4. Reset initial password
@@ -135,11 +135,11 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   1. Read the **Privacy Policy** and click **Accept**.
   2. Read the **Terms of Use** and click **Accept**.
-  3. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
+  3. If you had requested for SEED provisioning, read the **MDM AUP Policy** and click **Accept**.
 
-  You have now successfully onboarded to your TechPass account. If you need to onboard your Internet Device to SEED, you can proceed now.
+  You have successfully onboarded to TechPass and you can proceed to onboard your Internet Device to SEED.
 
-?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
+?> See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
 
 

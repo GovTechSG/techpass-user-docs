@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016
 **Changes** 
 
 <details>
-<summary> Automatic removal of devices  in 'pending' state.
+<summary> Automatic removal of devices in 'pending' state.
 </summary>
 
 Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system.

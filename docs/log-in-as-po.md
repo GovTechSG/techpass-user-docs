@@ -18,13 +18,13 @@ If you are signing in from your GMD, you are prompted to authenticate your WOG a
 
 <kbd>![verification-po](assets/images/access-sgts-services-using-techpass/verification-code-po.png)</kbd>
 
-You will now be prompted to approve your TechPass sign-in. A number is shown on your browser.
+You are prompted to approve your TechPass sign-in. A number is shown on your browser.
 
 <kbd>![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)</kbd>
 
 5. On the Authenticator app, enter the number shown, and select **Yes** to authenticate this sign-in.
 
-You are now successfully logged in with TechPass.
+You are successfully logged in with TechPass.
 
 <kbd>![after-po-login](assets/images/access-sgts-services-using-techpass/final.png)</kbd>
 

@@ -28,7 +28,7 @@ This section guides you how to access services and products which use TechPass a
    
 5. If your TechPass log in ID's domain is ```techpass.gov.sg``` (for example: john_doe@techpass.gov.sg), enter the password of your TechPass account and click **Sign in**.
 
-You will now be prompted to authenticate your TechPass sign-in. A number is shown on your browser.
+You are prompted to authenticate your TechPass sign-in. A number is shown on your browser.
 
 ![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)
 
@@ -36,7 +36,7 @@ You will now be prompted to authenticate your TechPass sign-in. A number is show
 
 7. Select **Yes** or **Done** on the app.
 
-You have now successfully logged in to the service using your TechPass account.
+You have successfully logged in to the service using your TechPass account.
 
 ## Log in to TechPass Portal
 
@@ -51,7 +51,7 @@ TechPass users who have a non-SE GSIB device can log in to TechPass Portal.
 ![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)
 
 
-4. You will now be prompted to approve your TechPass sign-in. A number is shown on your browser.
+4. You are prompted to approve your TechPass sign-in. A number is shown on your browser.
 
 ![mfa](assets/images/onboarding/po-non-se/mfa-number-displayed-on-screen.png)
 
@@ -60,7 +60,7 @@ TechPass users who have a non-SE GSIB device can log in to TechPass Portal.
 
 6. Select **Yes** or **Done** on the app.
 
- You have now successfully logged in to the TechPass Portal.
+ You have successfully logged in to the TechPass Portal.
 
 
 

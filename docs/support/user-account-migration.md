@@ -17,7 +17,7 @@ It indicates that your active TechPass account was disabled as it was inactive f
 <details>
 <summary>I received an email stating "Your TechPass account has been disabled and will be deleted soon". What does it mean?</summary>
 
-When you request for a TechPass account, it is created and an onboarding invitation email is sent to you to complete the TechPass onboarding process.  This email is valid only for 30 days. If you do not complete TechPass onboarding within 30 days, you get this email.
+When you request for a TechPass account, it is created and an onboarding invitation email is sent to you to complete the TechPass onboarding process. This email is valid only for 30 days. If you do not complete TechPass onboarding within 30 days, you get this email.
 
 To get a new invitation link, create a [service request][service-request] with us.
 

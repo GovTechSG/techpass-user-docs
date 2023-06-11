@@ -45,4 +45,4 @@ TechPass users need to reset their MFA for the following reasons:
 
 12. Select **Yes** or **Done** on the app.
 
-You have now reset your TechPass MFA using your new mobile phone. 
+You have reset your TechPass MFA using your new mobile phone. 

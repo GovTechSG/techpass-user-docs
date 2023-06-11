@@ -45,4 +45,4 @@ Users who have a WOG profile, listed as SGGovt M365 on the Authenticator app, ma
 
 12. Select **Yes** or **Done** on the app.
 
-You have now reset your WOG MFA using your new mobile phone.
+You have reset your WOG MFA using your new mobile phone.

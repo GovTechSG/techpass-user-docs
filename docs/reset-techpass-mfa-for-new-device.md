@@ -1,6 +1,6 @@
-# Reset TechPass MFA
+# Reset TechPass Multi-Factor Authentication(MFA)
 
-This article provides instructions on how TechPass users can reset their TechPass MFA (Multi-Factor Authentication).
+This article provides instructions on how TechPass users can reset their TechPass MFA.
 
 ## Audience
 

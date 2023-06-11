@@ -26,7 +26,7 @@ This section guides you how to access services and products which use TechPass a
    c. Proceed to step 6.
 
    
-5. If your TechPass log in ID's domain is ```techpass.gov.sg``` (for example: john_doe@techpass.gov.sg), enter the password of your TechPass account and click **Sign in**.
+5. If your TechPass log in ID's domain is ```techpass.gov.sg```, enter the password of your TechPass account and click **Sign in**. For example, john_doe@techpass.gov.sg
 
 You are prompted to authenticate your TechPass sign-in. A number is shown on your browser.
 

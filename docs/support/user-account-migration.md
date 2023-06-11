@@ -32,7 +32,7 @@ If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass accou
 <details>
 <summary>Why do I have 2 MFA profiles: SG Govt M365 and TECHPASS, on my Authenticator app?</summary>
 
-If you have used your WOG account (organisational email ID) to get invited or while signing up for your TechPass account, your TechPass ID is same as your organisational email ID. 
+If you have used your WOG account(organisational email ID) to get invited or while signing up for your TechPass account, your TechPass ID is same as your organisational email ID. 
 
 Such users have 2 MFA profiles and they are the SG Govt M365 and TECHPASS.
 While SG Govt M365 profile is linked to your WOG email account, TECHPASS profile is linked to your TechPass account.

@@ -107,7 +107,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 1. On your GSIB device, open the TechPass onboarding invitation email.
 
-  ?> If you do not see this email in your inbox:<br>- check if it is the same email address you provided while signing up or in your request.<br>- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
+  ?> If you do not see this email in your inbox:<br>- Check if it is the same email address you provided while signing up or in your request.<br>- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
 2. Click **Accept invitation**.
 

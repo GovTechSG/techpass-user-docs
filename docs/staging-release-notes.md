@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230605.0231
 <summary> MFA fraud alert is now enabled.
 </summary>
 
-The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication(MFA) challenges. Refer to [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
 </details>
 
 ## Staging release 24 May 2023
@@ -436,7 +436,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 </details>
 
 <details>
- <summary>Number matching in multifactor authentication (MFA) notifications</summary>
+ <summary>Number matching in multi-factor authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 

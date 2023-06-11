@@ -32,13 +32,13 @@ To manage your security info any time, go to <a href="https://myaccount.microsof
 
 a. Create a [service request](https://go.gov.sg/seed-techpass-support) to contact our technical support to remove the MFA configured for your TechPass account.
 
-?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**. 
+?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi-Factor Authentication(MFA)** as **Service Requests**. 
 
 b. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-techpass-mfa-for-new-device).
 
 **If your TechPass ID is same as the organisational email ID**:
 
-a. Contact your Agency Facility Management (AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/seed-techpass-support) to remove the MFA configured for your TechPass account.
+a. Contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/seed-techpass-support) to remove the MFA configured for your TechPass account.
 
 ?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
 

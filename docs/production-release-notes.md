@@ -40,7 +40,7 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 
 Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
 
-> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass Portal and do not have a **pending** device.
+?>- This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass Portal and do not have a **pending** device.
 
 </details>
 
@@ -419,7 +419,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 </details>
 
 <details>
- <summary>Number matching in multifactor authentication (MFA) notifications</summary>
+ <summary>Number matching in multi-factor authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 
@@ -772,9 +772,7 @@ For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov
 
   A new configuration flag `published` has been added to Applications. When the application is indicated as `published`, it will be visible on the TechPass Portal.
 
- >**Note**:
- >- All existing applications are marked as **published**.
- >- To unpublish an application, clear the **Mark As Published** option.
+?>- All existing applications are marked as **published**.<br>- To unpublish an application, clear the **Mark As Published** option.
 
   </details>
 
@@ -814,9 +812,7 @@ For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov
   - Access token is valid for 10 minutes
   - ID token is valid for 10 minutes.
 
- >**Note**:
- >- You'll be able to request for a new access token, ID token and refresh token if OAuth2.1 refresh_token grant flow is applied.
- >- Refresh token expiration remains the same. The default is 90 days and is a sliding window (extended by issuing a refresh_token grant).
+ ?>- You'll be able to request for a new access token, ID token and refresh token if OAuth2.1 refresh_token grant flow is applied.<br>-The refresh token expiration remains the same. The default is 90 days and is a sliding window (extended by issuing a refresh_token grant).
 
   </details>
 

@@ -101,7 +101,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   
     ![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)
 
-  You will receive a six-digit code on this mobile . 
+  You will receive a six-digit code on this mobile. 
 
   10. Enter the six-digit code and click **Next**.
 
@@ -131,17 +131,11 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 5. Accept Privacy Policy and Terms of Use
 
+1. Read the **Privacy Policy** and click **Accept**.
+2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
+3. If you had requested for SEED provisioning and successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-
-  1. Read the **Privacy Policy** and click **Accept**.
-  2. Read the **Terms of Use** and click **Accept**.
-  3. If you had requested for SEED provisioning, read the **MDM AUP Policy** and click **Accept**.
-
-  You have successfully onboarded to TechPass and you can proceed to onboard your Internet Device to SEED.
-
-?> See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
-
-
+?> You may proceed to onboard your Internet Device to SEED. See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
 ### Next step
 

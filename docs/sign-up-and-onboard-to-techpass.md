@@ -131,11 +131,11 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 ## Step 4. Accept Privacy Policy and Terms of Use
 
 1. Read the **Privacy Policy** and click **Accept**.
-2. Read the **Terms of Use** and click **Accept**.
-3. If SEED has been provisioned to you, read the **MDM AUP Policy** and click **Accept**.
+2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
+3. If you had requested for SEED provisioning and successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-  You have successfully onboarded to TechPass. If you had requested for SEED provisioning, you may proceed to onboard your Internet Device to SEED.
+?> You may proceed to onboard your Internet Device to SEED. See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
 
-?> Refer to the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
+### Next step
 
-
+- [Verify TechPass login](log-in-with-techpass#log-in-to-a-service-using-your-techpass-account)

@@ -31,7 +31,11 @@ Government Standard Image Build.
 
 Internet Device is not a GSIB. This could be your personal device, or a device issued by your vendor or agency.
 
-To access resources such as SGTS services and GCC via this device, you must onboard it to SEED(GovTech's MDM solution) .
+To access resources such as SGTS services and GCC via this device, you must onboard it to SEED, GovTech's Mobile device management(MDM) solution.
+
+**MDM**
+
+Mobile device management(MDM).
 
 **Non-SE GSIB**
 
@@ -49,7 +53,7 @@ If you are using a SE GSIB device, you need to use your PS-Card to authenticate.
 
 **SEED**
 
-Security Suite for Engineering Endpoint Devices. This is the MDM solution offered by GovTech.
+Security Suite for Engineering Endpoint Devices. This is the Mobile device management(MDM) solution offered by GovTech.
 
 **TechPass**
 

@@ -50,12 +50,12 @@ You need the following to get invited to TechPass and complete the onboarding:
  
 ## Step 2. Sign in using initial password
 
-1. Go to the required Docs portal environment and click **Login**.
+  1. Go to the required Docs portal environment and click **Login**.
 
     - [Docs portal - staging environment](https://stg.docs.developer.tech.gov.sg/)
     - [Docs portal - production environment](https://docs.developer.tech.gov.sg/)
 
-2. Enter your TechPass username and click **Next**.
+  2. Enter your TechPass username and click **Next**.
 
    ![vendor-sign-in-1](assets/support/Vendor_email.png)
 

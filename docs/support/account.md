@@ -40,7 +40,7 @@ b. [Reset TechPass MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-gu
 
 a. Contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG account and create a [service request](https://go.gov.sg/seed-techpass-support) to remove the MFA configured for your TechPass account.
 
-?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication (MFA)** as **Service Requests**.
+?> In the service request form, select **Service Request** as **Ticket Type** and select **Request to reset Multi Factor Authentication(MFA)** as **Service Requests**.
 
 b. [Reset WOG MFA](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/reset-security-verification-for-wog-account).
     
@@ -91,7 +91,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 
-You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA for WOG to authenticate it. For more information, refer to [Set up security verification for WOG account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-2-configure-mfa-for-the-wog-account)
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA for WOG to authenticate it. For more details, see the [Set up security verification for WOG account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-2-configure-mfa-for-the-wog-account)  section.
 
 </details>
 

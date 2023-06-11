@@ -11,7 +11,7 @@ TechPass is the Identity & Access Management(IAM) and Single Sign-on(SSO) soluti
 - SHIP-HATS: The Continuous Integration/Continuous Delivery CI/CD component in SGTS with security and governance guardrails that enables developers to plan, build, test and deploy code to production.
 - TechBiz: One-stop portal to subscribe to SGTS services.
 
-For more information about these services, see the [SG Government Tech Stack Collection](https://www.developer.tech.gov.sg/products/collections/singapore-government-tech-stack/).
+For more details about these services, see the [SG Government Tech Stack Collection](https://www.developer.tech.gov.sg/products/collections/singapore-government-tech-stack/).
 
 ## Who needs TechPass?
 

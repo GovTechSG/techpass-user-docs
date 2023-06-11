@@ -25,7 +25,7 @@ Government Managed Device. An Internet Device or a GFE device when enrolled with
 
 **GSIB**
 
-Government Standard Image Build.
+Government Standard Image Build(GSIB).
 
 **Internet Device**
 
@@ -39,15 +39,15 @@ Mobile device management(MDM).
 
 **Non-SE GSIB**
 
-If you are using a non-SE GSIB device, every time you log in to your device, you are prompted to enter your BitLocker PIN. You can access the internet and intranet using this device.
+It is a Government Standard Image Build(GSIB) device which does not have the Secured Email features. You can access the internet and intranet using this device. 
 
-You can't onboard a GSIB device to SEED.
+?> You can't onboard this to SEED.
 
 **SE GSIB**
 
-It is a Secured Email(SE) GSIB device. This GSIB device is assigned to public officers who handle sensitive and secret information.
+It is a Government Standard Image Build(GSIB) device which has the Secured Email features. This device is assigned to public officers who handle sensitive and secret information. If you are using a SE GSIB device, you need to use your PS-Card to authenticate. 
 
-If you are using a SE GSIB device, you need to use your PS-Card to authenticate. You will not be able to access internet using this SE-GSIB device.
+You will not be able to access internet using this SE-GSIB device.  
 
 ?>- You can't use this device to sign up and onboard your TechPass account.<br>- You can't onboard this device to SEED.
 
@@ -59,7 +59,7 @@ Security Suite for Engineering Endpoint Devices. This is the Mobile device manag
 
 This is an Identity & Access Management(IAM) and a single sign-on(SSO) solution to seamlessly access services such as Singapore Government Technology Stack(SGTS) and GCC.
 
-For more information on how to get a TechPass account and onboard to it, see the [Onboard to TechPass](onboard-to-techpass.md) page. 
+For more details on how to get a TechPass account and onboard to it, see the [Onboard to TechPass](onboard-to-techpass.md) page. 
 
 **TechPass ID**
 

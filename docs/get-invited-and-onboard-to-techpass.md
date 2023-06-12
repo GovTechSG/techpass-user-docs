@@ -20,7 +20,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 ?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
 
-## Step 1. Request for TechPass account
+## Step 1: Request for TechPass account
 
 1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
 
@@ -49,8 +49,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more details, see the [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general) section.
 
  
-## Step 2. Sign in using your initial password
-
+## Step 2: Sign in using your initial password
 
 
 1. Go to the required Docs portal environment and click **Login**.
@@ -67,7 +66,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
  
-## Step 3. Configure Multi-Factor Authentication(MFA) for TechPass account
+## Step 3: Configure Multi-Factor Authentication(MFA) for TechPass account
 
 ?> This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
@@ -113,7 +112,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
     ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
-## Step 4. Reset your initial password
+## Step 4: Reset your initial password
 
  1. Enter your **initial password**, **new password** and retype the new password to confirm.
 
@@ -122,7 +121,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   ![vendor-mfa-9](assets/support/vendor-update-initial-password.png)
 
 
-## Step 5. Accept Privacy Policy and Terms of Use
+## Step 5: Accept terms and conditions
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.

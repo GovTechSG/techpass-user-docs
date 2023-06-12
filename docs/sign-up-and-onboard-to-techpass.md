@@ -20,7 +20,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 ?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
 
-## Step 1. Sign up for TechPass
+## Step 1: Sign up for TechPass account
 
 1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
@@ -50,7 +50,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you can [Request for SEED via TechPass Portal](https://docs.developer.tech.gov.sg/docs/tp-userdocs-for-writers/request-for-seed-provisioning) or create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again.
 
-## Step 2. Configure Multi-Factor Authentication(MFA) for WOG account
+## Step 2: Configure Multi-Factor Authentication(MFA) for WOG account
 
 ?>- If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
@@ -103,7 +103,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   
   ?> Complete steps 3 and 4 within the same session.
 
-## Step 3. Accept invitation
+## Step 3: Accept invitation
 
 
 1. On your GSIB device, open the TechPass onboarding invitation email.
@@ -129,7 +129,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
   ![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')
 
-## Step 4. Accept Privacy Policy and Terms of Use
+## Step 4: Accept terms and conditions
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.

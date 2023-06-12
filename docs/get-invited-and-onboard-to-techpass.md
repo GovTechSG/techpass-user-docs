@@ -124,7 +124,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   ![vendor-mfa-9](assets/support/vendor-update-initial-password.png)
 
 
-## Step 5: Accept terms and conditions
+## Step 5: Accept the terms and conditions
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.

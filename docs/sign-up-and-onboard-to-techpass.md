@@ -129,7 +129,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
   ![more-info-after-login](assets/images/onboarding/po-non-se/more-info-after-login.png ':size=400')
 
-## Step 4: Accept terms and conditions
+## Step 4: Accept the terms and conditions
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.

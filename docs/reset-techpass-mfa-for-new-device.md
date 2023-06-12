@@ -11,7 +11,7 @@ TechPass users whose Login ID's domain is ```techpass.gov.sg.``` need to reset t
 
 - You must have your previous mobile phone to authenticate your TechPass login.
 
-?> If you have lost or formatted your previous mobile phone or unable to authenticate using it, contact the [TechPass support team](https://go.gov.sg/seed-techpass-support).
+?> If you have lost or formatted your previous mobile phone or are unable to authenticate using it, contact the [TechPass support team](https://go.gov.sg/seed-techpass-support).
 
 
 ### To reset MFA for your TechPass account

@@ -11,7 +11,7 @@ TechPass users whose TechPass Login ID is the same as their organisational email
 
 - You must have your previous mobile phone to authenticate your WOG login.
 
-?> If you have lost or formatted your previous mobile phone or unable to authenticate using it, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG profile.
+?> If you have lost or formatted your previous mobile phone or are unable to authenticate using it, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG profile.
 
 ### To reset MFA for your WOG account
 

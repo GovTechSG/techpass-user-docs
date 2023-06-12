@@ -101,7 +101,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   
     ![vendor-mfa-6](assets/support/vendor-mfa-6-new.png)
 
-  10. Enter the six-digit code sent to this mobile phone and click **Next**.
+  10. Enter the six-digit code sent to your mobile phone through text message and click **Next**. The page changes to show your success.
 
     ![vendor-mfa-7](assets/support/vendor-mfa-7-new.png)
 

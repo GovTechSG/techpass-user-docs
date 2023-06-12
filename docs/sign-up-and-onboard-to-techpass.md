@@ -1,4 +1,4 @@
-# Sign up and onboard TechPass
+# Sign up and onboard to TechPass
 
 This article tells you how to sign-up for TechPass via the TechPass Portal and onboard.
 
@@ -12,7 +12,7 @@ Users with a WOG account and who needs a TechPass account.
 
 Following are the prerequisites to sign up for TechPass and complete the onboarding:
 
-- Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal.
+- Check the flowchart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal.
 - A non-SE GSIB device.
 - Your organisational email address which has a standard mailbox(not LiteMail).
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
@@ -133,9 +133,9 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
-3. If you had requested for SEED provisioning and successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
+3. If you had requested for SEED provisioning and is successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-?> You may proceed to onboard your Internet Device to SEED. Before you onboard your Internet Device to SEED, see[Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding). 
+?>- Upon accepting the terms and conditions, you are successfully onboarded to TechPass.<br>- If you had requested for SEED to be provisioned, you may proceed to onboard your Internet Device to SEED.<br>- Before you onboard your Internet Device to SEED, see[Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding). 
 
 ### Next step
 

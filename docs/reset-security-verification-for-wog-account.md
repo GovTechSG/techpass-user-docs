@@ -1,11 +1,9 @@
 # Reset MFA for WOG account
 
-TechPass users whose TechPass Login ID is the same as their organisational email address need to reset their TechPass MFA if they have:
+If your TechPass Login ID is the same as your organisational email address, you have a WOG account and you need to reset your TechPass MFA if you have:
 
-- Changed their mobile phone.
-- Lost their mobile phone.
+- Changed or lost your mobile phone.
 - Deleted the Authenticator app from the mobile phone or unable to access the app on your phone.
-
 
 ## Prerequisites
 

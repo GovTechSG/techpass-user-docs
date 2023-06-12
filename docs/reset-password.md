@@ -1,4 +1,4 @@
-# Reset TechPass password
+# Reset your TechPass password
 
 This document provides instructions for resetting your TechPass password if your TechPass Login ID's domain is ```techpass.gov.sg.```
 
@@ -16,7 +16,7 @@ Users who meet the above-condition have to reset their TechPass password under t
 
 - If there is a need to comply with the [Azure Password Policy](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences) by resetting the TechPass account password.
 
-### To reset TechPass password
+### To reset your TechPass password
 
 - Go to [reset password](https://passwordreset.microsoftonline.com/) and follow the on-screen instructions.
 

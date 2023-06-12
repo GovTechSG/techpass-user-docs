@@ -1,10 +1,9 @@
 # Reset TechPass Multi-Factor Authentication (MFA)
 
-TechPass users whose Login ID's domain is ```techpass.gov.sg.``` need to reset their TechPass MFA if they have:
+If you are a TechPass whose Login ID's domain is ```techpass.gov.sg.```, you need to reset your TechPass MFA if you have:
 
-- Changed their mobile phone.
-- Lost their mobile phone.
-- Deleted the Authenticator app from the mobile phone or unable to access the app on your phone.
+- Changed or lost your mobile phone.
+- Deleted the Authenticator app from your mobile phone or unable to access the app on your phone.
 
 
 ## Prerequisites

@@ -3,8 +3,8 @@
   - [What's new](/whats-new/whats-new.md)
 - **Getting started**
   - [Onboard to TechPass](onboard-to-techpass.md)  
-    - [Sign up and onboard TechPass](sign-up-and-onboard-to-techpass)
-    - [Get invited and onboard TechPass](get-invited-and-onboard-to-techpass)
+    - [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass)
+    - [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass)
 - **Verify TechPass login** 
   - [Log in with TechPass](log-in-with-techpass)
 - **TechPass Portal**
@@ -15,7 +15,7 @@
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  
 - **Manage password**
-  - [Reset password](reset-password)
+  - [Reset your TechPass password](reset-password)
 - **TechPass support resources**
   - [TechPass status](techpass-status)
   - [FAQs](/support/overview.md)

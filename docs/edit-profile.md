@@ -2,7 +2,7 @@
 
 TechPass users can edit their TechPass profile by logging into the TechPass Portal.
 
-?>- You can't edit or delete the **Agency** name linked to your TechPass.<br>- To edit your email address, create a [service request](https://go.gov.sg/seed-techpass-support) with us.<br>- If you don't have access to TechPass Portal, create a [service request](https://go.gov.sg/seed-techpass-support) with us to update your profile details.
+?>- You can't edit or delete the **Agency** name linked to your TechPass.<br>- To edit your email address, create a [service request](https://go.gov.sg/seed-techpass-support) with us.<br>- If you don't have access to the TechPass Portal, create a [service request](https://go.gov.sg/seed-techpass-support) with us to update your profile details.<br>- If you are leaving your organisation and no longer need your TechPass account, create a [service request](https://go.gov.sg/seed-techpass-support) to terminate it.<br>- If your TechPass ID is the same as your organisational email(WOG account), and you are transferring to a different agency, create a [service request](https://go.gov.sg/seed-techpass-support) with us to resynchronise your TechPass account.  
  
 
 ## Audience

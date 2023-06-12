@@ -45,9 +45,7 @@ It is a Government Standard Image Build (GSIB) device which does not have the Se
 
 **SE GSIB**
 
-It is a Government Standard Image Build (GSIB) device which has the Secured Email features. This device is assigned to public officers who handle sensitive and secret information. If you are using a SE GSIB device, you need to use your PS-Card to authenticate. 
-
-You will not be able to access internet using this SE-GSIB device.  
+It is a Government Standard Image Build (GSIB) device which has the Secured Email features. This device is assigned to public officers who handle sensitive and secret information. If you are using a SE GSIB device, you need to use your PS-Card to authenticate. You will not be able to access internet using this device.  
 
 ?>- You can't use this device to sign up and onboard your TechPass account.<br>- You can't onboard this device to SEED.
 

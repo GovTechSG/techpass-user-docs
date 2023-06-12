@@ -27,6 +27,6 @@ Following are the prerequisites to request for SEED provisioning via TechPass Po
 
 ![request-for-seed](assets/images/seed/request-for-seed.png)
 
-?>- If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.<br>- Before you proceed to onboard your Internet Device to SEED, see the [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
+?>- If you have already been provisioned with SEED, instead of **Request for SEED**, the **Onboard device to SEED** button is displayed.<br>- Before you proceed to onboard your Internet Device to SEED, see [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding).
 
 

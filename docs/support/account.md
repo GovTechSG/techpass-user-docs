@@ -91,7 +91,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 
-You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA for WOG to authenticate it. For more details, see the [Set up security verification for WOG account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-2-configure-mfa-for-the-wog-account)  section.
+You might encounter this error if you are trying to sign in to your WOG account without setting up the MFA for WOG to authenticate it. For more information, see [Set up security verification for WOG account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass?id=step-2-configure-mfa-for-the-wog-account).
 
 </details>
 

@@ -15,7 +15,7 @@ If you are using a SE GSIB device:
 2. In **Ticket Request Type**, select **Service Request** and choose **Create TechPass account for Secured Email GSIB users**.
 3. When prompted to confirm, if you are a Secured Email(SE) GSIB user, select **Yes**.
 
-?> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. For more details on SE-GSIB device, see the [Glossary](glossary).
+?> It takes 3 business days for us to provision a TechPass account for a SE GSIB user. For more information about SE-GSIB device, see [Glossary](glossary).
 
 </details>
 

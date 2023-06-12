@@ -423,7 +423,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 
-For more details, see the[Azure documentation](https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match).
+For more information, see[Azure documentation](https://learn.microsoft.com/en-us/azure/active-directory/authentication/how-to-mfa-number-match).
 
 </details>
 
@@ -518,7 +518,7 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 <details>
  <summary>Tenant admins can now create and update applications using APIs.</summary>
 
-Tenant Admins can now create and update applications using APIs. For more details, see the [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant) documentation.
+Tenant Admins can now create and update applications using APIs. For more information, see [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
 
 This new feature complements the existing functionality to [create and update applications through the TechPass Portal](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
@@ -729,7 +729,7 @@ There is a change to the `scope` parameter in the request for access token via c
 
 **Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.techpass.gov.sg/.default`.
 
-For more details, see the following:
+For more information, see the following:
 - [Transition guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
 - [Change in Automation API Access Token Scope](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
 
@@ -763,7 +763,7 @@ A new widget from the Developer Portal has been integrated into the TechPass Por
 
 Tenants can configure a new event webhook, `application-deleted` to get notifications when an application gets deleted from their system.
 
-For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks) section.
+For more information, see [Configuring Webhooks](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/webhooks?id=configuring-your-webhooks) section.
 
 </details>
 
@@ -830,7 +830,7 @@ For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov
   **Now**:
   Tenants can search for users using their mobile number. This feature comes in handy for tenants to identify if a user already has an account in the TechPass system and if yes, invitation will not be sent to that user.
 
-  For more details, see the following documentation:
+  For more information, see the following documentation:
   - [List Users By Namespace](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1namespace~1{namespace}~1users/get)
   - [List Users](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/IAM/paths/~1iam~1users/get).
   </summary>
@@ -846,7 +846,7 @@ For more details, see the [Configuring Webhooks](https://docs.developer.tech.gov
   - **lastSignInAt**: Composite of the above two, whichever is later.
 
 
-  For more details, see the Microsoft's article on [Non-interactive logins](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932).
+  For more information, see Microsoft's article on [Non-interactive logins](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932).
 
 
   </details>
@@ -879,7 +879,7 @@ To update or delete a whitelist, you need the whitelist ID(UUID) and to get this
 
 Whitelist value will be the Whitelist ID and when you create a new whitelist, there is no need to know the whitelist ID if you already know the whitelist value. The OTP Update/Delete Whitelist APIs will accept email domains and email addresses.
 
-For more details, see the following:
+For more information, see the following:
 - [Update OTP Whitelist API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/OTP/paths/~1otp~1namespace~1{namespace}~1apps~1{appid}~1whitelists~1{whitelistid}/put) documentation.
 - [Delete OTP Whitelist API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/OTP/paths/~1otp~1namespace~1{namespace}~1apps~1{appid}~1whitelists~1{whitelistid}/delete)
 

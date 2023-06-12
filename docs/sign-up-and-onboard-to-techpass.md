@@ -6,7 +6,7 @@ This article tells you how to sign-up for TechPass via the TechPass Portal and o
 
 Users with a WOG account and who needs a TechPass account.
 
-?>- Public officers using an **SE-GSIB** device need to submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED provisioning, which is optional, via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more details, see the [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?>- Public officers using an **SE-GSIB** device need to submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED provisioning, which is optional, via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
 
 ## Prerequisites
 
@@ -135,7 +135,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
 3. If you had requested for SEED provisioning and successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-?> You may proceed to onboard your Internet Device to SEED. See the [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding) before you onboard your Internet Device to SEED.
+?> You may proceed to onboard your Internet Device to SEED. Before you onboard your Internet Device to SEED, see[Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding). 
 
 ### Next step
 

@@ -59,7 +59,7 @@ Security Suite for Engineering Endpoint Devices. This is the Mobile device manag
 
 This is an Identity & Access Management(IAM) and a single sign-on(SSO) solution to seamlessly access services such as Singapore Government Technology Stack(SGTS) and GCC.
 
-For more details on how to get a TechPass account and onboard to it, see the [Onboard to TechPass](onboard-to-techpass.md) page. 
+For more information about how to get a TechPass account and onboard to it, see the [Onboard to TechPass](onboard-to-techpass.md) page. 
 
 **TechPass ID**
 

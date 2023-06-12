@@ -15,11 +15,11 @@ This article tells you how to:
 
 4. If you have a WOG account and logging in via your GMD, complete the following steps: 
 
-   a. Enter the verification code displayed for your SG Govt M365 profile on your Authenticator app.
+a. Enter the verification code displayed for your SG Govt M365 profile on your Authenticator app.
 
-   b. Click **Sign in**.
+b. Click **Sign in**.
 
-   c. Proceed to step 6.
+c. Proceed to step 6.
 
    
 5. If your TechPass log in ID's domain is ```techpass.gov.sg```, enter the password of your TechPass account and click **Sign in**. For example, if your TechPass ID is john_doe@techpass.gov.sg, you need to enter your TechPass password.

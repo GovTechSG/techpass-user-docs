@@ -13,8 +13,8 @@ TechPass users who can access TechPass Portal.
 
 You need the following to edit your TechPass profile via the TechPass Portal:
 
-- Active TechPass account.
-- Non-SE GSIB device.
+- An active TechPass account.
+- A non-SE GSIB device.
 
 ### To edit your TechPass profile
 

@@ -11,7 +11,7 @@ This article tells you how to:
 2. Click **Login with TechPass**.
 3. Choose the required TechPass account.
 
-![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)
+   ![sign-in](assets/images/access-sgts-services-using-techpass/log-in-with-techpass.png)
 
 4. If you have a WOG account and logging in via your GMD, complete the following steps: 
 

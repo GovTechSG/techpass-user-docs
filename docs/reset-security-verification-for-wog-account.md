@@ -1,25 +1,19 @@
 # Reset MFA for WOG account
 
-This article provides instructions on how users can reset their WOG MFA(Multi-Factor Authentication). The WOG profile is listed as SGGovt M365 on the Authenticator app. 
+TechPass users whose TechPass Login ID is the same as their organisational email address need to reset their TechPass MFA if they have:
 
-## Audience
-
-Users who have a WOG profile, listed as SGGovt M365 on the Authenticator app, may need to reset the MFA for the following reasons:
-
-- Changed mobile phone.
-- Lost mobile phone.
+- Changed their mobile phone.
+- Lost their mobile phone.
 - Deleted the Authenticator app from the mobile phone or unable to access the app on your phone.
-- Change in the organisational email address linked to the WOG profile.
 
-?> You also need to [reset MFA of your TechPass account](reset-security-verification-for-wog-account).
 
 ## Prerequisites
 
-- You must have the old mobile phone to authenticate your WOG login.
+- You must have your previous mobile phone to authenticate your WOG login.
 
-?> If you have lost or formatted your old phone or unable to authenticate using it, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG profile.
+?> If you have lost or formatted your previous mobile phone or unable to authenticate using it, contact your Agency Facility Management(AFM) to remove the MFA configured for your WOG profile.
 
-### To reset MFA for WOG account
+### To reset MFA for your WOG account
 
 1. Go to [Microsoft Security info](https://mysignins.microsoft.com/security-info).
 2. If prompted, sign in to your WOG account.

@@ -14,7 +14,7 @@ Users who require a TechPass account but do not have a WOG account or a non-SE G
 You need the following to get invited to TechPass and complete the onboarding:
 
 - Check the flow chart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal. If you can't sign up for TechPass account via TechPass Portal, you need to request to get invited.
-- Your organisational email address which has a standard mailbox(not LiteMail).  
+- Your organisational email address which has a standard mailbox and not a LiteMail.  
 - Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
 ?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
@@ -22,7 +22,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 1: Request for TechPass account
 
-1. Contact your project manager or the reporting officer to request for TechPass account and SEED provisioning(optional).
+1. Contact your project manager or the reporting officer to request for the provisioning of TechPass and SEED, which is optional.
 
    !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
@@ -69,7 +69,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 
 
-## Step 3: Configure Multi-Factor Authentication(MFA) for TechPass account
+## Step 3: Configure Multi-Factor Authentication (MFA) for TechPass account
 
 ?> This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 

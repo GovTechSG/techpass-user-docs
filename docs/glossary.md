@@ -25,27 +25,27 @@ Government Managed Device. An Internet Device or a GFE device when enrolled with
 
 **GSIB**
 
-Government Standard Image Build(GSIB).
+Government Standard Image Build (GSIB).
 
 **Internet Device**
 
 Internet Device is not a GSIB. This could be your personal device, or a device issued by your vendor or agency.
 
-To access resources such as SGTS services and GCC via this device, you must onboard it to SEED, GovTech's Mobile device management(MDM) solution.
+To access resources such as SGTS services and GCC via this device, you must onboard it to SEED, GovTech's Mobile device management (MDM) solution.
 
 **MDM**
 
-Mobile device management(MDM).
+Mobile device management (MDM).
 
 **Non-SE GSIB**
 
-It is a Government Standard Image Build(GSIB) device which does not have the Secured Email features. You can access the internet and intranet using this device. 
+It is a Government Standard Image Build (GSIB) device which does not have the Secured Email features. You can access the internet and intranet using this device. 
 
 ?> You can't onboard this to SEED.
 
 **SE GSIB**
 
-It is a Government Standard Image Build(GSIB) device which has the Secured Email features. This device is assigned to public officers who handle sensitive and secret information. If you are using a SE GSIB device, you need to use your PS-Card to authenticate. 
+It is a Government Standard Image Build (GSIB) device which has the Secured Email features. This device is assigned to public officers who handle sensitive and secret information. If you are using a SE GSIB device, you need to use your PS-Card to authenticate. 
 
 You will not be able to access internet using this SE-GSIB device.  
 
@@ -53,13 +53,13 @@ You will not be able to access internet using this SE-GSIB device.
 
 **SEED**
 
-Security Suite for Engineering Endpoint Devices. This is the Mobile device management(MDM) solution offered by GovTech.
+Security Suite for Engineering Endpoint Devices. This is the Mobile device management (MDM) solution offered by GovTech.
 
 **TechPass**
 
 This is an Identity & Access Management(IAM) and a single sign-on(SSO) solution to seamlessly access services such as Singapore Government Technology Stack(SGTS) and GCC.
 
-For more information about how to get a TechPass account and onboard to it, see the [Onboard to TechPass](onboard-to-techpass.md) page. 
+For more information about how to get a TechPass account and onboard to it, see [Onboard to TechPass](onboard-to-techpass.md). 
 
 **TechPass ID**
 

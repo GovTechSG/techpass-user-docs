@@ -1,4 +1,4 @@
-# Reset TechPass Multi-Factor Authentication(MFA)
+# Reset TechPass Multi-Factor Authentication (MFA)
 
 TechPass users whose Login ID's domain is ```techpass.gov.sg.``` need to reset their TechPass MFA if they have:
 

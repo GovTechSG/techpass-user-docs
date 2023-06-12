@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230605.0231
 <summary> MFA fraud alert is now enabled.
 </summary>
 
-The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication(MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
 </details>
 
 ## Staging release 24 May 2023
@@ -265,7 +265,7 @@ In order to enhance the granularity of our user account differentiation, a new *
   - account:vendor
   - account:temp
 
-> **Note:** The existing *userType* property(Guest/Member) will not be removed. 
+> **Note:** The existing *userType* property (Guest/Member) will not be removed. 
 
 Go to [TechPass account type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) and [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/) for more information.
 
@@ -346,7 +346,7 @@ Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
 <details>
  <summary>Manage application role assignments using TechBiz portal</summary>
 
-From 4 January 2023, if agencies can subscribe to an SGTS service(known as Tenant in TechPass Portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
+From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant on the TechPass Portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
 
 Currently, the tenants manage the application role assignments via the TechPass Portal or Automation API.
 
@@ -362,9 +362,9 @@ Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 
 <details>
  <summary>
-Role-Based Access Control(RBAC) for Automation API</summary>
+Role-Based Access Control (RBAC) for Automation API</summary>
 
-We have implemented Role-Based Access Control(RBAC) for Automation API by assigning tenant applications with the appropriate roles. Based on the roles assigned, we will be able to determine whether the application has access to the called endpoint. This is a change in our internal implementation.
+We have implemented Role-Based Access Control (RBAC) for Automation API by assigning tenant applications with the appropriate roles. Based on the roles assigned, we will be able to determine whether the application has access to the called endpoint. This is a change in our internal implementation.
 
 **Action required**
 
@@ -436,7 +436,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 </details>
 
 <details>
- <summary>Number matching in multi-factor authentication(MFA) notifications</summary>
+ <summary>Number matching in Multi-Factor Authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 
@@ -848,7 +848,7 @@ For more information, see[Configuring Webhooks](https://stg.docs.developer.tech.
 
  >**Note**:
  >- You'll be able to request for a new access token, ID token and refresh token if OAuth2.1 refresh_token grant flow is applied.
- >- Refresh token expiration remains the same. The default is 90 days and is a sliding window(extended by issuing a refresh_token grant).
+ >- Refresh token expiration remains the same. The default is 90 days and is a sliding window (extended by issuing a refresh_token grant).
 
   </details>
 

@@ -350,9 +350,9 @@ Frontend version: 1.0.0-20221213.0649   | Backend version: 1.38.3-221213.0713
 
 <details>
  <summary>
-Role-Based Access Control(RBAC) for Automation API</summary>
+Role-Based Access Control (RBAC) for Automation API</summary>
 
-We have implemented Role-Based Access Control(RBAC) for Automation API by assigning tenant applications with the appropriate roles. Based on the roles assigned, we will be able to determine whether the application has access to the called endpoint. This is a change in our internal implementation.
+We have implemented Role-Based Access Control (RBAC) for Automation API by assigning tenant applications with the appropriate roles. Based on the roles assigned, we will be able to determine whether the application has access to the called endpoint. This is a change in our internal implementation.
 
 **Action required**
 
@@ -419,7 +419,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 </details>
 
 <details>
- <summary>Number matching in multi-factor authentication(MFA) notifications</summary>
+ <summary>Number matching in Multi-Factor Authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 

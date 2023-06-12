@@ -50,7 +50,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you can [Request for SEED via TechPass Portal](https://docs.developer.tech.gov.sg/docs/tp-userdocs-for-writers/request-for-seed-provisioning) or create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again.
 
-## Step 2: Configure Multi-Factor Authentication(MFA) for WOG account
+## Step 2: Configure Multi-Factor Authentication (MFA) for WOG account
 
 ?>- If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 

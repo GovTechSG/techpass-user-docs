@@ -105,7 +105,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
     ![vendor-mfa-7](assets/support/vendor-mfa-7-new.png)
 
-  11. The page changes to show your success. Your mobile phone is registered successfully to this account. Click **Next**.
+  11. Your mobile phone is registered successfully to this account. Click **Next**.
 
     ![vendor-mfa-8](assets/support/vendor-mfa-8-new.png)
 

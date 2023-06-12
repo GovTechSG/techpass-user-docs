@@ -67,7 +67,7 @@ You need the following to get invited to TechPass and complete the onboarding:
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
 
 
-test
+
 
 ## Step 3: Configure Multi-Factor Authentication(MFA) for TechPass account
 

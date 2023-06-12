@@ -69,7 +69,7 @@ You need the following to get invited to TechPass and complete the onboarding:
  
 ## Step 3. Configure Multi-Factor Authentication(MFA) for TechPass account
 
-?> This document guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+?> This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 
   1. Install Microsoft Authenticator on your mobile phone.

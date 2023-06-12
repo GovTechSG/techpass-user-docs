@@ -1,4 +1,4 @@
-# Sign up and onboard to TechPass
+# Sign up and onboard TechPass
 
 This article tells you how to sign-up for TechPass via the TechPass Portal and onboard.
 

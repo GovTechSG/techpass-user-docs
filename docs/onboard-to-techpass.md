@@ -24,8 +24,8 @@ Z("Q1. Do you need TechPass to access SGTS or GCC services?") --> |No| A("<div s
 
 Refer to the onboarding flow that is applicable to you.
 
-- [Sign up and onboard](sign-up-and-onboard-to-techpass)
-- [Get invited and onboard](get-invited-and-onboard-to-techpass)
+- [Sign up and onboard TechPass](sign-up-and-onboard-to-techpass)
+- [Get invited and onboard TechPass](get-invited-and-onboard-to-techpass)
 
 
 

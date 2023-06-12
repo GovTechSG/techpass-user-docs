@@ -1,4 +1,4 @@
-# Get invited and onboard to TechPass
+# Get invited and onboard TechPass
 
 This article guides you how to request for a TechPass account and onboard to it. 
 

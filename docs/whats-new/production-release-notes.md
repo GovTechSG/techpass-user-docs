@@ -8,7 +8,8 @@ Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016
 **Changes** 
 
 <details>
-<summary> Automatic removal of devices in 'pending' state.
+<summary style="font-size:20px;font-weight:bold"> Automatic removal of devices  in 'pending' state
+
 </summary>
 
 Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system.
@@ -35,7 +36,8 @@ Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 **Changes** 
 
 <details>
- <summary> Enhancement to SEED device onboarding Status for Public officers.
+<summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for Public officers
+
 </summary>
 
 Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
@@ -45,7 +47,8 @@ Previously, Public Officers would only see their device status as ‘pending’ 
 </details>
 
 <details>
- <summary> Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default. </summary>
+
+<summary style="font-size:20px;font-weight:bold"> Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default </summary>
 
 Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
 
@@ -54,7 +57,8 @@ Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation 
 **Fixes**
 
 <details>
- <summary> URL update for technical support for TechPass and SEED.
+
+<summary style="font-size:20px;font-weight:bold"> URL update for technical support for TechPass and SEED
 </summary>
 
 We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
@@ -68,14 +72,17 @@ Frontend version: 1.0.0-20230424.1714 | Backend version: 1.61.3-230425.0821
 **Feature** 
 
 <details>
- <summary>TechPass tenant notification for group limit.</summary>
+<summary style="font-size:20px;font-weight:bold">TechPass tenant notification for group limit</summary>
+
 
 Tenants will now receive email notifications when their tenant's group count is close to the limit. This notification provides tenants with sufficient notice so that they can request an increase in their group limit without disrupting their service continuity.
 
 </details>
 
 <details>
- <summary>Webhook failure notification and reminder for tenant admins.</summary>
+
+<summary style="font-size:20px;font-weight:bold">Webhook failure notification and reminder for tenant admins</summary>
+
 
 Tenant admins will receive an email notification when an invoked webhook endpoint fails and a reminder when there are incomplete cases. This notification and reminder will provide admins with timely information regarding the status of their webhook endpoints and incomplete cases without overwhelming them with excessive notifications.
 
@@ -84,7 +91,9 @@ Tenant admins will receive an email notification when an invoked webhook endpoin
 **Changes** 
 
 <details>
- <summary> Automation API now supports filtering users by account type.</summary>
+
+<summary style="font-size:20px;font-weight:bold"> Automation API now supports filtering users by account type</summary>
+
 
 We have enhanced the Automation API that enables developers to filter users by account type. This feature will enable developers to easily retrieve a list of users that meet specific account type criteria.
 
@@ -289,7 +298,7 @@ Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657
 **Changes** 
 
 <details>
- <summary>For more clarity, account-related emails now have the link to the Accounts FAQ.</summary>
+<summary style="font-size:20px;font-weight:bold">For more clarity, account-related emails now have the link to the Accounts FAQ</summary>
 
 TechPass sends emails to you for the following account-related activities so that you can act appropriately:
 
@@ -309,7 +318,8 @@ Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
 **Fixes** 
 
 <details>
- <summary>Public officers mobile phone number will now either conform to TechPass format or will be blank.</summary>
+<summary style="font-size:20px;font-weight:bold">Public officers mobile phone number will now either conform to TechPass format or will be blank</summary>
+
 
 When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
 

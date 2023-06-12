@@ -15,7 +15,7 @@ No ongoing incidents.
 
 ## Previous incidents
 
-| <div style="width:290px">Date</div> | 01 March 2023 |
+| <div style="width:100px">Date</div> | 01 March 2023 |
 | ------ | ------- |
 | **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 01 March 2023, 19:00 SGT*<br><br>**Investigating**<br>We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Issue start time:** 01 March 14:30 SGT<br><br>**Workaround**<br>You may try clearing your internet browser cache or logging in using an incognito browser.<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|
 

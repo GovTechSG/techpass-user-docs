@@ -4,44 +4,38 @@ This article tells you how to sign-up for TechPass via the TechPass Portal and o
 
 ## Audience
 
-Users with a WOG account and who needs a TechPass account.
+User with a WOG account who needs a TechPass account.
 
-?>- Public officers using an **SE-GSIB** device need to submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED provisioning, which is optional, via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?>Public officers using **SE GSIB** devices are required to skip the following steps and submit [service requests](https://go.gov.sg/seed-techpass-support) to onboard to TechPass.
 
 ## Prerequisites
 
-Following are the prerequisites to sign up for TechPass and complete the onboarding:
+Following are the prerequisites to sign up and onboard to TechPass:
 
-- Check the flowchart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal.
 - A non-SE GSIB device.
-- Your organisational email address which has a standard mailbox(not LiteMail).
-- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+- Your organisational email address which has a standard mailbox for receiving emails from the TechPass team.
 
-
-?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+?> LiteMail email addresses are not allowed to be used to onboard to TechPass.
 
 ## Step 1: Sign up for TechPass account
 
-1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+1. On your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
 2. Enter your organisational **Email Address**.
 
-3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
+3. Indicate if you require SEED to be provisioned to you.
 
-   !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
+4. Solve the CAPTCHA challenge, to verify that you are a human.
+
+   !> To access services on SGTS and GCC 2.0 through an Internet Device, you need to request for SEED to be provisioned.
 
    ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
-4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you receive two onboarding invitation emails.
+5. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you receive two onboarding invitation emails.
+
+6. Upon success onboarding to TechPass, you will receive an email to confirma your TechPass onboarding status. If you have also requested for SEED provisioning, you receive another email to confirm your request for SEED provisioning.
 
   > **Additional information**:
-  >
-  > **If your request for TechPass provisioning
-  is successful**:
-  >
-  >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
-  >- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
   >
   > **If your request for SEED provisioning is successful**:
   >

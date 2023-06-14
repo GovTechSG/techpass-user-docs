@@ -10,11 +10,10 @@
 - Secure Hybrid Integration Pipeline - Hive Agile Testing Solutions (SHIP-HATS) establishes a consistent and automated way for continuous integration, continuous testing and delivery to create better quality products faster.
 - TechBiz is a one-stop shop for government agencies to subscribe to Singapore Government Tech Stack (SGTS) products
 <!--
-- API Exchange Cloud (APEX Cloud) is a centralised and secured API platform for accessing Government services.
-- Cloud File Transfer (CFT) is a lightweight, fully managed, API-driven service that allows agencies or businesses to transfer files easily, securely and efficiently at scale.
-- StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service featuring automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors.
+API Exchange Cloud (APEX Cloud) is a centralised and secured API platform for accessing Government services.
+Cloud File Transfer (CFT) is a lightweight, fully managed, API-driven service that allows agencies or businesses to transfer files easily, securely and efficiently at scale.
+StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service featuring automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors.
 -->
-
 For more information on these services, see [Singapore Government Development Portal](https://www.developer.tech.gov.sg).
 
 ## Who needs a TechPass account?

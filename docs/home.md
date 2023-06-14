@@ -2,7 +2,7 @@
 
 **TechPass** is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following services.
 
-- Cloud Security and Compliance Automation Platform Ecosystem (CloudSCAPE) which helps agencies secure deployments on the Government on Commercial Cloud (GCC 2.0) by providing guidance to meet compliance requirements, as well as automated scans to monitor and send alerts when deployments do not meet the security baseline.
+- Cloud Security and Compliance Automation Platform Ecosystem (CloudSCAPE) helps agencies secure deployments on the Government on Commercial Cloud (GCC 2.0) by providing guidance to meet compliance requirements, as well as automated scans to monitor and send alerts when deployments do not meet the security baseline.
 - Container Stack (CStack) is a cloud-based container hosting platform that offers agencies the ability to kickstart, and/or accelerate their agile and DevOps/DevSecOps practices and culture without the overhead to setup and maintain the required infrastructure and moving parts.
 - Documentation Portal lets you explore technical resources and software documentation on technologies build by the Singapore Government, allowing you to more easily use or integrate government technologies in your projects.
 - Government on Commercial Cloud (GCC 2.0) provides commercial cloud services for Government development teams.

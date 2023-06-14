@@ -2,7 +2,7 @@
 
 ## Staging release 7 Jun 2023
 
-Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.2-230612.0513
+Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.0-230605.0231
 
 **Changes** 
 
@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.2-230612.0513
 <summary> MFA fraud alert is now enabled.
 </summary>
 
-The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to [MFA fraud alert](https://stg.docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
 </details>
 
 ## Staging release 24 May 2023
@@ -346,7 +346,7 @@ Frontend version: 1.0.0-20221221.0307  | Backend version: 1.40.4-221220.1019
 <details>
  <summary>Manage application role assignments using TechBiz portal</summary>
 
-From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant on the TechPass Portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
+From 4 January 2023, if agencies can subscribe to an SGTS service (known as Tenant in TechPass Portal) via the TechBiz portal, then agencies need to use the [TechBiz portal](https://portal.stg.techbiz.suite.gov.sg/) to manage their application role assignments.
 
 Currently, the tenants manage the application role assignments via the TechPass Portal or Automation API.
 
@@ -436,7 +436,7 @@ Tenant admins can view the Key IDs for their client secrets on the TechPass Port
 </details>
 
 <details>
- <summary>Number matching in Multi-Factor Authentication (MFA) notifications</summary>
+ <summary>Number matching in multi-factor authentication (MFA) notifications</summary>
 
 To enhance secured login, we are enabling the number matching authentication for TechPass users. When TechPass users respond to an MFA push notification using the Authenticator app, they'll be presented with a number. They need to type that number into the app to complete the approval.
 
@@ -535,7 +535,7 @@ Frontend version: 1.0.0-20221013.0247 | Backend version: 1.32.4-221013.0845
 <details>
  <summary>Tenant admins can now create and update applications using APIs.</summary>
 
-Tenant Admins can now create and update applications using APIs. For more information, see [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant).
+Tenant Admins can now create and update applications using APIs. For more information, see [TechPass Automation API](https://stg.docs.developer.tech.gov.sg/docs/techpass-automation-api/#tag/Tenant) documentation.
 
 This new feature complements the existing functionality to [create and update applications through the TechPass Portal](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=registering-an-app).
 
@@ -761,7 +761,7 @@ There is a change to the `scope` parameter in the request for access token via c
 
 **Action required**: Change the `scope` parameter value from `https://graph.microsoft.com/.default` to `https://api.stg.techpass.suite.gov.sg/.default`.
 
-For more information, see the following:
+For more information, see following:
 - [Transition guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/concepts/transition-guide)
 - [Change in Automation API Access Token Scope](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/apis/integration?id=change-in-access-token-scope).
 

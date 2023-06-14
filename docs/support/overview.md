@@ -16,4 +16,4 @@ For account-related issues such as password or MFA issues, refer to [Account Man
 For issues related to signing into SG TechStack applications using your TechPass account, refer to [Problems with Onboarding and Signing In](support/signinissues).
 
 ## Need more help?
-Submit a [service request](https://go.gov.sg/seed-techpass-support). We will get back to you within three business days.  
+Submit a [service request](https://go.gov.sg/seed-techpass-support). We will get back to you within three business days.

@@ -21,7 +21,6 @@ If you are using a SE GSIB device:
 
 <details><summary>How do I confirm if my device is SE GSIB or non-SE GSIB device?</summary>
 
-
 If you are using a SE GSIB device, you need to use your PS-Card to authenticate. If you are using a non-SE GSIB device, every time you log in to your device, you need to enter your BitLocker PIN.
 
 </details>

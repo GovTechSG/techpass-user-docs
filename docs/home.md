@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 **TechPass** is the Identity & Access Management (IAM) and Single Sign-on (SSO) solution for the following services.
 

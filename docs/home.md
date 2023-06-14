@@ -14,7 +14,7 @@ For more information on these services, see [Singapore Government Development Po
 
 ## Who needs a TechPass account?
 
-Developers, testers, project managers or administrators who need to access GCC 2.0 and SGTS services.
+Developers, testers, project managers or administrators who need to access services using TechPass for authentication.
 
 ## TechPass Portal
 

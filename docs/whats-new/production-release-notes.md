@@ -1,5 +1,17 @@
 # Production release notes
 
+## Production release 14 Jun 2023
+
+Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.2-230612.0513
+
+**Changes** 
+
+<details>
+<summary> MFA fraud alert is now enabled.
+</summary>
+
+The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
+</details>
 
 ## Production release 31 May 2023
 

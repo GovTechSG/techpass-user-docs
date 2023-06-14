@@ -1,345 +1,126 @@
 # Production release notes
 
-## Production release 14 Jun 2023
+## June 2023
+
+### 14 June 2023
 
 Frontend version: 1.0.0-20230529.1337 | Backend version: 1.64.2-230612.0513
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Change** | MFA fraud alert is now enabled | The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information. |
 
-<details>
-<summary> MFA fraud alert is now enabled.
-</summary>
+## May 2023
 
-The MFA fraud alert feature is now enabled to enhance security on TechPass Portal. This allows users to report potential fraud incidents related to Multi-Factor Authentication (MFA) challenges. Refer to  [MFA fraud alert](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/mfa-fraud-alert) for more information.
-</details>
-
-## Production release 31 May 2023
+### 31 May 2023
 
 Frontend version: 1.0.0-20230520.0010 | Backend version: 1.62.1-230522.1016
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Change** | Automatic removal of devices in 'pending' state | Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system. <br/> <br/>Users will receive an email notification informing them about the automatic removal of their devices. |
+| **Fix** | Fix for <i>accountTypes</i> filter in <b>List Users By Namespace Automation API | We have addressed an issue with the **List Users By Namespace** Automation API where the *accountTypes* filter was not working correctly. <br/><br/> Previously, when attempting to filter users based on account types using this API, the expected results were not being returned.We have resolved this issue, and the *accountType* filter now functions properly in the **List Users By Namespace** Automation API. <br/><br/>Users can now successfully filter users by account types using this API, improving the accuracy and effectiveness of their queries. |
 
-<details>
-<summary style="font-size:20px;font-weight:bold"> Automatic removal of devices  in 'pending' state
-
-</summary>
-
-Devices that remain in a **pending** state for more than 14 days since SEED onboarding was triggered will now be automatically removed from the system.
-
-Users will receive an email notification informing them about the automatic removal of their devices.
-</details>
-
-**Fixes**
-
-<details>
-<summary> Fix for <i>accountTypes</i> filter in <b>List Users By Namespace</b> Automation API
-</summary>
-
-We have addressed an issue with the **List Users By Namespace** Automation API where the *accountTypes* filter was not working correctly.
-Previously, when attempting to filter users based on account types using this API, the expected results were not being returned.
-We have resolved this issue, and the *accountType* filter now functions properly in the **List Users By Namespace** Automation API.
-Users can now successfully filter users by account types using this API, improving the accuracy and effectiveness of their queries.
-</details>
-
-## Production release 17 May 2023
+### 17 May 2023
 
 Frontend version: 1.0.0-20230509.1043 | Backend version: 1.61.9-230508.0922
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Change** | Enhancement to SEED device onboarding Status for Public officers | Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances. <br/><br/> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass Portal and do not have a **pending** device. |
+| **Change** | Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default | Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>. |
+| **Fixes** | URL update for technical support for TechPass and SEED | We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. |
 
-<details>
-<summary style="font-size:20px;font-weight:bold"> Enhancement to SEED device onboarding Status for Public officers
 
-</summary>
-
-Previously, Public Officers would only see their device status as ‘pending’ until it was fully onboarded. We have now introduced more granular status updates, including 'triggered, waiting for software installation', 'software installed, awaiting backend onboarding', and 'failed'. This offers user greater visibility into the onboarding process. Additionally, we've added a **retry** button to enable users to restart the onboarding process should it fail under certain circumstances.
-
-> **Note**: This change only affects Public officers. Vendors currently do not trigger onboarding through the TechPass Portal and do not have a **pending** device.
-
-</details>
-
-<details>
-
-<summary style="font-size:20px;font-weight:bold"> Changes to <i>ListGroups</i> Automation API: TechBiz managed groups excluded by default </summary>
-
-Groups managed by TechBiz are now excluded from <i>ListGroups</i> on Automation API by default. To include them, you will need to pass the query parameter <i>includeOnTechBiz=true</i>.
-
-</details>
-
-**Fixes**
-
-<details>
-
-<summary style="font-size:20px;font-weight:bold"> URL update for technical support for TechPass and SEED
-</summary>
-
-We have changed the URL for accessing our technical support for TechPass and SEED from https://go.gov.sg/techpass-sr to https://go.gov.sg/seed-techpass-support. 
-
-</details>
-
-## Production release 3 May 2023
+###  3 May 2023
 
 Frontend version: 1.0.0-20230424.1714 | Backend version: 1.61.3-230425.0821
 
-**Feature** 
-
-<details>
-<summary style="font-size:20px;font-weight:bold">TechPass tenant notification for group limit</summary>
-
-
-Tenants will now receive email notifications when their tenant's group count is close to the limit. This notification provides tenants with sufficient notice so that they can request an increase in their group limit without disrupting their service continuity.
-
-</details>
-
-<details>
-
-<summary style="font-size:20px;font-weight:bold">Webhook failure notification and reminder for tenant admins</summary>
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | TechPass tenant notification for group limit | Tenants will now receive email notifications when their tenant's group count is close to the limit. This notification provides tenants with sufficient notice so that they can request an increase in their group limit without disrupting their service continuity. |
+| **Feature** | Webhook failure notification and reminder for tenant admins | Tenant admins will receive an email notification when an invoked webhook endpoint fails and a reminder when there are incomplete cases. This notification and reminder will provide admins with timely information regarding the status of their webhook endpoints and incomplete cases without overwhelming them with excessive notifications. |
+| **Changes** | Automation API now supports filtering users by account type | We have enhanced the Automation API that enables developers to filter users by account type. This feature will enable developers to easily retrieve a list of users that meet specific account type criteria. |
+| **Changes** | Company field is now auto-populated based on vendor's email domain when inviting user to TechPass | Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency. |
+| **Fixes** | Fix for occasional failure in Automation API <i>Get User Info</i> with <i>lastSignIn=true </i> | We have released a fix for an occasional failure observed in the Automation API *Get User Info* endpoint when calling with *lastSignIn=true*. <br/><br/>Previously, TechPass had added an extra step to improve the accuracy of user's last sign-in information by calling *ListSignIns. However, in certain cases, *ListSignIns* would take too long to respond, resulting in a timeout and failed API calls. <br/><br/>To address this issue, TechPass has released a fix that removes the extra step for improved accuracy and implements a best effort approach to avoid failures due to timeouts. This means that while the accuracy of the data may be slightly affected, developers can rely on the API to provide consistent results without any failures.
 
 
-Tenant admins will receive an email notification when an invoked webhook endpoint fails and a reminder when there are incomplete cases. This notification and reminder will provide admins with timely information regarding the status of their webhook endpoints and incomplete cases without overwhelming them with excessive notifications.
+## April 2023
 
-</details>
-
-**Changes** 
-
-<details>
-
-<summary style="font-size:20px;font-weight:bold"> Automation API now supports filtering users by account type</summary>
-
-
-We have enhanced the Automation API that enables developers to filter users by account type. This feature will enable developers to easily retrieve a list of users that meet specific account type criteria.
-
-</details>
-
-<details>
- <summary>Company field is now auto-populated based on vendor's email domain when inviting user to TechPass</summary>
-
-Previously, users had to manually enter the vendor's company name during the invite flow, which led to inconsistency issues. Now, we've implemented auto-population of the company field based on the vendor's email domain to ensure consistency.
-
-</details>
-
-**Fixes**
-
-<details>
- <summary> Fix for occasional failure in Automation API <i>Get User Info</i> with <i>lastSignIn=true </i> </summary>
-
-We have released a fix for an occasional failure observed in the Automation API *Get User Info* endpoint when calling with *lastSignIn=true*.
-
-Previously, TechPass had added an extra step to improve the accuracy of user's last sign-in information by calling *ListSignIns. However, in certain cases, *ListSignIns* would take too long to respond, resulting in a timeout and failed API calls.
-
-To address this issue, TechPass has released a fix that removes the extra step for improved accuracy and implements a best effort approach to avoid failures due to timeouts. This means that while the accuracy of the data may be slightly affected, developers can rely on the API to provide consistent results without any failures.
-
-</details>
-
-
-## Production release 19 April 2023
+### 19 April 2023
 
 Frontend version: 1.0.0-20230406.0949 | Backend version: 1.58.2-230406.0515
 
-**Feature** 
-
-<details>
- <summary>Search bar added on TechPass Portal</summary>
-
-We have updated TechPass Portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials.
-
-</details>
-
-**Changes** 
-
-<details>
- <summary> Updated tenants' restriction on TechBiz application role assignment & groups management in TechPass </summary>
-
-Previously, if a tenant had onboarded to TechBiz, they were not allowed to manage the app role assignments for any of their applications on TechPass at a tenant-wide level. The restriction is applied to all applications under that tenant. However, we understand that some applications may not be onboarded to TechBiz, and tenants will still need to manage the app role assignments for those applications on TechPass. 
-
-To address this, we updated the restriction to be applied at the application level instead of the tenant level. This means that on TechPass, Tenants cannot manage the app role assignments for applications that are onboarded to TechBiz, but they will still be able to manage the app role assignments for applications that are not onboarded to TechBiz.
-For applications that are onboarded to TechBiz, the agencies themselves will manage the applications will manage the app role assignments on TechBiz.
-
-Additionally, TechBiz-created groups will no longer be displayed on the TechPass Portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants.
-
-</details>
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | Search bar added on TechPass Portal | We have updated TechPass Portal with a new search bar feature that allows users to search for specific applications. Additionally, tenants can also use the search bar to search for applications and OTP Credentials. |
+| **Changes** | Updated tenants' restriction on TechBiz application role assignment & groups management in TechPass | Previously, if a tenant had onboarded to TechBiz, they were not allowed to manage the app role assignments for any of their applications on TechPass at a tenant-wide level. The restriction is applied to all applications under that tenant. However, we understand that some applications may not be onboarded to TechBiz, and tenants will still need to manage the app role assignments for those applications on TechPass. <br/><br/>To address this, we updated the restriction to be applied at the application level instead of the tenant level. This means that on TechPass, Tenants cannot manage the app role assignments for applications that are onboarded to TechBiz, but they will still be able to manage the app role assignments for applications that are not onboarded to TechBiz.<br/><br/>For applications that are onboarded to TechBiz, the agencies themselves will manage the applications will manage the app role assignments on TechBiz.<br/><br/>Additionally, TechBiz-created groups will no longer be displayed on the TechPass Portal, and tenants will not be able to call certain Automation APIs for these groups. To help tenants exclude TechBiz-created groups from their results, we have introduced a new *excludeOnTechBiz* query parameter for the **List Groups** Automation API. These changes are designed to streamline the management of application role assignments and groups for TechPass tenants. |
+| **Changes** | Enhanced webhook UI and retry mechanisms | We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.<br/><br/>In response to user feedback, you can now use the **Retry** action for webhooks with **completed** and **expired** statuses to make it easier for users to reattempt webhook delivery. |
+| **Changes** | Improve accuracy of user's last sign-in information for Automation API Get User Info <i>with lastSignIn=true</i> | We identified an issue where user's last sign-in information may not have up-to-date information. To address this, we have pulled the last sign-in information from other sources to improve the accuracy. |
 
 
-<details>
- <summary> Enhanced webhook UI and retry mechanisms </summary>
-
-We have implemented a response message when the action button is clicked. Additionally, we have disabled the action button when the webhook status is disabled or the webhook URL is invalid.
-
-In response to user feedback, you can now use the **Retry** action for webhooks with **completed** and **expired** statuses to make it easier for users to reattempt webhook delivery. 
-
-</details>
-
-
-<details>
- <summary> Improve accuracy of user's last sign-in information for Automation API Get User Info <i>with lastSignIn=true</i> </summary>
-
-We identified an issue where user's last sign-in information may not have up-to-date information. To address this, we have pulled the last sign-in information from other sources to improve the accuracy.
-
-</details>
-
-
-## Production release 5 April 2023
+### 5 April 2023
 
 Frontend version: 1.0.0-20230322.1044 | Backend version: 1.55.7-230328.0536
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Changes** | Tenants can retry or stop a webhook event on TechPass Portal | Tenants can now retry or stop a webhook event on TechPass Portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days. <br/><br/>Refer to [Webhook states](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=webhook-states) for more information. |
+| **Changes** | <i>user-deleted</i> webhook event now includes assigned groups | The webhook event *user-deleted* includes all groups the user is assigned to that follows the *namespace:group name* naming convention. |
+| **Fixes** | Email updates for vendor display accurate information | We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields. |
 
-<details>
- <summary>Tenants can retry or stop a webhook event on TechPass Portal</summary>
 
-Tenants can now retry or stop a webhook event on TechPass Portal. This option is useful when a code change required. Previously, the webhook was automatically re-triggered and would expire after 14 days.
+## March 2023
 
-Refer to [Webhook states](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/webhooks?id=webhook-states) for more information.
-
-</details>
-
-<details>
- <summary> <i>user-deleted</i> webhook event now includes assigned groups</summary>
-
-The webhook event *user-deleted* includes all groups the user is assigned to that follows the *namespace:group name* naming convention.
-</details>
-
-**Fixes** 
-
-<details>
- <summary>Email updates for vendor display accurate information</summary>
-
-We have fixed a bug and now vendors will receive accurate email updates. Earlier, email notifications sent to vendors when their email address was updated displayed incorrect special characters or had missing values for user profile fields.
-
-</details>
-
-## Production release 22 March 2023
+### 22 March 2023
 
 Frontend version: 1.0.0-20230315.0325 | Backend version: 1.54.3-230321.0659
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Changes** | Tenants receive a daily notification when an invoked webhook endpoint fails | Tenants will now receive a daily notification when an invoked webhook endpoint fails. The email informs you of the webhook ID, target URL and webhook event type. You have to check the target URL that has failed and fix the endpoints. |
+| **Changes** | We have enhanced the login user experience for public officers in WOG AAD | Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account. |
+| **Fixes** | Webhook checksum error changed | We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now. |
+| **Fixes** | Temps staff account tagging | When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass Portal. Keep track of your temporary staff accounts with this new account tagging feature. |
+| **Fixes** |Sender ID bug is fixed | We received feedback that emails sent from our production environment were displaying the wrong sender ID as *no_reply@dev.techpass.gov.sg*. We've fixed this issue and emails will now display the correct sender ID. Thanks for bringing this to our attention and helping us improve our platform. |
 
-<details>
- <summary>Tenants receive a daily notification when an invoked webhook endpoint fails
-
-</summary>
-
-Tenants will now receive a daily notification when an invoked webhook endpoint fails. The email informs you of the webhook ID, target URL and webhook event type. You have to check the target URL that has failed and fix the endpoints.
-
-</details>
-
-<details>
- <summary>We have enhanced the login user experience for public officers in WOG AAD</summary>
-
-Public officers on WOG AAD are only required to do one number matching authentication step to authenticate your WOG account when accessing resources using your TechPass account.
-
-
-</details>
-
-
-**Fixes** 
-
-<details>
- <summary>Webhook checksum error changed </summary>
-
-We heard from you that checking against our webhook checksum was still incorrect after the previous fix and we have fixed it now :handshake: . 
-
-</details>
-
-<details>
- <summary> Temps staff account tagging</summary>
-
-When agencies invite their temporary staff to use TechPass, their account type will now be tagged as *Temp*. This allows for easy identification of temporary staff accounts by respective tenant admins, who can view this detail on the TechPass Portal. Keep track of your temporary staff accounts with this new account tagging feature.
-
-</details>
-
-<details>
- <summary>Sender ID bug is fixed</summary>
-
-We received feedback that emails sent from our production environment were displaying the wrong sender ID as *no_reply@dev.techpass.gov.sg*. We've fixed this issue and emails will now display the correct sender ID. Thanks for bringing this to our attention and helping us improve our platform! :bow:
-
-</details>
-
-
-## Production release 8 March 2023
+### 8 March 2023
 
 Frontend version: 1.0.0-20230223.0826 | Backend version: 1.50.2-230301.0334
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Changes** | Account type is now displayed for easy identification of public officer or vendor | You can now view your **Account type** when [editing and viewing your profile](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). <br/><br/>In order to enhance the granularity of our user account differentiation, a new *accountType* property is returned in the Get/List User API: <br/> - account:public_officer <br/> - account:vendor <br/> - account:temp <br/><br/> **Note:** The existing *userType* property(Guest/Member) will not be removed. <br/><br/>Go to [TechPass account type](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) and [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/) for more information. |
 
-<details>
- <summary>Account type is now displayed for easy identification of public officer or vendor</summary>
+## February 2023
 
-You can now view your **Account type** when [editing and viewing your profile](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/account?id=edit-profile). 
-
-In order to enhance the granularity of our user account differentiation, a new *accountType* property is returned in the Get/List User API:
-  - account:public_officer 
-  - account:vendor
-  - account:temp
-
-> **Note:** The existing *userType* property(Guest/Member) will not be removed. 
-
-Go to [TechPass account type](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) and [TechPass Automation API](https://docs.developer.tech.gov.sg/docs/techpass-automation-api/) for more information.
-
-</details>
-
-
-## Production release 22 February 2023
+### 22 February 2023
 
 Frontend version: 1.0.0-20230203.0637 | Backend version: 1.45.6-230213.1101
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Changes** | API key limit is increased to four for all namespaces | The API key limit was set to two. It is now set to four to allow rotation of keys for emergency purpose.<br/><br/> **Note:** This is specifically for the GCC team. No action is required for other users. |
+| **Fixes** | Fixed webhook checksum | We heard from you that checking against our webhook checksum was incorrect and we have fixed it now. |
 
-<details>
- <summary>API key limit is increased to four for all namespaces</summary>
-
-The API key limit was set to two. It is now set to four to allow rotation of keys for emergency purpose.
-
-> **Note:** This is specifically for the GCC team. No action is required for other users.
-
-</details>
-
-**Fixes** 
-
-<details>
- <summary>Fixed webhook checksum</summary>
-
-We heard from you that checking against our webhook checksum was incorrect and we have fixed it now :handshake:. 
-
-</details>
-
-## Production release 08 February 2023
+### 08 February 2023
 
 Frontend version: 1.0.0-20230130.0349 | Backend version: 1.44.3-230131.0657
 
-**Changes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Changes** | For more clarity, account-related emails now have the link to the Accounts FAQ | TechPass sends emails to you for the following account-related activities so that you can act appropriately:<br/>- If your TechPass account is about to be terminated, disabled, enabled or deleted.<br/>- When your TechPass account has been terminated, disabled, enabled or deleted.<br/>- If your SEED licence has been revoked.<br/><br/>To make it easy for you to understand the reason and take the appropriate action, we are now including the link to the [Accounts FAQ](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/account) page in these account-related emails sent to you. |
 
-<details>
-<summary style="font-size:20px;font-weight:bold">For more clarity, account-related emails now have the link to the Accounts FAQ</summary>
+## January 2023
 
-TechPass sends emails to you for the following account-related activities so that you can act appropriately:
-
-- If your TechPass account is about to be terminated, disabled, enabled or deleted.
-- When your TechPass account has been terminated, disabled, enabled or deleted.
-- If your SEED licence has been revoked.
-
-
-To make it easy for you to understand the reason and take the appropriate action, we are now including the link to the [Accounts FAQ](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/account) page in these account-related emails sent to you. 
-
-</details>
-
-## Production release 25 January 2023
+### 25 January 2023
 
 Frontend version: 1.0.0-20230119.0523 | Backend version: 1.44.0-230117.1146
 
-**Fixes** 
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Fixes** | Public officers mobile phone number will now either conform to TechPass format or will be blank | When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. <br/><br/>If the phone number is valid, but the format does not conform to the acceptable format, TechPass autocorrects it before displaying it in the User Profile.  However, if the mobile phone number is invalid, TechPass does not display the invalid phone number.
 
-<details>
-<summary style="font-size:20px;font-weight:bold">Public officers mobile phone number will now either conform to TechPass format or will be blank</summary>
-
-
-When a TechPass account gets activated for public officers, TechPass retrieves their mobile phone number from the WOG AAD and displays it on their TechPass User Profile. 
-
-If the phone number is valid, but the format does not conform to the acceptable format, TechPass autocorrects it before displaying it in the User Profile.  However, if the mobile phone number is invalid, TechPass does not display the invalid phone number.
-
-![mobile phone number in profile](../assets/images/whats-new/invalid-mobile-phone-number.png)
-
-</details>
 
 
 

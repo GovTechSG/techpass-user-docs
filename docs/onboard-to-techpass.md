@@ -1,11 +1,11 @@
 # Onboard to TechPass
 
-Users have multiple options to onboard to TechPass, depending on their device and supported organisational email addresses.
+Users have multiple options to onboard to TechPass depending on their supported organisational email addresses.
 
 
 ## Identify your onboarding flow
 
-The following chart helps you to identify your TechPass onboarding flow.
+The following chart helps you to identify your TechPass onboarding method.
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'linear'}} }%%
@@ -20,12 +20,10 @@ Z("Q1. Do you need TechPass to access SGTS or GCC services?") --> |No| A("<div s
     D --> |Yes| E("<a href='https://docs.developer.tech.gov.sg/docs/techpass-user-guide/sign-up-and-onboard-to-techpass'>Sign up for TechPass</a>")
 ```
 
+<!--
 ## Next steps
 
-Refer to the onboarding flow that is applicable to you.
+Refer to the onboarding method that you have identified.
 
 - [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass)
-- [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass)
-
-
-
+- [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass) -->

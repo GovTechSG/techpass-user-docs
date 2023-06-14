@@ -1,5 +1,6 @@
 # Terms and policies
-Below are the links to the latest Terms of Use (TOU) and Privacy Policy for TechPass users.
+
+Below are the links to the latest Terms of Use(TOU) and Privacy Policy for TechPass users.
 
 <!--Effective date: These terms and policies apply as of January 21, 2021.
 

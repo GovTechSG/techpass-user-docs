@@ -32,7 +32,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
    ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
-4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you will receive a total of two onboarding invitation emails.
+4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you will receive a total of two onboarding emails.
 
   > **Additional information**:
   >

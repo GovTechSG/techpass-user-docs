@@ -6,7 +6,8 @@ This article tells you how to sign-up for TechPass via the TechPass Portal and o
 
 Users with a WOG account and who needs a TechPass account.
 
-?>- Public officers using an **SE-GSIB** device need to submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED provisioning, which is optional, via the [**TechBiz Portal**](https://portal.techbiz.suite.gov.sg). For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+?>- Public officers using an **SE-GSIB** device need to submit a [service request](https://go.gov.sg/seed-techpass-support) to create their TechPass account.<br>- Alternatively, users can receive onboarding invitations for TechPass and SEED provisioning, which is optional, via the [**TechBiz portal**](https://portal.techbiz.suite.gov.sg) which is only accessible on a **non-SE GSIB** device. For more information, see [**TechBiz documentation**](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/).
+
 
 ## Prerequisites
 
@@ -14,8 +15,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 - Check the flowchart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal.
 - A non-SE GSIB device.
-- Your organisational email address which has a standard mailbox(not LiteMail).
-- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
+- Your organisational email address which has a standard mailbox (not LiteMail).
 
 
 ?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
@@ -32,7 +32,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
    ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
-4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you receive two onboarding invitation emails.
+4. Click **Submit** to receive the onboarding invitation email(s). If you have also requested for SEED provisioning, you will receive a total of two onboarding invitation emails.
 
   > **Additional information**:
   >
@@ -41,7 +41,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   >
   >- A TechPass account is provisioned for you and is in pending state.
   >- We'll send the TechPass onboarding email to activate the account. This email is valid only for 30 days.
-  >- Your TechPass log in ID is the organisational email id that you used for signing up for TechPass.
+  >- Your TechPass login ID is the organisational email id that you used for signing up for TechPass.
   >
   > **If your request for SEED provisioning is successful**:
   >
@@ -52,13 +52,13 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 ## Step 2: Configure Multi-Factor Authentication (MFA) for WOG account
 
-?>- If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br>- This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+?>- If you have already configured MFA for your WOG account, you may skip the following and proceed to [Step 3. Accept invitation](#step-3-accept-invitation).<br><br>This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
 <div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/gJ0U0w7C628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 </div>
 
-1. Using your non-SE GSIB device, go to the [Azure Active Directory](https://account.activedirectory.windowsazure.com/proofup.aspx).
+1. Using your non-SE GSIB device, go to the [Azure Active Directory - Security Info](https://account.activedirectory.windowsazure.com/proofup.aspx).
 
 2. If prompted to sign in:
   
@@ -108,7 +108,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 1. On your GSIB device, open the TechPass onboarding invitation email.
 
-  ?> If you do not see this email in your inbox:<br>- Check if it is the same email address you provided while signing up or in your request.<br>- If a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
+  ?> If you do not see this email in your inbox:<br>- Check if it is the same email address you provided while signing up or in your request.<br>- Check if a spam filter or email rule moved it to other folders, Junk Email, Deleted Items or Archive folder.
 
 2. Click **Accept invitation**.
 
@@ -135,7 +135,9 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
 3. If you had requested for SEED provisioning and is successfully provisioned to you, read the **MDM AUP Policy** and click **Accept**.
 
-?>- Upon accepting the terms and conditions, you are successfully onboarded to TechPass.<br>- If you had requested for SEED to be provisioned, you may proceed to onboard your Internet Device to SEED.<br>- Before you onboard your Internet Device to SEED, see[Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding). 
+>**Note**: You are only required to accept the terms and conditions when accessing any applications for the first time.
+
+?>- Upon accepting the terms and conditions, you are successfully onboarded to TechPass.<br>- If you had requested for SEED to be provisioned, you may proceed to onboard your Internet Device to SEED.<br>- Before you onboard your Internet Device to SEED, see [Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding). 
 
 ### Next step
 

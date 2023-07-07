@@ -18,6 +18,6 @@ You need to reset your TechPass password:
     ![pwd-reset](/assets/images/password-reset-for-vendors.png)
 
     
-?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/techpass-sr).
+?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/seed-techpass-support).
 
 

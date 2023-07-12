@@ -4,7 +4,7 @@
 
 **5 July 2023**
 
-Frontend version: 11.0.0-20230630.1455 | Backend version: 1.69.0-20230630.1619
+Frontend version: 11.0.0-20230630.1455 | Backend version: 1.69.0-20230704.1728
 
 | Type      | Change      | Description |
 | --- | --- | --- |

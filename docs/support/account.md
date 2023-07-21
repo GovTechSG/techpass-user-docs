@@ -81,7 +81,9 @@ Your SEED onboarding email invitation is valid only for 30 days.
 
 <details><summary>Why is my TechPass account disabled? How to re-enable it?</summary>
 
-Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account is disabled on day 90 and you are notified.
+Your TechPass account might be disabled if you have not used it for 90 consecutive days. However, if you have not used it for 60 consecutive days, from day 61 onwards you will receive an email alert about your inactive status with the remediation step. If you still do not use your TechPass account, your account is disabled on day 90 and you are notified. 
+
+Re-enabled inactive accounts now have an additional grace period of 5 days to sign in at least once before their accounts are disabled again.
 
 To re-enable or if you think your account was incorrectly disabled, create a [service request](https://go.gov.sg/seed-techpass-support).
 

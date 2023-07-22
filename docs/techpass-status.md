@@ -7,7 +7,14 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-No upcoming scheduled maintenance activity.
+TechPass scheduled maintenance activity is planned on 28th July 2023, from 1800 hrs to 2000 hrs SGT.
+
+During the maintenance period:
+
+- TechPass Portal may experience intermittent unavailability.
+- Services available during maintenance include TechPass Automation APIs and OTPaas (One-Time Password as a Service).
+- Access to downstream services will remain unaffected.
+
 
 ## Ongoing incidents
 

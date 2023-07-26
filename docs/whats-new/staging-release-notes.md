@@ -8,7 +8,6 @@ Frontend version: 1.0.0-20230714.1806 | Backend version: 1.69.0-0230714.1800
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-
 | **Enhancement** | Improved visibility for failed Webhooks. | We have improved visibility and error details for failed webhooks and we have also added a new **Notes** column in the Webhook Logs section. This update aims to help you troubleshoot and resolve issues related to webhook failures more efficiently. |
 | **Enhancement** | Grace period for re-enabled inactive accounts. |  We have added a grace period for re-enabled inactive user accounts. This update aims to prevent unintentional account disablement shortly after re-enabling by giving users sufficient time to log in to their accounts. |
 

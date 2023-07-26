@@ -21,3 +21,4 @@
   - [FAQs](/support/overview.md)
   - [Terms and policies](terms-and-policies)
   - [Glossary](glossary)
+  - [Assets](assets.md)

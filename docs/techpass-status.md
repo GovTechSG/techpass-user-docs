@@ -11,10 +11,9 @@ TechPass scheduled maintenance activity is planned on 28th July 2023, from 1800 
 
 During the maintenance period:
 
-- TechPass Portal may experience intermittent unavailability.
+- TechPass Portal may experience intermittent unavailability. 
 - Services available during maintenance include TechPass Automation APIs and OTPaas (One-Time Password as a Service).
 - Access to downstream services will remain unaffected.
-
 
 ## Ongoing incidents
 

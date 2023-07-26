@@ -8,8 +8,8 @@ Frontend version: 1.0.0-20230714.1806 | Backend version: 1.69.0-0230714.1800
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Enhancement** | Improved visibility for failed Webhooks. | We have improved visibility and error details for failed webhooks and we have also added a new **Notes** column in the Webhook Logs section. This update aims to help you troubleshoot and resolve issues related to webhook failures more efficiently. |
-| **Enhancement** | Grace period for re-enabled inactive accounts. |  We have added a grace period for re-enabled inactive user accounts. This update aims to prevent unintentional account disablement shortly after re-enabling by giving users sufficient time to log in to their accounts. |
+| **Enhancement** | Improved visibility for failed Webhooks | We have improved visibility and error details for failed webhooks and we have also added a new **Notes** column in the Webhook Logs section. This update aims to help you troubleshoot and resolve issues related to webhook failures more efficiently. |
+| **Enhancement** | Grace period for re-enabled inactive accounts |  We have added a grace period for re-enabled inactive user accounts. This update aims to prevent unintentional account disablement shortly after re-enabling by giving users sufficient time to log in to their accounts. |
 
 **12 July 2023**
 
@@ -17,12 +17,12 @@ Frontend version: 11.0.0-20230630.1455 | Backend version: 1.69.0-20230704.1728
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Feature** | *Get* and *Delete* application is now available on **Automation API**. | This new feature on the **Automation API** enables tenants to automate the deletion of applications and retrieve detailed information about a specific application within their environment. |
-| **Enhancement** | Enhanced self-sign up page with eligibility checks. | The enhanced self-sign up page with eligibility checks is now available to all users on the TechPass portal. This feature ensures a smoother onboarding process and improved user guidance based on email domain eligibility. |
-| **Enhancement** |  User account type is now returned in ID Token during sign-in. | This information is now returned as part of the user's authentication flow to the tenant app. This eliminates the need for additional API calls, streamlining the authentication process. Refer to [TechPass account type](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) for more information. |
-| **Fix** | Service account group fix. | We have fixed the issue where adding a service account with an uppercase email address to groups was not functioning correctly. |
-| **Fix** | Restriction on numbers in first and last names. | Previously, users were able to update their first and last names with numbers. This is no longer permitted. |
-| **Fix** | Fix for inaccurate response with concurrent API calls. | Previously, when a significant volume of concurrent API calls was initiated, there was a possibility of receiving inaccurate responses. This inconsistency was caused by a racing condition that occurred during high concurrency scenarios.  We have fixed this issue. | 
+| **Feature** | *Get* and *Delete* application is now available on **Automation API** | This new feature on the **Automation API** enables tenants to automate the deletion of applications and retrieve detailed information about a specific application within their environment. |
+| **Enhancement** | Enhanced self-sign up page with eligibility checks | The enhanced self-sign up page with eligibility checks is now available to all users on the TechPass portal. This feature ensures a smoother onboarding process and improved user guidance based on email domain eligibility. |
+| **Enhancement** |  User account type is now returned in ID Token during sign-in | This information is now returned as part of the user's authentication flow to the tenant app. This eliminates the need for additional API calls, streamlining the authentication process. Refer to [TechPass account type](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/techpass-account-type) for more information. |
+| **Fix** | Service account group fix | We have fixed the issue where adding a service account with an uppercase email address to groups was not functioning correctly/ |
+| **Fix** | Restriction on numbers in first and last names | Previously, users were able to update their first and last names with numbers. This is no longer permitted. |
+| **Fix** | Fix for inaccurate response with concurrent API calls | Previously, when a significant volume of concurrent API calls was initiated, there was a possibility of receiving inaccurate responses. This inconsistency was caused by a racing condition that occurred during high concurrency scenarios.  We have fixed this issue. | 
 
 
 ## June 2023

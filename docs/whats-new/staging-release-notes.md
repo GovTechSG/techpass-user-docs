@@ -1,5 +1,16 @@
 # Staging release notes
 
+## Aug 2023
+
+**02 Aug 2023**
+
+Frontend version: FE 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Enhancement** | Deprecation of AAD user type in Automation API | We have deprecated AAD's user type (member, guest) in our Automation API. This information is AAD-centric and should not be surfaced to tenant apps. Instead, we have added a more straightforward "account type" information, indicating whether a user is a public officer, vendor, or falls into other categories.</br></br>
+In the Automation Open API documentation, we have marked the user type (including user filter in List Users) as deprecated and provided the timeline for its removal.</br></br> For more information, refer to [Deprecating of user type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
+
 ## July 2023
 
 **19 July 2023**
@@ -10,6 +21,7 @@ Frontend version: 1.0.0-20230714.1806 | Backend version: 1.69.0-0230714.1800
 | --- | --- | --- |
 | **Enhancement** | Improved visibility for failed Webhooks | We have improved visibility and error details for failed webhooks and we have also added a new **Notes** column in the Webhook Logs section. This update aims to help you troubleshoot and resolve issues related to webhook failures more efficiently. |
 | **Enhancement** | Grace period for re-enabled inactive accounts |  We have added a grace period for re-enabled inactive user accounts. This update aims to prevent unintentional account disablement shortly after re-enabling by giving users sufficient time to log in to their accounts. |
+
 
 **5 July 2023**
 

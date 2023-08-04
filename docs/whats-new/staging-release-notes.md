@@ -8,8 +8,7 @@ Frontend version: FE 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Enhancement** | Deprecation of AAD user type in Automation API | We have deprecated AAD's user type (member, guest) in our Automation API. This information is AAD-centric and should not be surfaced to tenant apps. Instead, we have added a more straightforward "account type" information, indicating whether a user is a public officer, vendor, or falls into other categories.</br></br>
-In the Automation Open API documentation, we have marked the user type (including user filter in List Users) as deprecated and provided the timeline for its removal.</br></br> For more information, refer to [Deprecating of user type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
+| **Deprecation** | Deprecation of *userType* | With the recent introduction of user *accountType* property, the *userType* property will be deprecated with effect from 8 November 2023 (staging) and 15 November 2023 (production). </br></br> For more information, refer to [Deprecating of user type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
 
 ## July 2023
 

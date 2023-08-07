@@ -10,7 +10,9 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-No ongoing incidents.
+| Date | 07 Aug 2023 |
+| ------ | ------- |
+| **Issue summary** | We are investigating an intermittent issue with TechPass logins.<br><br>**Impact**<br>You may be unable to log in to the (TechPass portal)[http://portal.techpass.gov.sg].<br><br>**Issue start time:** 07 Aug 10:43 SGT<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 07 Aug 2023, 12:00 SGT*|
 
 ## Previous incidents
 

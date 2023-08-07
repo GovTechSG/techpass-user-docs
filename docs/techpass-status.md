@@ -19,6 +19,10 @@ No upcoming scheduled maintenance activity.
 
 ## Previous incidents
 
+| Date | 07 Aug 2023 |
+| ------ | ------- |
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 07 Aug 2023, 15:30 SGT*<br><br>**Issue**<br>Some users are currently experiencing difficulties accessing the [TechPass portal](http://portal.techpass.gov.sg). We are aware of the situation and we are actively investigating the root cause. Please note that this issue affects some users and is not intermittent; the same users consistently cannot reach the [TechPass portal](http://portal.techpass.gov.sg). <br><br>**Issue start time:** 07 Aug 10:43 SGT<br><br>**Impact**<br>Some users are currently unable to access the [TechPass portal](http://portal.techpass.gov.sg). However, it's important to highlight that this issue does not impact all users, and service availability remains normal for the following:</br></br>Sign-ins to other services such as GCC2, Jira, TechBiz, etc. are unaffected.</br></br>Concierge APIs are still accessible and functioning properly.<br><br>**Workaround**<br> You may access the TechPass portal through the Menlo Security Safe Links service by visiting: https://safe.menlosecurity.com/https://portal.techpas
+
 | <div style="width:200px">Date</div> | <div style="width:200px">01 March 2023</div> |
 | ------ | ------- |
 | **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 01 March 2023, 19:00 SGT*<br><br>**Investigating**<br>We are investigating an intermittent issue with TechPass logins.<br><br>**Issue start time**: 01 March 14:30 SGT<br><br>**Impact**<br>You may be unable to log in to applications and services that require TechPass.<br><br>**Workaround**<br>You may try clearing your internet browser cache or logging in using an incognito browser.<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 01 March 2023, 16:10 SGT*|

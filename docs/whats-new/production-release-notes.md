@@ -8,7 +8,7 @@ Frontend version: FE 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Deprecation** | Deprecation of *userType* | With the recent introduction of user *accountType* property, the *userType* property will be deprecated with effect from 8 November 2023 (staging) and 15 November 2023 (production). </br></br> For more information, refer to [Deprecating of user type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
+| **Deprecation** | Deprecation of *userType* | With the recent introduction of user *accountType* property, the *userType* property will be deprecated with effect from 8 November 2023 (staging) and 15 November 2023 (production). </br></br> For more information, refer to [Deprecating of user type](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
 
 
 ## July 2023

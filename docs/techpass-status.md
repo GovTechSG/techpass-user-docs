@@ -7,19 +7,18 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-TechPass scheduled maintenance activity is planned on 28th July 2023, from 1800 hrs to 2000 hrs SGT.
 
-During the maintenance period:
-
-- TechPass Portal may experience intermittent unavailability. 
-- Services available during maintenance include TechPass Automation APIs and OTPaas (One-Time Password as a Service).
-- Access to downstream services will remain unaffected.
+No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-No ongoing incidents.
+No ongoing incident.
 
 ## Previous incidents
+
+| Date | 07 Aug 2023 |
+| ------ | ------- |
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 07 Aug 2023, 16:40 SGT*<br><br>**Issue**<br>Some users are currently experiencing difficulties accessing the [TechPass portal](http://portal.techpass.gov.sg). We are aware of the situation and we are actively investigating the root cause. Please note that this issue affects some users and is not intermittent; the same users consistently cannot reach the [TechPass portal](http://portal.techpass.gov.sg). <br><br>**Issue start time:** 07 Aug 10:43 SGT<br><br>**Impact**<br>Some users are currently unable to access the [TechPass portal](http://portal.techpass.gov.sg). However, it's important to highlight that this issue does not impact all users, and service availability remains normal for the following:</br></br>Sign-ins to other services such as GCC2, Jira, TechBiz, etc. are unaffected.</br></br>Concierge APIs are still accessible and functioning properly.<br><br>**Workaround**<br> You may access the TechPass portal through the Menlo Security Safe Links service by visiting: https://safe.menlosecurity.com/https://portal.techpass
 
 | <div style="width:200px">Date</div> | <div style="width:200px">01 March 2023</div> |
 | ------ | ------- |

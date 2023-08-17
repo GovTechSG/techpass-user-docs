@@ -28,7 +28,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
 
-   !> - To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.<br> - If your email is not eligible for SEED (e.g. a schools.gov.sg), you will not see the option to onboard to SEED.
+   !> - To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.<br> - If your email is not eligible for SEED (e.g. a schools.gov.sg), you will not see the option to onboard to SEED. If you do require SEED, you may request to [get invited to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass)
 
    ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 

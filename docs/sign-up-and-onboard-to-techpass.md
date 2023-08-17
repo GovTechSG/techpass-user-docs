@@ -28,7 +28,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 3. Indicate if you want to onboard your Internet Device to SEED and then select **I'm not a robot**.
 
-   !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
+   !> - To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.<br> - If your email is not eligible for SEED (e.g. a schools.gov.sg), you will not see the option to onboard to SEED.
 
    ![sign-up-submit](assets/images/onboarding/po-non-se/latest-po-sign-up-non-se-gsib-1.png)
 
@@ -45,7 +45,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
   >
   > **If your request for SEED provisioning is successful**:
   >
-  >- We'll send the SEED onboarding email within the next three business days.
+  >- We'll send the SEED onboarding email immediately.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, you can [Request for SEED via TechPass Portal](https://docs.developer.tech.gov.sg/docs/tp-userdocs-for-writers/request-for-seed-provisioning) or create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again.

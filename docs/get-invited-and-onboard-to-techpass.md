@@ -43,7 +43,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   >
   > **If your request for SEED provisioning is successful**:
   >
-  >- We'll send the SEED onboarding email within the next three business days.
+  >- We'll send the SEED onboarding email immediately.
   >- This email is valid only for 30 days.
   >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
   >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).

@@ -2,7 +2,7 @@
 
 ## Aug 2023
 
-**02 Aug 2023**
+**16 Aug 2023**
 
 Frontend version: 1.0.0-20230810.1828 | Backend version: 1.69.0-20230815.1816
 

@@ -2,13 +2,26 @@
 
 ## Aug 2023
 
+**16 Aug 2023**
+
+Frontend version: 1.0.0-20230810.1828 | Backend version: 1.69.0-20230815.1816
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | Introduction of *SEED required* flag for applications | This feature facilitates automatic SEED provisioning for users assigned to a specific application. Toggling the flag will not affect users with existing SEED provisioning, ensuring a smooth transition.<br><br>To activate the *SEED required* flag, you need to enable user assignment for the relevant application. If your application is not currently set up for user assignment but requires SEED provisioning, you can choose to leave the flag unchecked. The established methods for SEED provisioning through the TechPass portal and Automation API will remain unchanged. Refer to [SEED Required](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications?id=seed-required) for more information. <br><br>Please be aware that this feature is presently undergoing a trial phase. Prior to implementing it on any production applications, we strongly advise you to get in touch with us. We will be closely overseeing its performance to ensure it functions as intended.|
+| **Enhancement** | Public officers with email domain: *as schools.gov.sg* is not eligible for SEED onboarding | Public officers with *schools.gov.sg*  email domain will not see the option to onboard to SEED when signing up for TechPass. If you do require SEED, you may request to get invited to TechPass. refer to [Get invited and onboard to TechPass](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/get-invited-and-onboard-to-techpass) for more information.|
+| **Enhancement** | SEED management enhancement on TechPass Portal | Users now have the ability to remove their account from SEED directly through the portal.<br><br> On the **Edit Profile** page of your TechPass portal account, you will find a new option labeled **I don't need SEED.** By clicking on this button, you can initiate the process to remove your account from SEED.|
+
+
 **02 Aug 2023**
 
-Frontend version: FE 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
+Frontend version: 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
 
 | Type      | Change      | Description |
 | --- | --- | --- |
 | **Deprecation** | Deprecation of *userType* | With the recent introduction of user *accountType* property, the *userType* property will be deprecated with effect from 8 November 2023 (staging) and 15 November 2023 (production). </br></br> For more information, refer to [Deprecating of user type](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecate-user-type-backup) |
+
+
 
 ## July 2023
 

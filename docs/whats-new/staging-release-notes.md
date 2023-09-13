@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20230911.0925 | Backend version: 1.69.0-20230908.1609
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Feature** | Improved tenant user management UI | We have introduced a new user management interface. This interface now enables tenants to utilise the search function and filter based on account type and user status. To provide users with flexibility, a feature flag has been introduced to toggle between this user management UI and the existing vendors UI. In the backend, modifications have been made to ensure support for filtering based on account types.|
+| **Feature** | Improved tenant user management UI | We have introduced a new user management interface. This interface now enables tenants to utilise the search function and filter based on account type and user status.|
 | **Change** | Separation of user and product accounts | We have separated *user* and *product* accounts. Within the new UI, there are now distinct tabs for *user account* and *product account* types. To align our automation API with this change, we have updated it to provide user and product account types via separate API calls.|
 | **Change** | *accountType* Property in GetGroup API | We have added the *accountType* property for users/owners in the *Get Group* API.|
 | **Fix** | Eliminated duplicated webhook events | We have addressed and resolved an issue related to duplicate webhook events. Previously, some users were experiencing the problem of receiving duplicate events through webhooks. |

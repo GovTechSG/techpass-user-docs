@@ -1,8 +1,23 @@
 # Staging release notes
 
-## Aug 2023
+## September 2023
 
-**16 Aug 2023**
+**13 September 2023**
+
+Frontend version: 1.0.0-20230911.0925 | Backend version: 1.69.0-20230908.1609
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | Improved tenant user management UI | We have introduced a new user management interface. This interface now enables tenants to utilise the search function and filter based on account type and user status. To provide users with flexibility, a feature flag has been introduced to toggle between this user management UI and the existing vendors UI. In the backend, modifications have been made to ensure support for filtering based on account types.|
+| **Change** | Separation of user and product accounts | We have separated *user* and *product* accounts. Within the new UI, there are now distinct tabs for *user account* and *product account* types. To align our automation API with this change, we have updated it to provide user and product account types via separate API calls.|
+| **Change** | *accountType* Property in GetGroup API | We have added the *accountType* property for users/owners in the *Get Group* API.|
+| **Fix** | Eliminated duplicated webhook events | We have addressed and resolved an issue related to duplicate webhook events. Previously, some users were experiencing the problem of receiving duplicate events through webhooks. |
+| **Fix** |  Resolved infinite loop in email service | We have resolved an issue related to our email service. Previously, the email service was encountering an infinite loop when it received an invalid target group, causing emails to cease being sent after a certain period. |
+
+
+## August 2023
+
+**16 August 2023**
 
 Frontend version: 1.0.0-20230810.1828 | Backend version: 1.69.0-20230815.1816
 
@@ -13,7 +28,7 @@ Frontend version: 1.0.0-20230810.1828 | Backend version: 1.69.0-20230815.1816
 | **Enhancement** | SEED management enhancement on TechPass Portal | Users now have the ability to remove their account from SEED directly through the portal.<br><br> On the **Edit Profile** page of your TechPass portal account, you will find a new option labeled **I don't need SEED.** By clicking on this button, you can initiate the process to remove your account from SEED.|
 
 
-**02 Aug 2023**
+**02 August 2023**
 
 Frontend version: 1.0.0-20230726.1842 | Backend version: 1.69.0-20230801.1750
 

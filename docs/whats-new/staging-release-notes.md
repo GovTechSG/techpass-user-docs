@@ -12,7 +12,7 @@ Frontend version: 1.0.0-20230911.0925 | Backend version: 1.69.0-20230908.1609
 | **Change** | Separation of user and product accounts | We have separated *user* and *product* accounts. Within the new UI, there are now distinct tabs for *user account* and *product account* types. To align our automation API with this change, we have updated it to provide user and product account types via separate API calls.|
 | **Change** | *accountType* Property in GetGroup API | We have added the *accountType* property for users/owners in the *Get Group* API.|
 | **Fix** | Eliminated duplicated webhook events | We have addressed and resolved an issue related to duplicate webhook events. Previously, some users were experiencing the problem of receiving duplicate events through webhooks. |
-| **Fix** |  Resolved infinite loop in email service | We have resolved an issue related to our email service. Previously, the email service was encountering an infinite loop when it received an invalid target group, causing emails to cease being sent after a certain period. |
+| **Fix** |  Resolved infinite loop in email service | We have resolved an issue related to our email service. Previously, the email service was encountering an infinite loop when it received an invalid target group. |
 
 
 ## August 2023

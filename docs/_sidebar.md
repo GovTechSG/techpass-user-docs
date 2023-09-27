@@ -18,7 +18,7 @@
   - [Reset your TechPass password](reset-password)
 - **TechPass support resources**
   - [TechPass status](techpass-status)
-  - [FAQs](/support/overview.md)
+  - [Raise a service request](raise-a-service-request)
+  - [FAQs](/support/overview)
   - [Terms and policies](terms-and-policies)
   - [Glossary](glossary)
-  - [Assets](assets.md)

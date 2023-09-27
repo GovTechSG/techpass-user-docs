@@ -14,7 +14,6 @@ Frontend version: 1.0.0-20230921.1438 | Backend version: 1.69.0-20230922.1123
 | **Fix** | Error after patching user with empty department field | We have fixed the bug that caused an error when patching a user with an empty department field. |
 
 
-
 **13 September 2023**
 
 Frontend version: 1.0.0-20230911.0925 | Backend version: 1.69.0-20230908.1609

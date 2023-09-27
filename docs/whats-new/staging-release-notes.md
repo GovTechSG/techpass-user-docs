@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20230921.1438 | Backend version: 1.69.0-20230922.1123
 | --- | --- | --- |
 | **Feature** | Storing API key for sending webhook to APIs | We are introducing the ability to store API Keys for sending webhooks to target APIs. With this feature, tenants will be able subscribe to and receive webhook events. |
 | **Feature** | Notifying tenants of expiring SAML app certificates | This new feature will notify tenants of expiring SAML app certificates. We want to provide tenants with more visibility on these expiring certificates so tenants can perform proper certificate rotation and ensure uninterrupted service. |
-| **Feature** | Enhanced *user-updated* webhook to include profile changes | We have enhanced the *user-updated* webhook to include profile changes. Previously, the *user-updated* webhook was only triggered when a user's status changed. Now, in addition to status changes, tenants will be notified if other profile fields have been changed |
+| **Feature** | Enhanced *user-updated* webhook to include profile changes | We have enhanced the *user-updated* webhook to include profile changes. Previously, the *user-updated* webhook was only triggered when a user's status changed. Now, in addition to status changes, tenants will be notified if other profile fields have been changed. |
 | **Fix** | Error after patching user with empty department field | We have fixed the bug that caused an error when patching a user with an empty department field. |
 
 

@@ -1,5 +1,17 @@
 # Production release notes
 
+## October 2023
+
+**4 October 2023**
+
+Frontend version: 1.0.0-20230921.1438 | Backend version: 1.69.0-20230922.1123
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | Storing API key for sending webhook to APIs | We are introducing the ability to store API Keys for sending webhooks to target APIs. With this feature, tenants will be able to subscribe and receive webhook events. |
+| **Feature** | Enhanced *user-updated* webhook to include profile changes | We have enhanced the *user-updated* webhook to include profile changes. Previously, the *user-updated* webhook was only triggered when a user's status changed. Now, in addition to status changes, tenants will be notified if other profile fields have been changed. |
+| **Fix** | Error after patching user with empty department field | We have fixed the bug that caused an error when patching a user with an empty department field. |
+
 ## September 2023
 
 **20 September 2023**

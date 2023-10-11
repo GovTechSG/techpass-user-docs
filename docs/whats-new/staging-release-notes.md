@@ -1,5 +1,20 @@
 # Staging release notes
 
+## October 2023
+
+**11 October 2023**
+
+Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-20231006.1929
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** | Check existing users endpoint on Concierge | With the launch of CAM on 23 October 2023, Concierge will now monitor terminated user events. This triggers the cleanup of users in the TechPass directory and sends webhooks to tenants. However, tenants not subscribed to our webhooks might encounter errors. Without these webhook events, tenants will not be able to tidy up datastores effectively, potentially leading to data inconsistencies. |
+| **Enhancement** | Refactor backend APIs | Significant changes have been made to the *Get Users* API. Additional support for `account:others` and `product:project` has been added, expanding its functionality. Also, the *loadmore* feature has been removed for a more streamlined experience. |
+| **Enhancement** | New tenant flag - acknowledgeComplianceFlag  | Tenants now have the option to indicate whether they maintain their own user directory. Tenants managing their directories must subscribe to our `user-updated` and `user-deleted` webhooks. |
+| **Enhancement** | Product owners are now able to specify "from" field for email broadcasts | Previously, all emails were dispatched from the enquiries TechPass email address. Now, product owners can use their custom email addresses for broadcasts. |
+| **Fix** | Request timeout with Get User Concierge API (lastSignIn=true) | We have fixed the bug that cause timeouts in the `Get user` Concierge API, specifically when querying last sign-in information. To address this, we have implemented an interim fix. It sets a time limit for pulling Azure logs; if no results are obtained within the specified timeframe, the system treats it as a no sign-in event. This serves as a temporary solution while we explore a more comprehensive and permanent fix. |
+
+
 ## September 2023
 
 **27 September 2023**

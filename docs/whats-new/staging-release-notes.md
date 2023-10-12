@@ -4,14 +4,16 @@
 
 **11 October 2023**
 
-Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-20231006.1929
+Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-20231012.1057
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Feature** | Check existing users endpoint on Concierge | With the launch of CAM on 23 October 2023, Concierge will now monitor terminated user events. This triggers the cleanup of users in the TechPass directory and sends webhooks to tenants. However, tenants not subscribed to our webhooks might encounter errors. Without these webhook events, tenants will not be able to tidy up datastores effectively, potentially leading to data inconsistencies. |
-| **Enhancement** | Refactor backend APIs | Significant changes have been made to the *Get Users* API. Additional support for `account:others` and `product:project` has been added, expanding its functionality. Also, the *loadmore* feature has been removed for a more streamlined experience. |
+| **Feature** | Check existing users on Automation API | With the launch of CAM on 23 October 2023, the Automation API will now monitor terminated user events. 
+This API facilitates a one-off event, enabling tenants to clean up their local user store by removing accounts that no longer exist in TechPass AAD. This step is vital before integration with TechPass for CAM compliance. After integration, tenants will receive new user terminated webhook events.|
+| **Enhancement** | Verify user existence in WoG AAD for invite public officer API  | We have enhanced our Invite Public Officer API by verifying user existence in WoG AAD when the provided email belongs to a WoG email domain. TechPass account will not be created if user does not exist in WoG AAD. However to prevent User Enumeration attack, TechPass portal's Self Sign-Up page will always return success, while the Automation API returns a generic error. <br><br>**Note**: For MoE AAD users, TechPass account will always be created as we are not able to verify user existence in MoE AAD. |
 | **Enhancement** | New tenant flag - acknowledgeComplianceFlag  | Tenants now have the option to indicate whether they maintain their own user directory. Tenants managing their directories must subscribe to our `user-updated` and `user-deleted` webhooks. |
-| **Enhancement** | Product owners are now able to specify "from" field for email broadcasts | Previously, all emails were dispatched from the enquiries TechPass email address. Now, product owners can use their custom email addresses for broadcasts. |
+| **Enhancement** | Product owners are now able to specify "from" field for email broadcasts | Previously, all emails were dispatched from the enquiries TechPass email address. Now, product owners can use their custom email addresses for broadcasts. Refer to [Email template](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/email-template) for more details. |
+| **Change** | Deprecation of *LoadMore* query parameter in Automation API| The *LoadMore* feature has been removed from Automation API. Refer to [Deprecation of LoadMore](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/deprecation/deprecate-loadmore) for more details.|
 | **Fix** | Request timeout with Get User Concierge API (lastSignIn=true) | We have fixed the bug that cause timeouts in the `Get user` Concierge API, specifically when querying last sign-in information. To address this, we have implemented an interim fix. It sets a time limit for pulling Azure logs; if no results are obtained within the specified timeframe, the system treats it as a no sign-in event. This serves as a temporary solution while we explore a more comprehensive and permanent fix. |
 
 

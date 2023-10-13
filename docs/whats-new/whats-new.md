@@ -11,6 +11,6 @@ This page summarises the new features, improvements and bug fixes completed in e
 
 
 **Staging release notes**
-- [Staging release September 2023](whats-new/staging-release-notes?id=september-2023)
+- [Staging release October 2023](whats-new/staging-release-notes?id=october-2023)
 
  [**View all staging release notes**](/whats-new/staging-release-notes)

@@ -2,6 +2,17 @@
 
 ## October 2023
 
+**25 October 2023**
+
+Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-202310190836
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Enhancement** |Security Update: Addressed CVE HTTP/2 rapid reset attack vulnerability |Updated to Go 1.21.3 to address CVE HTTP/2 rapid reset attack.|
+| **Fix** | Resolved issue with GetUser endpoint returning incorrect 404 errors for IDP errors | We have fixed a bug where the `GetUser` endpoint was returning a misleading 404 error for all IDP (Identity Provider) errors. The application code has been revised to accurately reflect the specific errors from Azure. |
+
+
+
 **11 October 2023**
 
 Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-20231012.1057

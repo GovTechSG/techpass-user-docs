@@ -4,7 +4,7 @@
 
 **25 October 2023**
 
-Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-202310190836
+Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.3-202310230924 
 
 | Type      | Change      | Description |
 | --- | --- | --- |

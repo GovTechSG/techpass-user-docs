@@ -2,6 +2,17 @@
 
 ## October 2023
 
+**25 October 2023**
+
+Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.3-202310230924 
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Change** | OTPaaS now enforces a 60-second cooldown period between requests for the same email | Users must wait 60 seconds before requesting a new OTP for the same email address. Frontend applications can display a countdown or fetch the `cooldown` value from the [Request for OTP](https://docs.developer.tech.gov.sg/docs/techpass-otpaas-api/) API for customization.
+| **Fix** | Resolved issue with `GetUser` endpoint returning incorrect 404 errors for IDP errors | We have fixed a bug where the `GetUser` endpoint was returning a misleading 404 error for all IDP (Identity Provider) errors. The application code has been revised to accurately reflect the specific errors from Azure. |
+
+
+
 **11 October 2023**
 
 Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.0-20231012.1057

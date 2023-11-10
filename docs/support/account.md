@@ -97,6 +97,18 @@ You might encounter this error if you are trying to sign in to your WOG account 
 
 </details>
 
+<details> Is it still necessary to raise a request to onboard accounts on systems integrated with CAM?<summary>
+
+No, there is no longer a need to raise a request for onboarding accounts on systems integrated with CAM. The integration streamlines the process, particularly in handling staff exit scenarios, such as resignations, retirements, terminations, or transfers to another agency.
+
+</details>
+
+<details> Which systems/services are currently integrated with CAM?<summary>
+
+To determine which systems or services are integrated with CAM, please approach the specific services you are using and confirm with their administrators. 
+</details>
+
+
 [reset-password]: https://passwordreset.microsoftonline.com/
 [password-policy-of-azure-active-directory]: https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-policy#administrator-password-policy-differences
 [reset-password-gsib]: https://itsm.sgnet.gov.sg/sp3

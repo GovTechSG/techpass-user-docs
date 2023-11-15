@@ -1,5 +1,21 @@
 # Staging release notes
 
+## November 2023
+
+**09 November 2023**
+
+Frontend version: 1.0.0-20231102.1605 | Backend version: 1.71.2-20231108.1413
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Feature** |  Automated account termination | We have automated the account termination process for employees who have left the organization in our [service request form](https://go.gov.sg/seed-techpass-support). <br><br><b>Note</b>: Automation applies only to cases initiated by a public officer for another user or when the user themselves terminates their own account, provided the user is not onboarded to SEED.|
+| **Enhancement** | Removed unused fields from `List User API` response in Automation API | We have removed unused fields: `lastSignInAt`, `lastInteractiveSignInAt`, `lastNonInteractiveSignInAt`, and `seedDevices`. These fields, which were previously included in the API documentation have been removed to align with the actual response. |
+| **Enhancement** | Source application display in Webhooks | Webhooks now display the source application (TechPass or TechBiz), providing clarity to new tenant administrators. |
+| **Enhancement** | CAM indicator for Webhook events | A new indicator has been added to highlight CAM required webhook events, specifically for `user-updated` and `user-deleted events`. |
+| **Enhancement** | Removed `userType` from Automation API | We have removed the `userType` field from the Automation API payloads. Previously, `userType` was used to denote whether an account was a Guest or Member in Azure AD, causing inaccuracies as public officers were represented as Guests and vendors as Members. To address this, we introduced the `accountType` field, enabling accurate differentiation between public officers, vendors, and temps. With the successful transition of TechPass tenants to use the `accountType` field introduced months ago, we have dropped the `userType` field from our payloads, aligning our system with the enhanced account categorisation. |
+| **Fix** | SEED license revocation email issue | We have fixed the issue where SEED license revocation notifications were sent in error to some active SEED users. Please note that this was a false alarm, and no actual licenses were revoked. |
+
+
 ## October 2023
 
 **25 October 2023**
@@ -8,7 +24,7 @@ Frontend version: 1.0.0-20231009.1523 | Backend version: 1.69.3-202310230924
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Change** | OTPaaS now enforces a 60-second cooldown period between requests for the same email | Users must wait 60 seconds before requesting a new OTP for the same email address. Frontend applications can display a countdown or fetch the `cooldown` value from the [Request for OTP](https://docs.developer.tech.gov.sg/docs/techpass-otpaas-api/) API for customization.
+| **Change** | OTPaaS now enforces a 60-second cooldown period between requests for the same email | Users must wait 60 seconds before requesting a new OTP for the same email address. Frontend applications can display a countdown or fetch the `cooldown` value from the [Request for OTP](https://docs.developer.tech.gov.sg/docs/techpass-otpaas-api/) API for customization. |
 | **Fix** | Resolved issue with `GetUser` endpoint returning incorrect 404 errors for IDP errors | We have fixed a bug where the `GetUser` endpoint was returning a misleading 404 error for all IDP (Identity Provider) errors. The application code has been revised to accurately reflect the specific errors from Azure. |
 
 

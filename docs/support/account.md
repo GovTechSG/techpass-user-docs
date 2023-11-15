@@ -89,7 +89,7 @@ To re-enable or if you think your account was incorrectly disabled, create a [se
 
 </details>
 
-<details><summary>I am a WOG user and I am unable to sign in to my WOG account using my GMD(Internet Device onboarded to SEED).</summary>
+<details><summary>I am a WOG user and I am unable to sign in to my WOG account using my GMD (Internet Device onboarded to SEED).</summary>
 
 ![mfa_error](../assets/support/mfa_error.jpg)
 
@@ -97,15 +97,27 @@ You might encounter this error if you are trying to sign in to your WOG account 
 
 </details>
 
-<details> Is it still necessary to raise a request to onboard accounts on systems integrated with CAM?<summary>
+<details> When an account gets terminated, how does it get offboarded?<summary>
 
-No, there is no longer a need to raise a request for onboarding accounts on systems integrated with CAM. The integration streamlines the process, particularly in handling staff exit scenarios, such as resignations, retirements, terminations, or transfers to another agency.
+When an account is terminated, offboarding is facilitated through CAM (Central Accounts Management). CAM relies on information from POCDEX, which must be in the WOG AAD. CAM listens to this information to communicate with the HR system and execute the offboarding process effectively.
+
+</details>
+
+
+<details> Is it still necessary to create a service request to offboard accounts on HR systems integrated with CAM?<summary>
+
+No, there is no longer a need to create a service request for offboarding accounts on HR systems integrated with CAM. The integration streamlines the process, particularly in handling staff exit scenarios, such as resignations, retirements, terminations, or transfers to another agency.
 
 </details>
 
 <details> Which systems/services are currently integrated with CAM?<summary>
 
-To determine which systems or services are integrated with CAM, please approach the specific services you are using and confirm with their administrators. 
+To determine which HR systems or services are integrated with CAM, please approach the specific services you are using and confirm with their administrators. 
+</details>
+
+<details> Can email domains such as <i>dsta.gov.sg, dsta-wog.gov.sg, mindef.gov.sg, defence.gov.sg, gebiz.gov.sg, sps.gov.sg, hq.a-star.edu.sg, schools.gov.sg</i> be auto-offboarded with CAM integration?<summary>
+
+No, these email domains cannot be auto-offboarded as they are not integrated with CAM. [Raise a service request](https://go.gov.sg/seed-techpass-support) to offboard.
 </details>
 
 

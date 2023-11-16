@@ -99,7 +99,9 @@ You might encounter this error if you are trying to sign in to your WOG account 
 
 <details><summary>When an account gets terminated, how does it get offboarded?</summary>
 
-When an account is terminated, offboarding is facilitated through CAM (Central Accounts Management). CAM relies on information from POCDEX, which must be in the WOG AAD. CAM listens to this information to communicate with the HR system and execute the offboarding process effectively.
+When a WOG account is terminated, offboarding is facilitated through CAM (Central Accounts Management). CAM relies on information from POCDEX, which the agency HR uses to manage staff movement. The account will then be removed from WOG Entra ID connected to POCDEX. CAM forwards this event to TechPass where the respective accounts will be cleaned up and termination event will be propagated down to integrated systems and services.
+
+Existing TechPass disablement and termination procedure will be applied for accounts belonging to IDPs that not integrated with CAM. Such as MOE Entra ID or Mindef or Institutes of Higher Learning
 
 </details>
 

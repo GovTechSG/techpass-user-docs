@@ -8,6 +8,17 @@ If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass accou
 </details>
 
 <details>
+<summary>How do I terminate my own account, or help my teammate terminate his/her account?</summary>
+
+a. Create a [service request](https://go.gov.sg/seed-techpass-support).
+
+?> In the service request form, select **Service Request** as **Ticket Type** and select **User has left the organisation, I would like to terminate his account** as **Service Requests**. 
+
+b. Fill in the email associated with the TechPass account to be terminated in the **Email id for termination** field.
+
+</details>
+
+<details>
 <summary>What is the password reset policy for TechPass accounts?</summary>
 
 If your TechPass login ID's domain is ```techpass.gov.sg```, we follow the [password policy of Azure Active Directory][password-policy-of-azure-active-directory]. You will receive password expiry notifications accordingly. [Reset your password][reset-password-vendor] by following the on-screen instructions on this page.

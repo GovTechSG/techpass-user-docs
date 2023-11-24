@@ -10,8 +10,8 @@ Frontend version: 1.0.0-20231109.1430 | Backend version: 1.74.4-20231122.1239
 | Type      | Change      | Description |
 | --- | --- | --- |
 | **Feature** |  Email broadcast option for Tenants | Tenants can now include individual email addresses when broadcasting emails. Previously limited to techpass groups, this enhancement provides tenants with the ability to specify individual email addresses, extending communication options. <br><br><b>Note</b>: Individual email addresses must be associated with either the WoG or Techpass Identity Provider (IDP) for compatibility.|
-| **Change** |Email blast targeting refinement | Upon sending email blasts, especially for non-admin routes, the system now filters through request IDs and checks if they match the respective tenant. |
-| **Fix** | Automation API: `ListUsers` endpoint in userfilter parameter | This release addresses the issue, ensuring that the ListUsers API now correctly ignores the userfilter parameter. |
+| **Change** |Email blast targeting refinement | Upon sending email blasts, the system now filters through request IDs and checks if they match the respective tenant. |
+| **Fix** | Automation API: `ListUsers` endpoint in userfilter parameter | This release addresses the issue, ensuring that the ListUsers API now correctly ignores the userfilter parameter. revoked. |
 
 
 **09 November 2023**

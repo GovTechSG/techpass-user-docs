@@ -14,7 +14,7 @@ a. Create a [service request](https://go.gov.sg/seed-techpass-support).
 
 ?> In the service request form, select **Service Request** as **Ticket Type** and select **User has left the organisation, I would like to terminate his account** as **Service Requests**. 
 
-b. Fill in the email associated with the TechPass account to be terminated in the **Email id for termination** field.
+b. Fill in the email associated with the TechPass account to be terminated in the **Email address for termination** field.
 
 </details>
 

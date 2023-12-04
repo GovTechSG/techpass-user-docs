@@ -3,13 +3,14 @@
 ## December 2023
 
 **06 December 2023**
-Frontend version: xx | Backend version: xx
+
+Frontend version: 1.0.0-20231130.0955 | Backend version: 1.78.2-20231201.1059
 
 | Type      | Change      | Description |
 | --- | --- | --- |
-| **Change** | Get Existing Users API now checks accounts existence from the source AAD | Previously, the **Get Existing Users API** implementation excluded orphaned accounts that have been terminated in WoG, but not in TechPass. We have modified this API to check if an account exists in the source AAD. For members and users from an unsupported directory, it checks TechPass AAD. For guest accounts from an supported directory, it checks the parent directory.
-| **Change** | New SEED status for ineligible TechPass users | We've introduced a new **Ineligible** status for users who don't qualify for SEED, such as non-native TechPass users not in WoG AAD. Previously, these users were labeled as **Not Required**, which is intended for users without an assigned license.
-| **Deprecation** | Deprecation of old Automation API access token scope parameter | From 31 January 2023 (staging) and 07 February 2023 (production) onwards, tenants must only use the new `scope` parameter value `https://{automation_api_endpoint}/.default` in access token requests via client credentials grant in Automation API. <br><br>For more information, refer to [Transition in Automation API Access Token](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/transition-guide).
+| **Change** | Get Existing Users API now checks account existence in the source AAD | Previously, the **Get Existing Users API** implementation excluded orphaned accounts that have been terminated in WoG, but not in TechPass. We modified this API to check if an account exists in the source AAD. For members and users from an unsupported directory, it checks TechPass AAD. For guest accounts from a supported directory, it checks the parent directory.
+| **Change** | New SEED status for TechPass users ineligible for SEED | We've introduced a new **Ineligible** status for users who don't qualify for SEED, such as non-native TechPass users not in WoG AAD. Previously, these users were labeled as **Not Required**, which is intended for users without an assigned license.
+| **Deprecation** | Deprecation of the old Automation API access token scope parameter | From 31 January 2023 (staging) and 07 February 2023 (production) onwards, tenants must only use the new `scope` parameter value: `https://{automation_api_endpoint}/.default` in access token requests via client credentials grant in Automation API. <br><br>For more information, refer to [Automation API Access Token Transition Guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/transition-guide).
 
 ## November 2023
 

@@ -9,7 +9,7 @@ Frontend version: 1.0.0-20231130.0955 | Backend version: 1.78.2-20231201.1059
 | Type      | Change      | Description |
 | --- | --- | --- |
 | **Change** | Get Existing Users API now checks account existence in the source Entra ID | Previously in **Get Existing Users API**, orphaned accounts that are not found in the source Entra ID (e.g. WoG) were included in the response. We have modified this API to verify the existence of an account in the source Entra ID and exclude it from the response if it is not found. 
-| **Change** | New SEED status for TechPass users ineligible for SEED | We've introduced a new **Ineligible** status for users who don't qualify for SEED, such as non-native TechPass users not in WoG Entra ID . Previously, these users were labeled as **Not Required**, which is intended for users without an assigned license.
+| **Change** | New SEED status for TechPass users ineligible for SEED | We've introduced a new **Ineligible** status for users who don't qualify for SEED, such as orphaned accounts or accounts from integrated IDPs that doesn't require SEED (ie. MOE). Previously, these users were labeled as **Not Required**, which is intended for users without an assigned license.
 | **Deprecation** | Deprecation of the old Automation API access token scope parameter | From 31 January 2023 (staging) and 07 February 2023 (production) onwards, tenants must only use the new `scope` parameter value: `https://{automation_api_endpoint}/.default` in access token requests via client credentials grant in Automation API. <br><br>For more information, refer to [Automation API Access Token Transition Guide](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/transition-guide).
 
 ## November 2023

@@ -2,6 +2,16 @@
 
 ## December 2023
 
+**20 December 2023**
+
+Frontend version: 1.0.0-20231219.1021 | Backend version: 1.80.3-20231219.1033
+
+| Type      | Change      | Description |
+| --- | --- | --- |
+| **Change** | Support for placeholders in subject line for broadcast emails | Tenants can now use placeholders in the subject line when broadcasting emails via portal and concierge. 
+| **Change**| Handling account enable automation for CAM | Account enable automation is now working for users that have been disabled by CAM due to inactivity after 90 days.
+| **Change** | Allow tenants to send emails from `<tenant namespace>@console.developer.gov.sg` | Tenants can now send email broadcasts from the `<tenant namespace>@console.developer.gov.sg` email address. This sender email address is automatically whitelisted.
+
 **06 December 2023**
 
 Frontend version: 1.0.0-20231130.0955 | Backend version: 1.78.2-20231201.1059

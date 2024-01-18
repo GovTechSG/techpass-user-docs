@@ -1,7 +1,7 @@
 # Account Management FAQs
 
 <details>
-<summary> Does my Techpass account ID (`name@techpass.gov.sg`)have an associated mailbox?</summary>
+<summary> Does my Techpass account ID (name@techpass.gov.sg) have an associated mailbox?</summary>
 
 No, the Techpass account ID (`name@techpass.gov.sg`) does not have an associated mailbox. It is solely an account identifier and cannot be used for email communications. 
 

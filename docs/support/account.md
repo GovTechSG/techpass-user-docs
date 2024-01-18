@@ -1,6 +1,14 @@
 # Account Management FAQs
 
 <details>
+<summary> Does my Techpass account ID (`name@techpass.gov.sg`)have an associated mailbox?</summary>
+
+No, the Techpass account ID (`name@techpass.gov.sg`) does not have an associated mailbox. It is solely an account identifier and cannot be used for email communications. 
+
+</details>
+
+
+<details>
 <summary>Why is my TechPass account locked. How to unlock my TechPass account?</summary>
 
 If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass account is locked after continuous unsuccessful login attempts. You need to [Reset TechPass password](reset-password) to unlock your TechPass account.

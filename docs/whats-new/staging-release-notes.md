@@ -2,6 +2,15 @@
 
 ## January 2024
 
+**17 January 2024**
+
+Frontend version: 1.0.0-20240111.1301 | Backend version: 1.81.2-20240111.0945
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change**  | Automatic account enabling in FormSG | FormSG now supports automatic account enabling. This update allows public officers to enable accounts on behalf of others and vendors to enable their own accounts, streamlining the process. |
+
+
 **03 January 2024**
 
 Frontend version: 1.0.0-20231229.1007 | Backend version: 1.80.9-20240102.1802
@@ -10,7 +19,7 @@ Frontend version: 1.0.0-20231229.1007 | Backend version: 1.80.9-20240102.1802
 | --- | --- | --- |
 | **Fix** |  Fixed the issue where Automation API was not using the specified sender email address in templates | Automation API now correctly utilizes the sender email address specified in the template when a sender email address is not specified in the concierge request. |
 | **Fix**|  Users can now successfully add individual email addresses as recipients when sending email blasts from the tenant admin dropdown. |
-| **Others** |The `loadmore` parameter has been removed from all Automation API endpoints related to automation |  To streamline the API and improve overall efficiency, the `loadmore` option has been deprecated. |
+| **Others** | The `loadmore` parameter has been removed from all Automation API endpoints related to automation |  To streamline the API and improve overall efficiency, the `loadmore` option has been deprecated. |
 
 ## December 2023
 

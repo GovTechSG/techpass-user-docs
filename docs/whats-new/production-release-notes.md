@@ -2,6 +2,14 @@
 
 ## January 2024
 
+**24 January 2024**
+
+Frontend version: 1.0.0-20240111.1301 | Backend version: 1.81.2-20240111.0945
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change**  | Automatic account enabling in FormSG | FormSG now supports automatic account enabling. This update allows public officers to enable accounts on behalf of others and vendors to enable their own accounts, streamlining the process. |
+
 **10 January 2024**
 
 Frontend version: 1.0.0-20231229.1007 | Backend version: 1.80.9-20240102.1802

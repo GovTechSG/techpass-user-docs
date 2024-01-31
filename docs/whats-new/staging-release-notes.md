@@ -2,6 +2,18 @@
 
 ## January 2024
 
+**31 January 2024**
+
+Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209
+
+| Type   | Change  | Description |
+| --- | --- | --- |
+| **Enhancement**   | New `send targeted email` Automation API | This change the ability to send targeted emails with recipients specified in the 'To' and 'Cc' fields, suitable for direct interactions like approval processes. This feature is distinct from email blasts, which uses 'Bcc' for privacy. |
+| **Enhancement** | API performance enhancement  | Updated `Get/List Users` APIs to exclude `seedStatus` and `seedDevices` by default, improving response times. This change, effective for three months, ensures backward compatibility by including seed information irrespective of the `seedInfo` query parameter during this transitional period. |
+| **Enhancement** | Email template HTML styling support | Email templates now support basic HTML styling attributes, allowing for the customization of tables with borders, cell padding, and cell spacing. This enhancement facilitates more visually appealing email layouts without the need for CSS. |
+| **Enhancement**   | Enforcement of custom scope in Automation API | Security protocols have been reinforced in the Automation API, in production environment. Specific tenants are in the process of updating their configurations to comply with the new custom scope requirements, enhancing overall security. |
+
+
 **17 January 2024**
 
 Frontend version: 1.0.0-20240111.1301 | Backend version: 1.81.2-20240111.0945

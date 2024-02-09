@@ -1,6 +1,27 @@
 # Production release notes
 
+## February 2024
+
+**07 February 2024**
+
+Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209
+
+| Type   | Change  | Description |
+| --- | --- | --- |
+| **Enhancement**   | New `send targeted email` Automation API | This change the ability to send targeted emails with recipients specified in the 'To' and 'Cc' fields, suitable for direct interactions like approval processes. This feature is distinct from email blasts, which uses 'Bcc' for privacy. |
+| **Change** | `Get/List Users` APIs to exclude seed information by default | Updated `Get/List Users` APIs to exclude `seedStatus` and `seedDevices` by default, improving response times. You will need to use `seedInfo=true` query parameter to include these information. Backward compatibility is maintained for 3 months (until 24 April 2024 in staging and until 1 May 2024 in production), ensuring seed information is returned regardless of the `seedInfo` query parameter value. | 
+| **Enhancement** | Email template HTML styling support | Email templates now support basic HTML styling attributes, allowing for the customization of tables with borders, cell padding, and cell spacing. This enhancement facilitates more visually appealing email layouts without the need for CSS. |
+| **Enhancement**   |  Updated scope requirement for Automation API  | Our Automation API will now only accept access token with scope value `https://{automation_api_endpoint}/.default`. Refer to [Change in Automation API access token scope](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/transition-guide) for more details. |
+
 ## January 2024
+
+**24 January 2024**
+
+Frontend version: 1.0.0-20240111.1301 | Backend version: 1.81.2-20240111.0945
+
+| Type | Change | Description |
+| --- | --- | --- |
+| **Change**  | Automatic account enabling in FormSG | FormSG now supports automatic account enabling. This update allows public officers to enable accounts on behalf of others and vendors to enable their own accounts, streamlining the process. |
 
 **10 January 2024**
 

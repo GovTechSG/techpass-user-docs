@@ -33,7 +33,7 @@ This article tells you how to:
 
    You have successfully logged in to the service using your TechPass account.
 
-## Log in to the TechPass Portal
+## Log in to TechPass Portal
 
 1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg/).
 2. Click **Login with TechPass**.

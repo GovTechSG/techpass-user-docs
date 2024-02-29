@@ -1,5 +1,19 @@
 # Staging release notes
 
+## March 2024
+
+**01 March 2024**
+
+Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209
+
+| Type   | Change  | Description |
+| ------ | ------- | ----------- |
+| **Feature** | New Automation APIs for app role management | We have introduced new Automation APIs allowing tenants to autonomously manage their app roles, enhancing efficiency and autonomy in role management. This feature is currently available through the Automation API, with plans to integrate it into the TechPass portal in the future. |
+| **Change** | Autonomous app role assignments for TechBiz-integrated applications | Tenants can now manage app role assignments for TechBiz-integrated applications autonomously, excluding TechBiz group assignments, through the Automation API. This change grants tenants greater control and flexibility over their app role assignments. |
+| **Change** | Phase 1 implementation for User Object ID support in Automation API | Tenants are required to migrate to using the User Object ID as part of the Phase 1 plan to support User Object ID in the Automation API, facilitating a more streamlined and efficient management process. |
+| **Bug** | Error handling for non-TechPass IDs in email recipients | Addressed an issue where adding a non-TechPass email as a recipient in the `Send Email(Email Blast)` and `Send Targeted Email` APIs resulted in a 500 error instead of the expected 400 error, improving error handling and user feedback. |
+
+
 ## January 2024
 
 **31 January 2024**

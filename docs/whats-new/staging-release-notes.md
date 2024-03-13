@@ -2,6 +2,16 @@
 
 ## March 2024
 
+**13 March 2024**
+
+Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209
+
+| Type | Change| Description|
+ ------ | ------- | ----------- |
+| **Feature** | Expose SAML features | All SAML apps are now appropriately tagged with the correct namespace and owners, ensuring their visibility on the portal. |
+| **Fix** | Fixed the issue where inviting vendors from the same email domain does not work on the second attempt | Resolved an issue where inviting vendors from the same email domain failed on the second attempt in the frontend. Users can now successfully invite vendors from the same email domain multiple times without encountering errors. |
+
+
 **01 March 2024**
 
 Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209

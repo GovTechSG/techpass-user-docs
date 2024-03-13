@@ -4,7 +4,7 @@
 
 **13 March 2024**
 
-Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209
+Frontend version: 1.0.0-20240306.1552 | Backend version: 1.95.14-20240311.1204
 
 | Type | Change| Description|
  ------ | ------- | ----------- |

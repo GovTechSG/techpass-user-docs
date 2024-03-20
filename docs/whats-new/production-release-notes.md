@@ -2,6 +2,15 @@
 
 ## March 2024
 
+**20 March 2024**
+
+Frontend version: 1.0.0-20240306.1552 | Backend version: 1.95.14-20240311.1204
+
+| Type | Change| Description|
+ ------ | ------- | ----------- |
+| **Feature** | Expose SAML features | Tenants can now manage SAML apps on the portal. Refer to [SAML Apps](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/saml) and [applications](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications) for more details. |
+| **Fix** | Fixed the issue where inviting vendors from the same email domain does not work on the second attempt | Resolved an issue where inviting vendors from the same email domain failed on the second attempt in the frontend. Users can now successfully invite vendors from the same email domain multiple times without encountering errors. |
+
 **06 March 2024**
 
 Frontend version: 1.0.0-20240125.1442 | Backend version: 1.88.3-20240131.1209

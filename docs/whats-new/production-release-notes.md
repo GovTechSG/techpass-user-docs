@@ -10,7 +10,7 @@ Frontend version: 1.0.0-20240321.1254 | Backend version: 1.95.26-20240325.1331
 | Type | Change | Description |
 |------|--------|-------------|
 | **Feature** | Expose app roles management on TechPass portal | Tenants can now manage app roles (excluding app roles used by TechBiz) on the portal under the *edit application* page. |
-| **Feature** | Enable email template service in the production environment for tenants | Email template service has been enables in the production environment for tenants. |
+| **Feature** | Enable email template service in the production environment for tenants | Email template service has been enabled in the production environment for tenants. |
 | **Change** | Autonomous app role assignments for TechBiz-integrated applications | Previously available only via Automation API, tenants can now autonomously manage app role assignments for TechBiz-integrated applications (excluding TechBiz group assignments) directly through the TechPass portal. |
 
 

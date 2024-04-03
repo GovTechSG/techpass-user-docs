@@ -5,7 +5,7 @@ This page summarises the new features, improvements and bug fixes completed in e
 ## Latest changes
 
 **Production release notes**
-- [Production release February 2024](whats-new/production-release-notes?id=february-2024)
+- [Production release April 2024](whats-new/production-release-notes?id=april-2024)
 
  [**View all production release notes**](/whats-new/production-release-notes)
 

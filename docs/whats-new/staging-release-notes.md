@@ -1,5 +1,26 @@
 # Staging release notes
 
+## April 2024
+
+**11 April 2024**
+
+Frontend version: 1.0.0-20240328.0943 | Backend version: 1.97.2-20240405.1708
+
+
+| Type | Change | Description |
+| ---- | ------ | ----------- |
+| **Feature** | SAML certificates expiry notifications | The `notify-expiring-saml-certs` job has been enhanced to email tenant admins about SAML certificate expirations. Notifications will exclude certificates for applications not aligned with TechPass standards. |
+| **Feature** | Automate account creation process | In response to the high volume of TechPass account creation requests, the process has been automated for SE GSIB users and Schools GSIB user groups via FormSG. SE GSIB users will be verified against WoG EntraID AD prior to account creation, while Schools GSIB users will proceed directly to account creation. The update also includes enhanced error logging for actions on already disabled or terminated accounts. Related service tickets will be automatically resolved upon successful account creation, and users will be notified via email.  |
+| **Fix** | Fixed the app role assignments UI issue | Resolved an issue where the `next link` in the app role assignments section was not functioning correctly on the UI, enhancing the user experience and navigability within the platform. |
+
+
+Frontend version: 1.0.0-20240321.1254 | Backend version: 1.95.26-20240325.1331
+
+| Type | Change | Description |
+|------|--------|-------------|
+| **Feature** | Expose app roles management on TechPass portal | Tenants can now manage app roles (excluding app roles used by TechBiz) on the portal under the *edit application* page. |
+| **Change** | Autonomous app role assignments for TechBiz-integrated applications | Previously available only via Automation API, tenants can now autonomously manage app role assignments for TechBiz-integrated applications (excluding TechBiz group assignments) directly through the TechPass portal. |
+
 ## March 2024
 
 **27 March 2024**

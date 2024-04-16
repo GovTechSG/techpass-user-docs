@@ -14,12 +14,6 @@ Frontend version: 1.0.0-20240328.0943 | Backend version: 1.97.2-20240405.1708
 | **Fix** | Fixed the app role assignments UI issue | Resolved an issue where the `next link` in the app role assignments section was not functioning correctly on the UI, enhancing the user experience and navigability within the platform. |
 
 
-Frontend version: 1.0.0-20240321.1254 | Backend version: 1.95.26-20240325.1331
-
-| Type | Change | Description |
-|------|--------|-------------|
-| **Feature** | Expose SAML features | Tenants can now view SAML apps on the portal. Refer to [SAML Apps](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/saml) and [applications](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications) for more details. |
-| **Change** | Autonomous app role assignments for TechBiz-integrated applications | Previously available only via Automation API, tenants can now autonomously manage app role assignments for TechBiz-integrated applications (excluding TechBiz group assignments) directly through the TechPass portal. |
 
 ## March 2024
 
@@ -30,8 +24,8 @@ Frontend version: 1.0.0-20240321.1254 | Backend version: 1.95.26-20240325.1331
 
 | Type | Change | Description |
 |------|--------|-------------|
-| **Feature** | Expose app roles management on TechPass portal | Tenants can now manage app roles (excluding app roles used by TechBiz) on the portal under the *edit application* page. |
-
+| **Feature** | Expose SAML features | Tenants can now view SAML apps on the portal. Refer to [SAML Apps](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/concepts/saml) and [applications](https://stg.docs.developer.tech.gov.sg/docs/techpass-tenant-guide/applications) for more details. |
+| **Change** | Autonomous app role assignments for TechBiz-integrated applications | Previously available only via Automation API, tenants can now autonomously manage app role assignments for TechBiz-integrated applications (excluding TechBiz group assignments) directly through the TechPass portal. |
 
 **13 March 2024**
 

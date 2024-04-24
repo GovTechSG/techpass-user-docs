@@ -2,6 +2,16 @@
 
 ## April 2024
 
+**25 April 2024**
+
+Frontend version: 1.0.0-20240419.1106 | Backend version: 1.99.1-20240422.1153
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Change** | Automation API optimisation | `get/list users` will exclude `seedStatus` and `seedDevices` by default. To include these, pass the query param `seedInfo=true`. Similarly, `list application role assignments` will exclude TechBiz group assignments by default, pass `onTechBiz=true` if required. Affected APIs include: `get user info`, `list user accounts`, `list user accounts by namespace`, `list product accounts`, `list product accounts by namespace`. |
+| **Fix** | Tenant update error | Fixed an issue where tenants received an error message when trying to update an application created by TechBiz, even without changing the app name. This was due to a mismatch in namespace handling during the comparison of display names. The comparison logic has been corrected to ensure both values are compared without namespace. |
+
+
 **11 April 2024**
 
 Frontend version: 1.0.0-20240328.0943 | Backend version: 1.97.2-20240405.1708

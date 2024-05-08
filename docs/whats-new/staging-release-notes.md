@@ -1,5 +1,15 @@
 # Staging release notes
 
+## May 2024
+
+**08 May 2024**
+
+Frontend version: 1.0.0-20240507.1130 | Backend version: 1.103.0-20240507.1153
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Change** | Revoke/reassign seed license upon user disablement/enablement | SEED licenses will now be revoked upon account disablement. Users with onboarded device will have their licenses reinstated upon reactivation. |
+
 ## April 2024
 
 **11 April 2024**

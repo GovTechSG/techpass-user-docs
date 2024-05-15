@@ -3,7 +3,7 @@
 ## May 2024
 
 
-**08 May 2024**
+**15 May 2024**
 
 Frontend version: 1.0.0-20240507.1130 | Backend version: 1.103.0-20240507.1153
 

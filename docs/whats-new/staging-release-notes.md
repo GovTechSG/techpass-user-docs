@@ -2,6 +2,16 @@
 
 ## May 2024
 
+**23 May 2024**
+
+Frontend version: 1.0.0-20240520.1421 | Backend version: 1.105.3-20240521.1554
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Change** | Webhook notification for changes in user's email/upn | Tenants can now expect to receive changes in user's email/upn via our ```user-updated``` webhook event. |
+| **Change** | Support managing client secrets for SAML apps |We have introduced the ability to add and delete client secrets for SAML apps on the portal. |
+| **Change** | Switch SMS provider to Postman | In response to the "Building Trusted Network" mandate, we are transitioning from AWS SNS to OGP Postman v2 for SMS communications. This change will enable us to use the ```gov.sg``` SMS sender ID. |
+
 **08 May 2024**
 
 Frontend version: 1.0.0-20240507.1130 | Backend version: 1.103.0-20240507.1153

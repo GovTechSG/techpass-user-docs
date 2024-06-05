@@ -1,5 +1,17 @@
 # Staging release notes
 
+## June 2024
+
+**05 June 2024**
+
+Frontend version: 1.0.0-20240531.0703 | Backend version: 1.108.2-20240603.1007
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Feature** | Automation API: Add new ```memberOf``` by namespace | New API ```/iam/namespace/:namespace/users/:identifier/memberOf``` to retrieve the groups that a particular user belongs to. Only groups within the specified tenant namespace are returned. |
+| **Fix** | Fix SAML apps with existing entity ID not appearing on portal | Fixed an issue where SAML apps with an existing entity ID did not appear on the portal. The entity ID must be unique within AAD to ensure proper display and functionality.
+
+
 ## May 2024
 
 **23 May 2024**

@@ -11,6 +11,6 @@ This page summarises the new features, improvements and bug fixes completed in e
 
 
 **Staging release notes**
-- [Staging release Jube 2024](whats-new/staging-release-notes?id=june-2024)
+- [Staging release June 2024](whats-new/staging-release-notes?id=june-2024)
 
  [**View all staging release notes**](/whats-new/staging-release-notes)

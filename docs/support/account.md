@@ -24,7 +24,7 @@ a. Create a [service request](https://go.gov.sg/seed-techpass-support).
 
 b. Fill in the email associated with the TechPass account to be terminated in the **Email address for termination** field.
 
-**Change of process for account termination of vendor accounts**: Effective from 1 July 2024, vendors will not be able to log a ticket for the termination of an account on behalf of another vendor. Only a Public Officer or the vendor themselves can log a ticket to terminate a vendor account.
+**Change of process for account termination requests of vendor accounts**: Effective from 1 July 2024, the service desk will no longer process account termination requests logged by vendors on behalf of their colleagues. Accounts will only be terminated if the ticket is logged by the vendor themselves or a public officer.
 
 </details>
 

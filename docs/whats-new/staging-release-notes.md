@@ -1,5 +1,24 @@
 # Staging release notes
 
+## Jun 2024
+
+**29 Jun2024**
+
+Frontend version: xx | Backend version: xx
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Feature** | Enable tenant admins to view & manage product accounts on *Identities* page |  Now with a newer UI design, tenant admins can reset passwords and edit user status on *Identities* page. |
+| **Change** | Tenants can view/download the SAML signing cert | Added a link for tenants to view and download the SAML signing certificate.  |
+| **Fix** | Setup account - populate user input values for non WOG users | Fixed the issue where user input values were not being populated for non WOG users. |
+| **Fix** | Creator of SAML apps not being assigned as the app owner | Fixed the issue where the creator of SAML apps was not being assigned as the app owner. |
+
+
+
+
+
+
+
 ## May 2024
 
 **23 May 2024**

@@ -2,22 +2,15 @@
 
 ## Jun 2024
 
-**29 Jun2024**
+**20 Jun 2024**
 
-Frontend version: xx | Backend version: xx
+Frontend version: 1.0.0-20240618.2130 | Backend version: 1.112.0-20240618.2143
 
 | Type   | Change | Description  |
 |---|---|---|
-| **Feature** | Enable tenant admins to view & manage product accounts on *Identities* page |  Now with a newer UI design, tenant admins can reset passwords and edit user status on *Identities* page. |
-| **Change** | Tenants can view/download the SAML signing cert | Added a link for tenants to view and download the SAML signing certificate.  |
-| **Fix** | Setup account - populate user input values for non WOG users | Fixed the issue where user input values were not being populated for non WOG users. |
+| **Change** | Tenants can view/download SAML signing cert | Added a link for tenants to view and download SAML signing certificate.  |
+| **Fix** | 'Invite Public Officer' Automation API - optional fields being ignored | Fixed the issue where the optional fields were not being populated for public officers that are not residing in WoG AAD. |
 | **Fix** | Creator of SAML apps not being assigned as the app owner | Fixed the issue where the creator of SAML apps was not being assigned as the app owner. |
-
-
-
-
-
-
 
 ## May 2024
 

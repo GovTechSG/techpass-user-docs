@@ -1,5 +1,15 @@
 # Production release notes
 
+## June 2024
+
+**12 June 2024**
+
+Frontend version: 1.0.0-20240531.0703 | Backend version: 1.108.2-20240603.1007
+
+| Type  | Change| Description |
+|-------|-------|-------------|
+| **Fix** | Fix SAML apps with existing entity ID not appearing on portal | Fixed an issue where SAML apps with an existing entity ID did not appear on the portal. The entity ID must be unique within AAD to ensure proper display and functionality.
+
 ## May 2024
 
 **29 May 2024**

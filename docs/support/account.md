@@ -20,9 +20,11 @@ If your TechPass login ID's domain is ```techpass.gov.sg```, your TechPass accou
 
 a. Create a [service request](https://go.gov.sg/seed-techpass-support).
 
-?> In the service request form, select **Service Request** as **Ticket Type** and select **User has left the organisation, I would like to terminate his account** as **Service Requests**. 
+?> In the service request form, select **Service Request** as **Ticket Type** and select **Terminate the account, as user is leaving the organisation** as **Service Requests**. 
 
 b. Fill in the email associated with the TechPass account to be terminated in the **Email address for termination** field.
+
+**Change of process for account termination requests of vendor accounts**: Effective from 1 July 2024, the service desk will no longer process account termination requests logged by vendors on behalf of their colleagues. Accounts will only be terminated if the ticket is logged by the vendor themselves or a public officer.
 
 </details>
 

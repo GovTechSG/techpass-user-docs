@@ -1,6 +1,17 @@
 # Staging release notes
 
+
 ## June 2024
+
+**20 June 2024**
+
+Frontend version: 1.0.0-20240618.2130 | Backend version: 1.112.0-20240618.2143
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Tenants can view/download SAML signing cert | Added a link for tenants to view and download SAML signing certificate.  |
+| **Fix** | 'Invite Public Officer' Automation API - optional fields being ignored | Fixed the issue where the optional fields were not being populated for public officers that are not residing in WoG AAD. |
+| **Fix** | Creator of SAML apps not being assigned as the app owner | Fixed the issue where the creator of SAML apps was not being assigned as the app owner. |
 
 **05 June 2024**
 

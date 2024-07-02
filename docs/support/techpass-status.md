@@ -10,9 +10,10 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-| Date | 07 Aug 2023 |
+| Date | 02 July 2024|
 | ------ | ------- |
-| **Issue summary** | Some users are currently experiencing difficulties accessing the [TechPass portal](http://portal.techpass.gov.sg). We are aware of the situation and we are actively investigating the root cause. Please note that this issue affects some users and is not intermittent; the same users consistently cannot reach the [TechPass portal](http://portal.techpass.gov.sg).<br><br>**Impact**<br>Some users are currently unable to access the [TechPass portal](http://portal.techpass.gov.sg). However, it's important to highlight that this issue does not impact all users, and service availability remains normal for the following:</br></br>Sign-ins to other services such as GCC2, Jira, TechBiz, etc. are unaffected.</br></br>Concierge APIs are still accessible and functioning properly.<br><br>**Issue start time:** 07 Aug 10:43 SGT<br><br>Further details will be provided as more information becomes available.<br><br>*Posted on: 07 Aug 2023, 12:33 SGT*|
+| **Issue summary** | We have detected some issues with our account creation service. The team is currently investigating and assessing the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>*Posted on: 02 July 2024, 16:00 SGT*|
+
 
 ## Previous incidents
 

@@ -12,7 +12,7 @@ No upcoming scheduled maintenance activity.
 
 | Date | 02 July 2024|
 | ------ | ------- |
-| **Issue summary** | We have detected some issues with our ```/invitations call```. The team is currently investigating and assessing the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>*Posted on: 02 July 2024, 16:00 SGT*|
+| **Issue summary** | We have detected some issues with our account creation service. The team is currently investigating and assessing the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>*Posted on: 02 July 2024, 16:00 SGT*|
 
 
 ## Previous incidents

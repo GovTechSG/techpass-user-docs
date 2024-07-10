@@ -18,6 +18,12 @@ No upcoming scheduled maintenance activity.
 
 ## Previous incidents
 
+| Date | 02 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br><br>*Updated on: 3 July 2024, 16:40 SGT*<br><br>The issue has been resolved and verified. Going forward, profiles will be created with the required attributes. Users should no longer experience issues accessing the applications.<br><br>*Updated on: 3 July 2024, 16:40 SGT* We detected some issues with our account creation service. The team investigated and assessed the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>**Workaround**<br> 50 users affected received an email and were able to access TechPass. With this workaround, users received the invitation emails, but there may have been a delay in delivery.<br><br>*Posted on: 02 July 2024, 16:00 SGT* |
+
+
+
 | Date | 07 Aug 2023 |
 | ------ | ------- |
 | **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 07 Aug 2023, 16:40 SGT*<br><br>**Issue**<br>Some users are currently experiencing difficulties accessing the [TechPass portal](http://portal.techpass.gov.sg). We are aware of the situation and we are actively investigating the root cause. Please note that this issue affects some users and is not intermittent; the same users consistently cannot reach the [TechPass portal](http://portal.techpass.gov.sg). <br><br>**Issue start time:** 07 Aug 10:43 SGT<br><br>**Impact**<br>Some users are currently unable to access the [TechPass portal](http://portal.techpass.gov.sg). However, it's important to highlight that this issue does not impact all users, and service availability remains normal for the following:</br></br>Sign-ins to other services such as GCC2, Jira, TechBiz, etc. are unaffected.</br></br>Concierge APIs are still accessible and functioning properly.<br><br>**Workaround**<br> You may access the TechPass portal through the Menlo Security Safe Links service by visiting: https://safe.menlosecurity.com/https://portal.techpass

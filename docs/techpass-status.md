@@ -14,7 +14,7 @@ No upcoming scheduled maintenance activity.
 
 | Date | 15 July 2024 |
 |------|--------------|
-| **Issue summary** | TechPass has an ongoing issue where some users are unable to log in using their TechPass Account. The team is aware of the issue and is actively working towards resolving it. We will keep you posted with any updates as they become available.<br><br>If any of your colleagues are facing this issue, let us know in the #techpass-broadcast channel. <br><br>*Posted on: 15 July 2024, 11:50 SGT* |
+| **Issue summary** | TechPass has an ongoing issue where some users are unable to log in using their TechPass Account. The team is aware of the issue and is actively working towards resolving it. We will keep you posted with any updates as they become available. <br><br>*Posted on: 15 July 2024, 11:50 SGT* |
 
 ## Previous incidents
 

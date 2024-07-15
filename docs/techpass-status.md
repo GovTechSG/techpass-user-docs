@@ -12,11 +12,17 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-| Date | 02 July 2024|
-| ------ | ------- |
-| **Issue summary** |<br><br>*Updated on: 3 July 2024, 16:40 SGT* We have detected some issues with our account creation service. The team is currently investigating and assessing the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>**Workaround**<br> 50 users affected have already received an email and will be able to access TechPass. With this workaround, users will receive the invitation emails, but there may be a delay in delivery.<br><br>*Posted on: 02 July 2024, 16:00 SGT*|
+| Date | 15 July 2024 |
+|------|--------------|
+| **Issue summary** | TechPass has an ongoing issue where some users are unable to log in using their TechPass Account. The team is aware of the issue and is actively working towards resolving it. We will keep you posted with any updates as they become available. <br><br>*Posted on: 15 July 2024, 11:50 SGT* |
 
 ## Previous incidents
+
+| Date | 10 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br><br>*Updated on: 10 July 2024, 16:40 SGT*<br><br>The issue has been resolved and verified. Going forward, profiles will be created with the required attributes.<br><br>We detected some issues with our account creation service. The team investigated and assessed the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>**Workaround**<br> 50 users affected received an email and were able to access TechPass. With this workaround, users received the invitation emails, but there may have been a delay in delivery.<br><br>*Posted on: 02 July 2024, 16:00 SGT* |
+
+
 
 | Date | 07 Aug 2023 |
 | ------ | ------- |

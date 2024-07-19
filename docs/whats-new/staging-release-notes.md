@@ -1,5 +1,14 @@
 # Staging release notes
 
+## July 2024
+
+**17 July 2024**
+
+Frontend version: 1.0.0-20240712.1112 | Backend version: 1.122.2-20240716.1553
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Feature** | New Automation APIs to list organisations | We have introduced new Automation API `GET /organisations` to retrieve a list of organisations. 
 
 ## June 2024
 

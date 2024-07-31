@@ -2,6 +2,17 @@
 
 ## July 2024
 
+**29 July 2024**
+
+Frontend version: 1.0.0-20240729.1112 | Backend version: 1.122.2-20240729.1553
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Add user status under investigation flow | Introduced a new "under investigation" flag for user accounts to prevent certain automated actions. |
+| **Change** | User terminated message update | The termination message now varies based on the source (user, cronjob, CAM). |
+| **Change** | Enable tenants to view SAML certs on TechPassportal | Tenants can now view SAML certificates directly on the portal while the download issue is resolved. |
+| **Fix** | 'Identities' page error | Resolved an error where the 'Identities' page showed an error even when there were results. |
+
 **17 July 2024**
 
 Frontend version: 1.0.0-20240712.1112 | Backend version: 1.122.2-20240716.1553

@@ -16,6 +16,11 @@ No ongoing incident.
 
 ## Previous incidents
 
+| Date | 31 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 31 July 2024, 08:43 SGT*<br><br>There is an ongoing issue with a subset of Microsoft services.<br><br>Both TechPass and SEED teams are aware of the issue and are actively monitoring the situation. For more updates, refer to [Microsoft Azure Status](https://azure.status.microsoft/en-us/status).<br><br>**Impact**:<br/>Users may experience disruptions with some Microsoft services.<br><br>**Workaround**:<br>There is currently no workaround available. Please refer to the provided link for the latest updates.<br><br>**What should I do if I am still having an issue?**<br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+
+
 | Date | 15 July 2024 |
 |------|--------------|
 | **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 15 July 2024, 17:33 SGT*<br><br>**Issue**<br>TechPass has an ongoing issue where some users are unable to log in using their TechPass Account. The team is aware of the issue and is actively working towards resolving it. We will keep you posted with any updates as they become available. <br><br>*Posted on: 15 July 2024, 11:50 SGT*<br><br>**What should I do if I am still having an issue?**</br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |

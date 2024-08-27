@@ -1,5 +1,16 @@
 # Staging release notes
 
+## August 2024
+
+**28 August 2024**
+
+Frontend version: 1.0.0-20240826.0929 | Backend version: 1.130.1-20240822.1801
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Fix** | Unable to invite users who are ineligible for SEED on *Invite User* page | We have resolved an issue on the *Identities - Invite User* page where an error was incorrectly returned when attempting to invite us
+
+
 ## July 2024
 
 **29 July 2024**

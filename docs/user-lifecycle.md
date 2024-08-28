@@ -8,18 +8,18 @@ This document outlines the rules for managing user accounts within the TechPass 
 
 1. **No sign-in within 23 days from creation date**:
    - We send daily reminders to the user that their account will be terminated.
-   - If the user does not sign in by day 30, we stop reminders and terminate the user account.
+   - If the user does not sign in by **day 30**, we stop reminders and terminate the user account.
    - Five days after termination, the user account is deleted.
 
 ### If the user has signed in before
 
 1. **No new sign-in in the past 60 days**:
    - We send daily reminders to the user that their account will be disabled.
-   - If the user does not sign in by day 90, we stop reminders and disable the user account.
+   - If the user does not sign in by **day 90**, we stop reminders and disable the user account.
 
 2. **No new sign-in in the past 173 days**:
    - We send daily reminders to the user that their account will be terminated.
-   - If the user does not sign in by day 180, we stop reminders and terminate the user account.
+   - If the user does not sign in by **day 180**, we stop reminders and terminate the user account.
    - Five days after termination, the user account is deleted.
 
 ## Overriding conditions
@@ -52,7 +52,7 @@ In certain cases, account lifecycle events are triggered manually, especially wh
 
 ### Vendors
 
-- Vendor accounts are managed by tenant admins and can be disabled, blocked, or deleted via the portal, service requests, or from CAM.
+- Vendor accounts can be disabled, blocked, or deleted via service requests or from CAM.
 
 ### Disabled/blocked from WOG AAD
 

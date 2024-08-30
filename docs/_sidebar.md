@@ -11,6 +11,7 @@
   - [Request for SEED provisioning](request-for-seed-provisioning)
   - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)
+  - [User life cycle](user-lifecycle)
 - **Reset MFA**
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  

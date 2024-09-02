@@ -20,7 +20,6 @@ This document outlines the rules for managing user accounts within the TechPass 
 2. **No new sign-in in the past 173 days**:
    - We send daily reminders to the user that their account will be terminated.
    - If the user does not sign in by **day 180**, we stop reminders and terminate the user account.
-   - Five days after termination, the user account is deleted.
 
 ## Overriding conditions
 
@@ -48,15 +47,15 @@ In certain cases, account lifecycle events are triggered manually, especially wh
 
 ### Public officers
 
-- Public officers are disabled, blocked, or deleted from the Whole of Government Azure Active Directory (WoG AAD) based on an event from CAM.
+- Public officers are disabled or deleted from Azure Entra ID based on an event from CAM.
 
 ### Vendors
 
-- Vendor accounts can be disabled, blocked, or deleted via service requests or from CAM.
+- Vendor accounts can be disabled  or deleted via service requests or from CAM.
 
-### Disabled/blocked from WOG AAD
+### Disabled/blocked from Azure Entra ID
 
-- Accounts can be disabled or blocked from WOG AAD for any reason, such as risky sign-ins or if the user leaves the organisation.
+- Accounts can be disabled or blocked from Azure Entra ID for any reason, such as risky sign-ins or if the user leaves the organisation.
 
 ### Microsoft risky sign-in detection
 

@@ -1,5 +1,20 @@
 # Staging release notes
 
+## August 2024
+
+**14 August 2024**
+
+Frontend version: 1.0.0-20240808.1301 | Backend version: 1.128.0-20240813.1343
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Removed *organisation* field from ```Invite Public Officer/Vendor API``` | We have removed the *organisation* field from the ```Invite Public Officer/Vendor API``` as it is now auto-populated based on the user's email domain across all environments. |
+| **Change** | Mobile number requirement for Public Officer invitation/self-signup | We have made *mobileNumber* a required field for Public Officers during self-signup or invitation on the TechPass portal. For now, the mobile number remains optional for ```Automation API``` and invitation/self-signup via TechBiz until further notice. |
+| **Fix** | Dynamic groups error response | Fixed the error response when attempting to add or remove members from dynamic groups. The system now returns an ```HTTP Status 403 Forbidden``` error with a custom error message. |
+| **Fix** | ```Get User API``` error response | Fixed the ```Get User API``` to return an appropriate error response body when a user is not found, instead of returning an empty response body. |
+
+
+
 ## July 2024
 
 **29 July 2024**

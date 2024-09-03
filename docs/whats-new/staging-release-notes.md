@@ -2,6 +2,14 @@
 
 ## August 2024
 
+**28 August 2024**
+
+Frontend version: 1.0.0-20240827.1502 | Backend version: 1.130.2-20240826.1402
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Fix** | Unable to invite users who are ineligible for SEED on *Invite User* page | We have resolved an issue on the *Identities - Invite User* page where an error was incorrectly returned when attempting to invite a user that is ineligible for SEED. |
+
 **14 August 2024**
 
 Frontend version: 1.0.0-20240808.1301 | Backend version: 1.128.0-20240813.1343

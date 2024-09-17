@@ -7,14 +7,14 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-| Date | 6 September 2024 |
-| ------ | ------- |
-| **Scheduled maintenance** | TechPass has scheduled a maintenance activity on 6th September 2024 (Friday) from 1800hrs to 2200hrs SGT. During this time, the TechPass Portal may experience intermittent availability.<br><br>**Services available during maintenance:**<br>- TechPass Automation APIs.<br>- Access to downstream services remains available.<br><br>For any maintenance clarifications needed, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 3 September 2024, 15:00 SGT* |
+No ongoing maintenance
 
 
 ## Ongoing incidents
 
-No ongoing incident.
+| Date | 16 September 2024 |
+| ------ | ------- |
+| **Issue with OTP for new vendor users** | TechPass is currently experiencing an issue where we are unable to send OTP (One Time Password) to some new vendor users for their first sign-in. Our team is actively working on resolving this issue and we will keep you updated on progress.<br><br>For any further clarifications, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 16 September 2024, 12:45 SGT* |
 
 ## Previous incidents
 

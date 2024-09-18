@@ -14,11 +14,14 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Ongoing incidents
 
-| Date | 17 September 2024 |
-| ------ | ------- |
-| **Issue with OTP for new vendor users** | TechPass is currently experiencing an issue where we are unable to send OTP (One Time Password) to some new vendor users for their first sign-in. Our team is actively working on resolving this issue and we will keep you updated on progress.<br><br>For any further clarifications, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 17 September 2024, 12:45 SGT* |
+No ongoing incidents.
 
 ## Previous incidents
+
+| Date | 18 September 2024 |
+|------|-------------------|
+| **Issue summary** | **Resolved**<br>The issue with OTP for new vendor users has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 18 September 2024, 18:00 SGT*<br><br>TechPass experienced an issue where some new vendor users were unable to receive OTPs (One Time Password) for their first sign-in.<br><br>**Impact**:<br/>New vendor users may have experienced delays in signing in to TechPass.<br><br>**Workaround**:<br>The issue has been resolved and no workaround is necessary.<br><br>**What should I do if I am still having an issue?**<br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+
 
 | Date | 31 July 2024 |
 |------|--------------|

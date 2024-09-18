@@ -9,7 +9,7 @@ This page provides the status of the TechPass service and information on the fol
 
 | Date | 18 September 2024 |
 | ------ | ------- |
-| **Scheduled maintenance** | TechPass has scheduled a maintenance activity on 18th September 2024 (Wednesday) from 1800hrs to 2200hrs SGT. During this time, the TechPass Portal may experience intermittent availability.<br><br>**Services available during maintenance:**<br>- TechPass Automation APIs.<br>- Access to downstream services remains available.<br><br>For any maintenance clarifications needed, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 3 September 2024, 15:00 SGT* |
+| **Scheduled maintenance** | TechPass has scheduled a maintenance activity on 18th September 2024 (Wednesday) from 1800hrs to 1900hrs SGT. During this time, the TechPass Portal may experience intermittent availability.<br><br>**Services available during maintenance:**<br>- TechPass Automation APIs.<br>- Access to downstream services remains available.<br><br>For any maintenance clarifications needed, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 3 September 2024, 15:00 SGT* |
 
 
 ## Ongoing incidents

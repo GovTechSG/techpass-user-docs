@@ -1,6 +1,6 @@
 # Register Intune Device ID
 
-If you have a GSIB device, your SEED onboarding is successful only when you register your Intune device ID on the TechPass Portal.
+Your SEED onboarding is successful only when you register your Intune device ID on the TechPass Portal.
 
 ## Audience
 
@@ -13,7 +13,6 @@ Users with a non-SE GSIB device and onboarding their Internet Device to SEED.
 You need the following to register your Intune Device ID on the TechPass Portal:
 
 - An active TechPass account.
-- A non-SE GSIB device.
 - Intune Device ID of the Internet Device. For more information, see [SEED documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/onboard-device/onboard-device-to-seed).
 
 ### To register Intune device ID

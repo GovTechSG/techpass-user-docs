@@ -1,5 +1,14 @@
 # Production release notes
 
+## September 2024
+
+**19 September 2024**
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Announcement** | TechPass Portal now accessible from GMD (SEED) devices | TechPass Portal is now accessible from your SEED device. All features available in GSIB can now be performed on GMD (SEED) devices. This enhancement reduces your reliance on GSIB machine, providing greater flexibility. |
+
+
 ## August 2024
 
 **21 August 2024**

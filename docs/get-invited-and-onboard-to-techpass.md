@@ -7,7 +7,7 @@ This article guides you how to request for a TechPass account and onboard to it.
 
 ## Audience
 
-Users who require a TechPass account but do not have a WOG account or a non-SE GSIB device.
+Users who require a TechPass account but do not have a WOG account.
 
 ## Prerequisites
 

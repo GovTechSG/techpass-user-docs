@@ -19,7 +19,7 @@ Users such as developers, testers, project managers, and administrators who need
 
 ## TechPass Portal
 
-The TechPass Portal allows SGTS tenants to set up SSO for their SGTS products and manage IAM for their users. Users can access the [TechPass Portal](https://portal.techpass.gov.sg) only from a non-SE GSIB device.
+The TechPass Portal allows SGTS tenants to set up SSO for their SGTS products and manage IAM for their users. Users can access the [TechPass Portal](https://portal.techpass.gov.sg) from non-SE GSIB and GMD devices.
 
  For more information about SSO and managing users, see [TechPass Tenant Guide](https://docs.developer.tech.gov.sg/docs/techpass-tenant-guide/#/) 
 

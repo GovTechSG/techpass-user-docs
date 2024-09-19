@@ -14,7 +14,6 @@ Users with a WOG account and who needs a TechPass account.
 Following are the prerequisites to sign up for TechPass and complete the onboarding:
 
 - Check the flowchart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal.
-- A non-SE GSIB device.
 - Your organisational email address which has a standard mailbox (not LiteMail).
 
 
@@ -22,7 +21,7 @@ Following are the prerequisites to sign up for TechPass and complete the onboard
 
 ## Step 1: Sign up for TechPass account
 
-1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
+1. Go to the [TechPass Portal](http://portal.techpass.gov.sg) and click **Sign Up**.
 
 2. Enter your organisational **Email Address**.
 

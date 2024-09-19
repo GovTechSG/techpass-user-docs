@@ -4,7 +4,7 @@ This article guides how an **existing TechPass user** can request for SEED provi
 
 ## Audience
 
-TechPass users with an email domain other than `schools.gov.sg` and a non-SE GSIB device who need SEED provisioning to onboard their Internet Device to SEED.
+TechPass users with an email domain other than `schools.gov.sg`.
 
 ?>- If you are a SE-GSIB user, submit a [service request](https://go.gov.sg/seed-techpass-support) to request for SEED provisioning.<br>- Other users need to contact their project manager or reporting officer to request for SEED provisioning.
 
@@ -14,7 +14,6 @@ Following are the prerequisites to request for SEED provisioning via TechPass Po
 
 - An active TechPass account.
 - The email domain associated with the TechPass account is not `schools.gov.sg`.
-- A non-SE GSIB device.
 
 ### To request for SEED provisioning
 

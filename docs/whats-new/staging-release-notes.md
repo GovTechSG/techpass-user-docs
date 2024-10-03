@@ -1,5 +1,20 @@
 # Staging release notes
 
+## September 2024
+
+**25 September 2024**
+
+Frontend version: 1.0.0-20240923.1147 | Backend version: 1.136.4-20240925.1832
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Enhanced `Get Group API` to include first name and last name | The `Get Group API` has been updated to return the first name and last name of users in the group. These fields are now included alongside the existing display name. No fields have been removed. |
+| **Fix** | Set account inactivity limit to avoid incorrect values in emails | Updated the system to terminate user accounts after 180 days of inactivity. Users will receive a warning email 1 week before their account is terminated, preventing any incorrect values from being sent in the email. |
+| **Fix** | `List Tenants UI' search issue with *Load More* | Fixed an issue where the search keyword was ignored when using the *Load More* button in the List Tenants UI. |
+| **Fix** | Missing secret expiry banner in application view | Added a warning banner that appears when viewing an application with an expired secret. This banner was previously missing. |
+| **Fix** | Failed to send update user profile notification email | Resolved an issue where the notification email for profile updates failed to send due to a missing property.|
+
+
 ## August 2024
 
 **14 August 2024**

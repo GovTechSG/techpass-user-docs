@@ -7,16 +7,21 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-| Date | 29 August 2024 |
+| Date | 18 September 2024 |
 | ------ | ------- |
-| **Scheduled maintenance** | TechPass has scheduled a maintenance activity on 29th August 2024 (Thursday) from 1400hrs to 1500hrs SGT. During this time, the TechPass Portal may experience intermittent availability.<br><br>**Services available during maintenance:**<br>- TechPass Automation APIs.<br>- Access to downstream services remains available.<br><br>For any maintenance clarifications needed, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 22 August 2024, 15:00 SGT* |
+| **Scheduled maintenance** | TechPass has scheduled a maintenance activity on 18th September 2024 (Wednesday) from 1800hrs to 1900hrs SGT. During this time, the TechPass Portal may experience intermittent availability.<br><br>**Services available during maintenance:**<br>- TechPass Automation APIs.<br>- Access to downstream services remains available.<br><br>For any maintenance clarifications needed, raise a [service request](https://go.gov.sg/seed-techpass-support).<br><br>|
 
 
 ## Ongoing incidents
 
-No ongoing incident.
+No ongoing incidents.
 
 ## Previous incidents
+
+| Date | 18 September 2024 |
+|------|-------------------|
+| **Issue summary** | **Resolved**<br>The issue with OTP for new vendor users has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 18 September 2024, 18:00 SGT*<br><br>TechPass experienced an issue where some new vendor users were unable to receive OTPs (One Time Password) for their first sign-in.<br><br>**Impact**:<br/>New vendor users may have experienced delays in signing in to TechPass.<br><br>**Workaround**:<br>The issue has been resolved and no workaround is necessary.<br><br>**What should I do if I am still having an issue?**<br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+
 
 | Date | 31 July 2024 |
 |------|--------------|

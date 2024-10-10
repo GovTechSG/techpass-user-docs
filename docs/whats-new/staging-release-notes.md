@@ -7,8 +7,8 @@ Frontend version: 1.0.0-20241007.0904 | Backend version: 1.140.0-20241008.1336
 
 | Type   | Change | Description  |
 |---|---|---|
-| **Fix** | List existing-users not returning users with mixed case emails | Resolved an issue where the `List existing-users` API failed to return users if their email addresses contained mixed case letters. |
-| **Fix** | Webhook challengeToken URL encoding issue | Fixed two issues with the URL encoding for `challengeToken`: <ul><li>Padding characters (`=`) were added to the string to make it a multiple of four.</li><li>The function generated 32 bytes, resulting in a string length of approximately 42.6 characters instead of the expected 32 characters.</li></ul> **Fix applied:** <ul><li>Switched to `RawURLEncoding` to avoid padding.</li><li>Correctly calculated the expected length using `/ 4 * 3` before generating random bytes to ensure a consistent 32-character output.</li></ul> |
+| **Fix** | `List existing-users` not returning users with mixed case emails | Resolved an issue where the `List existing-users` API failed to return users if their email addresses contained mixed case letters. |
+| **Fix** | Webhook `challengeToken` URL encoding issue | Fixed issues with the URL encoding for `challengeToken`. |
 
 
 ## September 2024

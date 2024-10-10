@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20241007.0904 | Backend version: 1.140.0-20241008.1336
 | Type   | Change | Description  |
 |---|---|---|
 | **Fix** | `List existing-users` not returning users with mixed case emails | Resolved an issue where the `List existing-users` API failed to return users if their email addresses contained mixed case letters. |
-| **Fix** | Webhook endpoint verification error | Fixed an error in webhook verification caused by issues with URL encoding |
+| **Fix** | Webhook endpoint verification error | Fixed an error in webhook verification caused by issues with URL encoding. |
 
 
 ## September 2024

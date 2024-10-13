@@ -35,7 +35,7 @@ This article tells you how to:
 
 ## Log in to TechPass Portal
 
-1. Using your non-SE GSIB device, go to the [TechPass Portal](http://portal.techpass.gov.sg/).
+1. Using your non-SE GSIB or GMD device, go to the [TechPass Portal](http://portal.techpass.gov.sg/).
 2. Click **Login with TechPass**.
 3. Sign in to your TechPass account or choose the required TechPass account.
 

@@ -14,11 +14,11 @@ TechPass users who can access TechPass Portal.
 You need the following to edit your TechPass profile via the TechPass Portal:
 
 - An active TechPass account.
-- A non-SE GSIB device.
+- A non-SE GSIB or GMD device.
 
 ### To edit your TechPass profile
 
-1. Using your non-SE GSIB device, log in to [TechPass Portal](https://portal.techpass.gov.sg).
+1. Using your non-SE GSIB or GMD device, log in to [TechPass Portal](https://portal.techpass.gov.sg).
 
 2. Hover over your account name and click **My Account**.
 

@@ -3,6 +3,16 @@
 
 ## October 2024
 
+
+**16 October 2024**
+
+Frontend version: 1.0.0-20241007.0904 | Backend version: 1.140.0-20241008.1336
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Fix** | `List existing-users` not returning users with mixed case emails | Resolved an issue where the `List existing-users` API failed to return users if their email addresses contained mixed case letters. |
+| **Fix** | Webhook endpoint verification error | Fixed an error in webhook verification caused by issues with URL encoding. |
+
 **2 October 2024**
 
 Frontend version: 1.0.0-20240923.1147 | Backend version: 1.136.4-20240925.1832

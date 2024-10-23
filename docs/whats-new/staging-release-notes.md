@@ -2,6 +2,18 @@
 
 ## October 2024
 
+**23 October 2024**
+
+Frontend version: 1.0.0-20241023.0910 | Backend version: 1.142.1-20241022.1612
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Support for pagination in group members retrieval | We have introduced support for retrieving group members with pagination to handle larger groups. By default, the full member list is returned, but pagination options can be configured using query parameters. |
+| **Change** | Support for multiple headers in webhook | The `Tenant integration webhook UI` now supports adding up to five headers when sending a webhook. |
+
+
+## October 2024
+
 **09 October 2024**
 Frontend version: 1.0.0-20241007.0904 | Backend version: 1.140.0-20241008.1336
 

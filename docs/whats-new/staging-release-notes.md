@@ -8,7 +8,7 @@ Frontend version:  | Backend version:
 
 | Type   | Change | Description  |
 |---|---|---|
-| **Change** |
+| **Change** |Enhanced user invitation permissions |Public Officers can now invite users via TechPass portal. To streamline the UI, we have moved the **Invite User** menu from the tenant **Identities** page to the top navigation bar. For more details, refer to **Invite User** topic.|
 
 ## October 2024
 

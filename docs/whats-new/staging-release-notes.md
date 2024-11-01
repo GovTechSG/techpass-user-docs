@@ -1,5 +1,15 @@
 # Staging release notes
 
+## November 2024
+
+**06 November 2024**
+
+Frontend version:  | Backend version: 
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** |
+
 ## October 2024
 
 **23 October 2024**

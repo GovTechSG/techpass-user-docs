@@ -1,5 +1,15 @@
 # Staging release notes
 
+## November 2024
+
+**06 November 2024**
+
+Frontend version: 1.0.0-20241029.1457  | Backend version: 1.142.5-20241030.1746
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** |Enhanced user invitation permissions |Public Officers can now invite users via TechPass portal. To streamline the UI, we have moved the **Invite User** menu from the tenant **Identities** page to the top navigation bar. For more details, refer to [**Invite User**](docs/invite-user.md) topic.|
+
 ## October 2024
 
 **23 October 2024**
@@ -544,9 +554,9 @@ Frontend version: 1.0.0-20221021.0757  | Backend version: 1.34.3-221021.0828
 | Type      | Change      | Description |
 | --- | --- | --- |
 | **Feature** | Tenant state overrides webhook state. | Tenant state will now override the webhook state. In other words, if the tenant state is disabled, irrespective of the web hook status, webhook event will not be triggered. |
-| **Fix** | While signing up for TechPass, appropriate error messages will be displayed in the portal. | Public officers will see relevant error messages if they provide email address with domains that are not in the allowlist. |
+| **Fix** | While signing up for TechPass, appropriate error messages will be displayed in the portal. | Public officers will see relevant error messages if they provide email address with domains that are not in the allowlist. |
 | **Fix** | Error response will be returned for invalid display names provided while creating or updating applications using API. | If the application display name does not conform to our valid display name policy when the tenant admins create or update applications using API, the system will return the appropriate error response. |
-| **Fix** | Fixed incorrect hints displayed while creating application. | On screen hints displayed for Homepage URL and Logout URL on Create Application were not accurate. We have fixed them. |
+| **Fix** | Fixed incorrect hints displayed while creating application. | On screen hints displayed for Homepage URL and Logout URL on Create Application were not accurate. We have fixed them. |
 | **Enhancement** | Improved user experience while modifying tenant groups or creating applications. | We have improved the performance of the tenant group modification and the application creation processes.
 
 **14 October 2022**

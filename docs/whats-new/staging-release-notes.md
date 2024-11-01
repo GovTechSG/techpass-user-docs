@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20241029.1457  | Backend version: 1.142.5-20241030.1746
 
 | Type   | Change | Description  |
 |---|---|---|
-| **Change** |Enhanced user invitation permissions |Public Officers can now invite users via TechPass portal. To streamline the UI, we have moved the **Invite User** menu from the tenant **Identities** page to the top navigation bar. For more details, refer to [**Invite User**](docs/invite-user.md) topic.|
+| **Change** |Enhanced user invitation permissions |Public Officers can now invite users via TechPass portal. To streamline the UI, we have moved the **Invite User** menu from the tenant **Identities** page to the top navigation bar. For more details, refer to [**Invite User**](/invite-user.md) topic.|
 
 ## October 2024
 

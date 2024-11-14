@@ -8,6 +8,7 @@
 - **Verify TechPass login** 
   - [Log in with TechPass](log-in-with-techpass)
 - **TechPass Portal**
+  - [Invite User](invite-user)
   - [Request for SEED provisioning](request-for-seed-provisioning)
   - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)

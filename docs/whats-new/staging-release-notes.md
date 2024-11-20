@@ -8,7 +8,7 @@ Frontend version: 1.0.0-20241119.1306  | Backend version: 1.142.7-20241111.1335
 
 | Type   | Change | Description  |
 |---|---|---|
-| **Fix** | New tenant admins are not assigned as app owners when namespace has more than 100 apps | Previously, when a namespace contained over 100 apps, tenant admins were not consistently assigned as owners, causing error alerts during app modifications. The issue has been resolved by properly passing `nextLink` when adding new tenant admins. |
+| **Fix** | New tenant admins are not assigned as app owners when namespace has more than 100 apps | Previously, when a namespace contained over 100 apps, tenant admins were not consistently assigned as owners, causing error alerts during app modifications. The issue has been resolved. |
 
 
 **06 November 2024**

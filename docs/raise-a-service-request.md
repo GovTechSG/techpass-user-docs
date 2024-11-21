@@ -20,7 +20,7 @@ Based on the below conditions, choose the appropriate flow to submit a service r
 |---|---|
 [Sign up for SGTS customer portal account](#sign-up-for-sgts-customer-portal-account)| If you are a user without SHIP-HATS subscription and no SGTS customer portal account.|
 [Log in to SGTS Customer portal account](#log-in-to-sgts-customer-portal-account)|If you are a  user with SGTS customer portal account.|
-|[Submit Service request (SR) via Atlassian account](#submit-sr-via-atlassian-account) if you are SHIP-HATS user with an Atlassian account.|
+|[Submit Service request (SR) via Atlassian account](#submit-sr-via-atlassian-account) | If you are SHIP-HATS user with an Atlassian account.|
 
 ## Sign up for SGTS customer portal account
 

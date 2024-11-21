@@ -8,48 +8,44 @@ This topic guides you how to raise a support request via the TechPass-SEED Servi
 
 ## Audience
 
-- Users with an [active TechPass](#active-techpass) and who require general assistance with TechPass or SEED.  
+- Users with a TechPass account and who require general assistance with TechPass or SEED.  
 - Users with TechPass account issues that prevent them from accessing SGTS services or authenticating their logins with TechPass.
 
-## Active TechPass
 
-An "Active TechPass Account" refers to a TechPass account that can be successfully used to access SGTS services and authenticate logins with TechPass where applicable. 
-
-## Submit service/support request
+## Submit service request
 
 Based on the below conditions, choose the appropriate flow to submit a service request.
 
 |Action|User status|
 |---|---|
-[Sign up for SGTS customer portal account and submit SR](#sign-up-for-sgts-customer-portal-account-and-submit-sr)| TechPass/SEED users who do not have a SHIP-HATS subscription and no SGTS customer portal account.|
-[Submit SR via SGTS customer portal account](#submit-sr-via-sgts-customer-portal-account)|TechPass/SEED users who do not have a SHIP-HATS subscription but have an SGTS customer portal account.|
-|Submit SR via Atlassian account|If you are SHIP-HATS user with an Atlassian account.|
+[Sign up for SGTS customer portal account](#sign-up-for-sgts-customer-portal-account)| If you are a user without SHIP-HATS subscription and no SGTS customer portal account.|
+[Log in to SGTS Customer portal account](#log-in-to-sgts-customer-portal-account)|If you are a  user with SGTS customer portal account.|
+|[Submit Service request (SR) via Atlassian account](#submit-sr-via-atlassian-account) if you are SHIP-HATS user with an Atlassian account.|
 
-## Sign up for SGTS customer portal account and submit SR
+## Sign up for SGTS customer portal account
 
-This flow is displayed for users who neither have a SHIP-HATS subscription nor an SGTS customer portal account.
-
-1. Click the TechPass-SEED Service Desk URL.  The **Help Center** page is displayed.
+1. Click [here](https://go.gov.sg/seed-techpass-support).  The **Help Center** page is displayed.
 
     ![Help Center](/assets/support/help-center.png)
 
 2. Enter your **Email address** based on the following conditions:
 
-- If you have an [active TechPass account](#active-techpass), enter the Email address associated with your TechPass.
-- If you don't have an [active TechPass account](#active-techpass) or if you're experiencing access issues, such as needing to reconfigure Multi-Factor Authentication (MFA) due to a device change, enter your personal Email address. 
+- If you have a TechPass account, enter the Email address associated with your TechPass account.
+- If you do not have a TechPass account, use your official corporate Email address.
+
 3. Click **Next**.
 
-    If you see the following page, it means you don't have the SGTS customer portal account, and you need to sign up for it.
+    If you see the following page, it indicates that you do not yet have an SGTS customer portal account. Please proceed to sign up for one.
 
     ![sign-up-for-customer-portal-acct](/assets/support/sign-up-for-customer-portal-acct.png)
 
 4. Click **Sign up with password**. 
 
-    You’ll receive a confirmation email at the provided Email address.
+    You will receive a confirmation email at the provided Email address.
 
     ![](/assets/support/check-email.png)
 
-5. Check this email account for a confirmation link and click **Sign up**.
+5.  Check your email for a confirmation link and click **Sign up**.
 
     ![](/assets/support/sign-up-email.png)
 
@@ -61,49 +57,33 @@ This flow is displayed for users who neither have a SHIP-HATS subscription nor a
 
     Once your customer portal account is created, you will be able to access the **TechPass-SEED Service Desk**.
 
-    ![](/assets/support/welcome-to-help-center.png)
-
-8. Select **TechPass-SEED Service Desk**.
-
-    ![](/assets/support/TP-SEED-service-desk.png)
-
-9. Provide the required details and submit the SR or issue.
+8. Provide the required details and submit the SR or issue.
 
     ![](/assets/support/raise-sr.png)
 
-## Submit SR via SGTS customer portal account
+## Log in to SGTS customer portal account and submit your service request
 
-This flow is displayed for users who do not have a SHIP-HATS subscription but have an SGTS customer portal account.
-
-1. Click the TechPass-SEED Service Desk URL.  The **Help Center** page is displayed.
+1. Click [here](https://go.gov.sg/seed-techpass-support).  The **Help Center** page is displayed.
 
     ![Help Center](/assets/support/help-center.png)
 
-2. Enter the **Email address** you used to create your SGTS customer portal account and click **Next**.
-
-    ?> It can either be the email address associated with your TechPass or your personal email address.
+2. Enter the **Email address** associated with your TechPass account and click **Next**.
 
     ![](/assets/support/log-into-customer-portal-acct.png)
 
-3. If you already have the SGTS customer portal account, you will see the following page. Enter your SGTS customer portal account **Password** and click **Continue**.
+3. Enter your SGTS customer portal account **Password** and click **Continue**.
 
     ![](/assets/support/enter-customer-portal-acct-pwd.png)
 
     You will be able to access the TechPass-SEED Service Desk.
 
-4. Select **TechPass-SEED Service Desk**.
-
-    ![](/assets/support/TP-SEED-service-desk.png)
-
-5. Provide the required details and submit the SR or issue.
+4. Provide the required details and submit the SR.
 
     ![](/assets/support/raise-sr.png)
 
 ## Submit SR via Atlassian account
 
-This flow is displayed only if you have an Atlassian account.
-
-1. Click the TechPass-SEED Service Desk URL.  The **Help Center** page is displayed.
+1. Click [here](https://go.gov.sg/seed-techpass-support).  The **Help Center** page is displayed.
 
     ![Help Center](/assets/support/help-center.png)
 
@@ -111,19 +91,33 @@ This flow is displayed only if you have an Atlassian account.
 
     ![](/assets/support/log-into-customer-portal-acct.png)
 
-3. If you already have an Atlassian Account, you will see the following page. Click Continue with Atlassian account.
+3. Click **Continue with Atlassian account**.
 
-4. 
+    ![](/assets/support/cont-atlassian-sh.png)
 
+4.  Click **Continue**.
 
+   ![](/assets/support/atlassian1-sh.png)
 
+5. Enter your Atlassian Account password and click Log in.
 
+   ![](/assets/support/sh-atlassian.png)
 
+6. Click Verify to authenticate your login using TechPass.
 
+   ![](/assets/support/verify1-sh.png)
 
+7. Click Log in to proceed with the TechPass authentication.
 
+    ![](/assets/support/verify-sh.png)
 
+8. Select your TechPass account.
 
+    ![](/assets/support/tp-account-sh.png)
+
+9. Provide the required details and submit the SR or issue.
+
+    ![](/assets/support/raise-sr.png)
 
 
 

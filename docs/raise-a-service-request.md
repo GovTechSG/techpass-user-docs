@@ -119,8 +119,7 @@ Based on the below conditions, choose the appropriate flow to submit a service r
     ![](/assets/support/raise-sr.png)
 
 
-
-
+For direct support or further clarification, contact enquiries_techpass@tech.gov.sg.
 
 
 

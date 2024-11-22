@@ -21,7 +21,6 @@ Based on the below conditions, choose the appropriate flow to submit a service r
 [Sign up for SGTS customer portal account](#sign-up-for-sgts-customer-portal-account)| If you are a user without SHIP-HATS subscription and no SGTS customer portal account.|
 [Log in to SGTS Customer portal account](#log-in-to-sgts-customer-portal-account)|If you are a user with SGTS customer portal account.|
 |[Submit Service request (SR) via Atlassian account](#submit-sr-via-atlassian-account) | If you are SHIP-HATS user with an Atlassian account.|
-|[Submit SR with your personal email if you cannot access your TechPass account](#submit-sr-with-your-personal-email-if-you-cannot-access-your-techpass-account)| If you are a SHIP-HATS user whose TechPass account has issues (e.g., MFA reconfiguration needed) and cannot access Atlassian. |
 
 
 ## Sign up for SGTS customer portal account
@@ -90,14 +89,15 @@ Based on the below conditions, choose the appropriate flow to submit a service r
     ![Help Center](/assets/support/help-center.png)
 
 2. Enter the **Email address** associated with your TechPass and click **Next**.
-
+    - If you are experiencing access issues, such as needing to reconfigure Multi-Factor Authentication (MFA) due to a device change and your TechPass account is tied to Atlassian but you cannot access it, enter your personal email address.
+       
     ![](/assets/support/log-into-customer-portal-acct.png)
 
-3. Click **Continue with Atlassian account**.
+4. Click **Continue with Atlassian account**.
 
     ![](/assets/support/cont-atlassian-sh.png)
 
-4.  Click **Continue**.
+5.  Click **Continue**.
 
    ![](/assets/support/atlassian1-sh.png)
 
@@ -118,24 +118,6 @@ Based on the below conditions, choose the appropriate flow to submit a service r
     ![](/assets/support/tp-account-sh.png)
 
 9. Provide the required details and submit the SR or issue.
-
-    ![](/assets/support/raise-sr.png)
-
-## **Submit SR with your personal email if you cannot access your TechPass account**
-
-If you are experiencing access issues with your TechPass account and cannot authenticate using your corporate email (e.g., due to Multi-Factor Authentication (MFA) reconfiguration or other account-related problems), follow these steps:
-
-1. Click [here](https://go.gov.sg/seed-techpass-support) to open the **Help Center** page.
-
-    ![Help Center](/assets/support/help-center.png)
-
-2. Enter your **personal email address** instead of your corporate email.  
-   - This is required because your corporate email may be tied to your Atlassian account, which you cannot access while resolving TechPass-related issues.
-
-3. Click **Next** and follow the [Sign up for SGTS customer portal account](#sign-up-for-sgts-customer-portal-account) steps to create an account using your personal email.  
-   - Ensure you complete the sign-up process with your personal email, as your corporate email cannot be used in this scenario.
-
-4. Once logged in, provide the required details and submit your service request.
 
     ![](/assets/support/raise-sr.png)
 

@@ -45,7 +45,8 @@ Based on the below conditions, choose the appropriate flow to submit a service r
 
     ![](/assets/support/check-email.png)
 
-5.  Check your email for a confirmation link and click **Sign up**.
+5. Check your email for a confirmation link and click **Sign up**.
+
     ![](/assets/support/sign-up-email.png)
 
 6. Enter your **Full name** and **Choose a password**. Remember this **Email address** and **password** for future logins.

@@ -60,7 +60,7 @@ Based on the below conditions, choose the appropriate flow to submit a service r
 
     ![](/assets/support/raise-sr.png)
 
-## Log in to SGTS customer portal account and submit your service request
+## Log in to SGTS customer portal account
 
 1. Click [here](https://go.gov.sg/seed-techpass-support).  The **Help Center** page is displayed.
 

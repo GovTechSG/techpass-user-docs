@@ -10,12 +10,17 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
-| Date | 02 July 2024|
+
+| Date | 26 November 2024 |
 | ------ | ------- |
-| **Issue summary** | We have detected some issues with our account creation service. The team is currently investigating and assessing the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>*Posted on: 02 July 2024, 16:00 SGT*|
+| **Issue summary** | TechPass has identified issues causing delays in the delivery of emails sent from TechPass. The team is currently investigating the matter. <br><br>**Impact**<br>Users may experience delays in receiving emails via TechPass.<br><br>*Posted on: 26 November 2024, 12:12 SGT* |
 
 
 ## Previous incidents
+
+| Date | 02 July 2024 |
+| ------ | ------- |
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 02 July 2024, 18:00 SGT*<br><br>**Investigating**<br>We detected some issues with our account creation service and began investigating the impact.<br><br>**Impact**<br>Users were temporarily unable to create new accounts.<br><br>**Issue start time:** 02 July 2024, 14:00 SGT<br><br>**Workaround**<br>No workaround was necessary as the issue has been resolved.<br><br>*Posted on: 02 July 2024, 16:00 SGT* |
 
 | Date | 01 March 2023 |
 | ------ | ------- |

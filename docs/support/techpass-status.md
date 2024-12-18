@@ -10,6 +10,10 @@ No upcoming scheduled maintenance activity.
 
 ## Ongoing incidents
 
+| Date  | 18 December 2024 |
+|---|---|
+| **Issue summary** | TechPass has detected an intermittent issue affecting some users' ability to access Microsoft Sentinel on the Azure portal.<br><br>**Impact**<br>Users may experience difficulties accessing Microsoft Sentinel. However, sign-ins to downstream applications remain unaffected.<br><br>*Posted on: 18 December 2024, 11:27 SGT* |
+
 
 | Date | 03 December 2024 |
 | ------ | ------- |

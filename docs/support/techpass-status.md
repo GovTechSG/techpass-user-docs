@@ -27,6 +27,19 @@ No upcoming scheduled maintenance activity.
 | **Issue summary** | **Resolved**<br>The issue causing delays in the delivery of emails sent from TechPass has been resolved. We will continue to monitor the situation to ensure no further disruptions.<br><br>*Updated on: 27 November 2024, 09:00 SGT*<br><br>**Investigating**<br>TechPass identified issues causing delays in the delivery of emails and began investigating the matter.<br><br>**Impact**<br>Users experienced delays in receiving emails via TechPass.<br><br>**Issue start time:** 26 November 2024, 12:00 SGT<br><br>**Workaround**<br>No workaround was necessary as the issue has been resolved.<br><br>*Posted on: 26 November 2024, 12:12 SGT* |
 
 
+| Date | 31 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 31 July 2024, 08:43 SGT*<br><br>There is an ongoing issue with a subset of Microsoft services.<br><br>Both TechPass and SEED teams are aware of the issue and are actively monitoring the situation. For more updates, refer to [Microsoft Azure Status](https://azure.status.microsoft/en-us/status).<br><br>**Impact**:<br/>Users may experience disruptions with some Microsoft services.<br><br>**Workaround**:<br>There is currently no workaround available. Please refer to the provided link for the latest updates.<br><br>**What should I do if I am still having an issue?**<br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+
+
+| Date | 15 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 15 July 2024, 17:33 SGT*<br><br>**Issue**<br>TechPass has an ongoing issue where some users are unable to log in using their TechPass Account. The team is aware of the issue and is actively working towards resolving it. We will keep you posted with any updates as they become available. <br><br>*Posted on: 15 July 2024, 11:50 SGT*<br><br>**What should I do if I am still having an issue?**</br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+
+| Date | 10 July 2024 |
+|------|--------------|
+| **Issue summary** | **Resolved**<br>The issue has been resolved and verified. Going forward, profiles will be created with the required attributes.<br>*Updated on: 10 July 2024, 16:40 SGT*<br><br> We detected some issues with our account creation service. The team investigated and assessed the impact. We will update everyone as soon as we have more information and notify you of any impacts.<br><br>**Workaround**<br> 50 users affected received an email and were able to access TechPass. With this workaround, users received the invitation emails, but there may have been a delay in delivery.<br><br>*Posted on: 02 July 2024, 16:00 SGT* |
+
 | Date | 02 July 2024 |
 | ------ | ------- |
 | **Issue summary** | **Resolved**<br>The issue has been resolved. We will continue to monitor the situation for any relapse.<br><br>*Updated on: 02 July 2024, 18:00 SGT*<br><br>**Investigating**<br>We detected some issues with our account creation service and began investigating the impact.<br><br>**Impact**<br>Users were temporarily unable to create new accounts.<br><br>**Issue start time:** 02 July 2024, 14:00 SGT<br><br>**Workaround**<br>No workaround was necessary as the issue has been resolved.<br><br>*Posted on: 02 July 2024, 16:00 SGT* |

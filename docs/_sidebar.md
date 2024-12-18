@@ -4,7 +4,8 @@
 - **Getting started**
   - [Onboard to TechPass](onboard-to-techpass.md)  
     - [Sign up and onboard to TechPass](sign-up-and-onboard-to-techpass)
-    - [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass)
+    - [Get invited and onboard to TechPass (Public officers)](get-invited-po.md)
+    - [Get invited and onboard to TechPass (vendors and offshore)](get-invited-and-onboard-to-techpass)
 - **Verify TechPass login** 
   - [Log in with TechPass](log-in-with-techpass)
 - **TechPass Portal**

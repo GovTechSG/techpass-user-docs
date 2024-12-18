@@ -1,5 +1,16 @@
 # Staging release notes
 
+## December 2024
+
+**18 December 2024**
+
+Frontend version: 1.0.0-20241216.1632  | Backend version: 1.143.8-20241217.1511
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Enhanced mobile number validation | Mobile numbers registered with TechPass vendor accounts now undergo validation to ensure compliance with SG prefix requirements. Numbers starting with +65 must begin with 8 or 9 in production environments. <br><br>For non-production environments (test, local, dev, staging), any number format is allowed to facilitate testing. However, no SMS will be sent in these environments to avoid errors during tests. |
+
+
 ## November 2024
 
 **06 November 2024**

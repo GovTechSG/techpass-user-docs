@@ -15,40 +15,49 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 - Check the flowchart on the [Onboard to TechPass](onboard-to-techpass) page to see if you're eligible to sign up via the Portal. If you can't sign up for TechPass account via TechPass Portal, you need to request to get invited.
 - Your organisational email address which has a standard mailbox and not a LiteMail.  
-- Before you onboard, ensure you have received the TechPass onboarding email and is still valid.
 
-?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.<br>- If you do not see the TechPass onboarding email in your inbox, please check your Junk Email, Deleted Items or Archive folder.<br>- The onboarding email is valid for 30 days. If you do not onboard to TechPass within this 30 days, we will terminate your TechPass account, and you need to sign up again.
+?>- TechPass does not support email accounts which does not have an inbox. For example, LiteMail accounts. If you use such an email account, upgrade it to a standard mailbox before requesting for TechPass.
 
 
 ## Step 1: Request for TechPass account
 
-1. Contact your project manager or the reporting officer to request for the provisioning of TechPass and SEED, which is optional.
+1. Contact your project manager or the reporting officer to request for the provisioning of TechPass and SEED (optional for onshore users, mandatory for offshore users).
 
    !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
-2. Provide the required details in this request such as your organisational email address, mobile phone number and project name.
+2. Project manager or the reporting officer invites you to TechPass.
 
-   Project manager or the reporting officer contacts the sponsoring agency or the tenant admin to invite you to TechPass.
+3. If the invitation is successful, you will receive an email notification containing a link to complete your registration.
 
-  > **Additional information**:
-  >
-  > **If your request for TechPass provisioning
-  is successful**:
-  >
-  >- A TechPass account is provisioned for you and is in pending state.
-  >- We'll send the TechPass onboarding email with your TechPass account or log in ID. 
-  >- You need to activate the account within 30 days. 
-  >- Your TechPass log in ID's domain is ```techpass.gov.sg```.
-  >- We'll send the initial password by SMS to the registered mobile number.
-  >
-  > **If your request for SEED provisioning is successful**:
-  >
-  >- We'll send the SEED onboarding email immediately.
-  >- This email is valid only for 30 days.
-  >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
-  >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
+  !>- Failure to register within **5 days** invalidates the link and will require a new invitation.
 
-
+## Step 2: Complete the registration
+1. Open the registration link sent to your email and fill in the form to complete the registration. 
+2. The following information are required:
+    - Username
+    - First Name
+    - Last Name
+    - Mobile Number
+    - Department
+    - *Offshore Reporting Officer Name & Email
+    - *Offshore Company Address
+    
+    **only applicable to offshore users who do not belong to an Offshore Development Centre (ODC).*
+  
+> **If your request for TechPass provisioning is successful**:
+>
+>- A TechPass account is provisioned for you and is in pending state.
+>- We'll send the TechPass onboarding email which will contain your username. Please note that you should use this username to log in, rather than your email address.
+>- Check your junk/spam folder if you do not see the email in your inbox.
+>- We'll send the initial password by SMS to the registered mobile number.
+>- You need to activate the account within 30 days, otherwise we will terminate your TechPass account and you will need to make a new account provisioning request again.
+>
+> **If your request for SEED provisioning is successful**:
+>
+>- We'll send the SEED onboarding email immediately.
+>- This email is valid only for 30 days.
+>- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
+>- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
 ## Step 2: Sign in using your initial password
 

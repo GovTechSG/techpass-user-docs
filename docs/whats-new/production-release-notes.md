@@ -15,6 +15,7 @@ Frontend version: 1.0.0-20241216.1632  | Backend version: 1.143.8-20241217.1511
 |---|---|---|
 | **Announcement** | **Reflecting on an incredible 2024!** | As we close 2024, we want to take a moment to celebrate an extraordinary year. The TechPass and SEED teams have achieved remarkable milestones, all made possible through your hard work, creativity, and dedication.<br><br>To our valued users and stakeholders, thank you for your continuous feedback and support—it has been instrumental in driving our success.<br><br>**Looking ahead to 2025:**<br>- We welcome your ideas and suggestions for the future. Let’s shape the next chapter together.<br>- Schedule a discussion with me: [Book a session](https://outlook.office.com/bookwithme/user/c8467a03effd490b8669ecefa50fccb7@tech.gov.sg?anonymous&ep=pcard&isanonymous=true).<br><br>Wishing everyone a well-deserved break, a joyful holiday season, and a prosperous New Year.<br><br>**Eunice Teo**<br>Product Manager, TechPass and SEED<br><br>![TechPass](/assets/images/impact.png) |
 
+
 ## November 2024
 
 **14 November 2024**

@@ -6,9 +6,10 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-| **Date** | 22 January 2025 |
+| **Date** | 23 January 2025 |
 |---|---|
-| **Scheduled maintenance** | TechPass has scheduled an urgent maintenance activity on **22 January 2025 (Wednesday)** from **1830 hrs to 2130 hrs (SGT).**<br><br>**Impact**<br>- The TechPass portal may not be available intermittently during the maintenance period.<br><br>**Services available during maintenance**<br>- TechPass Automation APIs.<br>- Access to all downstream services remains available.<br><br>If you have any planned activities during this period, please inform us by **4 PM today**.<br><br>*Posted on: 22 January 2025, 10:00 SGT* |
+| **Scheduled maintenance** | TechPass has scheduled an urgent maintenance activity on **23 January 2025 (Thursdayday)** from **1730 hrs to 1930 hrs (SGT).**<br><br>**Impact**<br>- The TechPass portal may not be available intermittently during the maintenance period.<br><br>**Services available during maintenance**<br>- TechPass Automation APIs.<br>- Access to all downstream services remains available.<br><br>If you have any planned activities during this period, please inform us by **4 PM today**.<br><br>*Posted on: 23 January 2025, 11:15 SGT* |
+
 
 ## Ongoing incidents
 

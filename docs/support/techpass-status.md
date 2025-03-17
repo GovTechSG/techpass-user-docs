@@ -6,21 +6,27 @@ This page provides the status of the TechPass service and information on the fol
 
 ## Scheduled maintenance
 
-No upcoming scheduled maintenance activity.
+No scheduled maintenance!
 
 ## Ongoing incidents
+
+No ongoing incident
+
+
+## Previous incidents
+
+| **Date** | 22 January 2025 |
+|---|---|
+| **Incident summary** | At **11:58 AM (SGT)** today, TechPass users reported being unable to log in to the TechPass portal.<br><br>**Impact**<br>- Users were unable to access the TechPass portal during the incident.<br>- Access to downstream services was unaffected.<br><br>**Resolution**<br>- The issue has been resolved, and users can now log in successfully.<br><br>*Posted on: 22 January 2025, 12:30 SGT* |
 
 | Date  | 18 December 2024 |
 |---|---|
 | **Issue summary** | TechPass has detected an intermittent issue affecting some users' ability to access Microsoft Sentinel on the Azure portal.<br><br>**Impact**<br>Users may experience difficulties accessing Microsoft Sentinel. However, sign-ins to downstream applications remain unaffected.<br><br>*Posted on: 18 December 2024, 11:27 SGT* |
 
-
 | Date | 03 December 2024 |
 | ------ | ------- |
 | **Issue summary** | TechPass has detected an issue where new users are unable to sign up on the TechPass portal when using certain GSIB machines. This issue occurs specifically on the sign-up page where the CAPTCHA fails to load. The team is currently investigating the matter.<br><br>**Impact**<br>Users attempting to access the sign-up page from GSIB machines may be unable to complete the sign-up process.<br><br>**Workaround**<br>Users encountering this issue are advised to log a ticket with us at [https://go.gov.sg/seed-techpass-support](https://go.gov.sg/seed-techpass-support). The team will assist in inviting the users.<br><br>*Posted on: 03 December 2024, 16:00 SGT* |
 
-
-## Previous incidents
 
 | Date | 26 November 2024 |
 | ------ | ------- |

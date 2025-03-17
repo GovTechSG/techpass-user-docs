@@ -1,5 +1,19 @@
 # Production release notes
 
+## March 2025
+
+**05 March 2025**
+
+Frontend version: 1.0.0-20250224.1632  | Backend version: 1.151.2-20250226.1521
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Support for product identity classifications | Product accounts can now be classified as `Public Officer`, `Vendor`, `Temp`, or `Others`. The `List User Account API` includes a new query parameter `includeProductIdentities` to retrieve these classifications. The previous `List Product Identities API` is now deprecated. |
+| **Change** | Offshore vendor invitations | Offshore vendors (with foreign mobile numbers) can no longer be invited via TechBiz or the Invite Vendor Automation API. They must be invited through the TP portal using the new onboarding flow. |
+| **Change** | AppRole assignments to Service Principal | The `List Application Role Assignments API` now returns `roleValue` in addition to the existing `roleId`. |
+| **Fix** | SAML Login URL information | The SAML Login URL now correctly includes the Azure tenant ID instead of the app ID. |
+
+
 ## December 2024
 
 **26 December 2024**
@@ -10,11 +24,11 @@ Frontend version: 1.0.0-20241216.1632  | Backend version: 1.143.8-20241217.1511
 |---|---|---|
 | **Change** | Enhanced mobile number validation | Error will be returned when inviting user with an invalid SG mobile format in production environment. <br><br>To facilitate testing, non-production environments are not subject to the same validation. |
 
-**24 December 2024**
-| Type   | Change | Description  |
-|---|---|---|
-| **Announcement** | **Wrapping up an incredible 2024!** | As we wrap up 2024, WOW, what a year! The TechPass and SEED teams absolutely crushed it, and it’s all thanks to your hard work, creativity, and dedication. You’ve made this year’s achievements not just possible, but extraordinary!<br><br>To our awesome users and bosses, a big shoutout to you too! Your feedback and support have been the secret sauce to our success.<br><br>**Looking ahead to 2025:**<br>- I’d love to hear your ideas, thoughts, or even wild dreams for what we can do next.<br>- Book time with me: [Schedule a session](https://outlook.office.com/bookwithme/user/c8467a03effd490b8669ecefa50fccb7@tech.gov.sg?anonymous&ep=pcard&isanonymous=true). Let’s make magic happen together!<br><br>Here’s to a well-deserved break, a joyful holiday season, and an even brighter New Year. You’ve earned it! 🎄🍾🎉<br><br>**Eunice Teo**<br>Product Manager of TechPass and SEED<br><br>![TechPass](/assets/images/impact.png)<br> |
+**24 December 2024**  
 
+| Type  | Change | Description |
+|---|---|---|
+| **Announcement** | **Wrapping up an incredible 2024!** | As we wrap up 2024, WOW, what a year! The TechPass and SEED teams absolutely crushed it, and it’s all thanks to your hard work, creativity, and dedication. You’ve made this year’s achievements not just possible, but extraordinary!<br><br>To our awesome users and bosses, a big shoutout to you too! Your feedback and support have been the secret sauce to our success.<br><br>**Looking ahead to 2025:**<br>- I’d love to hear your ideas, thoughts, or even wild dreams for what we can do next.<br>- Book time with me: [Schedule a session](https://outlook.office.com/bookwithme/user/c8467a03effd490b8669ecefa50fccb7@tech.gov.sg?anonymous&ep=pcard&isanonymous=true). Let’s make magic happen together!<br><br>Here’s to a well-deserved break, a joyful holiday season, and an even brighter New Year. You’ve earned it! 🎄🍾🎉<br><br>**Eunice Teo**<br>Product Manager, TechPass and SEED<br><br>![TechPass](/assets/images/impact.png) |
 
 ## November 2024
 

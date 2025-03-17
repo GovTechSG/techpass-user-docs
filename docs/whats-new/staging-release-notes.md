@@ -1,5 +1,19 @@
 # Staging release notes
 
+## February 2025
+
+**26 February 2025**
+
+Frontend version: 1.0.0-20250224.1632 | Backend version: 1.151.2-20250226.1521 
+
+| Type   | Change | Description  |
+|---|---|---|
+| **Change** | Support for product identity classifications | Product accounts can now be classified as `Public Officer`, `Vendor`, `Temp`, or `Others`. The `List User Account API` includes a new query parameter `includeProductIdentities` to retrieve these classifications. The previous `List Product Identities API` is now deprecated. |
+| **Change** | Offshore vendor invitations | Offshore vendors (with foreign mobile numbers) can no longer be invited via TechBiz or the Invite Vendor Automation API. They must be invited through the TP portal using the new onboarding flow. |
+| **Change** | AppRole assignments to Service Principal | The `List Application Role Assignments API` now returns `roleValue` in addition to the existing `roleId`. |
+| **Fix** | SAML Login URL information | The SAML Login URL now correctly includes the Azure tenant ID instead of the app ID. |
+
+
 ## December 2024
 
 **18 December 2024**

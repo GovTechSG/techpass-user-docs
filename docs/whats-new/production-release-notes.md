@@ -1,5 +1,17 @@
 # Production release notes
 
+## April 2025
+
+**16 April 2025**
+
+Frontend version: 1.0.0-20250404.1440 | Backend version:20250407.1505-1.156.0
+
+| Type   | Change | Description |
+|---|---|---|
+| **Change** | `Invite Public Officer Automation API` – `mobileNumber` is now required | The `mobileNumber` field is now mandatory when calling the `InvitePublicOfficer` API. |
+| **Fix** | Domain filter not working in `List Users by Namespace` API | Fixed an issue where the domain filter was not functioning as expected when listing users by namespace. |
+
+
 ## March 2025
 
 **05 March 2025**

@@ -10,7 +10,10 @@ No scheduled maintenance!
 
 ## Ongoing incidents
 
-No ongoing incident
+| **Date** | 4 June 2025 |
+|---|---|
+| **Incident summary** | We are currently facing issues with Intune.<br><br>**Impact**<br>- New users onboarding to SEED may be affected.<br>- Some users may face issues accessing SGTS or GCC.<br><br>**Action**<br>- We have identified the root cause and are working closely with Microsoft to resolve the issue.<br>- If you encounter access issues, please [raise a support ticket](https://go.gov.sg/seed-techpass-support).<br><br>*Posted on: 4 June 2025, 2:00 PM SGT* |
+
 
 
 ## Previous incidents

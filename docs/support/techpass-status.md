@@ -12,7 +12,7 @@ No scheduled maintenance!
 
 | Date | 13 Jun 2025 |
 |------|-------------------|
-| **Issue summary** | TechPass has detected issues with vendor users setting up their MFA, on 13 Jun 2025, 14:16 SGT.<br><br>**Impact**:<br/>New vendor users may face issues setting up their MFA. We are working on a workaround while we resolve the issue with Microsoft.<br><br>**What should I do if I am facing this issue?**<br> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
+| **Issue summary** | TechPass has detected issues with vendor users setting up their MFA, on 13 Jun 2025, 14:16 SGT.<br><br>**Impact**<br/>New vendor users may face issues setting up their MFA. We are working on a workaround while we resolve the issue with Microsoft.<br><br>*Updated on: 13 Jun 2025, 16:15 SGT*<br/> For new vendors users onboarding to TechPass and face issues with setting up their MFA, please reload the page which you are trying to login to. You will be prompted to change password and you should be able to login after the change of password.<br><br>**What should I do if I am facing this issue?**<br/> Create an [incident support request](https://go.gov.sg/seed-techpass-support). |
 
 
 <!-- No ongoing incidents. -->

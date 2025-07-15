@@ -1,5 +1,36 @@
 # Production release notes
 
+## July 2025
+
+**9 July 2025**  
+Backend version: 1.164.4-20250620.1431
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | `deletedAt` field logic updated | `deletedAt` is now correctly set to `null` instead of being omitted, to support DynamoDB filtering. |
+| **Fix** | Inactive namespaces were showing in Tenant Dashboard | Fixed an issue where inactive namespaces were incorrectly displayed in the Tenant Dashboard. |
+
+## June 2025
+
+**20 June 2025**  
+Frontend version: 1.0.0-20250607.2043 | Backend version: 1.162.0-20250613.1050
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | Email notifications for terminated users | Tenant admins can now opt in to receive email notifications when a user in their namespace’s group or application is terminated. |
+
+## May 2025
+
+**14 May 2025**  
+Frontend version: 1.0.0-20250428.1507 | Backend version: 20250425.1006-1.157.0
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | Product identities now available for Tenant Admins | Product identities management is now accessible to tenant admins. Each tenant may have up to 8 product identities. Passwords will be sent to the owner's mobile number. Available actions include password reset, status change, and changing the owner. |
+| **Change** | CloudOps now manages vendor email and username updates | Tenant admins can no longer update vendor profiles on the Identities page. Vendors must update their own profiles or raise a support ticket for changes. |
+| **Fix** | Secret key creation now limited | Each TechPass application can now only have up to 5 client secrets and 5 certificates to prevent overuse of resources. To request more, submit a support ticket with a valid reason. |
+
+
 ## April 2025
 
 **16 April 2025**

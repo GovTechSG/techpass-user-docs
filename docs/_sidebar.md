@@ -13,10 +13,13 @@
   - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)
 - **Account and access lifecycle**
-    - [User lifecycle rules](user-lifecycle.md)
-    - [Account lifecycle after departure](account-lifecycle.md)
-    - [Securing your account](securing-your-account.md)
-
+  - [Overview](account-access-lifecycle/overview.md)
+  - [Securing your account](account-access-lifecycle/securing-your-account.md)
+  - [Account types and classification](account-access-lifecycle/account-types-and-classification.md)
+  - [Device registration and access](account-access-lifecycle/device-registration-and-access.md)
+  - [Access removal scenarios](account-access-lifecycle/access-removal-scenarios.md)
+  - [Account lifecycle after departure](account-access-lifecycle/account-lifecycle-after-departure.md)
+  - [FAQs](account-access-lifecycle/faqs.md)
 - **Reset MFA**
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  

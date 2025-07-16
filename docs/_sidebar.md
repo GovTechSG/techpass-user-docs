@@ -13,7 +13,7 @@
   - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)
 - **Account and access lifecycle**
-  - [Overview](account-access-lifecycle/overview.md)
+  - [Overview](account-access-lifecycle-overview)
   - [Securing your account](account-access-lifecycle/securing-your-account.md)
   - [Account types and classification](account-access-lifecycle/account-types-and-classification.md)
   - [Device registration and access](account-access-lifecycle/device-registration-and-access.md)

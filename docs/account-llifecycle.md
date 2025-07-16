@@ -47,8 +47,3 @@ Most users do not need to take any action. However:
 | Tenant admin | Remove user access after receiving the email notification from TechPass. |
 | Project team | Review and clean up user access in tools such as SHIP-HATS or GitLab groups. |
 
-## Limitations
-
-- Internal transfers within the same agency are not automatically detected.
-- Some systems process access removal on a scheduled basis, which may cause delays.
-- Manual steps are still required in many cases, especially for project-level tools.

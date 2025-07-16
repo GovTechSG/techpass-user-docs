@@ -1,0 +1,37 @@
+# Account and access lifecycle: Overview
+
+Understanding how user accounts are created, used, and removed is key to managing access securely across Whole-of-Government systems. TechPass acts as a central identity provider, but different stakeholders play important roles at each stage of the account lifecycle.
+
+This section explains how accounts are provisioned, secured, updated, and eventually offboarded — and what actions may be required from users, agency admins, service teams, and TechPass.
+
+---
+
+## Lifecycle stages
+
+| Stage | Description |
+| --- | --- |
+| **Provisioning** | Accounts are created either through self-sign-up or by invitation, based on the user's role. Access is granted to necessary services and systems. |
+| **Usage** | Users authenticate via TechPass to access connected platforms (e.g. SEED, SHIP-HATS, GCC). Identity and device checks may apply. |
+| **Change of status** | If a user moves departments or roles, account access may need to be reviewed or adjusted. Internal transfers are not automatically detected. |
+| **Deprovisioning** | When a user leaves, their account may be disabled or removed. This affects downstream services like SEED and GCC. |
+
+---
+
+## Stakeholders involved
+
+| Role | Responsibilities |
+| --- | --- |
+| **End user** | Protect your login credentials, approve MFA prompts carefully, and report any anomalies. |
+| **Agency (HR, project teams)** | Create or invite users, keep assignments updated, and ensure timely removal upon staff departure. |
+| **Service teams** | Define access policies, integrate with TechPass for identity checks, and support access reviews. |
+| **IAM provider (TechPass)** | Enforce authentication, device compliance, and lifecycle signals through Entra ID and backend integrations. |
+
+---
+
+## Related topics
+
+- [Securing your account](securing-your-account.md)
+- [Account lifecycle after departure](account-lifecycle.md)
+- [User lifecycle rules](user-lifecycle.md)
+- [Device registration and access](device-registration.md)
+- [Access removal scenarios](access-removal.md)

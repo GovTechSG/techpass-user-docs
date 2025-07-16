@@ -14,10 +14,10 @@
   - [Edit TechPass profile](edit-profile)
 - **Account and access lifecycle**
   - [Overview](account-access-lifecycle-overview)
-  - [Securing your account](account-access-lifecycle/securing-your-account.md)
-  - [Account types and classification](account-access-lifecycle/account-types-and-classification.md)
-  - [Device registration and access](account-access-lifecycle/device-registration-and-access.md)
-  - [Access removal scenarios](account-access-lifecycle/access-removal-scenarios.md)
+  - [Securing your account](securing-account.md)
+  - [Account types and classification](account-types-classification.md)
+  - [Device registration and access](device-registration-access.md)
+  - [Access removal scenarios](access-removal.md)
   - [Account lifecycle after departure](account-access-lifecycle/account-lifecycle-after-departure.md)
   - [FAQs](account-access-lifecycle/faqs.md)
 - **Reset MFA**

@@ -15,7 +15,7 @@ You need to reset your TechPass password:
 
 - Go to [reset password](https://passwordreset.microsoftonline.com/) and follow the on-screen instructions.
 
-    ![pwd-reset](docs/assets/images/password-reset-for-vendors.png)
+    ![pwd-reset](/assets/images/password-reset-for-vendors.png)
 
     
 ?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/seed-techpass-support).

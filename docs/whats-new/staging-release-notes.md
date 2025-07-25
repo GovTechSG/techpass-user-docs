@@ -31,7 +31,6 @@ Frontend version: 1.0.0-20250428.1507 | Backend version: 20250425.1006-1.157.0
 | **Fix** | Secret key creation now limited | Each TechPass application can now only have up to 5 client secrets and 5 certificates to prevent overuse of resources. To request more, submit a support ticket with a valid reason. |
 
 
-
 ## April 2025
 
 **9 April 2025**

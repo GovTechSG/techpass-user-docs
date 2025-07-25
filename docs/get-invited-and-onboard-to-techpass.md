@@ -43,6 +43,9 @@ You need the following to get invited to TechPass and complete the onboarding:
     - *Offshore Company Address
     
     **only applicable to offshore users who do not belong to an Offshore Development Centre (ODC).*
+> ⚠️ **If you are using a China mobile number**: Due to SMS Sender ID restrictions in China, the `gov.sg` sender may be blocked and you may not receive the initial password.  
+> Refer to [reset password](reset-password.md) for instructions. If the issue persists, [raise a service request](https://go.gov.sg/seed-techpass-support).
+
   
 > **If your request for TechPass provisioning is successful**:
 >

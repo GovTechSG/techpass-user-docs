@@ -21,3 +21,15 @@ You need to reset your TechPass password:
 ?>If you are unable to unlock your account by resetting password, create a [TechPass support request](https://go.gov.sg/seed-techpass-support).
 
 
+## If you are using a China mobile number
+
+Due to SMS Sender ID restrictions in China, users with China mobile numbers may not receive one-time passwords (OTPs) sent from the `gov.sg` sender. This may prevent you from resetting your password through the usual method.
+
+If you are unable to receive the OTP, follow the steps below for a manual password reset:
+
+1. Create a [TechPass support request](https://go.gov.sg/seed-techpass-support).
+2. The support team will reset your password.
+3. You will receive a **password-protected ZIP file** containing your new password via email.
+4. A **separate email** will be sent to you with the password to unlock the ZIP file.
+
+Ensure that your TechPass username and registered email address are correct when submitting the request.

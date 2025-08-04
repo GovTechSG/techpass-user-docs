@@ -12,7 +12,14 @@
   - [Request for SEED provisioning](request-for-seed-provisioning)
   - [Register Intune Device ID](register-intune-device-id)
   - [Edit TechPass profile](edit-profile)
-  - [User life cycle](user-lifecycle)
+- **Account and access lifecycle**
+  - [Overview](account-access-lifecycle-overview)
+  - [Securing your account](securing-account.md)
+  - [Account types and classification](account-types-classification.md)
+  - [Device registration and access](device-registration-access.md)
+  - [Access removal scenarios](access-removal.md)
+  - [Account lifecycle after departure](account-access-lifecycle/account-lifecycle-after-departure.md)
+  - [FAQs](account-access-lifecycle/faqs.md)
 - **Reset MFA**
   - [WOG account](reset-security-verification-for-wog-account)
   - [TechPass account](reset-techpass-mfa-for-new-device)  

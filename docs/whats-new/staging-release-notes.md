@@ -1,5 +1,15 @@
 # Staging release notes
 
+## October 2025
+
+**8 October 2025**  
+Backend version: 1.175.0-20251003.1242  
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | Sign-up email field validation with autocomplete | Fixed an issue where using the browser’s autocomplete for the sign-up email field (commonly affecting COMET / GSIB users on Edge) caused validation to be skipped. Validation was previously triggered only on `(keyup)` events.<br><br>**Temporary workaround:** Users can key in a space after selecting from autocomplete to trigger validation.<br><br>**Temporary solution:** Autocomplete has been disabled for these fields to prevent validation bypass. |
+
+
 ## September 2025
 
 **24 September 2025**  

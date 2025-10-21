@@ -2,6 +2,17 @@
 
 ## July 2025
 
+**23 July 2025 **  
+Frontend version: 1.0.0-20250710.0907 | Backend version: 1.166.1-20250710.1611 
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | New `businessOperation` filter | Added a new filter for businessOperation (onshore / offshore). Currently, only offshore ODC users have accurate values; other accounts may not yet reflect correct data. |
+| **Feature** | Automatic handling of inactive product identities | Starting **30 July 2025 (Staging)** and **6 August 2025 (Production)**, inactive product identities will be automatically disabled or terminated:<br><br>- Terminated 30 days after creation if no sign-in<br>- Disabled after 90 days of inactivity<br>- Terminated after 180 days of inactivity, then deleted 5 days later<br>- Project product identities are excluded<br><br>Notification emails will be sent a few days before to the owners, starting **16 July 2025 (Staging)** and **23 July 2025 (Production)**. This aligns with existing user account policies. |
+| **Feature** | DevConsole webhook events | Tenants onboarded to DevConsole can now select DevConsole webhook events in the Webhook configuration page. |
+| **Feature** | Application list filters | Tenant application list page now supports filters by application type (OIDC/SAML) and credential status. |
+
+
 **9 July 2025**  
 Backend version: 1.164.4-20250620.1431
 

@@ -10,6 +10,17 @@ Frontend version: 1.0.0-20250905.1031 | Backend version: 1.172.4-20250918.1721
 |---|---|---|
 | **Feature** | New API endpoints | Introduced new API endpoints:<br><br>- **App role assignments by group**: Tenant admins can now list app role assignments by group, in addition to applications. This provides greater flexibility and visibility into group-based access management.<br>- **Resource (group) sharing endpoints**: Available to selected beta tenants only, for early testing and feedback. |
 
+## September 2025
+
+**17 September 2025**  
+Backend version: 1.167.0-20250905.XXXX  
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | SAML SSO NameID and emailaddress | Fixed an issue where newly created applications using SAML SSO had a random `NameID` value and an empty `emailaddress` attribute. |
+| **Fix** | Entity ID editing error | Fixed an issue where setting an Entity ID already used in the TechPass system during editing returned a server error with a generic error message. |
+## August 2025
+
 ## August 2025
 
 **6 August 2025**  

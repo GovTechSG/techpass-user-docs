@@ -1,8 +1,17 @@
 # Production release notes
 
+
+## August 2025
+
+**6 August 2025**  
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | Automatic handling of inactive product identities | Inactive product identities will now be automatically disabled or terminated:<br><br>- Terminated 30 days after creation if no sign-in<br>- Disabled after 90 days of inactivity<br>- Terminated after 180 days of inactivity, then deleted 5 days later<br>- Project product identities are excluded from this rule. |
+
 ## July 2025
 
-**23 July 2025 **  
+**23 July 2025**  
 Frontend version: 1.0.0-20250710.0907 | Backend version: 1.166.1-20250710.1611 
 
 | Type | Change | Description |

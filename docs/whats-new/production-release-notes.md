@@ -1,6 +1,15 @@
 # Production release notes
 
 
+## October 2025
+
+**1 October 2025**  
+Frontend version: 1.0.0-20250905.1031 | Backend version: 1.172.4-20250918.1721  
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | New API endpoints | Introduced new API endpoints:<br><br>- **App role assignments by group**: Tenant admins can now list app role assignments by group, in addition to applications. This provides greater flexibility and visibility into group-based access management.<br>- **Resource (group) sharing endpoints**: Available to selected beta tenants only, for early testing and feedback. |
+
 ## August 2025
 
 **6 August 2025**  

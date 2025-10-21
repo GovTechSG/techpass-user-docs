@@ -1,5 +1,15 @@
 # Staging release notes
 
+## September 2025
+
+**10 September 2025**  
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | SAML SSO NameID and emailaddress | Fixed an issue where newly created applications using SAML SSO had a random `NameID` value and an empty `emailaddress` attribute. |
+| **Fix** | Entity ID editing error | Fixed an issue where setting an Entity ID already used in the TechPass system during editing returned a server error with a generic error message. |
+
+
 ## July 2025
 
 **30 July 2025**  

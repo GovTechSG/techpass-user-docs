@@ -1,5 +1,16 @@
 # Staging release notes
 
+
+## November 2025
+
+**19 November 2025**  
+Frontend version: 1.0.0-20251112.1625 | Backend version: xxx
+
+| Type | Change | Description |
+|---|---|---|
+| **Change** | Vendor password self-setup | Vendors invited via the TechPass portal can now set up their own password during account registration instead of having their initial password sent via SMS.<br/><br/> **Note:** Vendors invited via the TechBiz portal will still have their password delivered via SMS. |
+
+
 ## October 2025
 
 

@@ -2,6 +2,16 @@
 
 ## October 2025
 
+
+**22 October 2025**  
+Frontend version: 1.0.0-20251015.1258 | Backend version: 1.178.0-20251017.1408  
+
+| Type | Change | Description |
+|---|---|---|
+| **Change** | Webhook to send correct body without any escaping | Webhooks now send the request body without escaping. This means tenants can use the raw bytes from the HTTP request for HMAC verification, without needing to parse the payload first. Existing integrations still work, but tenants may remove the extra parsing step if they want. |
+
+
+
 **8 October 2025**  
 Backend version: 1.175.0-20251003.1242  
 

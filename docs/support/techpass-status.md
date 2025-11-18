@@ -10,7 +10,10 @@ No scheduled maintenance!
 
 ## Ongoing incidents
 
-No ongoing incidents.
+| Date | 18 November 2025 |
+| --- | --- |
+| **Issue summary** | Some TechPass users may be experiencing **intermittent access issues** when attempting to sign in or use TechPass-protected services.<br><br>**Impact:** Users may be unable to authenticate or may face delays during login.<br><br>**Current status:** The issue is linked to Cloudflare access disruptions. The TechPass team is monitoring and awaiting resolution.<br><br>**For assistance:** please create an [incident support request](https://go.gov.sg/seed-techpass-support).<br><br>*Updated at 9:12 PM* |
+
 
 ## Previous incidents
 

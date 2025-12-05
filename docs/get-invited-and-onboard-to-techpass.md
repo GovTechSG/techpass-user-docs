@@ -26,12 +26,26 @@ You need the following to get invited to TechPass and complete the onboarding:
    !> To access services such as SGTS and GCC 2.0 resources through an Internet Device, you need to onboard that device to SEED.
 
 2. Project manager or the reporting officer invites you to TechPass.
+   
+   ?> **Note:** Invitation module in TechBiz Portal will sunset soon. Please start using TechPass or DevConsole Portals for account invitation. Bulk invitation is still only available in TechBiz Portal.
 
-3. If the invitation is successful, you will receive an email notification containing a link to complete your registration.
+3. If the invitation is successful, you will receive an email notification. The onboarding process differs based on how you were invited:
 
-  !>- Failure to register within **5 days** invalidates the link and will require a new invitation.
+   **Invitation via TechPass Portal or DevConsole Portal:**
+   - You will receive an email containing a link to complete your registration.
+   - Follow the instructions in **Step 2: Complete the registration** below.
+   
+   !>- Failure to register within **5 days** invalidates the link and will require a new invitation.
+   
+   **Invitation via TechBiz Portal:**
+   - Your TechPass account will be provisioned immediately.
+   - You will receive an email with your username and initial password via SMS.
+   - Skip to **Step 3: Sign in using your password** to continue.
 
 ## Step 2: Complete the registration
+
+?> **Note:** This step only applies to users invited via the TechPass Portal or DevConsole Portal. If you were invited via the TechBiz Portal, your account is already provisioned. Proceed to **Step 3: Sign in using your password**.
+
 1. Open the registration link sent to your email and fill in the form to complete the registration. 
 2. The following information are required:
     - Username
@@ -39,22 +53,26 @@ You need the following to get invited to TechPass and complete the onboarding:
     - Last Name
     - Mobile Number
     - Department
+    - Password (create your own secure password)
     - *Offshore Reporting Officer Name & Email
     - *Offshore Company Address
     
     **only applicable to offshore users who do not belong to an Offshore Development Centre (ODC).*
-> ⚠️ **If you are using a China mobile number**: Due to SMS Sender ID restrictions in China, the `gov.sg` sender may be blocked and you may not receive the initial password.  
-> Refer to [reset password](reset-password.md) for instructions. If the issue persists, [raise a service request](https://go.gov.sg/seed-techpass-support).
 
+3. After completing the registration form, your TechPass account will be provisioned.
   
 > **If your request for TechPass provisioning is successful**:
 >
 >- A TechPass account is provisioned for you and is in pending state.
 >- We'll send the TechPass onboarding email which will contain your username. Please note that you should use this username to log in, rather than your email address.
 >- Check your junk/spam folder if you do not see the email in your inbox.
->- We'll send the initial password by SMS to the registered mobile number.
+>- **For users invited via TechPass Portal or DevConsole Portal:** You have set up your own password during registration.
+>- **For users invited via TechBiz Portal:** We'll send the initial password by SMS to the registered mobile number.
 >- You need to activate the account within 30 days, otherwise we will terminate your TechPass account and you will need to make a new account provisioning request again.
->
+
+> ⚠️ **If you are using a China mobile number and were invited via TechBiz Portal**: Due to SMS Sender ID restrictions in China, the `gov.sg` sender may be blocked and you may not receive the initial password.  
+> Refer to [reset password](reset-password.md) for instructions. If the issue persists, [raise a service request](https://go.gov.sg/seed-techpass-support).
+
 > **If your request for SEED provisioning is successful**:
 >
 >- We'll send the SEED onboarding email immediately.
@@ -62,7 +80,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 >- Ensure that you have activated your TechPass account before proceeding to onboard your Internet Device to SEED.
 >- If your SEED onboarding email has expired, create a [service request with TechPass](https://go.gov.sg/seed-techpass-support) to receive the SEED onboarding invitation email again. For more information, see [SEED FAQs](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faq-general).
 
-## Step 2: Sign in using your initial password
+## Step 3: Sign in using your password
 
 1. Go to the required Docs portal environment and click **Login**.
 
@@ -71,7 +89,9 @@ You need the following to get invited to TechPass and complete the onboarding:
 2. Enter your TechPass username and click **Next**.
 
    ![vendor-sign-in-1](assets/support/Vendor_email.png)
-3. Enter the initial password and click **Sign in**.
+3. Enter your password and click **Sign in**.
+   - **Invitation via TechPass Portal or DevConsole Portal:** Use the password you created during registration.
+   - **Invitation via TechBiz Portal:** Use the initial password sent to you via SMS.
 
    ![vendor-initial-pwd](assets/support/vendor-initial-password.png)
 4. Click **Next** to configure MFA for your TechPass account. 
@@ -128,6 +148,8 @@ You need the following to get invited to TechPass and complete the onboarding:
     ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
 ## Step 4: Reset your initial password
+
+?> **Note:** This step only applies if you were invited via the TechBiz Portal and received an initial password via SMS. If you set up your own password during registration (TechPass Portal or DevConsole Portal invitation), you can skip this step.
 
  1. Enter your **initial password**, **new password** and retype the new password to confirm.
 

@@ -10,9 +10,17 @@ No scheduled maintenance!
 
 ## Ongoing incidents
 
-No ongoing incidents.
+| Date | 18 November 2025 |
+| --- | --- |
+| **Issue summary** | Some TechPass users may be experiencing **intermittent access issues** when attempting to sign in or use TechPass-protected services.<br><br>**Impact:** Users may be unable to authenticate or may face delays during login.<br><br>**Current status:** The issue is linked to Cloudflare access disruptions. The TechPass team is monitoring and awaiting resolution.<br><br>**For assistance:** please create an [incident support request](https://go.gov.sg/seed-techpass-support).<br><br>*Updated at 9:12 PM* |
+
 
 ## Previous incidents
+
+| Date | 5 Nov 2025 |
+|------|-------------|
+| **Issue summary** | TechPass has identified a malfunction with the **"Last sign-in"** attribute in the **‘getuser’** function.<br><br>**Impact**<br/>Tenant admins or systems utilising this attribute in automations may experience incorrect or missing data for last sign-in values.<br><br>**Action required**<br/>If you are using this attribute in your automations, please verify whether your integrations are affected. Should you encounter any related issues, create a [incident support request](https://go.gov.sg/seed-techpass-support). |
+
 
 | Date | 13 Jun 2025 |
 |------|-------------------|

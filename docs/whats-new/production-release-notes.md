@@ -1,6 +1,63 @@
 # Production release notes
 
+
+## October 2025
+
+
+**29 October 2025**  
+Frontend version: 1.0.0-20251015.1258 | Backend version: 1.178.0-20251017.1408  
+
+| Type | Change | Description |
+|---|---|---|
+| **Change** | Webhook to send correct body without any escaping | Webhooks now send the request body without escaping. This means tenants can use the raw bytes from the HTTP request for HMAC verification, without needing to parse the payload first. Existing integrations still work, but tenants may remove the extra parsing step if they want. |
+
+
+
+**15 October 2025**  
+Backend version: 1.175.0-20251003.1242  
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | Sign-up email field validation with autocomplete | Fixed an issue where using the browser’s autocomplete for the sign-up email field (commonly affecting COMET / GSIB users on Edge) caused validation to be skipped. Validation was previously triggered only on `(keyup)` events.<br><br>**Temporary workaround:** Users can key in a space after selecting from autocomplete to trigger validation.<br><br>**Temporary solution:** Autocomplete has been disabled for these fields to prevent validation bypass. |
+
+**1 October 2025**  
+Frontend version: 1.0.0-20250905.1031 | Backend version: 1.172.4-20250918.1721  
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | New API endpoints | Introduced new API endpoints:<br><br>- **App role assignments by group**: Tenant admins can now list app role assignments by group, in addition to applications. This provides greater flexibility and visibility into group-based access management.<br>- **Resource (group) sharing endpoints**: Available to selected beta tenants only, for early testing and feedback. |
+
+## September 2025
+
+**17 September 2025**  
+Backend version: 1.167.0-20250905.XXXX  
+
+| Type | Change | Description |
+|---|---|---|
+| **Fix** | SAML SSO NameID and emailaddress | Fixed an issue where newly created applications using SAML SSO had a random `NameID` value and an empty `emailaddress` attribute. |
+| **Fix** | Entity ID editing error | Fixed an issue where setting an Entity ID already used in the TechPass system during editing returned a server error with a generic error message. |
+## August 2025
+
+## August 2025
+
+**6 August 2025**  
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | Automatic handling of inactive product identities | Inactive product identities will now be automatically disabled or terminated:<br><br>- Terminated 30 days after creation if no sign-in<br>- Disabled after 90 days of inactivity<br>- Terminated after 180 days of inactivity, then deleted 5 days later<br>- Project product identities are excluded from this rule. |
+
 ## July 2025
+
+**23 July 2025**  
+Frontend version: 1.0.0-20250710.0907 | Backend version: 1.166.1-20250710.1611 
+
+| Type | Change | Description |
+|---|---|---|
+| **Feature** | New `businessOperation` filter | Added a new filter for businessOperation (onshore / offshore). Currently, only offshore ODC users have accurate values; other accounts may not yet reflect correct data. |
+| **Feature** | Automatic handling of inactive product identities | Starting **30 July 2025 (Staging)** and **6 August 2025 (Production)**, inactive product identities will be automatically disabled or terminated:<br><br>- Terminated 30 days after creation if no sign-in<br>- Disabled after 90 days of inactivity<br>- Terminated after 180 days of inactivity, then deleted 5 days later<br>- Project product identities are excluded<br><br>Notification emails will be sent a few days before to the owners, starting **16 July 2025 (Staging)** and **23 July 2025 (Production)**. This aligns with existing user account policies. |
+| **Feature** | DevConsole webhook events | Tenants onboarded to DevConsole can now select DevConsole webhook events in the Webhook configuration page. |
+| **Feature** | Application list filters | Tenant application list page now supports filters by application type (OIDC/SAML) and credential status. |
+
 
 **9 July 2025**  
 Backend version: 1.164.4-20250620.1431

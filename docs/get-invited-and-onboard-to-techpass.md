@@ -64,7 +64,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 > **If your request for TechPass provisioning is successful**:
 >
 >- A TechPass account is provisioned for you and is in pending state.
->- We'll send the TechPass onboarding email which will contain your username. Please note that you should use this username to log in, rather than your email address.
+>- You will receive an account created email from TechPass containing your username. Note that you should **use this username to log in, rather than your email address**.
 >- Check your junk/spam folder if you do not see the email in your inbox.
 >- **For users invited via TechPass Portal or DevConsole Portal:** You have set up your own password during registration.
 >- **For users invited via TechBiz Portal:** We'll send the initial password by SMS to the registered mobile number.
@@ -99,9 +99,7 @@ You need the following to get invited to TechPass and complete the onboarding:
    ![proceed-to-mfa-setup](assets/support/more-info-required.png ':size=500')
 
 
-
-
-## Step 3: Configure Multi-Factor Authentication (MFA) for TechPass account
+## Step 4: Configure Multi-Factor Authentication (MFA) for TechPass account
 
 ?> This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
@@ -147,7 +145,7 @@ You need the following to get invited to TechPass and complete the onboarding:
 
     ![vendor-mfa-9](assets/support/vendor-mfa-9-new.png)
 
-## Step 4: Reset your initial password
+## Step 5: Reset your initial password
 
 ?> **Note:** This step only applies if you were invited via the TechBiz Portal and received an initial password via SMS. If you set up your own password during registration (TechPass Portal or DevConsole Portal invitation), you can skip this step.
 
@@ -158,7 +156,7 @@ You need the following to get invited to TechPass and complete the onboarding:
   ![vendor-mfa-9](assets/support/vendor-update-initial-password.png)
 
 
-## Step 5: Accept the terms and conditions
+## Step 6: Accept the terms and conditions
 
 1. Read the **Privacy Policy** and click **Accept**.
 2. Read the **Terms of Use** and click **Accept**. You have successfully onboarded to TechPass.
@@ -166,7 +164,42 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ?>- Upon accepting the terms and conditions, you are successfully onboarded to TechPass.<br>- If you had requested for SEED to be provisioned, you may proceed to onboard your Internet Device to SEED.<br>- Before you onboard your Internet Device to SEED, see[Prerequisites for onboarding your device to SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/prerequisites-for-onboarding).
 
-### Next step
+
+## Step 7: Enable Passwordless sign-in in mobile app
+?> This section guides you to configure Passwordless sign-in using Microsoft Authenticator.
+
+1. On the Microsoft Authenticator app, select the TECHPASS account
+
+2. Select on:
+  - Android: **Set up Passwordless sign-in requests**
+
+    ![passwordless_setup_2_android](assets/support/passwordless_setup_2_android.png ':size=500')
+
+  - iOS: **Enable phone sign-in**
+
+    ![passwordless_setup_2_ios](assets/support/passwordless_setup_2_ios.png ':size=500')
+
+3. Enter TechPass account password when prompted in the Microsoft Authenticator app and tap on **Sign in**.
+
+  ![passwordless_setup_3](assets/support/passwordless_setup_3.png ':size=300')
+
+4. MFA will be prompted and your mobile phone will receive a push notification to approve the sign-in.
+
+  ![passwordless_setup_4](assets/support/passwordless_setup_4.png ':size=300')
+
+5. **Open** the Authenticator notification and approve the sign-in by selecting **Yes**.
+
+  ![passwordless_setup_5](assets/support/passwordless_setup_5.png ':size=300')
+
+6. Proceed with passwordless setup when displayed by selecting on **Continue**.
+
+  ![passwordless_setup_6](assets/support/passwordless_setup_6.png ':size=200')
+
+7. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
+
+  ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
+
+## Next step
 
 - [Verify TechPass login](log-in-with-techpass#log-in-to-a-service-using-your-techpass-account)
 

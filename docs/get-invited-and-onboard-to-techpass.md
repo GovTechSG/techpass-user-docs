@@ -168,16 +168,11 @@ You need the following to get invited to TechPass and complete the onboarding:
 ## Step 7: Enable Passwordless sign-in in mobile app
 ?> This section guides you to configure Passwordless sign-in using Microsoft Authenticator.
 
-1. On the Microsoft Authenticator app, select the TECHPASS account
+1. On the Microsoft Authenticator app on your mobile phone, select the **TECHPASS** account
 
-2. Select on:
-  - Android: **Set up Passwordless sign-in requests**
+2. Select on **Set up Passwordless sign-in requests**
 
-    ![passwordless_setup_2_android](assets/support/passwordless_setup_2_android.png ':size=500')
-
-  - iOS: **Enable phone sign-in**
-
-    ![passwordless_setup_2_ios](assets/support/passwordless_setup_2_ios.png ':size=500')
+  ![passwordless_setup_2_android](assets/support/passwordless_setup_2_android.png ':size=500')
 
 3. Enter TechPass account password when prompted in the Microsoft Authenticator app and tap on **Sign in**.
 

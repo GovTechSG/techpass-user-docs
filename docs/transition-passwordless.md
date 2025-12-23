@@ -2,6 +2,16 @@
 
 This article guides you how to setup passwordless sign-in if you have existing MFA.
 
+## Benefits of Passwordless Authentication
+
+[Passwordless authentication](https://www.microsoft.com/en-sg/security/business/solutions/passwordless-authentication) offers several advantages over traditional password-based systems:
+- Reduced attack surface: Eliminates risks from password theft, reuse, phishing, and brute-force attacks.
+- Improved user experience: Users do not need to remember complex passwords or manage frequent resets. Authentication is faster and less error-prone.
+- Stronger security posture: Modern passwordless methods use cryptographic keys, biometrics, and device-bound credentials, which are more secure than passwords.
+- Simplified access: Users can securely access corporate resources from various devices, supporting organizational security policies.
+
+More information [about passwordless](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-authentication-passwordless-phone).
+
 ## Audience
 
 Users who have `@techpass.gov.sg` account and have signed-in and setup MFA before.

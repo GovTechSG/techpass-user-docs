@@ -101,8 +101,9 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 4: Configure Multi-Factor Authentication (MFA) for TechPass account
 
-?> This section guides you to configure Microsoft Authenticator as your MFA. We recommend Microsoft Authenticator for the following reasons:<br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
+?> This section guides you to configure Microsoft Authenticator as your MFA. Microsoft Authenticator is required for the following reasons:<br>- It supports **Passwordless** sign ins. <br>- It supports **Number Matching** to protect you from MFA Fatigue attacks and increases the security of your account.<br>- Microsoft constantly improves its MFA security policies to protect its users.
 
+!> TechPass accounts will be secured using Passwordless sign ins via MS Authenticator. Authy and Google Authenticator **will not** be supported.<br>Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if there are special circumstances where you cannot bring your mobile device into your work premises.
 
   1. Install Microsoft Authenticator on your mobile phone.
 
@@ -167,6 +168,16 @@ You need the following to get invited to TechPass and complete the onboarding:
 
 ## Step 7: Enable Passwordless sign-in in mobile app
 ?> This section guides you to configure Passwordless sign-in using Microsoft Authenticator.
+
+>**Benefits of Passwordless Authentication**
+>
+>[Passwordless authentication](https://www.microsoft.com/en-sg/security/business/solutions/passwordless-authentication) offers several advantages over traditional password-based systems:
+>- Reduced attack surface: Eliminates risks from password theft, reuse, phishing, and brute-force attacks.
+>- Improved user experience: Users do not need to remember complex passwords or manage frequent resets. Authentication is faster and less error-prone.
+>- Stronger security posture: Modern passwordless methods use cryptographic keys, biometrics, and device-bound credentials, which are more secure than passwords.
+>- Simplified access: Users can securely access corporate resources from various devices, supporting organizational security policies.
+>
+>More information [about passwordless](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-authentication-passwordless-phone).
 
 1. On the Microsoft Authenticator app on your mobile phone, select the **TECHPASS** account
 

@@ -104,14 +104,32 @@ If you are using **other software token authenticators** like Authy or Google Au
 
   ![passwordless_setup_6](assets/support/passwordless_setup_6.png ':size=200')
 
-7. The Authenticator app will prompt you for your mobile screen lock or biometric. **Proceed** with the authentication.
+7. The Authenticator app will prompt you for phone passcode or biometric. **Proceed** with the authentication.
 
 8. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
 
   ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
 
 
-## Step 5: Set default sign-in method
+## Step 6: Enable Microsoft Authenticator App lock
+This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
+
+1. On the Microsoft Authenticator app, access the **Settings**.
+
+   - For Android, open the menu via the three-dot icon and select Settings.
+     
+     ![authenticator_settings_android](assets/support/authenticator_settings_1_android.png ':size=200')
+
+   - For iOS, open the sidebar and select Settings.
+     
+     ![authenticator_settings_ios](assets/support/authenticator_settings_1_ios.png ':size=200')
+
+2. Enable the **App Lock** if not yet enabled.
+
+3. The app will prompt you for phone passcode or biometric. **Proceed** with the authentication.
+
+
+## Step 7: Set default sign-in method
 ?> Proceed with this step only if the **Sign-in method when most advisable is unavailable** is not **App based authentication - notification**.
 
 1. Back to the Microsoft Account Security Info on your computer.
@@ -125,7 +143,7 @@ If you are using **other software token authenticators** like Authy or Google Au
 4. Click on **Confirm**.
 
 
-## Step 6: (Optional) Delete Authenticator app (TOTP) sign-in method
+## Step 8: (Optional) Delete Authenticator app (TOTP) sign-in method
 ?> Proceed only if you have setup Microsoft Authenticator sign-in method and wish to remove other Authenticator app (TOTP) sign-in method.
 
 1. Back to the Microsoft Account Security Info on your computer.

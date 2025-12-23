@@ -134,6 +134,8 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 
 1. Back to the Microsoft Account Security Info on your computer.
 
+   ?>On how to access Microsoft Account Security Info, follow [step 1](#step-1-open-my-account-in-techpass-portal) and [step 2](#step-2-open-manage-sign-in-methods-microsoft-account-security-info)
+
 2. Click on the **Change** of **Sign-in method when most advisable is unavailable**.
 
   ![passwordless_setup_default_change](assets/support/passwordless_transition_8.png ':size=500')
@@ -143,12 +145,15 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 4. Click on **Confirm**.
 
 
-## Step 8: (Optional) Delete Authenticator app (TOTP) sign-in method
-?> Proceed only if you have setup Microsoft Authenticator sign-in method and wish to remove other Authenticator app (TOTP) sign-in method.
+## Step 8: (Optional) Delete an unused authentication method sign-in method
+?> Proceed only if you wish to remove an unused authentication sign-in method, such as remove other Authenticator app (TOTP) sign-in method.
 
 1. Back to the Microsoft Account Security Info on your computer.
 
-2. Find the **Authenticator app** **Time-based one-time password (TOTP)**.
+   ?>On how to access Microsoft Account Security Info, follow [step 1](#step-1-open-my-account-in-techpass-portal) and [step 2](#step-2-open-manage-sign-in-methods-microsoft-account-security-info)
+
+2. Find the sign-in method you wish to delete.
+   - To delete software OATH token (Authy or Google Authenticator), find **Authenticator app Time-based one-time password (TOTP)**.
 
 3. Click on **Delete**.
 

@@ -205,6 +205,25 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
 
+
+## Step 8: Enable Microsoft Authenticator App lock
+This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
+
+1. On the Microsoft Authenticator app, access the **Settings**.
+
+   - For Android, open the menu via the three-dot icon and select Settings.
+     
+     ![authenticator_settings_android](assets/support/authenticator_settings_1_android.png ':size=200')
+
+   - For iOS, open the sidebar and select Settings.
+     
+     ![authenticator_settings_ios](assets/support/authenticator_settings_1_ios.png ':size=200')
+
+2. Enable the **App Lock** if not yet enabled.
+
+3. The app will prompt you for phone passcode or biometric. **Proceed** with the authentication.
+
+
 ## Next step
 
 - [Verify TechPass login](log-in-with-techpass#log-in-to-a-service-using-your-techpass-account)

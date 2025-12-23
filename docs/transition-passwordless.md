@@ -6,8 +6,13 @@ This article guides you how to setup passwordless sign-in if you have existing M
 
 Users who have `@techpass.gov.sg` account and have signed-in and setup MFA before.
 
+If you already have **Microsoft Authenticator app and use app notification with number matching** for your MFA, proceed to [Step 4](#step-4-enable-passwordless-sign-in-in-mobile-app).
+
+If you are using **other software token authenticators** like Authy or Google Authenticator, continue with [Step 1](#step-1-open-my-account-in-techpass-portal).
+
+?> Azure Passwordless authentication **do not support the use of 3rd-party authenticators** like Authy or Google Authenticator. Hence, the need to transition to Microsoft Authenticator.<br><br>Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if you have legitimate reasons where you cannot use Microsoft Authenticator to secure your identity. Eg. security-related (you cannot bring mobile phone into the work premises)
+
 ## Step 1: Open My Account in TechPass Portal
-?> If you already have Microsoft Authenticator app and use app notification with number matching for your MFA, proceed to [Step 4](#step-4-enable-passwordless-sign-in-in-mobile-app)
 
 1. Using your non-SE GSIB or GMD device, log in to [TechPass Portal](https://portal.techpass.gov.sg).
 
@@ -33,31 +38,35 @@ Users who have `@techpass.gov.sg` account and have signed-in and setup MFA befor
 
 1. Click on **Add sign-in method**.
 
+  ![passwordless_add_sign_in_method](assets/support/passwordless_transition_3.png ':size=500')
+
 2. Click on **Microsoft Authenticator**.
 
-3. Install Microsoft Authenticator on your mobile phone.
+3. Install Microsoft Authenticator on your mobile phone if you have not done so. Click **Next** on your computer.
 
-4. Click **Next** on your computer. 
+  ?> Azure Passwordless authentication **do not support the use of 3rd-party authenticators** like Authy or Google Authenticator
 
-  ![vendor-mfa-1](assets/support/vendor-mfa-1-new.png)
+  ![passwordless_install_authenticator](assets/support/passwordless_transition_4.png ':size=300')
 
-5. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
-6. Select **Scan a QR code**.
-7. Go back to your computer and click **Next**.
+4. On your computer, it will prompt you to setup account in your app. Click **Next**.
 
-  ![vendor-mfa-2](assets/support/vendor-mfa-2-new.png)
+  ![passwordless_setup_account_in_app](assets/support/passwordless_transition_5.png ':size=300')
 
-8. Scan the QR code on your computer screen and click **Next**. Your TechPass account gets activated and linked to the Authenticator app.
+5. On your computer, a QR code will be displayed. 
 
-    ![vendor-scan-qr-code](assets/support/vendor-mfa-3-new.png)
+  ![passwordless_setup_account_qr_code](assets/support/passwordless_transition_6.png ':size=300')
+
+6. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
+
+7. **Scan** the QR code on your computer screen. TechPass account is added to your Microsoft Authenticator on your mobile phone.
+
+8. On your computer, click **Next**.
 
   A number is shown on your browser.
   
-  ![number-mfa](assets/images/onboarding/po-non-se/number-mfa.png)
+  ![passwordless_setup_account_verify](assets/support/passwordless_transition_7.png ':size=300')
 
-9. On the Authenticator app, enter the number shown, and select **Yes** to authenticate your sign-in. 
-  
-  ![vendor-confirmed-mfa](assets/support/vendor-mfa-5-new.png)
+9. On the Authenticator app, **enter the number** shown, and select **Yes** to verify. 
 
 
 ## Step 4: Enable Passwordless sign-in in mobile app
@@ -85,7 +94,9 @@ Users who have `@techpass.gov.sg` account and have signed-in and setup MFA befor
 
   ![passwordless_setup_6](assets/support/passwordless_setup_6.png ':size=200')
 
-7. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
+7. The Authenticator app will prompt you for your mobile screen lock or biometric. **Proceed** with the authentication.
+
+8. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
 
   ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
 
@@ -97,9 +108,12 @@ Users who have `@techpass.gov.sg` account and have signed-in and setup MFA befor
 
 2. Click on the **Change** of **Sign-in method when most advisable is unavailable**.
 
+  ![passwordless_setup_default_change](assets/support/passwordless_transition_8.png ':size=500')
+
 3. Select **App based authentication - notification**.
 
 4. Click on **Confirm**.
+
 
 ## Step 6: (Optional) Delete Authenticator app (TOTP) sign-in method
 ?> Proceed only if you have setup Microsoft Authenticator sign-in method and wish to remove other Authenticator app (TOTP) sign-in method.

@@ -18,7 +18,7 @@ Users who have `@techpass.gov.sg` account and have signed-in and setup MFA befor
 
 If you already have **Microsoft Authenticator app and use app notification with number matching** for your MFA, proceed to [Step 4](#step-4-enable-passwordless-sign-in-in-mobile-app).
 
-If you are using **other software token authenticators** like Authy or Google Authenticator, continue with [Step 1](#step-1-open-my-account-in-techpass-portal).
+If you are using **other software token authenticators** like Authy or Google Authenticator, continue with [Step 1](#step-1-open-my-account-in-techpass-portal) to transition to use Microsoft Authenticator for passwordless sign-in.
 
 ?> Azure Passwordless authentication **do not support the use of 3rd-party authenticators** like Authy or Google Authenticator. Hence, the need to transition to Microsoft Authenticator.<br><br>Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if you have legitimate reasons where you cannot use Microsoft Authenticator to secure your identity. Eg. security-related (you cannot bring mobile phone into the work premises)
 

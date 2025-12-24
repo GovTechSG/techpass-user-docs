@@ -20,7 +20,7 @@ If you already have **Microsoft Authenticator app and use app notification with 
 
 If you are using **other software token authenticators** like Authy or Google Authenticator, continue with [Step 1](#step-1-open-my-account-in-techpass-portal) to transition to use Microsoft Authenticator for passwordless sign-in.
 
-?> Azure Passwordless authentication **do not support the use of 3rd-party authenticators** like Authy or Google Authenticator. Hence, the need to transition to Microsoft Authenticator.<br><br>Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if you have legitimate reasons where you cannot use Microsoft Authenticator to secure your identity. Eg. security-related (you cannot bring mobile phone into the work premises)
+?> Azure Passwordless authentication **does not support 3rd-party authenticators** like Authy or Google Authenticator. Hence, you need to transition to Microsoft Authenticator.<br><br>Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if you have legitimate reasons why you cannot use Microsoft Authenticator to secure your identity (e.g., security-related restrictions where you cannot bring a mobile phone into the work premises).
 
 ## Step 1: Open My Account in TechPass Portal
 
@@ -37,9 +37,9 @@ If you are using **other software token authenticators** like Authy or Google Au
 
   ![passwordless_manage_signin_methods](assets/support/passwordless_transition_1.png ':size=500')
 
-2. You may be asked to verify your sign-in. Select the same account that you used in previous step.
+2. You may be asked to verify your sign-in. Select the same account that you used in the previous step.
 
-3. Microsoft account's Security info will be displayed.
+3. Microsoft account security info will be displayed.
 
   ![passwordless_security_info](assets/support/passwordless_transition_2.png ':size=500')
 
@@ -58,17 +58,17 @@ If you are using **other software token authenticators** like Authy or Google Au
 
   ![passwordless_install_authenticator](assets/support/passwordless_transition_4.png ':size=300')
 
-4. On your computer, it will prompt you to setup account in your app. Click **Next**.
+4. On your computer, you will be prompted to set up the account in your app. Click **Next**.
 
   ![passwordless_setup_account_in_app](assets/support/passwordless_transition_5.png ':size=300')
 
-5. On your computer, a QR code will be displayed. 
+5. On your computer, a QR code will be displayed.
 
   ![passwordless_setup_account_qr_code](assets/support/passwordless_transition_6.png ':size=300')
 
 6. On your mobile phone, open Microsoft **Authenticator** and select **+ Add account** > **Work or School account**.
 
-7. **Scan** the QR code on your computer screen. TechPass account is added to your Microsoft Authenticator on your mobile phone.
+7. **Scan** the QR code on your computer screen. Your TechPass account will be added to Microsoft Authenticator on your mobile phone.
 
 8. On your computer, click **Next**.
 
@@ -82,13 +82,13 @@ If you are using **other software token authenticators** like Authy or Google Au
 ## Step 4: Enable Passwordless sign-in in mobile app
 ?> This section guides you to configure Passwordless sign-in using Microsoft Authenticator.
 
-1. On the Microsoft Authenticator app, select the TECHPASS account
+1. On the Microsoft Authenticator app, select the TECHPASS account.
 
-2. Select on **Set up Passwordless sign-in requests**.
+2. Select **Set up Passwordless sign-in requests**.
 
   ![passwordless_setup_2_android](assets/support/passwordless_setup_2_android.png ':size=500')
 
-3. Enter TechPass account password when prompted in the Microsoft Authenticator app and tap on **Sign in**.
+3. Enter your TechPass account password when prompted in the Microsoft Authenticator app and tap **Sign in**.
 
   ![passwordless_setup_3](assets/support/passwordless_setup_3.png ':size=300')
 
@@ -100,13 +100,13 @@ If you are using **other software token authenticators** like Authy or Google Au
 
   ![passwordless_setup_5](assets/support/passwordless_setup_5.png ':size=300')
 
-6. Proceed with passwordless setup when displayed by selecting on **Continue**.
+6. When prompted, proceed with the passwordless setup by selecting **Continue**.
 
   ![passwordless_setup_6](assets/support/passwordless_setup_6.png ':size=200')
 
 7. The Authenticator app will prompt you for phone passcode or biometric. **Proceed** with the authentication.
 
-8. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
+8. The account added page will be displayed when the passwordless setup is done. Select **Done**.
 
   ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
 
@@ -132,11 +132,11 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 ## Step 7: Set default sign-in method
 ?> Proceed with this step only if the **Sign-in method when most advisable is unavailable** is not **App based authentication - notification**.
 
-1. Back to the Microsoft Account Security Info on your computer.
+1. Go back to the Microsoft account security info page on your computer.
 
    ?>On how to access Microsoft Account Security Info, follow [step 1](#step-1-open-my-account-in-techpass-portal) and [step 2](#step-2-open-manage-sign-in-methods-microsoft-account-security-info)
 
-2. Click on the **Change** of **Sign-in method when most advisable is unavailable**.
+2. Click **Change** for **Sign-in method when most advisable is unavailable**.
 
   ![passwordless_setup_default_change](assets/support/passwordless_transition_8.png ':size=500')
 
@@ -146,9 +146,9 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 
 
 ## Step 8: (Optional) Delete an unused sign-in method
-?> Proceed only if you wish to remove an unused sign-in method, such as remove other Authenticator app (TOTP) sign-in method, or sign-in method linked to lost device.
+?> Proceed only if you wish to remove an unused sign-in method, such as remove other Authenticator app (TOTP) sign-in method or sign-in method linked to lost device.
 
-1. Back to the Microsoft Account Security Info on your computer.
+1. Go back to the Microsoft account security info page on your computer.
 
    ?>On how to access Microsoft Account Security Info, follow [step 1](#step-1-open-my-account-in-techpass-portal) and [step 2](#step-2-open-manage-sign-in-methods-microsoft-account-security-info)
 
@@ -157,7 +157,7 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 
 3. Click on **Delete**.
 
-4. Click on **Ok** to confirm.
+4. Click **OK** to confirm.
 
 ## Next step
 

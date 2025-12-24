@@ -18,6 +18,10 @@
   - [TechPass account](reset-techpass-mfa-for-new-device)  
 - **Manage password**
   - [Reset your TechPass password](reset-password)
+- **Setup Passwordless**
+  - [Setup passwordless](transition-passwordless)
+  - [Verify passwordless setup](verify-passwordless)
+  - [Passwordless FAQ](faq-passwordless)
 - **TechPass support resources**
   - [TechPass status](/support/techpass-status.md)
   - [Raise a service request](raise-a-service-request)

@@ -1,6 +1,6 @@
 # Setup Passwordless Sign-In
 
-This article guides you how to setup passwordless sign-in if you have existing MFA.
+This article guides you on how to setup passwordless sign-in if you have existing MFA.
 
 ## Benefits of Passwordless Authentication
 
@@ -145,8 +145,8 @@ This step is to ensure that App Lock is enabled in the Microsoft Authenticator.
 4. Click on **Confirm**.
 
 
-## Step 8: (Optional) Delete an unused authentication method sign-in method
-?> Proceed only if you wish to remove an unused authentication sign-in method, such as remove other Authenticator app (TOTP) sign-in method.
+## Step 8: (Optional) Delete an unused sign-in method
+?> Proceed only if you wish to remove an unused sign-in method, such as remove other Authenticator app (TOTP) sign-in method, or sign-in method linked to lost device.
 
 1. Back to the Microsoft Account Security Info on your computer.
 

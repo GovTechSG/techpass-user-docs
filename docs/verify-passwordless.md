@@ -12,20 +12,20 @@ Users with `@techpass.gov.sg` accounts and have setup passwordless sign-in.
 
 2. Hover over your account name and click **My Account**.
 
-![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
+   ![view-account](assets/images/onboarding/po-non-se/view-account-or-profile.png)
 
 
 ## Step 2: Open Manage Sign-In Methods (Microsoft Account Security Info) and verify Passwordless sign-in method
 
 1. Hover over the setting icon and click **Manage Sign-In Methods**.
 
-  ![passwordless_manage_signin_methods](assets/support/passwordless_transition_1.png ':size=500')
+   ![passwordless_manage_signin_methods](assets/support/passwordless_transition_1.png ':size=500')
 
 2. You may be asked to verify your sign-in. Select the same account that you used in previous step.
 
 3. Microsoft account's Security info will be displayed.
 
-  ![passwordless_security_info](assets/support/passwordless_verify_1.png ':size=500')
+   ![passwordless_security_info](assets/support/passwordless_verify_1.png ':size=500')
 
 4. Verify that **Microsoft Authenticator Passwordless sign-in** linked to your device is in the list.
 
@@ -36,4 +36,4 @@ Users with `@techpass.gov.sg` accounts and have setup passwordless sign-in.
 
 2. Verify that in *Ways to sign in or verify**, it has **Passwordless sign-in requests**.
 
-![passwordless_verify_mobile](assets/support/passwordless_setup_8.png ':size=200')
+   ![passwordless_verify_mobile](assets/support/passwordless_setup_8.png ':size=200')

@@ -8,17 +8,17 @@ Users with `@techpass.gov.sg` accounts.
 
 ## Who is affected?
 
-Users with `@techpass.gov.sg` accounts, except
-- Project product identities used for synthetic monitoring (TechPass Production and Staging environments).
-- Test and training product identities (TechPass Staging environment).
-
-WOG and `@schools.gov.sg` users are not affected.
+- **Included**: All users with **@techpass.gov.sg** accounts.
+- **Excluded**:
+  - Users with **WoG/MOE identities**.
+  - Project product identities used for **synthetic monitoring**.
+  - **Test** and **training** product identities.
 
 ## What do the affected users need to do?
 
-Existing `@techpass.gov.sg` users that have setup multifactor authentication (MFA), follow the steps in [Setup Passwordless](transition-passwordless.md).
+**Existing `@techpass.gov.sg` users** that have setup multifactor authentication (MFA), follow the steps in [Setup Passwordless](transition-passwordless.md).
 
-New `@techpass.gov.sg` users onboarding to TechPass, follow the steps in [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass.md). The steps have been updated to include passwordless sign-in setup.
+**New `@techpass.gov.sg` users** onboarding to TechPass, follow the steps in [Get invited and onboard to TechPass](get-invited-and-onboard-to-techpass.md). The steps have been updated to include passwordless sign-in setup.
 
 ## How passwordless sign-in looks like?
 
@@ -44,13 +44,25 @@ If it still does not prompt for passwordless sign-in and "Use app instead" optio
 
 Yes. Passwordless will be applied to all TechPass environments.
 
+## I am using Microsoft Authenticator with number matching push notification. Can do I need to do?
+
+Great! You are only one step closer to use passwordless. You may follow the step in [Enable Passwordless sign-in in mobile app](transition-passwordless#step-4-enable-passwordless-sign-in-in-mobile-app). The step only needs you to enable passwordless sign-in in your mobile app.
+
 ## I am using OATH software tokens like Authy and Google authenticator apps. Can I continue using them?
 
-Use Microsoft Authenticator app. Passwordless is configured only using Microsoft Authenticator. Follow the steps in [Setup Passwordless](transition-passwordless) to transition to Microsoft Authenticator. 
+Use **Microsoft Authenticator** app. Passwordless is configured only using Microsoft Authenticator. Follow the steps in [Setup Passwordless](transition-passwordless) to transition to Microsoft Authenticator. 
 
 Authy and Google Authenticator **will not** be supported in the future. Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if there are special circumstances where you cannot bring your mobile device into your work premises.
 
-# If you change, lose, or damage your phone
+## When do I need to transition from Authy or Google authenticator apps to use Microsoft Authenticator passwordless sign-in?
+
+There is no deadline determined yet the use of Software OATH like Authy and Google authenticator apps. However, they will not be supported in the future. We strongly recommend to start using **Microsoft Authenticator** app with passwordless sign-in. 
+
+## What are the supported authenticator?
+
+Only the **Microsoft Authenticator** app is supported for passwordless sign-in. Other authenticators and passkeys are not supported. Raise a [ticket](https://go.gov.sg/seed-techpass-support) with us if there are special circumstances where you cannot bring your mobile device into your work premises.
+
+## If you change, lose, or damage your phone
 
 If you change to a new phone and still have access to the old phone with Microsoft Authenticator:
 1. Install Microsoft Authenticator in your new phone.

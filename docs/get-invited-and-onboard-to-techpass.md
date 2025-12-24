@@ -201,7 +201,9 @@ You need the following to get invited to TechPass and complete the onboarding:
 
   ![passwordless_setup_6](assets/support/passwordless_setup_6.png ':size=200')
 
-7. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
+7. The Authenticator app will prompt you for phone passcode or biometric. **Proceed** with the authentication.
+
+8. Account added page will be displayed when the passwordless setup is done. You may select **Done**.
 
   ![passwordless_setup_7](assets/support/passwordless_setup_7.png ':size=200')
 

@@ -21,6 +21,7 @@
 - **TechPass support resources**
   - [TechPass status](/support/techpass-status.md)
   - [Raise a service request](raise-a-service-request)
+  - [Conditional Access Policies](conditional-access-policies)
   - [FAQs](/support/overview)
   - [Terms and policies](terms-and-policies)
   - [Glossary](glossary)
